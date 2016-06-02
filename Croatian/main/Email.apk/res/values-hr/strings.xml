@@ -383,7 +383,6 @@
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
   <string name="conversation_item_mark_read">Pročitano</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
@@ -639,14 +638,6 @@
   <string name="mailbox_name_display_starred">Označeno zvjezdicom</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
-  <string name="mailbox_name_server_all_unread">Nepročitano</string>
-  <string name="mailbox_name_server_drafts">Skice</string>
-  <string name="mailbox_name_server_inbox">Pristigla pošta</string>
-  <string name="mailbox_name_server_junk">Spam</string>
-  <string name="mailbox_name_server_outbox">Izlazna pošta</string>
-  <string name="mailbox_name_server_sent">Poslano</string>
-  <string name="mailbox_name_server_starred">Označeno</string>
-  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_settings_activity_title">Postavke sinkronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Postavke sinkronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sinkr. e-poštu iz</string>
