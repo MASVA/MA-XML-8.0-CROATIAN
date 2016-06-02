@@ -183,7 +183,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimiziraj</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
   <string name="btn_text_quick_optimize">Optimiziraj</string>
-  <string name="btn_text_quick_save_power">Ohladi</string>
+  <string name="btn_text_quick_save_power">Optimiziraj</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
   <string name="btn_text_start_check">Skeniraj</string>
   <string name="btn_text_stop">Stop</string>
