@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="China_Mobile">China Mobile</string>
+  <string name="China_Telecom">China Telecom</string>
+  <string name="China_Unicom">China Unicom</string>
+  <string name="available_networks">Dostupne mreže</string>
+  <string name="connect_later">"Trenutno se ne mogu povezati na ovu mrežu. Pokušajte ponovno kasnije."</string>
+  <string name="dialog_message">Prekid će zaustaviti pretraživanje, sigurno želite prekinuti?</string>
+  <string name="disconnect_data_confirm">Podatkovni podaci privremeno će biti isključeni. Jeste li sigurni?</string>
+  <string name="network_forbidden">(Zabranjen)</string>
+  <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
+  <string name="no_network">Nema pronađenih mreža.</string>
+  <string name="not_allowed">"Vaša SIM kartica ne dopušta povezivanje s ovom mrežom."</string>
+  <string name="progress_scanning">Pretraživanje…</string>
+  <string name="quit_mention">Upozorenje!</string>
+  <string name="register_automatically">Automatska prijava…</string>
+  <string name="register_on_network">Prijavljeno na %1$s…</string>
+  <string name="registration_done">Prijavljeno na mrežu.</string>
+  <string name="roamingTextSearching">Traženje usluge</string>
+  <string name="search_networks">Traženje mreže</string>
+  <string name="select_automatically">Odaberi automatski</string>
+  <string name="sum_select_automatically">Automatski odaberi željenu mrežu</string>
+  <string name="timeout_message">Nema pronađenih dostupnih mreža.</string>
+</resources>

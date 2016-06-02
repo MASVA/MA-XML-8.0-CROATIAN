@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d stavki</item>
+        <item quantity="one">%d stavka</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">%d obavijesti u Prvom prostoru</item>
+        <item quantity="one">%d obavijest u Prvom prostoru</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">%d obavijesti u Drugom prostoru</item>
+        <item quantity="one">%d obavijest u Drugom prostoru</item>
+    </plurals>
+</resources>

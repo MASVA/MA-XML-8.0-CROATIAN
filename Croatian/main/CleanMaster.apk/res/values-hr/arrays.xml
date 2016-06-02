@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Često korišteno</item>
+        <item>Veličina</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Svaki dan</item>
+        <item>Svaka 3 dana</item>
+        <item>Svakih 7 dana</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Prikaži</item>
+        <item>Ne prikazuj</item>
+        <item>Prikaži kasnije</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Očisti ovu datoteku</item>
+        <item>"Prikaži lokaciju datoteke"</item>
+	    <item>Dodaj datoteku u iznimke</item>
+        <item>Dodaj aplik. u iznimke</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Očisti ovu datoteku</item>
+        <item>"Prikaži lokaciju datoteke"</item>
+        <item>Dodaj datoteku u iznimke</item>
+     </string-array> 
+    <string-array name="video_clean_menu">
+        <item>Očisti ovu datoteku</item>
+        <item>Otvori</item>
+        <item>Dodaj datoteku u iznimke</item>
+     </string-array>	 
+     <string-array name="empty_floder_clean_menu">
+        <item>Očisti</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Očisti</item>
+		<item>Instaliraj ovu aplik.</item>
+        <item>Prikaži u mapi</item>
+        <item>Dodaj u iznimke</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Svakih 7 dana</item>
+        <item>Svakih 15 dana</item>
+        <item>Svakih 30 dana</item>
+    </string-array>
+    <string-array name="long_add_menu">
+          <item>Dodaj u iznimke</item>
+    </string-array> 
+	<string-array name="long_add_app_menu">
+         <item>Dodaj aplik. u iznimke</item>
+     </string-array>
+	     <string-array name="app_clean_menu">
+        <item>Deinstaliraj</item>
+     </string-array>
+	 <string-array name="scan_engine">
+         <item>Clean Master</item>
+         <item>Tencent</item>
+    </string-array>
+</resources>

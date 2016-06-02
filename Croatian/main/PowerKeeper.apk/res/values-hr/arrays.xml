@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Zadano</item>
+        <item>Skriveni način</item>
+        <item>Način Čitanja</item>
+        <item>Multimedija</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplikacija se izvodi u prvom planu</item>
+        <item>Zaslon uključen</item>
+        <item>Zaslon isključen</item>
+        <item>Zaslon isključen preko 10 min.</item>
+        <item>Cijeli zaslon</item>
+        <item>Izlaz iz cijelog zaslona</item>
+        <item>Aplikacija se izvodi u pozadini</item>
+        <item>Uređaj se puni</item>
+        <item>"Uređaj se ne puni"</item>
+        <item>Uređaj je u stanju mirovanja</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Maks. osvjetljenje zaslona</item>
+        <item>Maks. CPU frekvencija</item>
+        <item>Način zaslona</item>
+        <item>Korištenje CPU-a</item>
+        <item>Podatkovna veza</item>
+        <item>Lokacija</item>
+        <item>Prva obavijest</item>
+        <item>Obavijesti na zaključanom zaslonu</item>
+		<item>Ograniči pozadinske podatkovne veze</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Ništa</item>
+        <item>Zadano</item>
+        <item>Slike</item>
+        <item>Film</item>
+        <item>Štednja baterije</item>
+        <item>Balansirano</item>
+        <item>Performanse</item>
+        <item>Uključi</item>
+        <item>Isključi</item>
+        <item>Odmah</item>
+        <item>Nakon 10 min.</item>
+        <item>Nakon 30 min.</item>
+        <item>Kada je zaslon isključen</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>U ovom načinu</item>
+        <item>Neodabrano</item>
+        <item>Ostalo</item>
+    </string-array>
+	<string-array name="hmode_app_groups">
+        <item>Prilagođeno</item>
+        <item>Ušteda baterije</item>
+    </string-array>
+	<string-array name="power_checker_group_prefix">
+        <item>Sada</item>
+        <item>Pozadina</item>
+        <item>Nedavno</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Blokiranje dubokog mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Traženje WLAN-a</item>
+        <item>Koristeći GPS</item>
+        <item>Zauzimajući CPU</item>
+        <item>Česta buđenja uređaja</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WLAN skeniranje</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Buđenje</item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>Previše sada</item>
+        <item>Previše ovih dana</item>
+     </string-array>
+	 <string-array name="invisible_app_groups">
+         <item>Odabrano</item>
+         <item>Neodabrano</item>
+	 </string-array>
+</resources>

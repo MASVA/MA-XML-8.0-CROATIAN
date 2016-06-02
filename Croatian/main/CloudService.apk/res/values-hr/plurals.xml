@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Kontakata: %d</item>
+        <item quantity="one">Kontakt: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Poruka: %d</item>
+        <item quantity="one">Poruka: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Bilješki: %d</item>
+        <item quantity="one">Bilješka: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Fotografija: %d</item>
+        <item quantity="one">Fotografija: %d</item>
+    </plurals>
+	<plurals name="dirty_callog_count">
+         <item quantity="other">%d zapisa povijesti poziva</item>
+         <item quantity="one">%d zapis povijesti poziva</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d WLAN mreža</item>
+         <item quantity="one">%d WLAN mreža</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d zapisa</item>
+         <item quantity="one">%d zapis</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d pjesama</item>
+         <item quantity="one">%d pjesma</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d stavki preglednika</item>
+         <item quantity="one">%d stavka preglednika</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d stavki kalendara</item>
+         <item quantity="one">%d stavka kalendara</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d unosa liste blokiranja</item>
+         <item quantity="one">%d unos liste blokiranja</item>
+</resources>

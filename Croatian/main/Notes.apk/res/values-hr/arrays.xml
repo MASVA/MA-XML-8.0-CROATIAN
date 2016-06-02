@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galerija</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Nadimak</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rođendan</item>
+        <item>Web-lokacija</item>
+        <item>Adresa</item>
+        <item>Bilješka</item>
+    </string-array>   
+    <string-array name="font_size_names">
+        <item>Mali</item>
+        <item>Srednji</item>
+        <item>Velik</item>
+        <item>Ogroman</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Dobro došli u Bilješke
+"</item>
+        <item>"Dodirnite za stvaranje bilješke
+"</item>
+        <item>"Odaberite predivnu temu
+"</item>
+        <item>"Napravite mapu bilješke
+"</item>
+        <item>"Zaštitite privatne bilješke
+"</item>
+        <item>"I još više super značajki!
+  - Sinkronizacija s Mi Cloudom
+  - Postavite podsjetnike"</item>
+    </string-array>
+</resources> 

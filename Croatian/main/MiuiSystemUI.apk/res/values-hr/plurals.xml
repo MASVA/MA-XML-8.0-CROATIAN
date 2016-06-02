@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d nedavnih aplikacija</item>
+        <item quantity="one">1 nedavna aplikacija</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">"Sakriti obavijesti %d aplik.?"</item>
+        <item quantity="one">"Sakriti obavijest %d aplik.?"</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Vedro</item>
+        <item quantity="one">Sunčano</item>
+    </plurals>
+</resources>
