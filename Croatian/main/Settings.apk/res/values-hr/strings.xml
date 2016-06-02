@@ -3639,7 +3639,7 @@ Nakon formatiranja ^1 funkcionirat će samo na ovom uređaju.
   <string name="storage_wizard_migrate_body">"Možete premjestiti svoje fotografije, datoteke i neke aplikacije na novi medij za pohranu ^1. 
 
 Premještanje traje otprilike ^2 i oslobodit će ^3 u internoj pohrani. Neke aplikacije neće funkcionirati tijekom tog postupka."</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Za premje&štanje je dovoljno ^1. Oslobodit će se ^2 na uređaju ^3.&lt;/b&gt;</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Za premještanje je dovoljno ^1. Oslobodit će se ^2 na uređaju ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Premjesti</string>
   <string name="storage_wizard_migrate_confirm_title">Premjestite podatke odmah</string>
   <string name="storage_wizard_migrate_details">"Tijekom premještanja: 

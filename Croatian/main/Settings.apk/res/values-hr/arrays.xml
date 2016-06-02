@@ -3,6 +3,7 @@
    <string-array name="status_bar_style_entries">
          <item>Kombinirano</item>
          <item>Odvojeno</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -810,13 +811,13 @@
 	     <string-array name="wifi_ssid_type_entries">
         <item>Poveži automatski</item>
         <item>Poveži ručno</item>
-     </string-array>
-     <string-array name="wifi_calling_mode_choices">
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
         <item>WLAN preferirano</item>
         <item>Mreža preferirano</item>
-     </string-array>
-	 <string-array name="screen_key_position_action">
+    </string-array>
+	<string-array name="screen_key_position_action">
         <item>Tipka Izbornik na lijevo, Tipka Natrag na desno</item>
         <item>Tipka Natrag na lijevo, Tipka Izbornik na desno</item>
-      </string-array>		     
+     </string-array>		     
 </resources>

@@ -43,4 +43,5 @@
      <plurals name="dirty_blocklist_count">
          <item quantity="other">%d unosa liste blokiranja</item>
          <item quantity="one">%d unos liste blokiranja</item>
+    </plurals>
 </resources>
