@@ -191,6 +191,7 @@
   <string name="download_completed">Preuzeto</string>
   <string name="download_confirm_button_text">Instaliraj</string>
   <string name="download_confirm_text">Mi Glazba će preuzeti i instalirati %s</string>
+  <string name="download_done_btn">Preuzeto</string>
   <string name="download_error">Nije uspjelo</string>
   <string name="download_error_insufficient_space">Nedovoljno prostora</string>
   <string name="download_filesize_unknown">Nepoznato</string>

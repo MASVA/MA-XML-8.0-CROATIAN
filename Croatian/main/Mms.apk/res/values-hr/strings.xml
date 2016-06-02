@@ -632,7 +632,11 @@ Provedeni pokušaj: %s."</string>
   <string name="unstick_conversation">Odznači trenutan razgovor</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
-  <string name="url_fraud_alert">Web stranica koju pokušavate posjetiti %s možda je lažna, jeste li sigurni da želite nastaviti?</string>
+  <string name="url_fraud_dangerous_alert">Web stranica koju pokušavate posjetiti možda je lažna, jeste li sigurni da želite nastaviti?
+%s"</string>
+  <string name="url_fraud_insurance">Osiguranje od prijevara</string>
+  <string name="url_fraud_risky_alert">"Web stranica koju pokušavate posjetiti možda je lažna, jeste li sigurni da želite nastaviti?
+ %s"</string>
   <string name="url_fraud_title">Moguća lažna stranica</string>
   <string name="url_fraud_visit">&lt;u&gt;Posjeti svejedno&lt;/u&gt;</string>
   <string name="url_result_safe">Ova poveznica je sigurna</string>

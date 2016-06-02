@@ -333,6 +333,9 @@
   <string name="compose_sent">Poslano</string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati ovu poruku ?</string>
+  <string name="confirm_before_delete_keywords">Potvrdi prije brisanja;Potvrdi brisanje</string>
+  <string name="confirm_before_send">Potvrdi prije slanja</string>
+  <string name="confirm_before_send_keywords">Potvrdi prije slanja;Potvrdi slanje</string>
   <string name="confirm_delete_conversation_title">Izbriši</string>
   <string name="confirm_discard_text">Odbaciti ovu poruku?</string>
   <string name="confirm_response">Slanje…</string>
@@ -342,7 +345,6 @@
   <string name="confirm_send_message_with_no_body">"Nema teksta u tijelu poruke."</string>
   <string name="confirm_send_message_with_no_subject">"Ova poruka nema predmet."</string>
   <string name="confirm_send_title">Poslati poruku?</string>
-  <string name="contact_content_provider">Kontaktirajte davatelja sadržaja</string>
   <string name="contact_edit_set_black_list_filtering">Filtriranje…</string>
   <string name="contact_edit_set_black_list_from">Premjesti sve poruke tog pošiljatelja u Smeće</string>
   <string name="contact_edit_set_black_list_receive">Premjesti poštu tog primatelja u Smeće (samo nove poruke)</string>
@@ -361,6 +363,7 @@
   <string name="contact_list_add_btn">Dodaj</string>
   <string name="contact_list_search_hint">Traženje kontakata</string>
   <string name="contact_list_title">Kontakti</string>
+  <string name="contact_permission_error">"Pristup kontaktima telefona je ograničen"</string>
   <string name="contact_select">Odaberite kontakte</string>
   <string name="content_description">%1$s o temi %2$s, %3$s dana %4$s, %5$s</string>
   <string name="content_description_today">%1$s o temi %2$s, %3$s u %4$s, %5$s</string>
@@ -380,30 +383,21 @@
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_sharelink">Dijeli vezu</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Premješteno u mapu %1$s</string>
   <string name="conversation_item_mark_read">Pročitano</string>
   <string name="conversation_item_mark_unread">Nepročitano</string>
-  <string name="conversation_list_net_check">"Nije moguće povezivanje na mrežu"</string>
-  <string name="conversation_overload_toast">Ova e-pošta je prevelika za učitavanje, prođite sve ponovo na PC kasnije</string>
+  <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
+  <string name="conversation_view">Prikaz razgovora</string>
   <string name="conversation_photo_welcome_text">Dodirnite sliku pošiljatelja da biste odabrali taj razgovor.</string>
   <string name="copied">Kopirano</string>
   <string name="copy_email">Kopiranje e-adrese</string>
   <string name="copy_number">Kopiranje telefonskog broja</string>
   <string name="create_action">Izradi novi</string>
   <string name="custom_from_account_label">Pošalji kao:</string>
-  <string name="date">2888/88/88</string>
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danas u %1$s</string>
-  <string name="date_message_received_yesterday">Jučer u %1$s</string>
-  <string name="debug_clear_webview_cache">Očisti WebView predmemoriju</string>
-  <string name="debug_disable_graphics_acceleration_label">Onemogući hardversko ubrzanje grafike</string>
-  <string name="debug_enable_debug_logging_label">Omogućiti dodatne zapise ispravljanja grešaka?</string>
-  <string name="debug_enable_file_logging_label">Omogućiti zapise SD kartice?</string>
-  <string name="debug_enable_strict_mode_label">Omogućiti strogi način (s prijavom)</string>
-  <string name="debug_enable_verbose_logging_label">Omogućiti izuzetno verbose zapise?</string>
-  <string name="debug_force_one_minute_refresh_label">Forsiraj 1-minutno osvježavanje za POP/IMAP</string>
-  <string name="debug_title">Otklanjanje pogrešaka</string>
   <string name="default_">ZADANO</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -412,7 +406,8 @@
   <string name="default_signature">Poslano s mog Mi Telefona</string>
   <string name="del_account_questionnair_hint">"Možete li nam reći zašto brišete ovaj račun?"</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s izbrisano</string>
+  <string name="delete_message_flow">Izbriši protok poruka</string>
+  <string name="delete_message_flow_keywords">Izbriši protok poruka;Izbriši preusmjerene</string>
   <string name="deleted">Izbrisano</string>
   <string name="device_activity_btn_str">Aktiviraj</string>
   <string name="device_activity_lint_str">Omogućite kompletno ažuriranje usluge E-pošte i aktivirajte sigurnosne postavke</string>
@@ -465,6 +460,8 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
+  <string name="email_setting">Postavke E-pošte</string>
+  <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">"Ne mogu pronaći račun"</string>
   <string name="empty_email_tip">"Ne mogu poslati praznu e-poštu"</string>
@@ -473,11 +470,16 @@
   <string name="empty_trash">Pražnjenje otpada</string>
   <string name="empty_trash_dialog_title">Želite li isprazniti otpad?</string>
   <string name="enable_sync_in_account_settings">Uključite je u %1$s.</string>
-  <string name="enumeration_comma">", "</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">Ovaj događaj je otkazan za: %s</string>
-  <string name="exception_updated">Detalji ovog događaja su se promijenile za: %s</string>
-  <string name="exchange_name">Korporacijski</string>
+  <string name="exception_cancel">"
+        Ovaj događaj je otkazan
+        za:
+%s "</string>
+  <string name="exception_updated">"
+       Detalji ovog događaja su se promijenili
+        za:
+%s "</string>
+  <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
   <string name="fail_get_email_message">Primanje poruke nije uspjelo</string>
@@ -638,6 +640,14 @@
   <string name="mailbox_name_display_starred">Označeno zvjezdicom</string>
   <string name="mailbox_name_display_trash">Smeće</string>
   <string name="mailbox_name_display_unread">Nepročitano</string>
+  <string name="mailbox_name_server_all_unread">Nepročitano</string>
+  <string name="mailbox_name_server_drafts">Skice</string>
+  <string name="mailbox_name_server_inbox">Pristigla pošta</string>
+  <string name="mailbox_name_server_junk">Spam</string>
+  <string name="mailbox_name_server_outbox">Izlazna pošta</string>
+  <string name="mailbox_name_server_sent">Poslano</string>
+  <string name="mailbox_name_server_starred">Označeno</string>
+  <string name="mailbox_name_server_trash">Smeće</string>
   <string name="mailbox_settings_activity_title">Postavke sinkronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Postavke sinkronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sinkr. e-poštu iz</string>
@@ -1139,5 +1149,5 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="yes">Da</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
-  <string name="zip_viewer_no_file">Nema datoteka</string>
+  <string name="zip_viewer_no_file">Nema datoteka.</string>
 </resources>

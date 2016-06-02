@@ -118,6 +118,7 @@
   <string name="resource_app_name">Izvor Preglednika</string>
   <string name="resource_apply">Primjeni</string>
   <string name="resource_apply_trial">Pokušaj sad</string>
+  <string name="resource_back">Natrag</string>
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">"%1$s ne može biti odabran!"</string>
   <string name="resource_category">Kategorija</string>
@@ -158,6 +159,7 @@
   <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Komentar će se objaviti nakon što bude pregledan</string>
+  <string name="resource_continue">Dalje</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
   <string name="resource_delete">Izbriši</string>

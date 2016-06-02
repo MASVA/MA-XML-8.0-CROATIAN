@@ -1089,7 +1089,6 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="resource_monthreport">Izvješće sigurnosti</string>
   <string name="resource_networkassistant_1">Uporaba podataka</string>
   <string name="resource_networkassistant_2">Kalibriraj podatkovni plan</string>
-  <string name="resource_networkassistant_3">Ušteda podataka</string>
   <string name="resource_networkassistant_4">Test mreže</string>
   <string name="resource_permcenter">Dopuštenja</string>
   <string name="resource_powercenter">Ušteda baterije</string>
