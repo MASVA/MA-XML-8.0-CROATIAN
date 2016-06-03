@@ -47,7 +47,7 @@ Za uključivanje ove značajke, idite na Postavke &gt; Dodatne postavke &gt; Tip
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="fools_day">1. travanj</string>
   <string name="frequent_phrases_des">Unesite česte izraze sa samo nekoliko dodira tijekom uređivanja teksta</string>
-  <string name="frequent_phrases_size_exceeded">Možete dodati do 10 učestalih izraza. Izbriišite one nepotrebne da biste dodali još</string>
+  <string name="frequent_phrases_size_exceeded">Možete dodati najviše %1$d učestalih izraza. Izbrišite one nepotrebne da dodate još</string>
   <string name="force_exit_message">Uspješno zatvorena aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>

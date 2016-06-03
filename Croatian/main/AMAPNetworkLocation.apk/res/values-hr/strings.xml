@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="agree">Slažem se</string>
+  <string name="app_label">Lokacija mreže</string>
+  <string name="disagree">Ne slažem se</string>
+  <string name="location_warning_message">"Dopusti AutoNavi usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju, a prikupljanje se može dogoditi čak i kad nije pokrenuta nijedna aplikacija. Moguće naknade uporabe podataka tijekom tog procesa."</string>
+  <string name="location_warning_title">Suglasnost lokacije</string>
+ </resources>

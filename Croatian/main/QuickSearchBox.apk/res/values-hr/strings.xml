@@ -62,6 +62,7 @@
   <string name="search_widget">Pretraži</string>
   <string name="send_secret_code">Pošalji kod</string>
   <string name="show_more">Više</string>
+  <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>

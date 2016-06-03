@@ -836,6 +836,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
   <string name="connected_wifi">Povezano</string>
+  <string name="connecting_to_vpn">Povezivanje na VPN</string>
   <string name="continue_all_caps">NASTAVI</string>
   <string name="contributors_title">Suradnici</string>
   <string name="controls_label">Kontrole</string>
@@ -3044,7 +3045,7 @@ Za prikvačivanje zaslona:
   <string name="search_dndm_wristband">Aktiviraj s Mi Band</string>
   <string name="search_do_not_disturb">Ne ometaj;Vip;Postavi vrijeme;Iznimke;Ponovljeni pozivi</string>
   <string name="search_dtmf_tone_enable_title">Tonovi biranja</string>
-  <string name="search_empty">Stavke postavki nisu pronađene</string>
+  <string name="search_empty">Nema pronađenih rezultata</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">Font sustava</string>
   <string name="search_gps">GPS;Pristup lokaciji</string>
@@ -4190,6 +4191,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="vpn_no_network">Nema mrežne veze. Pokušajte ponovo kasnije.</string>
   <string name="vpn_no_server_cert">(primljen od poslužitelja)</string>
   <string name="vpn_not_used">(ne koristi se)</string>
+  <string name="vpn_off">Isključeno</string>
+  <string name="vpn_on">Uključeno</string>
   <string name="vpn_password">Zaporka</string>
   <string name="vpn_routes">Prosljeđivanje ruta</string>
   <string name="vpn_routes_hint">npr. 10.0.0.0/8</string>

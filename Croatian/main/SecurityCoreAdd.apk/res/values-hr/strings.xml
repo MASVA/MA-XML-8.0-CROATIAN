@@ -22,9 +22,9 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="closeSuccess">Isključeno</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Isključeno</string>
-  <string name="complete_setting">完成设置</string>
-  <string name="complete_setting_sub_title">您可以继续设置更多细节来打造您的手机分身</string>
-  <string name="complete_setting_title">完成手机分身设置指引</string>
+  <string name="complete_setting">Dovršeno</string>
+  <string name="complete_setting_sub_title">Možete se vratiti kasnije za podešavanje postavki.</string>
+  <string name="complete_setting_title">"Sve je postavljeno!"</string>
   <string name="confirm">U redu</string>
   <string name="confirmClose">Isključi</string>
   <string name="confirmCloseSpaceDes">"Nećete biti u mogućnosti ući u Drugi prostor nakon što ga izbrišete. Svi podaci će biti premješteni ili izbrisani."</string>
@@ -48,7 +48,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
   <string name="dir_switch_out_all_photos">Galerija Drugog prostora</string>
   <string name="disable">Isključi</string>
-  <string name="dont_import">暂不导入</string>
+  <string name="dont_import">Ne sada</string>
   <string name="enable">Uključi</string>
   <string name="err_copy_contacts">"Ne mogu kopirati kontakte"</string>
   <string name="err_copy_files">"Ne mogu kopirati datoteke"</string>
@@ -64,28 +64,28 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="err_volume_not_enough">Nema dovoljno prostora za pohranu</string>
   <string name="exit_private_space">Promjeni</string>
   <string name="goToSecondSpacce">Idi u Drugi prosotor</string>
-  <string name="go_on_import">继续导入</string>
-  <string name="guide_contact_sub_title_desc">"开启后手机分身中的联系人变成私密联系人
-短信纪录只会显示在手机分身中"</string>
-  <string name="guide_contact_suc_sub_title_desc">手机分身内将只显示您的私密短信与联系人</string>
-  <string name="guide_contact_suc_title_desc">私密短信与联系人设置成功</string>
-  <string name="guide_contact_title_desc">是否将私密数据显示在手机分身</string>
-  <string name="guide_pwd_detail_title">"更安全地保护您的数据
-可在锁屏使用密码快捷切换"</string>
-  <string name="guide_setting_guide_title">分身设置引导</string>
+  <string name="go_on_import">Nastavi s uvozom</string>
+  <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
+Poruke će se pojaviti samo u Drugom prostoru."</string>
+  <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>
+  <string name="guide_contact_suc_title_desc">Uspješno postavljeno</string>
+  <string name="guide_contact_title_desc">Prikazati privatne stavke u Drugom prostoru?</string>
+  <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
+Uđite u Drugi prostor sa zaključanog zaslona"</string>
+  <string name="guide_setting_guide_title">Upravljaj Drugim prosotorom</string>
   <string name="hidden_app">Drugi prostor</string>
   <string name="imageData">Fotografije</string>
-  <string name="import_application">导入应用</string>
-  <string name="import_application_desc">"导入需要在手机分身使用的应用
-也可以在应用商店下载"</string>
-  <string name="import_contacts">导入联系人</string>
-  <string name="import_contacts_desc">从初始空间导入为私密联系人</string>
-  <string name="import_contacts_suc">成功导入私密联系人</string>
-  <string name="import_file_suc">成功导入至对应的文件夹中</string>
-  <string name="import_now">立即导入</string>
-  <string name="import_photo">导入图片</string>
-  <string name="import_photo_desc">方便您在手机分身内查看分享</string>
-  <string name="import_photo_suc">成功导入图片</string>
+  <string name="import_application">Uvezi aplikacije</string>
+  <string name="import_application_desc">"Uvezite aplikacije u Drugi prostor.
+Također, možete ih preuzeti zasebno."</string>
+  <string name="import_contacts">Uvezi kontakte</string>
+  <string name="import_contacts_desc">Napravite Uvezeni kontakte privatnim</string>
+  <string name="import_contacts_suc">Uvezeni privatni kontakti</string>
+  <string name="import_file_suc">Stavke uvezene u mape</string>
+  <string name="import_now">Izvoz</string>
+  <string name="import_photo">Uvezi fotografije</string>
+  <string name="import_photo_desc">Prikaži dijeljene stavke u Drugom prostoru</string>
+  <string name="import_photo_suc">Uvezene fotografije</string>
   <string name="list_empty_text">Prazno</string>
   <string name="loading_apps">Učitavanje aplikacija…</string>
   <string name="loading_space">Samo trenutak…</string>
@@ -96,15 +96,15 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="needSetKeyguardFirst">Postavite zaporku Prvog prostora</string>
   <string name="needSetKeyguardFirstDes">Postavite zaporku Prvog prostora prije nego što postavite zaporku Drugog prostora</string>
   <string name="newSecondSpace">Uključi Drugi prostor</string>
-  <string name="next_setp">下一步</string>
+  <string name="next_setp">Dalje</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_multiple_users">"Višestruki prostori nisu podržani"</string>
   <string name="notificationSetPassword">Postavite zaporku</string>
   <string name="notificationSetPasswordDes">Zaštitite podatke Drugog prostora</string>
   <string name="notificationSummary">Promjenite prostor iz panela obavijesti</string>
   <string name="notificationTitle">Prečac panela obavijesti</string>
-  <string name="notification_setting_second_space">开始设置您的手机分身</string>
-  <string name="notification_setting_second_space_desc">开启密码保护,迁移重要的数据</string>
+  <string name="notification_setting_second_space">Postavite Drugi prostor</string>
+  <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
   <string name="ok_button">U redu</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
@@ -127,9 +127,9 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="setSecondSpacePasswordGuideDes">Koristite ovu zaporku za ulazak u Drugi prostor sa Zaključanog zaslona</string>
   <string name="setSpacePasswordGuide">Koristite različite zaporkama za ulazak u oba prostora sa Zaključanog zaslona</string>
   <string name="setSuccess">Zaporka uspješno postavljena</string>
-  <string name="set_space_pwd_detail">您可以在解锁时快速进入手机分身</string>
-  <string name="set_space_pwd_suc">设置手机分身密码成功</string>
-  <string name="setting_is_show_text_contacts">设置是否显示私密短信联系人</string>
+  <string name="set_space_pwd_detail">Možete ući u Drugi prostor pomoću zaporke</string>
+  <string name="set_space_pwd_suc">Zaporka Drugog prostora dodana</string>
+  <string name="setting_is_show_text_contacts">Postavite privatne kontakte i poruke</string>
   <string name="settings_cross_notification_summary">Primaj obavijesti iz Drugog prostora</string>
   <string name="settings_cross_notification_title">Obavijesti</string>
   <string name="settings_msg_add_shortcut">Prečac dodan u Prvi prostor</string>
@@ -140,16 +140,16 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="settings_status_icon_title">Ikona Drugog prostora</string>
   <string name="settings_switch_shortcut_summary">Prikaži prečac Poč. zaslona u Prvom prostoru</string>
   <string name="settings_switch_shortcut_title">Dodirnite prečac za promjenu</string>
-  <string name="show_normal_content">Prikaži normalan sadržaj</string>
-  <string name="show_private_content">Prikaži privatan sadržaj</string>
+  <string name="show_normal_content">"Ne prikazuj privatne stavke"</string>
+  <string name="show_private_content">Prikaži privatne stavke</string>
   <string name="spaceSetting">Postavke</string>
   <string name="startSet">Postavi</string>
   <string name="startTransfer">Premjesti</string>
-  <string name="start_setting_guide_desc_title">Dovršite sljedeće jednostavno postavljanje</string>
+  <string name="start_setting_guide_desc_title">Postoji nekoliko stvari koje treba postaviti</string>
   <string name="summary_switch_apps_settings">Odaberite aplikacije korištene u Drugom prostoru</string>
   <string name="switchDataSummary">Premještajte stavke između prostora</string>
   <string name="switch_apps_settings">Postavke aplikacija</string>
-  <string name="switch_data_app">Premjesti podatke aplikacija</string>
+  <string name="switch_data_app">Premjestite stavke u Drugi prosotor</string>
   <string name="switch_data_settings">Premjesti podatke</string>
   <string name="switch_failed">"Ne mogu premjestiti"</string>
   <string name="switch_file_success">Datoteke uspješno premještene</string>
@@ -171,7 +171,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="switching_contacts">Premještanje kontakata…</string>
   <string name="switching_files">Premještanje datoteka…</string>
   <string name="switching_photos">Premještanje fotografija…</string>
-  <string name="temporary_no_set">Privremeno postavljanje</string>
+  <string name="temporary_no_set">Ne sada</string>
   <string name="title_choose_app_status">Odaberite vrstu aplikacije</string>
   <string name="title_switch_file">Izbrisati ove datoteke?</string>
   <string name="title_switch_photo">Izbrisati ove fotografije?</string>
