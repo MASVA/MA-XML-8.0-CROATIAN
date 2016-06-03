@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. prednjeg zvučnika mikrofona</string>
-  <string name="cit_minus_one">Minus 1</string>
-  <string name="cit_plus_one">Plus 1</string>
-  <string name="cit_right_button_light">Svjetlo desne tipke</string>
   <string name="cit_OTG_plugin_check_summary">Kada je OTG uređaj umetnut, tekst \"USB OTG uređaj otkriven\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_OTG_plugin_check_title">OTG (otkrivanje)</string>
   <string name="cit_OTG_plugout_check_summary">Kada je OTG uređaj uklonjen, tekst \"USB OTG uređaja uklonjen\" bi trebao biti prikazan u nastavku.</string>
