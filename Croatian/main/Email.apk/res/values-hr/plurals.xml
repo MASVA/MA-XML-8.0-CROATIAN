@@ -2,11 +2,12 @@
 <resources>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">Nepročitano %1$d</item>
+		<item quantity="one">Nepročitano %1$d</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="zero">Arhivirati ove razgovore: %1$d?</item>
-	<item quantity="one">Arhivirati ovaj razgovor?</item>
+	    <item quantity="one">Arhivirati ovaj razgovor?</item>
         <item quantity="two">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="few">Arhivirati ove razgovore: %1$d?</item>
         <item quantity="many">Arhivirati ove razgovore: %1$d?</item>

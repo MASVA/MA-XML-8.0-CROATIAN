@@ -855,4 +855,5 @@ oslobodili prostor.</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="zero_comment">Nema komentara</string>
 </resources>

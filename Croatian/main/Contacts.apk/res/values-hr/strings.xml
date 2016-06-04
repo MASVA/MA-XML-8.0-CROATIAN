@@ -416,6 +416,7 @@ Kartice kontakata su isključene"</string>
   <string name="export_to_sim">Izvoz na SIM karticu</string>
   <string name="export_to_sim1">Izvoz na SIM karticu 1</string>
   <string name="export_to_sim2">Izvoz na SIM karticu 2</string>
+  <string name="export_to_sim_prepare_title">Priprema…</string>
   <string name="export_to_sim_title">Izvoz na SIM karticu…</string>
   <string name="export_to_storage">Izvoz u pohranu</string>
   <string name="export_vcard_description">Izvezi vCard u unutarnju pohranu uređaja</string>

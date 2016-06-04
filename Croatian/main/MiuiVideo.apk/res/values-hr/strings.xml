@@ -152,6 +152,7 @@
   <string name="enter_detail">Više informacija</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+  <string name="error_empty_epg">Nema EPG nformacija</string>
   <string name="error_empty_filter_title">Nema rezultata</string>
   <string name="error_empty_title">Nešto nije u redu</string>
   <string name="expire_time">Vrijeme isteka</string>
@@ -188,6 +189,7 @@
   <string name="join_hint">Unesite pozivni kod</string>
   <string name="key_back_down_toast">Za izlaz, pritisnite tipku Natrag opet</string>
   <string name="lastrefresh">Nedavno ažuriranje:</string>
+  <string name="live">Uživo</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="loading">Učitavanje…</string>
@@ -308,6 +310,7 @@
   <string name="reload_sub_title">Kliknite na zaslon za ponovni pokušaj</string>
   <string name="reload_title">"Ne mogu se spojiti na mrežu"</string>
   <string name="reload_title_ep">Nije moguće dobiti potpunu seriju</string>
+  <string name="replay">Reproduciraj opet</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="router">Daljinski isključen</string>
   <string name="router_download_task_with">%d zadataka</string>
@@ -489,6 +492,7 @@
   <string name="vp_select_ep">Izaberi epizodu</string>
   <string name="vp_select_function">Postavke</string>
   <string name="vp_select_source">Odaberi izvor</string>
+  <string name="vp_select_tv">Kanali</string>
   <string name="vp_select_video_definition">Odaberi definiciju</string>
   <string name="vp_select_video_source">Odaberi izvor</string>
   <string name="vp_skip">Preskoči uvod i kredite</string>

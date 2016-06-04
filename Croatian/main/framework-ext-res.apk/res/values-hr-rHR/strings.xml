@@ -85,6 +85,12 @@
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Da isključite ovu značajku idite u Postavke &gt; Zaslon &gt; Način čitanja.</string>
   <string name="screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
+  <string name="security_permission_denied_text">Pristup odbijen</string>
+  <string name="security_permission_failed_text">Interna pogreška, pokušajte kasnije</string>
+  <string name="security_permission_validate_warning">Hvala vam što nam pomažete napraviti MIUI boljim!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN i mobilni podaci uključeni</string>
+  <string name="security_permission_xiaomi_account_missed_text">Unesite vaš ID Mi Računa</string>
+  <string name="start_security_permission_verify_text">Potvrdite dopuštenja sa svojim Mi Računom</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
   <string name="set_password_action">Postavite zaporku</string>

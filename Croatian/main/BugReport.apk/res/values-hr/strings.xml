@@ -197,6 +197,7 @@
   <string name="server_unknown_error_message">ošlo je do nepoznate pogreške poslužitelja. Pokušajtete ponovno kasnije.</string>
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
+  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s privitcima i zapisima biti će poslani na Mi poslužitelje. Ako dođe do nekih grešaka prilikom slanja, od vas će biti zatraženo da pokušate ponovo."</string>
   <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi poslužitelje kada je vaš uređaj povezan s WLAN mrežom."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
