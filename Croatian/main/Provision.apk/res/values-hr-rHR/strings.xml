@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Slažem se</string>
-  <string name="agree_terms">"Pročitao sam i složem se s Uvjetima i Odredbama"</string>
+  <string name="agree_terms">"Pročitao sam i slažem se s Uvjetima i Odredbama"</string>
   <string name="back">Natrag</string>
   <string name="congratulation_label">Spremni ste za MIUI!</string>
   <string name="congratulation_title">Sve je spremno!</string>

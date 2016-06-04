@@ -26,10 +26,10 @@
   <string name="apply_action">Postavi</string>
   <string name="apply_as_lock_screen">Postavi za Zaklj. zaslon</string>
   <string name="apply_as_lock_wallpaper_message">Postaviti i za pozadinu zaklj. zaslona?</string>
-  <string name="apply_as_lockwallpaper_action">Zaklj. zaslon</string>
+  <string name="apply_as_lockwallpaper_action">Postavi</string>
   <string name="apply_as_wallpaper">Postavi za Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
-  <string name="apply_negative_action">"Ne postavljaj"</string>
+  <string name="apply_negative_action">"Odustani"</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
   <string name="aqi_quality_index_hazardous">Riskantno</string>
@@ -41,9 +41,9 @@
   <string name="cancel_action">Odustani</string>
   <string name="cancel_btn_label">Odustani</string>
   <string name="cant_edit_lock_screen">"Ne mogu urediti stil zaklj. zaslona."</string>
-  <string name="cant_remove_folder">"Nije moguće ukloniti mapu"</string>
-  <string name="cant_remove_retained_app">Nije moguće ukloniti ovu aplikaciju</string>
-  <string name="cant_remove_system_app">"Nije moguće ukloniti aplikaciju sustava"</string>
+  <string name="cant_remove_folder">"Ne mogu ukloniti mapu"</string>
+  <string name="cant_remove_retained_app">Ne mogu ukloniti ovu aplikaciju</string>
+  <string name="cant_remove_system_app">"Ne mogu ukloniti aplikaciju sustava"</string>
   <string name="change_wallpaper">Promjeni</string>
   <string name="children_folder_title">Djeca</string>
   <string name="children_mode_exit">Izlaz</string>
@@ -122,7 +122,7 @@
   <string name="gadget_photo_label">Slika</string>
   <string name="gadget_power_clear_button_label">Super Čistač</string>
   <string name="gadget_search_label">Traženje</string>
-  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje aplikacije MIUI Vrijeme</string>
+  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje MIUI Vrijeme aplikacije</string>
   <string name="gadget_weather_aqi_title">"Kvaliteta zraka: "</string>
   <string name="gadget_weather_download_message">Morate preuzeti sadržaj aplikacije: %1$s, veličine: %2$s. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
   <string name="gadget_weather_download_start">Preuzimanje</string>
@@ -198,7 +198,7 @@
   <string name="pref_icon_shadow_title">Sjena ikona</string>
   <string name="pref_keep_in_memory_summary">Držite Pokretač pokrenut kada je memorija niska</string>
   <string name="pref_keep_in_memory_title">Zaključaj MIUI u memoriji</string>
-  <string name="pref_keep_layout_summary">"Promjena izgleda početnog zaslona neće utjecati na međusobni položaj ikona"</string>
+  <string name="pref_keep_layout_summary">"Promjena izgleda Početnog zaslona neće utjecati na međusobni položaj ikona"</string>
   <string name="pref_keep_layout_title">Zaključaj položaj ikona</string>
   <string name="pref_render_in_truecolor_summary">Isključivanje ove opcije će poboljšati učinkovitost crtanja</string>
   <string name="pref_render_in_truecolor_title">Visoka kvaliteta grafike</string>
