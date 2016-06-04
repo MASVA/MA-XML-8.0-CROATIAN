@@ -440,7 +440,10 @@ Napustiti ovu stranicu?"</string>
   <string name="nav_bottom_bar_new_tab">Nova kartica</string>
   <string name="nav_screen_container_tab_incognito">Anonimna kartica</string>
   <string name="nav_screen_container_tab_normal">Redovna kartica</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Povezati se na ovu mrežu</string>
+  <string name="navigationbar_rightbutton_actiontext_cancle">Odustani</string>
+  <string name="navigationbar_rightbutton_actiontext_go">Kreni</string>
+  <string name="navigationbar_rightbutton_actiontext_search">Traži</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Poveži se na ovu mrežu</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupna otvorena WLAN mreža</string>
   <string name="new_folder_name_lable">Naziv grupe</string>
   <string name="next_button_label">Dalje</string>
@@ -503,6 +506,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_extras_reset_default_dlg">Vratiti postavke na zadane vrijednosti?</string>
   <string name="pref_extras_reset_default_summary">Vrati na zadane postavke</string>
   <string name="pref_extras_reset_default_title">Ostalo</string>
+  <string name="pref_extras_send_feedback">Pošalji Pov. informacije</string>
   <string name="pref_extras_title">Napredno</string>
   <string name="pref_extras_title_version">Verzija</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Spremi datoteke na zadanu lokaciju Preglednika"</string>
@@ -516,7 +520,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_force_userscalable">Forsiraj omogućeni zoom</string>
   <string name="pref_force_userscalable_summary">"Prebriši zahtjev nekih web lokacija za kontrolu ponašanja zumiranja"</string>
   <string name="pref_general_title">Općenito</string>
-  <string name="pref_key_gesture_title">Gumbi &amp; geste</string>
+  <string name="pref_key_gesture_title">Tipke &amp; geste</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Desktop</string>
@@ -645,14 +649,16 @@ Napustiti ovu stranicu?"</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">Unesite tekst za pretraživanje</string>
-  <string name="search_label">Preglednik</string>
   <string name="search_keyword_browser">Preglednik</string>
+  <string name="search_label">Preglednik</string>
+  <string name="search_path_browser">Settings/System apps/Browser</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Oznake i povijest web-a</string>
   <string name="search_shipin">Videozapis</string>
   <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>
   <string name="search_taobao">Taobao</string>
+  <string name="search_title_browser">Preglednik</string>
   <string name="search_tupian">Slika</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
