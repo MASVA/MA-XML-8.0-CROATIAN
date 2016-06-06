@@ -2630,7 +2630,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_charging_duration_ac">%1$d%% – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$d%% – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$d%% – %2$s do napunjenosti bežičnim putem</string>
-  <string name="power_checker">Provjera Energije</string>
   <string name="power_discharge_remaining">%1$s preostalo</string>
   <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
@@ -2803,7 +2802,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="quiet_mode">Utišaj sve smetnje</string>
   <string name="quiet_no_interruptions_mode">Utišaj sve smetnje</string>
   <string name="quiet_off_mode">Uvijek dopusti smetnje</string>
-  <string name="receiver_clean">Oslobodite prostor</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Povezano</string>
   <string name="radioInfo_data_connecting">"Povezivanje"</string>
@@ -2975,14 +2973,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nije zatraženo nijedno dopuštenje</string>
   <string name="save">Spremi</string>
   <string name="saved_network">Spremljeno: %1$s</string>
-  <string name="search_app_invisible">Aplikacija nevidljiva</string>
-  <string name="search_home_key">Početna</string>
-  <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
-  <string name="search_power_checker">Provjera energije</string>
-  <string name="search_power_optimize">Ušteda baterije</string>
-  <string name="search_slot_status_title">IMEI informacije</string>
   <string name="search_storage_settings">Čistać</string>
-  <string name="search_wifi_tether_checkbox">Prijenosni hotspot</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
