@@ -125,6 +125,8 @@
   <string name="michat_mesage_resend_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="michat_mesage_send_error_network">"Ne mogu poslati, provjerite mrežnu vezu"</string>
   <string name="michat_message_copy_info">Kopirano u međuspremnik</string>
+  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Ja sam robot za online podršku."</string>
   <string name="michat_msg_image_upload_error">"Ne mogu poslati sliku, Pokušajte ponovno kasnije"</string>
   <string name="michat_msg_input_info">Opišite ukratko svoj problem</string>
   <string name="michat_msg_status_arrived">Poslano</string>
@@ -184,8 +186,7 @@
   <string name="reply">Odgovori</string>
   <string name="report_miui">Izvješće pogreške</string>
   <string name="request_empty_data">Nema podataka</string>
-  <string name="robot_welcome_message">"Moje ime je Mi Bunny. Ja sam robot za online podršku."</string>
-  <string name="save_pic">Save</string>
+  <string name="save_pic">Spremi</string>
   <string name="save_pic_fail">"Ne mogu spremiti sliku, provjerite SD karticu"</string>
   <string name="save_pic_success">Slika spremljena u %s</string>
   <string name="screen_lock">Zaklj. zaslona</string>

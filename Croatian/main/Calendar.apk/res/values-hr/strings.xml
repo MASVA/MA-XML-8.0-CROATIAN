@@ -265,6 +265,7 @@
   <string name="lunar_date">Mjesečev datum</string>
   <string name="match_ed">Završeno</string>
   <string name="match_ing">U tijeku</string>
+  <string name="match_not_started">Nije označeno</string>
   <string name="menu_about_preferences">O Kalendaru</string>
   <string name="menu_general_preferences">Općenito</string>
   <string name="menu_preferences">Postavke</string>
@@ -292,6 +293,7 @@
   <string name="monthly">Mjesečno</string>
   <string name="monthly_on_day">Mjesečno (na isti datum)</string>
   <string name="monthly_on_day_count" formatted="false">Mjesečno (%1$s %2$s)</string>
+  <string name="more_match">Više događaja</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratak uvod</string>
   <string name="my_subscribe_events">Moje pretplate</string>
@@ -312,7 +314,7 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
   <string name="online_reminder_slider_text">启用提醒</string>
-  <string name="path_calendar">System apps/Kalendar/Postavke</string>
+  <string name="path_calendar">Aplikacije sutava/Kalendar/Postavke</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Melodija zvona nije odabrana</string>
@@ -325,10 +327,11 @@
   <string name="preferences_alerts_ringtone_title">Zvuk</string>
   <string name="preferences_alerts_title">Obavijesti</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibracija</string>
+  <string name="preferences_alerts_vibrate_title">Vibracija i melodija zvona</string>
   <string name="preferences_build_version">Verzija izrade</string>
   <string name="preferences_category_account_title">Račun</string>
   <string name="preferences_category_general_title">Opće postavke</string>
-  <string name="preferences_clear_search_history_summary">"Uklonite sve vaše pretrage"</string>
+  <string name="preferences_clear_search_history_summary">"Uklonite sva vaša pretaživanja"</string>
   <string name="preferences_clear_search_history_title">Očisti povijest pretaživanja</string>
   <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Predefinirano vrijeme podsjetnika</string>
@@ -340,6 +343,7 @@
   <string name="preferences_home_tz_default">Europe/Zagreb</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_import_credit_repayment">Plaćanja kreditnom karticom</string>
+  <string name="preferences_notification_ringtone_title">Zvuk</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_show_week_num_title">Pokaži broj tjedna</string>
   <string name="preferences_solar_terms">Prikaži solarne uvjete</string>

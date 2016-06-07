@@ -47,7 +47,7 @@
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Maks. Zagađenje</string>
   <string name="button_abandon">Odbaci promjene</string>
-  <string name="button_add_city">Dodaj grad</string>
+  <string name="button_add_city">Dodaj lokaciju</string>
   <string name="button_allow">U redu</string>
   <string name="button_confirm">Dopusti</string>
   <string name="button_exit">Izlaz</string>
@@ -103,7 +103,7 @@
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_management">Lokacije</string>
   <string name="location_tag">Lociraj</string>
-  <string name="menu_add_city">Dodaj ili izbriši grad</string>
+  <string name="menu_add_city">Uredi lokacije</string>
   <string name="menu_location">Lokacije</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>

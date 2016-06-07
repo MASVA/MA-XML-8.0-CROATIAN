@@ -539,7 +539,7 @@
         <item>Predmemorija (klijent aktivnosti)</item>
         <item>Predmemorija (prazna)</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
+    <string-array name="haptic_feedback_level_texts">
 	    <item>Isključeno</item>
         <item>Lagana</item>
 		<item>Srednja</item>

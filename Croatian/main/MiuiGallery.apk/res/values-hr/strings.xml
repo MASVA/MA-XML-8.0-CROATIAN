@@ -240,6 +240,7 @@
   <string name="doodle_pen">Kemijska olovka</string>
   <string name="doodle_pencil">Olovka</string>
   <string name="doodle_tooltip">Dodirnite za crtariju</string>
+  <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download">Preuzimanje</string>
   <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovo"</string>
   <string name="download_retry_text">Pokušajte ponovo</string>
@@ -508,7 +509,16 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Odaberi iz kontakata</string>
   <string name="pick_too_many_recipients">Previše primatelja</string>
+  <string name="picker_cancel_download">Otkaži preuzimanje</string>
+  <string name="picker_continue_download">Nastavi preuzimanje</string>
+  <string name="picker_continue_with_exists">Nastavi s lokalnim fotografijama</string>
+  <string name="picker_download">Preuzmi</string>
+  <string name="picker_download_progress_message">Preuzimanje, Dovršeno: %1$d/%2$d</string>
   <string name="picker_full_format">Možete odabrati %d fotografija.</string>
+  <string name="picker_image_need_download">%d odabranih fotografija nije na uređaju, preuzeti putem mobilnih podataka?</string>
+  <string name="picker_image_will_download">%d odabranih fotografija nije na uređaju, preuzimanje…</string>
+  <string name="picker_mobile_data_video">"Ne mogu preuzeti videozapise putem mobilnih podataka, preskoči %d."</string>
+  <string name="picker_origin_need_download">%1$d odabranih fotografija nije na uređaju (%2$dMB), preuzeti putem mobilnih podataka?</string>
   <string name="picker_title_format">Odabrano %d fotografija</string>
   <string name="picker_title_selection_format">Odabrano %d fotografija</string>
   <string name="picker_title_unlimit">Odaberite fotografije</string>

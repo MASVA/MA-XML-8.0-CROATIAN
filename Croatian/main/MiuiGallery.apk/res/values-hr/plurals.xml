@@ -31,6 +31,30 @@
 	 <plurals name="album_already_share_user_count">
 	    <item quantity="other">Podijeljeno sa %d osoba</item>
         <item quantity="one">Podijeljeno sa %d osobom</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+         <item quantity="other">Odabrane fotografije nisu na uređaju, preuzeti putem mobilnih podataka?</item>
+         <item quantity="one">Odabrana fotografija nije na uređaju, preuzeti putem mobilnih podataka?</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+         <item quantity="other">Odabrane fotografije nisu na uređaju (%dMB), preuzeti putem mobilnih podataka?</item>
+         <item quantity="one">Odabrana fotografija nije na uređaju (%dMB), preuzeti putem mobilnih podataka?</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+         <item quantity="other">Odabrane fotografije nisu na uređaju, preuzimanje…</item>
+         <item quantity="one">Odabrana fotografija nije na uređaju, preuzimanje…</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+         <item quantity="other">Preuzimanje %1$d fotografija nije uspjelo, pokušati ponovno?</item>
+         <item quantity="one">Preuzimanje 1 fotografije nije uspjelo, pokušati ponovno?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+         <item quantity="other">Preuzimanje %1$d fotografija (%2$dMB) nije uspjelo, pokušati ponovno?</item>
+         <item quantity="one">Preuzimanje 1 fotografije (%2$dMB) nije uspjelo, pokušati ponovno?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+         <item quantity="other">Otkazati preuzimanja preostalih %d fotografija?</item>
+         <item quantity="one">Otkazati preuzimanje preostale fotografije?</item>
     </plurals>	
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Izbrisati %1$d fotografija %2$s?</item>
