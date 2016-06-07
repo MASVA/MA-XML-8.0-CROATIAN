@@ -17,12 +17,12 @@
          <item quantity="many">" i (%1$d) mapa ?"</item>
     </plurals>
     <plurals name="directory_item_count">
-         <item quantity="other">Stavaka: %d</item>
-         <item quantity="zero">Stavaka: %d</item>
-         <item quantity="one">Stavaka: %d</item>
-         <item quantity="two">Stavaka: %d</item>
-         <item quantity="few">Stavaka: %d</item>
-         <item quantity="many">Stavaka: %d</item>
+         <item quantity="other">Stavki: %d</item>
+         <item quantity="zero">Stavki: %d</item>
+         <item quantity="one">Stavki: %d</item>
+         <item quantity="two">Stavki: %d</item>
+         <item quantity="few">Stavki: %d</item>
+         <item quantity="many">Stavki: %d</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
          <item quantity="other">Preostalo (%1$d) datoteka za preuzimanje</item>
@@ -128,6 +128,38 @@
         <item quantity="few">Prije %1$d dana</item>
         <item quantity="many">Prije %1$d dana</item>
     </plurals>
+	<plurals name="seconds">
+         <item quantity="other">%1$d sek</item>
+         <item quantity="zero">%1$d sek</item>
+         <item quantity="one">%1$d sek</item>
+         <item quantity="two">%1$d sek</item>
+         <item quantity="few">%1$d sek</item>
+         <item quantity="many">%1$d sek</item>
+     </plurals>
+     <plurals name="mins">
+         <item quantity="other">%1$d min</item>
+         <item quantity="zero">%1$d min</item>
+         <item quantity="one">%1$d min</item>
+         <item quantity="two">%1$d min</item>
+         <item quantity="few">%1$d min</item>
+         <item quantity="many">%1$d min</item>
+     </plurals>
+     <plurals name="hours">
+         <item quantity="other">%1$d sati</item>
+         <item quantity="zero">%1$d sati</item>
+         <item quantity="one">%1$d sat</item>
+         <item quantity="two">%1$d sati</item>
+         <item quantity="few">%1$d sati</item>
+         <item quantity="many">%1$d sati</item>
+     </plurals>
+     <plurals name="days">
+         <item quantity="other">%1$d dana</item>
+         <item quantity="zero">%1$d dana</item>
+         <item quantity="one">%1$d dan</item>
+         <item quantity="two">%1$d dana</item>
+         <item quantity="few">%1$d dana</item>
+         <item quantity="many">%1$d dana</item>
+     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Pronađeno (%1$d) novih datoteka</item>
         <item quantity="zero">Pronađeno (%1$d) novih datoteka</item>

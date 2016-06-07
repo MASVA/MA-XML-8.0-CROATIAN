@@ -2502,6 +2502,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_notification_sound">Postavke/Zvuk/Zadani zvuk obavijesti</string>
   <string name="path_notification_sound_title">Postavke/Zvuk/Zadani zvuk obavijesti</string>
   <string name="path_ntts_settings_title">Postavke/Dodatne postavke/Pristupačnost/tts_settings_title</string>
+  <string name="path_oldman_mode">Postavke/Lite Mode</string>
   <string name="path_onekey_migrate">Postavke/Dodatne postavke/Mi Mover</string>
   <string name="path_other_advanced_settings">Postavke/Dodatne postavke</string>
   <string name="path_owner_info_settings">Postavke/Zaklj. zaslon/Informacije o vlasniku</string>
@@ -3163,7 +3164,8 @@ Za prikvačivanje zaslona:
   <string name="search_notification_app_list_settings">Obavijesti aplikacija</string>
   <string name="search_notification_sound_title">Zadani zvuk obavijesti</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
-  <string name="search_onekey_migrate">Transfer;prijenos jednom tipkom</string>
+  <string name="search_oldman_mode">Lite mode;Oldman mode</string>
+  <string name="search_onekey_migrate">Transfer;Prijenos jednom tipkom</string>
   <string name="search_other_advanced_settings">Dodatne postavke;Postavke privatnosti;Datum&amp;vrijeme;Jezik &amp; unos;Rad jednom rukom;Baterija &amp; performanse;pohrana;Svjetlo obavijesti;Led;Slušalice &amp; zvučni efekti;Tipke;Tipke;Dostupnost;Beta značajke;Lab funkcije;Developer opcije;Sig. kopija &amp; poništi;Transfer;Prijenos jednom tipkom</string>
   <string name="search_owner_info_settings">Informacije o vlasniku</string>
   <string name="search_page_layout_settings">Veličina teksta</string>

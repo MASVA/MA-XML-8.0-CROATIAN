@@ -108,7 +108,8 @@
   <string name="connecting">Povezivanje…</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
   <string name="copied">Kopirano</string>
-  <string name="copy_failed">"Ne mogu kopirati, izgleda da je pohrana prepuna"</string>
+  <string name="copy_failed">"Ne mogu kopirati"</string>
+  <string name="copy_failed_retry">"Ne mogu kopirati, pokušajte ponovno za %1$s"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteku na Kuaipan</string>
   <string name="copy_file_to_midrive">Kopiraj datoteku na MiDrive</string>
   <string name="copy_text">Kopiraj tekst</string>
@@ -143,6 +144,7 @@
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovo"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
+  <string name="delete_failed_retry">"Ne mogu izbrisati, pokušajte ponovo za %1$s"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
   <string name="delete_files">Izbrisati ovoliko (%1$d) datoteka?</string>
@@ -331,6 +333,8 @@
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Midrive treba povezivanje s internetom da radi normalno.</string>
   <string name="midrive_space_full">Nema dovoljno prostora na Mi Cloudu.</string>
+  <string name="midrive_welcome_message">Vaši su Kuaipan podaci uspješno premješteni. A vi ste dobili tri mjeseca privilegije Mi Cloud članstva na dar. Mi Cloud i cloud usluge će dijeliti prostor za pohranu. Možete pristupiti svom Mi Cloud prostoru za pohranu na i.mi.com.</string>
+  <string name="midrive_welcome_title">Dobrodošli na Mi Cloud</string>
   <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
   <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
   <string name="midrop_send_files">Odaberite datoteke za slanje</string>
@@ -362,6 +366,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
+  <string name="move_failed_retry">"Ne mogu izrezati, pokušajte ponovno za %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi prečac aplik. Datoteke na Poč. zaslonu za učinkovitije upravljanje datotekama.</string>
   <string name="move_icon_to_desktop_success">Prečac dodan na Poč. zaslon</string>
   <string name="move_to">Premjesti u…</string>

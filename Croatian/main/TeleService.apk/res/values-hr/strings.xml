@@ -736,6 +736,8 @@ to start using Top-up package"</string>
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
   <string name="mhh_disable">Onemogućeno je zdravstvo, zdravlje i bolnice</string>
   <string name="mhh_enable">Omogućeno je zdravstvo, zdravlje i bolnice</string>
+  <string name="mi_sim_settings_summary">Koristite mobilne podatke bez SIM kartice</string>
+  <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="mismatchPin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="mismatch_password">"Zaporke koje ste unijeli se ne podudaraju."</string>
@@ -1019,6 +1021,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="port_title">Broj Porta</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; vibracija</string>
+  <string name="preference_data_usage_summary">Postavite vaš podatkovni plan za kontrolu uporabe mobilnih podataka</string>
+  <string name="preference_data_usage_title">Postavite podatkovni plan</string>
   <string name="preference_dial_pad_touch_tone_default">Zadano</string>
   <string name="preference_dial_pad_touch_tone_off">Isklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavir</string>
@@ -1277,6 +1281,9 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_ndp_dismiss_text">Odbaci</string>
   <string name="sim_ndp_unlock_text">Otključaj</string>
   <string name="sim_no_activated">"Ne mogu potvrditi SIM karticu"</string>
+  <string name="sim_roaming_settings_summary">Poveži se mobilnim podatkovnim mrežama u Roamingu</string>
+  <string name="sim_roaming_settings_title">Mi Roaming</string>
+  <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
   <string name="sim_unlock_success">SIM otključavanje uspješno.</string>
@@ -1419,7 +1426,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Izmjena TTY načina rada nije dopuštena tijekom VT poziva</string>
   <string name="tty_mode_option_summary">Postavi način TTY</string>
   <string name="tty_mode_option_title">Način TTY</string>
-  <string name="turnover_mute_summary">Kad je telefon postavljen vodoravno, preokrenite ga da utišate zvono</string>
+  <string name="turnover_mute_summary">"Kada je telefon okrenut vodoravno, preokrenite ga da utišate zvono. Ova značajka ne radi ako je vibracija za dolazne pozive uključena."</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
   <string name="undefined">Ništa</string>
@@ -1444,8 +1451,8 @@ Koristiti ga za nadoplatu paketa?"</string>
   <string name="verified">Provjereno</string>
   <string name="verify_fialed">"Ne mogu provjeriti"</string>
   <string name="verifying">Provjera…</string>
-  <string name="vibrate_after_connected_summary">Vibrate when answers</string>
-  <string name="vibrate_after_connected_title">Vibrating after connected</string>
+  <string name="vibrate_after_connected_summary">Vibracija nakon javljanja</string>
+  <string name="vibrate_after_connected_title">Vibracija nakon povezivanja</string>
   <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
