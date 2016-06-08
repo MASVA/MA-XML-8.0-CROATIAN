@@ -116,11 +116,12 @@
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">Nemoguće spremiti privitak</string>
   <string name="copy_to_sdcard_success">Privitak spremljen</string>
-  <string name="database_corruption">Popravak baze podataka</string>
+  <string name="database_corruption">Popravak…</string>
+  <string name="del_private_contact">Ukloni sve privatne kontakte</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_bookmark">Ukloniti iz favorita</string>
-  <string name="delete_message">Izbrisati</string>
-  <string name="delete_phrase">Izbrisati frazu</string>
+  <string name="delete_bookmark">Ukloni iz favorita</string>
+  <string name="delete_message">Izbriši</string>
+  <string name="delete_phrase">Izbriši frazu</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
   <string name="delete_wild_sims">Izbriši brojeve</string>
   <string name="delete_wild_sims_confirm">Sve poruke koje pripadaju odabranim brojevima biti će izbrisane u ovom telefonu. Možete ih vratiti na i.mi.com.</string>
@@ -493,9 +494,7 @@
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="search_title_mms">Slanje poruka</string>
-  <string name="second_mms">Druga poruka</string>
   <string name="second_mms_introduction">Idite u Drugi prostor</string>
-  <string name="second_mms_notice">Prikaži samo drugu poruku</string>
   <string name="second_mms_switch">Promjeni korisnika</string>
   <string name="secs">sek</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Pošiljatelj nije u vašim kontaktima.

@@ -31,6 +31,7 @@
   <string name="invalid_sim_pin_hint">PIN treba imati od 4 do 8 brojeva</string>
   <string name="invalid_sim_puk_hint">PUK kod treba imati 8 brojeva ili više</string>
   <string name="keyguard_torch_cover_text">Da zadržite svjetiljku upaljenom, držite gumb za uključivanje</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
@@ -51,8 +52,8 @@ Pokušajte ponovo za %d sek."</string>
   <string name="login_website_in_case_forget_password">Za obnovu vaše zaporke, idite na www.mi.com/micloud.</string>
   <string name="missed_call_text">Propuštenih poziva %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
-  <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
-  <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
+  <string name="open_camera_hint_text">Povucite lijevo za %s</string>
+  <string name="open_remote_center_hint_text">Povucite desno za %s</string>
   <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
   <string name="phone_locked_timeout_minutes_string">Pokušajte ponovo za %s min.</string>

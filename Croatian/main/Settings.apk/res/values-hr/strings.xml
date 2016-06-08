@@ -3215,7 +3215,7 @@ Za prikvačivanje zaslona:
   <string name="search_sync">Sinkr.</string>
   <string name="search_sync_settings">Sinkr.;Auto;WLAN samo</string>
   <string name="search_system_app_settings">Aplikacije sustava</string>
-  <string name="search_tether">Dijeljenje veze &amp; prijenosni hotspot</string>
+  <string name="search_tether">Dijeljenje veze &amp; prijenosni hotspot;Hotspot;Osobni Hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Dijeljenje veze Bluetoothom</string>
   <string name="search_tether_settings_title_usb">Dijeljenje veze USB-om</string>
   <string name="search_theme_settings">Teme</string>

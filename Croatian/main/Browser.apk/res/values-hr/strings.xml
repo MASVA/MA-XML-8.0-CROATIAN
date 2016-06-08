@@ -56,11 +56,14 @@
   <string name="adblock_websites_settings_empyt_hint">"Nemate blokiranih web stranica."</string>
   <string name="adblock_websites_settings_title">Blokirane stranice</string>
   <string name="add_bookmark_group">Dodaj grupu</string>
+  <string name="add_bookshelf_popup_text">Već ste stavili ovu knjigu na svoju policu</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
   <string name="add_quicklink_to_popular">Dodaj na početnu stranicu</string>
   <string name="add_quicklinks">Dodaj na početnu stranicu</string>
+  <string name="add_shortcut">Dodaj prečac</string>
+  <string name="add_shortcut_success">Prečac uspješno dodan</string>
   <string name="add_to_bookmark">Oznake</string>
   <string name="add_to_desk">Dodano na Početni zaslon</string>
   <string name="add_to_desk_success">Dodano na Početni zaslon</string>
@@ -637,6 +640,7 @@ Napustiti ovu stranicu?"</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
+  <string name="save_to">Spremi u</string>
   <string name="save_to_camera">Spremi u kameru</string>
   <string name="save_to_camera_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_to_camera_success">Spremljeno u kameru</string>
@@ -672,8 +676,10 @@ Napustiti ovu stranicu?"</string>
   <string name="select_download_device">Odaberi uređaj</string>
   <string name="send_comment_button">Pošalji</string>
   <string name="send_comment_title">Komentar</string>
+  <string name="senddesktop">Radna površina</string>
+  <string name="sendstartpage">Početna stranica</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Xiaomi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Mi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost Poveznice</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi prognoze trebaju informacije o lokaciji da vam ponude najnovije informacije o vremenu u pregledniku. Možete uključiti ovu značajku u Postavkama.</string>

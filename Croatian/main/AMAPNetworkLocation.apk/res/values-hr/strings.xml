@@ -3,6 +3,20 @@
    <string name="agree">Slažem se</string>
   <string name="app_label">Lokacija mreže</string>
   <string name="disagree">Ne slažem se</string>
-  <string name="location_warning_message">"Dopusti AutoNavi usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju, a prikupljanje se može dogoditi čak i kad nije pokrenuta nijedna aplikacija. Moguće naknade uporabe podataka tijekom tog procesa."</string>
+  <string name="location_warning_do_not_show_again">"Ne prikazuj ponovno"</string>
+  <string name="location_warning_message">"Dopusti AutoNavi usluzi lociranja prikupljanje anonimnih podataka o lokaciji. Neki podaci mogu biti pohranjeni na uređaju, a prikupljanje se može dogoditi čak i kad nije pokrenuta nijedna aplikacija."</string>
   <string name="location_warning_title">Suglasnost lokacije</string>
+  <string name="persmission_close">ZATVORI</string>
+  <string name="persmission_message">Da bi ispravno radila, ova usluga zahtijeva dodatna dopuštenja. Dopustite dopuštenja kod upita.</string>
+  <string name="persmission_message2">Da bi ispravno radila, ova usluga treba pristup prostoru za pohranu. Dopustite dopuštenja kod upita.</string>
+  <string name="persmission_message3">Da bi ispravno radila, ova usluga treba pristup vašoj lokaciji. Dopustite dopuštenja kod upita.</string>
+  <string name="persmission_message4">Da bi ispravno radila, ova usluga treba pristup vašem uređaju. Dopustite dopuštenja kod upita.</string>
+  <string name="persmission_message5">"Da bi ispravno radila, ova usluga zahtijeva dodatna dopuštenja. Možete upravljati dopuštenjima lakacije mreže u Postavkama"</string>
+  <string name="persmission_message6">"Da bi ispravno radila, ova usluga treba pristup vašoj lokaciji. Možete upravljati dopuštenjima lakacije mreže u Postavkama."</string>
+  <string name="persmission_message7">"Da bi ispravno radila, ova usluga treba pristup vašem uređaju. Možete upravljati dopuštenjima lakacije mreže u Postavkama."</string>
+  <string name="persmission_message8">"Da bi ispravno radila, ova usluga treba pristup prostoru za pohranu. Možete upravljati dopuštenjima lakacije mreže u Postavkama."</string>
+  <string name="persmission_notification_text">Dodirnite za dopustiti</string>
+  <string name="persmission_notification_title">Lokacije mreže zahtijeva dopuštenja</string>
+  <string name="persmission_ok">U redu</string>
+  <string name="persmission_settings">POSTAVKE</string>
  </resources>
