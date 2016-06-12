@@ -168,6 +168,11 @@
   <string name="cloudfolder_name_cannot_empty">Unesi naziv Albuma.</string>
   <string name="cloudfolder_name_reserved">Naziv Albuma je rezerviran.</string>
   <string name="collaps_people">Sakrij</string>
+  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
+  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Momenti</string>
+  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">U redu</string>
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
@@ -502,7 +507,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Dodaj broj telefona</string>
   <string name="photo">Fotografija</string>
-  <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
+  <string name="photo_edit_file_not_exits_tip">Preuzmite fotografiju prije uređivanja</string>
+  <string name="photo_editor_saving">Spremanje</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u Galeriju"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju.</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>

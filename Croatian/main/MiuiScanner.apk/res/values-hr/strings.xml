@@ -8,7 +8,7 @@
   <string name="allow_check_website_security">Prikaži obavijest sigurnosne provjere web stranice</string>
   <string name="app_details">Aplik:</string>
   <string name="app_name">Skener</string>
-  <string name="barcode_into_rectangle">Postavite kod unutar okvira</string>
+  <string name="barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="birthday">Rođendan:</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="cancel">Odustani</string>
@@ -109,7 +109,7 @@
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
-  <string name="place_barcode_into_rectangle">Postavite kod unutar okvira</string>
+  <string name="place_barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="preparing_sd">Priprema SD kartice…</string>
   <string name="previous">Natrag</string>
   <string name="qr_code_details">Detalji QR koda:</string>

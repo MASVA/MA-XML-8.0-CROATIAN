@@ -2471,6 +2471,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_dndm_wristband">Postavke/Ne ometaj/Aktiviraj sa Mi Bandom</string>
   <string name="path_do_not_disturb_settings">Postavke/Ne ometaj</string>
   <string name="path_dtmf_tone_enable_title">Postavke/Zvuk/Tonovi biranja</string>
+  <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
   <string name="path_equalizer">Postavke/Zvuk/Postavke zvuka/Equalizer</string>
   <string name="path_font_settings">Postavke/Zaslon/Font sustava</string>
   <string name="path_gps_settings">Postavke/Dodatne postavke/Privatnost/Lokacija</string>
@@ -2520,6 +2521,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_safe_result_header_title_system">Postavke/Dodatne postavke/Sigurnost Sustava</string>
   <string name="path_screen_effect_settings">Postavke/Zaslon/Boje &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Postavke/Dodatne postavke/Tipke/Postavi vrijeme dugog pritiska</string>
+  <string name="path_screen_optimize">Postavke/Zaslon/Boje &amp; kontrast</string>
+  <string name="path_screen_paper_mode">Postavke/Zaslon/Način čitanja</string>
   <string name="path_screen_saver_settings">Postavke/Zaslon/Čuvar zaslona</string>
   <string name="path_screen_timeout_settings">Postavke/Zaklj. zaslon/Mirovanje</string>
   <string name="path_second_space">Postavke/Drugi prostor</string>
@@ -3130,6 +3133,7 @@ Za prikvačivanje zaslona:
   <string name="search_dndm_wristband">Aktiviraj s Mi Band</string>
   <string name="search_do_not_disturb">Ne ometaj;Vip;Postavi vrijeme;Iznimke;Ponovljeni pozivi</string>
   <string name="search_dtmf_tone_enable_title">Tonovi biranja</string>
+  <string name="search_edge_handgrip">Kontrole ruba</string>
   <string name="search_empty">Nema pronađenih rezultata</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">Font sustava</string>
@@ -3185,9 +3189,10 @@ Za prikvačivanje zaslona:
   <string name="search_ring_volume">Glasnoća;Melodija zvona &amp; obavijesti;Alarm;Glazba</string>
   <string name="search_ringtone">Melodija zvona</string>
   <string name="search_safe_result_header_title_system">Privatnost</string>
-  <string name="search_screen_effect">Boje &amp; saturacija</string>
+  <string name="search_screen_effect">Boje &amp; saturacija;Boje &amp; kontrast</string>
   <string name="search_screen_key_long_press_timeout">Postavi vrijeme dugog pritiska</string>
   <string name="search_screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
+  <string name="search_screen_paper_mode">Način čitanja</string>
   <string name="search_screen_saver_settings">Čuvar zaslona</string>
   <string name="search_screen_timeout">Mirovanje;Auto. zaklj. zaslona</string>
   <string name="search_second_space">Drugi Prostor</string>
