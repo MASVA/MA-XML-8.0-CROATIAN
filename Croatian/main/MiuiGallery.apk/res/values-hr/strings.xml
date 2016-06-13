@@ -29,6 +29,7 @@
   <string name="add_to_secret_failed_with_reason">"Ne mogu dodati u skriveni album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s stavki ne može biti dodano u skriveni album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano u skriveni album</string>
+  <string name="add_to_share_album_not_delete">"Ne mogu izbrisati fotografiju u dijeljenom albumu"</string>
   <string name="adding">Dodavanje…</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
   <string name="adding_to_album">Dodavanje fotografija…</string>
@@ -67,8 +68,8 @@
   <string name="album_share_subtitle_quitting">Izlaz…</string>
   <string name="album_share_subtitle_requesting">Preuzimanje detalja albuma…</string>
   <string name="album_share_title_new_album">Podijeli novi album</string>
-  <string name="album_type_baby">Podijeljeni albumi</string>
-  <string name="album_type_share">Dječji album</string>
+  <string name="album_type_baby">Dječji album</string>
+  <string name="album_type_share">Dijeljeni albumi</string>
   <string name="album_type_system">Albumi sustava</string>
   <string name="album_videos_name">Videozapisi</string>
   <string name="alert_secret_album_enter">U redu</string>
@@ -689,10 +690,14 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_audio_none">Ništa</string>
   <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Balada</string>
+  <string name="video_editor_audio_young">Ukulele</string>
   <string name="video_editor_auto_trim">Autom. podreži</string>
   <string name="video_editor_auto_trim_tip">Autom. podrezivanje…</string>
   <string name="video_editor_cancel">Odusatni</string>
   <string name="video_editor_done">Dovršeno</string>
+  <string name="video_editor_down_load_later">Kasnije</string>
+  <string name="video_editor_down_load_no_wifi_tips">Možete preuzeti samo putem WLAN-a</string>
+  <string name="video_editor_down_load_now">Preuzmi</string>
   <string name="video_editor_encode_video">Kodiranje videozapisa…</string>
   <string name="video_editor_encode_video_error">"Ne mogu kodirati videozapis"</string>
   <string name="video_editor_fatal_error">Nepoznata pogreška</string>
@@ -709,9 +714,13 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_filter_rouge">Rouge</string>
   <string name="video_editor_filter_sunny">Sunčano</string>
   <string name="video_editor_invalid_trim_arguments">Trebalo bi biti duže od 1 sekunde</string>
+  <string name="video_editor_loading_plugin">Učitavanje…</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takve video datoteke nisu podržane"</string>
   <string name="video_editor_ok">U redu</string>
+  <string name="video_editor_res_not_load_dialog_msg">Za korištenje ovog, morate preuzeti pakete resursa</string>
+  <string name="video_editor_res_not_load_dialog_title">Potrebno je preuzeti</string>
+  <string name="video_editor_template_family">Obitelj</string>
   <string name="video_editor_template_forbidden_tips">"Ne mogu to učiniti kada koristite predložak"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>

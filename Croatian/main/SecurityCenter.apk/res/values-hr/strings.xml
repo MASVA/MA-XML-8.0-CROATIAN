@@ -196,6 +196,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="button_text_cleanup">Očisti</string>
   <string name="button_text_clear">Očisti</string>
   <string name="button_text_create_shortcut">Napravi prečac na Početnom zaslonu</string>
+  <string name="button_text_deny">Odbij</string>
   <string name="button_text_disconnect_now">Prekini vezu</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_fix_now">Popravi</string>
@@ -1541,6 +1542,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>
   <string name="warning_open_mi_sim">Uključi Mi SIM</string>
   <string name="wifi_exception_summary">Test dostupnih WLAN mreža</string>
   <string name="wifi_exception_title">Test WLAN mreže</string>

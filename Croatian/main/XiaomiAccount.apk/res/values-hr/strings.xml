@@ -240,7 +240,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavu</string>
   <string name="passport_login_with_email_or_id">Prijavite se adresom E-pošte ili ID Mi Računa</string>
-  <string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。(解锁编号:%2$s)</string>
+  <string name="passport_miui_provision_find_status_text">"Ovaj uređaj je povezan s postojećim ID Mi Računa (%1$s). Iz sigurnosnih razloga, potrebno je unijeti zaporku za provjeru uređaja
+ (br. otključavanja: %2$s)"</string>
   <string name="passport_next">Dalje</string>
   <string name="passport_notification_title">Pogreška prijave za %1$s</string>
   <string name="passport_password">Unesite zaporku</string>

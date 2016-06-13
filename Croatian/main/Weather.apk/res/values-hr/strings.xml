@@ -135,6 +135,10 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="traffic_control_daty_after_tomorrow_numbers">Prekosutra: %1$s %2$s</string>
+  <string name="traffic_control_today_numbers">Danas: %1$s %2$s</string>
+  <string name="traffic_control_tomorrow_numbers">Sutra: %1$s %2$s</string>
+  <string name="traffic_controls">Kontrola prometa</string>
   <string name="tts_report_aqi"/>
   <string name="tts_report_city_name"/>
   <string name="tts_report_defautl_head"/>

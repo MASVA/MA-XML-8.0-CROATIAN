@@ -634,6 +634,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="lable_disable">Isključeno</string>
   <string name="lable_enable">Uključeno</string>
   <string name="lable_incoming_calls_except">Dolazni pozivi u roamingu</string>
+  <string name="lable_network_not_supported">"Mreža ne podržava"</string>
   <string name="lafs_disable">Raspored letova za lokalnu zrakoplovnu luku je isključen</string>
   <string name="lafs_enable">Raspored letova za lokalnu zrakoplovnu luku je uključen</string>
   <string name="list_language_dtitle">Jezici</string>

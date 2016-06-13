@@ -36,4 +36,5 @@
     <string name="pref_category_system">Postavke sustava</string>
     <string name="restore_default">Vrati na zadano</string>
     <string name="restore_intro">"Vrati postavke na zadane vrijednosti, uključujući prečace i njihov redoslijed. Podaci aplikacija na vašem uređaju neće biti pogođeni."</string>
+    <string name="show_on_keyguard">Prikaži na Zaklj. zaslonu</string>
 </resources>

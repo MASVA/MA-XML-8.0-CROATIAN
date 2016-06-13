@@ -257,12 +257,12 @@
          <item quantity="many">videozapisa</item>
      </plurals>	  
    <plurals name="follower_num">
-         <item quantity="other">followers</item>
-         <item quantity="zero">followers</item>
-         <item quantity="one">follower</item>
-         <item quantity="two">followers</item>
-         <item quantity="few">followers</item>
-         <item quantity="many">followers</item>
+         <item quantity="other">sljedbenika</item>
+         <item quantity="zero">sljedbenika</item>
+         <item quantity="one">sljedbenik</item>
+         <item quantity="two">sljedbenika</item>
+         <item quantity="few">sljedbenika</item>
+         <item quantity="many">sljedbenika</item>
      </plurals>
     <plurals name="number_of_comment">
          <item quantity="other">%1$s komentara</item>
