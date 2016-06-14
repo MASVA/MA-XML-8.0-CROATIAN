@@ -6,7 +6,7 @@
   <string name="cal_edit_mode">Uređivanje</string>
   <string name="cal_result_format">= %s</string>
   <string name="cal_text_copied">Tekst kopiran</string>
-  <string name="choose_currency">Valuta</string>
+  <string name="choose_currency">Odaberite valutu</string>
   <string name="choose_unit">Odaberite jedinicu</string>
   <string name="clear">C</string>
   <string name="clearDesc">Izbriši</string>
@@ -23,7 +23,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="currency_update_time_format">Ažurirano %s</string>
+  <string name="currency_update_time_format">Tečaj provided by HeXun, ažurirano %s</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -81,7 +81,7 @@
   <string name="loan_edittext_hint_fund">Unesite iznos</string>
   <string name="loan_edittext_hint_fund_combined">Kreditni fond</string>
   <string name="loan_first_pay_date">Prvi datum plaćanja</string>
-  <string name="loan_interest_rate">Cijena novca</string>
+  <string name="loan_interest_rate">Kamate</string>
   <string name="loan_pay_years">Razdoblje kredita</string>
   <string name="loan_payback_way">Otplata</string>
   <string name="loan_unit">×10K</string>
@@ -104,21 +104,21 @@
   <string name="mortgage_equals">=</string>
   <string name="mortgage_hint_accumulation_fund">Unesite iznos</string>
   <string name="mortgage_hint_commercial">Unesite iznos</string>
-  <string name="mortgage_hint_loan">Unesite ukupan broj kredita</string>
-  <string name="mortgage_input_error">Unesite iznos hipoteke</string>
+  <string name="mortgage_hint_loan">Unesite iznos</string>
+  <string name="mortgage_input_error">Unesite iznos</string>
   <string name="mortgage_interest_amount">Iznos kamate</string>
   <string name="mortgage_interest_rate">Kamatna stopa</string>
   <string name="mortgage_item_repayment">Način otplate</string>
-  <string name="mortgage_item_start_time">Početni datum</string>
-  <string name="mortgage_item_years">Trajanje hipoteke</string>
-  <string name="mortgage_loans_amount">Iznos hipoteke</string>
+  <string name="mortgage_item_start_time">Početak otplate</string>
+  <string name="mortgage_item_years">Trajanje kredita</string>
+  <string name="mortgage_loans_amount">Iznos kredita</string>
   <string name="mortgage_repayment_amount">Iznos otplate</string>
-  <string name="mortgage_result">Rezultati</string>
+  <string name="mortgage_result">Rezultat</string>
   <string name="mortgage_show_details">Prikaži detalje</string>
-  <string name="mortgage_tab_accumulation_fund">Akumulacijski fond</string>
+  <string name="mortgage_tab_accumulation_fund">Sredstva</string>
   <string name="mortgage_tab_combining_loan">Kombinirano</string>
   <string name="mortgage_tab_commercial_loan">Komercijalno</string>
-  <string name="mortgage_years_amount">Trajanje hipoteke</string>
+  <string name="mortgage_years_amount">Trajanje kredita</string>
   <string name="mul">×</string>
   <string name="mulDesc">multiply</string>
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu vašeg uređaja da radi normalno."</string>
@@ -130,6 +130,7 @@
   <string name="plusDesc">plus</string>
   <string name="power">^</string>
   <string name="powerDesc">power</string>
+  <string name="rate_data_provider">Kamatna stopa provided by HeXun</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">desna zagrada</string>
   <string name="sin">sin</string>
@@ -140,7 +141,7 @@
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
   <string name="tan_mathematical_value">tan</string>
-  <string name="tax_accumulation_fund">Akumulacijski fond</string>
+  <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Unesite svoj bonus prije poreza</string>
   <string name="tax_birth">Rođenje</string>
   <string name="tax_cal_method_annual">Izračun godišnjeg bonusa</string>
@@ -158,7 +159,7 @@
   <string name="tax_income_type_annual_bonus">Godišnji bonus</string>
   <string name="tax_income_type_fixed_monthly_salary">Mjesećna plaća</string>
   <string name="tax_individual_income_tax">Porez na dohodak</string>
-  <string name="tax_individual_income_tax_result">Rezultat poreza na dohodak</string>
+  <string name="tax_individual_income_tax_result">Rezultat</string>
   <string name="tax_injury">Ozljeda</string>
   <string name="tax_insurance_and_fund">Osiguranje i fond</string>
   <string name="tax_medical">Medicinsko</string>
@@ -169,7 +170,7 @@
   <string name="tax_thershold_native">%s (domaći)</string>
   <string name="tax_threshold">Porezni prag</string>
   <string name="tax_unemployment">Nezaposlen</string>
-  <string name="tax_update_time_format">Podaci u godini %s</string>
+  <string name="tax_update_time_format">Podaci u godini %s, provided by HeXun</string>
   <string name="title_bar">Konverzija duljine</string>
   <string name="to_num">62.7</string>
   <string name="unit_data_default_area_0">sq.m</string>
@@ -288,7 +289,7 @@
   <string name="unit_data_display_weight_q">Quintal</string>
   <string name="unit_data_display_weight_qian">qian</string>
   <string name="unit_data_display_weight_st">Short ton</string>
-  <string name="unit_data_display_weight_t">Ton</string>
+  <string name="unit_data_display_weight_t">Tona</string>
   <string name="unit_data_display_weight_ug">Mikrogram</string>
   <string name="unit_data_display_weight_uk.cwt">UK hundredweight</string>
   <string name="unit_data_display_weight_uk.st">Stone</string>

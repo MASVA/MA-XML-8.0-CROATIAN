@@ -175,11 +175,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="label_view">Prikaži</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
-  <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne može snimati duže snimke zaslona."</string>
-  <string name="long_screenshot_out_of_memory_error">Nije uspjelo jer je slika prevelika</string>
-  <string name="long_screenshot_processing">Obrada...</string>
-  <string name="long_screenshot_stop">Stop</string>
-  <string name="long_screenshot_top_msg">Duže snimanje snimke zaslona...</string>
+  <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podržava duže snimke zaslona."</string>
+  <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
+  <string name="long_screenshot_processing">Obrada…</string>
+  <string name="long_screenshot_stop">Gotovo</string>
+  <string name="long_screenshot_top_msg">Duža snimka zaslona…</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="mdb_entering">Pokretanje…</string>
   <string name="mdb_restore_cancel">Odustani</string>
@@ -247,7 +247,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu, ili to ne dopušta aplikacija ili vaša organizacija."</string>
-  <string name="screenshot_long_screenshot">Snimaj duže</string>
+  <string name="screenshot_long_screenshot">Produži</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
   <string name="screenshot_saving_text">Snimka zaslona se sprema.</string>

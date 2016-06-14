@@ -47,11 +47,12 @@
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Maks. Zagađenje</string>
   <string name="button_abandon">Odbaci promjene</string>
-  <string name="button_add_city">Dodaj lokaciju</string>
+  <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
   <string name="button_confirm">Dopusti</string>
   <string name="button_exit">Izlaz</string>
   <string name="button_not_allow">Odustani</string>
+  <string name="button_sure_abandon">Potvrditi odbacivanje promjena?</string>
   <string name="close">Zatvori</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s-dnevna prognoza</string>
@@ -63,7 +64,7 @@
   <string name="daily_forcast_whirl_wind">Vihor</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_detail_date_format">%2$s - %1$s</string>
+  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Uredi</string>
@@ -79,7 +80,7 @@
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
-  <string name="indices_desc_pressure">%1$smb</string>
+  <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_desc_visibility">%1$skm</string>
   <string name="indices_no_restriction">Ništa</string>
   <string name="indices_title">Preporučene aktivnosti</string>
@@ -105,6 +106,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Uredi lokacije</string>
   <string name="menu_location">Lokacije</string>
+  <string name="mi_pad2">latte</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="no_data">--</string>

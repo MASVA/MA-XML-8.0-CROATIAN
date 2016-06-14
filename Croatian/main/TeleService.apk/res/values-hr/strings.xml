@@ -2,8 +2,13 @@
 <resources>
   <string name="Result_title">Kontakti SIM kartice</string>
   <string name="accessibility_settings_activity_title">Pristupačnost</string>
-  <string name="account_changed_title">Račun je promjenjen</string>
+  <string name="active_phone_fail_nochoice">"Ne mogu provjeriti SIM karticu"</string>
+  <string name="active_phone_fail_toast">"Ne mogu provjeriti SIM karticu %1$s"</string>
   <string name="active_phone_sim_absent">Umetnite SIM karticu sada</string>
+  <string name="active_phone_success_nochoice">SIM kartica provjerena</string>
+  <string name="active_phone_success_toast">SIM kartica %1$s provjerena</string>
+  <string name="activing_simcard">Provjera SIM %1$d</string>
+  <string name="activing_simcard_alone">Provjera SIM-a…</string>
   <string name="add">Dodaj</string>
   <string name="addSimEntries">Dodaj SIM kontakt</string>
   <string name="add_fdn_contact">Dodaj broj za fiksno biranje</string>
@@ -1408,8 +1413,8 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="time_formate_pm">PM</string>
   <string name="time_interval_char">:</string>
   <string name="time_start">Od</string>
-  <string name="time_start_hour">time start hour</string>
-  <string name="time_start_minute">time start minute</string>
+  <string name="time_start_hour">Početak sati</string>
+  <string name="time_start_minute">Početak minuta</string>
   <string name="time_statistic">Ušteđeno %1$d min. vremena mreže</string>
   <string name="title_country">Zemlja</string>
   <string name="title_duration">Trajanje</string>
@@ -1417,7 +1422,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="title_rates">Cijene</string>
   <string name="title_user_config">Aktivirajte SIM karticu</string>
   <string name="top_up_first">Nadoplatite prvo</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Vrsta transporta</string>
   <string name="tty_mode_entries_full">TTY Full</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>

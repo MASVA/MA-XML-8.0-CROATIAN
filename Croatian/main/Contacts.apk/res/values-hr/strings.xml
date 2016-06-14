@@ -163,7 +163,7 @@
   <string name="clear_digits">Izbriši telefonski broj</string>
   <string name="click_close">Dotaknite ekran da biste zatvorili</string>
   <string name="clip_dialog_title">Birati kopirani broj?</string>
-  <string name="close_dial_pad">Zatvori tipkovnicu za biranje</string>
+  <string name="close_dial_pad_description">Zatvori brojčanu tipkovnicu</string>
   <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_title">ID Pozivatelja</string>
   <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloudom.</string>
@@ -844,6 +844,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="openDialKeyboard">Tipke za biranje</string>
   <string name="open_contact">"Prikaži kontakt"</string>
+  <string name="open_dial_pad_description">Otvori brojčanu tipkovnicu</string>
   <string name="option_delete_contact">"Izbriši"</string>
   <string name="option_delete_group">"Izbriši"</string>
   <string name="option_edit_contact">"Uredi"</string>

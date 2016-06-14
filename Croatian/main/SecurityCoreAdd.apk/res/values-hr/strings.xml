@@ -31,8 +31,12 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_main_space_password">Potvrdite zaporku Prvog prostora</string>
+  <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Kontakti</string>
   <string name="continueButton">Nastavi</string>
+  <string name="contact_sub_titile_text">Podaci poruka će se dijeliti između dva prostora</string>
+  <string name="contact_titile_text">"Prikaži privatne poruke u Drugom prostoru
+ da ih možete vidjeti u bilo koje vrijeme"</string>
   <string name="createANewSpace">Napravite zaseban prostor na svom telefonu.</string>
   <string name="createUserFail">"Ne mogu napraviti"</string>
   <string name="create_app_icon_failed">"Ne mogu napraviti ikonu"</string>
@@ -114,10 +118,15 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="passwordProtect">Zaporka</string>
   <string name="privacyContactsSummary">Prikaži privatne stavke u Drugom prostoru</string>
   <string name="privacyContactsTitle">Privatne poruke i kontakti</string>
+  <string name="private_sms_show_sub_title">Podaci poruka će se dijeliti između dva prostora​</string>
+  <string name="private_sms_show_title">Privatne poruke su prikazane u Drugom prostoru</string>
   <string name="private_space_setting">Upravljaj</string>
   <string name="public_app">Oba prostora</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
   <string name="removingSpace">Brisanje…</string>
+  <string name="restore_normal_show">"Ne prikazuj privatne poruke"</string>
+  <string name="restore_show_desc">"Ne prikazuj privatne poruke u Drugom prostoru. One će i dalje biti dostupne u Prvom prostoru."</string>
+  <string name="restore_show_toast">Privatne poruke se ne prikazuju</string>
   <string name="retain_src_file">Sačuvaj datoteke</string>
   <string name="retain_src_photo">Sačuvaj fotografije</string>
   <string name="secondSpace">Drugi prostor</string>
@@ -125,7 +134,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="setSecondSpacePassword">Postavite zaporku Drugog prostora</string>
   <string name="setSecondSpacePasswordGuide">Postavite zaporku Drugog prostora</string>
   <string name="setSecondSpacePasswordGuideDes">Koristite ovu zaporku za ulazak u Drugi prostor sa Zaključanog zaslona</string>
-  <string name="setSpacePasswordGuide">Koristite različite zaporkama za ulazak u oba prostora sa Zaključanog zaslona</string>
+  <string name="setSpacePasswordGuide">Koristite različite zaporke za ulazak u oba prostora sa Zaključanog zaslona</string>
   <string name="setSuccess">Zaporka uspješno postavljena</string>
   <string name="set_space_pwd_detail">Možete ući u Drugi prostor pomoću zaporke</string>
   <string name="set_space_pwd_suc">Zaporka Drugog prostora dodana</string>
@@ -142,6 +151,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="settings_switch_shortcut_title">Dodirnite prečac za promjenu</string>
   <string name="show_normal_content">"Ne prikazuj privatne stavke"</string>
   <string name="show_private_content">Prikaži privatne stavke</string>
+  <string name="show_private_msg">Prikaži privatne poruke</string>
+  <string name="show_private_msg_summary">Prikaži privatne poruke u Drugom prostoru</string>
   <string name="spaceSetting">Postavke</string>
   <string name="startSet">Postavi</string>
   <string name="startTransfer">Premjesti</string>

@@ -5,6 +5,7 @@
     <string name="applications">Aplikacije</string>
     <string name="category_others">Ostalo</string>
     <string name="category_setting">Postavke</string>
+	<string name="close_panel">Zatvori Izbornik Prečaca</string>
     <string name="customize_entries">Odaberi prečace</string>
     <string name="enable_touch_assistant">Uključi Izbornik Prečaca</string>
     <string name="function_settings">Postavke prečaca</string>
@@ -27,6 +28,7 @@
     <string name="name_scan_to_pay">Skeniraj da platite</string>
     <string name="name_screenshot">Snimka zaslona</string>
     <string name="name_wechat_payment_code">Wechat plaćanja</string>
+	<string name="open_panel">Otvori Izbornik Prečaca</string>
     <string name="name_wechat_scan">Wechat skener</string>
     <string name="pay_entry_dialog_title_select">Odaberite aplikaciju za otvaranje</string>
     <string name="pay_entry_dialog_title_setting">Odaberite aplikaciju</string>
