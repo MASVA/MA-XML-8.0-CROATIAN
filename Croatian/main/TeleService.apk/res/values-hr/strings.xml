@@ -849,7 +849,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_internet_available">Da biste uputili SIP poziv, provjerite jeste li povezani s internetom.</string>
   <string name="no_internet_available_title">Nema internetske veze</string>
   <string name="no_more">Ne više</string>
-  <string name="no_number">Nema brojA telefona</string>
+  <string name="no_number">Nema broja telefona</string>
   <string name="no_product_list">Prazno</string>
   <string name="no_sim_card">Umetnite SIM karticu</string>
   <string name="no_sip_account_found">Na ovom telefonu nema računa za internetske pozive. Želite li ga dodati odmah?</string>

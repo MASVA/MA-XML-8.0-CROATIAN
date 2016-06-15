@@ -932,7 +932,7 @@
   <string name="upload_log_title">Šaljite nam dnevnike kako bismo poboljšali WPS Mail</string>
   <string name="upload_log_yes">Pošalji</string>
   <string name="upload_logs">Pošalji log</string>
-  <string name="Pošalji">Pošalji log</string>
+  <string name="upload_logs_keywords">Pošalji log</string>
   <string name="uploading_logs">Samo trenutak…</string>
   <string name="validation_failed_prompt">"Ne mogu provjeriti račun. Provjerite postavke poslužitelja za %s"</string>
   <string name="veiled_address"/>
