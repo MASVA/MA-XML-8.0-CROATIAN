@@ -83,6 +83,7 @@
   <string name="record_downloading_notification_count">%d preuzeto</string>
   <string name="record_list">Popis snimaka</string>
   <string name="record_list_call">Snimljeni pozivi</string>
+  <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Sinkr. snimke</string>
   <string name="record_list_cloud_call">Sinkr. Snimljeni pozivi</string>
   <string name="record_list_cloud_fm">Sinkr. snimke FM-a</string>

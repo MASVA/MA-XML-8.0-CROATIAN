@@ -58,6 +58,14 @@
         <item>Pozadina</item>
         <item>Nedavno</item>
      </string-array>
+	 <string-array name="power_checker_abnormal_groups">
+         <item>Izvodi se</item>
+         <item>Nedavno</item>
+     </string-array>
+     <string-array name="power_checker_rank_groups">
+         <item>Visoko</item>
+         <item>Normalno</item>
+     </string-array>
      <string-array name="power_checker_running_group_titles">
         <item>Blokiranje dubokog mirovanja</item>
         <item>Blokiranje mirovanja</item>

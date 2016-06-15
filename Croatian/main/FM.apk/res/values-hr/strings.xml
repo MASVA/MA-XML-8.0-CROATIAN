@@ -59,5 +59,9 @@
   <string name="turn_off_fm">Isključi FM Radio</string>
   <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Stanje mirovanja</string>
+  <string name="using_recorder_cancel">Odbijam</string>
+  <string name="using_recorder_confirm">Slažem se</string>
+  <string name="using_recorder_dialog_message">"FM treba koristiti usluge snimača vašeg uređaja da radi normalno."</string>
+  <string name="using_recorder_dialog_title">Dopuštenje pristupa</string>
   <string name="view_stations_list">Prikaži popis postaja</string>
 </resources>

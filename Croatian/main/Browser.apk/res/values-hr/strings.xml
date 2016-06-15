@@ -389,7 +389,6 @@ Napustiti ovu stranicu?"</string>
   <string name="miui_search_notification_message">Dodirnite za otvaranje trake pretraživanja</string>
   <string name="miui_search_notification_title">Brzo pretraživanje</string>
   <string name="miui_startpage">Početna stranica</string>
-  <string name="miuichromium_error_page_diagnostic">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_airplane_mode">Zrakoplovni način</string>
   <string name="miuichromium_error_page_airplane_mode_on">Isključite Zrakoplovni način za povezivanje</string>
   <string name="miuichromium_error_page_btn_close">Zatvori</string>
@@ -416,9 +415,6 @@ Napustiti ovu stranicu?"</string>
   <string name="miuichromium_error_page_title">Dogodila se pogreška</string>
   <string name="miuichromium_error_page_unknown_error">Ups! Nešto je pošlo po zlu</string>
   <string name="miuichromium_error_page_wlan">Uključite WLAN</string>
-  <string name="miuichromium_error_page_reason_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="miuichromium_error_page_reason_server">"Ne mogu učitati ovu stranicu"</string>
-  <string name="miuichromium_error_page_url">"Ne mogu se povezati na mrežu"</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
@@ -580,7 +576,6 @@ Napustiti ovu stranicu?"</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>
-  <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
   <string name="pull_to_refresh_release_label">Otpustite za preporučeno i osvježiti</string>
   <string name="qr_code_title">QR Kod</string>
   <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
@@ -680,7 +675,6 @@ Napustiti ovu stranicu?"</string>
   <string name="sendstartpage">Početna stranica</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Mi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Provjeri sigurnost Poveznice</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi prognoze trebaju informacije o lokaciji da vam ponude najnovije informacije o vremenu u pregledniku. Možete uključiti ovu značajku u Postavkama.</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>

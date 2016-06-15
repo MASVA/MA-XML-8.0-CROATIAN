@@ -284,10 +284,10 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
   <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano</string>
-  <string name="status_bar_safepay_risk">Plaćanje je rizično!</string>
-  <string name="status_bar_safepay_safe">Plaćanje je sigurno.</string>
-  <string name="status_bar_safepay_scanning">Otkrivanje plaćanja...</string>
-  <string name="status_bar_safepay_unknown">Sigurnost plaćanja je nepoznata.</string>
+  <string name="status_bar_safepay_risk">Pronađeni rizici plaćanja</string>
+  <string name="status_bar_safepay_safe">Nema pronađenih rizika plaćanja</string>
+  <string name="status_bar_safepay_scanning">Provjera okruženja plaćanja…</string>
+  <string name="status_bar_safepay_unknown">"Ne mogu provjeriti okruženja plaćanja"</string>
   <string name="status_bar_settings_airplane">"Zrakoplovni način"</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">"Nema internetske veze"</string>

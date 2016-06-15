@@ -692,6 +692,7 @@ to start using Top-up package"</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
   <string name="livetalk_setting">Top up settings</string>
+  <string name="livetalk_user_config_title">SIM Verification</string>
   <string name="livetalk_sim_card_not_activated">"SIM card hasn't been activated."</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
   <string name="livetalk_user_config_title">Potrvdi broj telefona</string>
@@ -849,6 +850,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_internet_available">Da biste uputili SIP poziv, provjerite jeste li povezani s internetom.</string>
   <string name="no_internet_available_title">Nema internetske veze</string>
   <string name="no_more">Ne više</string>
+  <string name="no_number">Nema brojA telefona</string>
   <string name="no_product_list">Prazno</string>
   <string name="no_sim_card">Umetnite SIM karticu</string>
   <string name="no_sip_account_found">Na ovom telefonu nema računa za internetske pozive. Želite li ga dodati odmah?</string>
@@ -1293,6 +1295,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
   <string name="sim_unlock_success">SIM otključavanje uspješno.</string>
+  <string name="sim_useless">SIM nedostupan</string>
   <string name="sip_account_list">SIP računi</string>
   <string name="sip_accounts">SIP računi</string>
   <string name="sip_accounts_title">Računi</string>

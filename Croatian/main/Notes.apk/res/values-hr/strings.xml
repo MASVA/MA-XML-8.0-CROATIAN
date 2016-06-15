@@ -13,9 +13,9 @@
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
   <string name="app_widget">Bilješke</string>
-  <string name="attachment_camera">"Kamera"</string>
+  <string name="attachment_camera">Snimi fotografiju</string>
   <string name="attachment_contact">"Kontakti"</string>
-  <string name="attachment_gallery">"Galerija"</string>
+  <string name="attachment_gallery">Odaberi iz Galerije</string>
   <string name="button_new_note">"Novo"</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
@@ -52,6 +52,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="menu_mark_privacy">Sakrij</string>
   <string name="menu_move_parent_folder">Starija mapa</string>
   <string name="menu_move_to">Premjesti u</string>
+  <string name="menu_send_as_image">Pošalji kao sliku</string>
   <string name="menu_send_to_desktop">Dodaj na Početni zaslon</string>
   <string name="menu_send_wechat">Pošalji na WeChat</string>
   <string name="menu_send_weibo">Pošalji na Weibo</string>
@@ -105,6 +106,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="sns_choose_quality_low">Niska</string>
   <string name="sns_choose_quality_title">Odaberite kvalitetu slike</string>
   <string name="sns_content_default">Podijeli fotografiju</string>
+  <string name="sns_desc_image_preview">Pregled poruke</string>
   <string name="sns_desc_preview_wechat">Pregled WeChat poruke</string>
   <string name="sns_desc_preview_weibo">Pregled Weibo poruke</string>
   <string name="sns_footer_text">Kreirano s Mi Notes</string>

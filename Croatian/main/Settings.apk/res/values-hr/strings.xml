@@ -2634,13 +2634,13 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
-  <string name="power_charging">%1$d%% – %2$s</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$d%% – %2$s do napunjenosti</string>
   <string name="power_charging_duration_ac">%1$d%% – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$d%% – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$d%% – %2$s do napunjenosti bežičnim putem</string>
   <string name="power_discharge_remaining">%1$s preostalo</string>
-  <string name="power_discharging_duration">%1$d%% – još približno %2$s</string>
+  <string name="power_discharging_duration">%1$s - još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
   <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a, mobilne podatkovne veze i korištenja GPS-a"</string>
   <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
@@ -3845,7 +3845,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
   <string name="tether_settings_title_wifi">Prijenosni hotspot</string>
   <string name="tethering_help_button_text">Pomoć</string>
-  <string name="tethering_settings_not_available">Promijeni postavke dijeljenja veze u zadanom prostoru</string>
+  <string name="tethering_settings_not_available">Promijeni postavke dijeljenja veze u Prvom prostoru</string>
   <string name="theme_settings_title">Teme</string>
   <string name="time_picker_title">Vrijeme</string>
   <string name="time_zone_auto_stub">Odabir Vremenske zone</string>
