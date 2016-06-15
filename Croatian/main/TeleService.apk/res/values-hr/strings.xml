@@ -45,6 +45,7 @@
   <string name="antispam_setting">Lista blokiranih</string>
   <string name="apn_settings">Nazivi pristupnih točaka</string>
   <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
+  <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="areacode_set_default">Zadano</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
   <string name="atr_enable">Obavijesti o prometu su uključene</string>
@@ -184,6 +185,7 @@
   <string name="callwait_open_hint">\"Poziv na čekanju\" je značajka koju pruža vaš operater. Ako dobijete obavijest o pogrešci, obratite se svom davatelju usluga kako bi bili sigurni da je ova značajka podržana.</string>
   <string name="can_not_use_for_not_data_sim">"(Ne mogu koristiti: Mora biti postavljeno kao zadana SIM kartica za podatke)"</string>
   <string name="cancel">Odustani</string>
+  <string name="can_not_call_self">"Ne mogu birati vlastiti broj"</string>  
   <string name="card_title_MOcall_forwarding">Odlazni poziv je proslijeđen</string>
   <string name="card_title_MTcall_forwarding">Dolazni poziv je proslijeđen</string>
   <string name="card_title_call_deflected">Poziv skrenut</string>
@@ -816,6 +818,7 @@ to start using Top-up package"</string>
   <string name="network_lte">LTE (preporučeno)</string>
   <string name="network_message">Mrežna poruka</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
+  <string name="network_unconnected_title">Pogreška mreže</string>
   <string name="network_settings_auto_select_title">Ručno odabrati mrežu?</string>
   <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
   <string name="network_settings_confirm_message">Vaš će uređaj prekinuti vezu s mrežom tijekom traženja dostupnih mreža.</string>

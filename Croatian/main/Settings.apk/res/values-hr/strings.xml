@@ -302,6 +302,12 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="auto_brightness_title">Prilagodljiva svjetlina</string>
   <string name="auto_caps">Autom. veliko poč. sl.</string>
   <string name="auto_caps_summary">Postavi veliko slovo na početku rečenice</string>
+  <string name="auto_disable_screenbuttons_ask">Pitaj za onemogućavanje</string>
+  <string name="auto_disable_screenbuttons_auto">Uvijek onemogući</string>
+  <string name="auto_disable_screenbuttons_cancel">Odustani</string>
+  <string name="auto_disable_screenbuttons_no">Nikad ne onemogućuj</string>
+  <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske tipke prilikom korištenja odabrane aplikacije. Dvaput dodirnite bilo koju navigacijsku tipku da ih ponovno omogućite.</string>
+  <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
   <string name="auto_launch_disable_text">Nema zadanih postavki.</string>
   <string name="auto_launch_enable_text">"Odlučili ste da se ta aplikacija pokreće prema zadanim postavkama za neke radnje."</string>
   <string name="auto_launch_label">Otvori prema zadanim postavkama</string>
@@ -1627,8 +1633,13 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
+  <string name="input_method_selector_always_hide_value">2</string>
+  <string name="input_method_selector_always_show_value">1</string>
+
   <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
   <string name="input_method_selector_show_automatically_title">"Automatski"</string>
+  <string name="input_method_selector_show_automatically_value">0</string>
+  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Postavke</string>
   <string name="input_method_settings_button">Postavke</string>
   <string name="input_methods_and_subtype_enabler_title">Odabir aktivnih načina unosa</string>
@@ -1923,7 +1934,10 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_confirm_button_text">"Potvrdi"</string>
   <string name="lockpattern_continue_button_text">Nastavi</string>
   <string name="lockpattern_need_to_confirm">Ponovno iscrtajte uzorak za potvrdu:</string>
+  <string name="lockpattern_need_to_unlock">Potvrdi spremljeni uzorak</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Pokušajte ponovno:</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje:</string>
   <string name="lockpattern_pattern_entered_header">Uzorak je snimljen</string>
   <string name="lockpattern_pattern_same_with_owner">Treba se razlikovati od zaporke za Drugi prostor</string>

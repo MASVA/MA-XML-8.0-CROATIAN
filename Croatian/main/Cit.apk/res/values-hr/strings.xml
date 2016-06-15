@@ -228,6 +228,11 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_recovery_signature_passed">Recovery potpis USPJEŠNO</string>
   <string name="cit_reset_check_summary">Ovo testiranje će ponovno pokrenuti uređaj. Svi dosadašnji podaci testiranja će biti izgubljeni.</string>
   <string name="cit_reset_check_title">Testiranje Ponovnog pokretanja</string>
+  <string name="cit_reset_ese_summary">Resetiraj eSE, sve vaše NFC bankovne kartice i prijenosne kartice biti će izbrisane.</string>
+  <string name="cit_reset_ese_title">Resetiraj eSE</string>
+  <string name="cit_reset_se">Resetiraj eSE</string>
+  <string name="cit_reset_se_nfc_closed">Nije uspjelo: NFC treba biti omogućen.</string>
+  <string name="cit_reset_se_start">Resetiranje eSE...</string>
   <string name="cit_reset_test">Testiranje</string>
   <string name="cit_right_button_light">Svjetlo desne tipke</string>
   <string name="cit_sd_fail">Došlo je do pogreške.</string>

@@ -596,6 +596,9 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB memoriji ponestaje prostora</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Prezentacija</string>
+  <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
+  <string name="snapshotsize_low_powermode">Razlučivost slika u Niskom načinu energije nije podržan. Veličina snimka videa će se koristiti.</string>
+  <string name="spaceIsLow_content">USB memoriji ponestaje prostora.</string>
   <string name="start_capture">U redu</string>
   <string name="success_message_import_from_account">Uspješno uvezeno</string>
   <string name="tags">Oznake</string>

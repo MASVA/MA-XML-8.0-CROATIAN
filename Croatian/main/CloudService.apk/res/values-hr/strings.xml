@@ -241,6 +241,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
  1.Koristite drugi račun
  2.Prenesite podatke u prvi prostor"</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>  
+  <string name="micloud_main_message_not_synced">%s podataka nije sinkr.</string>
   <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
   <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
   <string name="micloud_main_not_sync">Stavki %d čeka na sinkr.</string>

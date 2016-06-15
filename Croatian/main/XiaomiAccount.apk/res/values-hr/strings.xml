@@ -57,6 +57,7 @@
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="authorize_title">Autorizacija</string>
   <string name="barcode_add_account_prompt">Da dodate račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
@@ -87,6 +88,8 @@
   <string name="cta_declaration_message">"Da se prijavite na svoj Mi Račun morate se povezati s internetom. Usluge lokacije i sinkronizacija s Mi Cloud biti će uključena. Za izradu Sig. kopije vaših osobnih podataka, ova aplikacija treba pristup vašim kontaktima, SMS i MMS porukama, povijesti poziva i zapisima. Nećemo koristiti te podatke u komercijalne svrhe ili ih dijeliti s trećim stranama. Nakon prijave u Mi Račun, Mi VIP i Usluga broja će se povezati na internet."</string>
   <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_location_title">Trenutna lokacija</string>
+  <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
+  <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_device_btn">Ukloni</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
@@ -332,6 +335,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="phone_unknown">Nepoznato</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="qq">QQ</string>
+  <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
   <string name="remove_device_success_notice">Ako uklonite ovaj uređaj iz vaših pouzdanih uređaja, možda ćete morati ponovno ići na postupak provjere kada se prijavite.​</string>
   <string name="remove_trust_btn">Ukloni iz pouzdanih uređaja</string>
   <string name="remove_trust_notice">Ukloni iz pouzdanih uređaja i odjavi se</string>
@@ -375,4 +379,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="updated_nothing">Ažurirano</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
+  <string name="wipe_data_dialog_msg">%s će biti izbrisano ako nastavite.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane"</string>
 </resources>
