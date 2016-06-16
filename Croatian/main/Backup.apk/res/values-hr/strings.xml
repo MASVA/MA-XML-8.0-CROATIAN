@@ -301,7 +301,7 @@ Oslobodite najmanje %s."</string>
   <string name="trans_restoring_no_items">Sinkr. stavaka</string>
   <string name="trans_retry">Pokušaj ponovno</string>
   <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
-  <string name="trans_scan_qr_code_tips">Skeniraj QR kod koristeći novi uređaj</string>
+  <string name="trans_scan_qr_code_tips">Skeniraj QR kod na novom uređaju</string>
   <string name="trans_select_data">Odaberite podatke</string>
   <string name="trans_select_data_no_space">"Nema dovoljno prostora na novom uređaju.
  Odaberite datoteke ponovno ili oslobodite %s prostora na novom uređaju"</string>

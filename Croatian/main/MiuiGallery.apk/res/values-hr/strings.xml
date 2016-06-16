@@ -88,7 +88,7 @@
   <string name="associate_face_album">Odaberi album</string>
   <string name="auto_backup_introduce">Izradi Sig. kopiju fotografija i videozapisa automatski (potreban Mi Račun)</string>
   <string name="auto_update_face">Dodaj fotografije automatski</string>
-  <string name="auto_update_face_summary">Automatski usporedi i dodaj fotografije u Dječji album</string>
+  <string name="auto_update_face_summary">Automatski podudaraj i dodaj fotografije u Dječji album</string>
   <string name="auto_update_off">Isključeno</string>
   <string name="auto_update_on">Uključeno</string>
   <string name="auto_upload_before_share_message">Napravite Sig. kopiju ovog albuma na Mi Cloudu prije dijeljenja</string>
@@ -371,7 +371,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="ignore_album">"Ne prikazuj"</string>
   <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
-  <string name="image_download_item_title">Preuzmimanje datoteke (%s)</string>
+  <string name="image_download_item_title">Preuzmi fotografiju (%s)</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke fotografije i pokušajte ponovno.</string>
   <string name="impunity_declaration_settings">Obavijest povezivanja s internetom</string>
   <string name="impunity_declaration_summary">Prikaži obavijest povezivanja s internetom svaki put kad se otvori aplikacija Galerija</string>

@@ -175,6 +175,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="menu_bl_add_contact">Kontakti</string>
   <string name="menu_bl_add_manual">Dodaj</string>
   <string name="menu_bl_call_log">Prikaži blokirane pozive</string>
+  <string name="menu_bl_clear">Očisti listu blokiranih</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_bl_sms_log">Prikaži blokirane SMS</string>
   <string name="menu_call">Biraj</string>

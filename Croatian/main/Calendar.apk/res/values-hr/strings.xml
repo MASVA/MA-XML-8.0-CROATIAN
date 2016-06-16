@@ -237,7 +237,7 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Naziv događaja</string>
   <string name="hint_where">Lokacija</string>
-  <string name="holiday_label">Praznik</string>
+  <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>
@@ -265,7 +265,6 @@
   <string name="lunar_date">Mjesečev datum</string>
   <string name="match_ed">Završeno</string>
   <string name="match_ing">U tijeku</string>
-  <string name="match_not_started">Nije označeno</string>
   <string name="menu_about_preferences">O Kalendaru</string>
   <string name="menu_general_preferences">Općenito</string>
   <string name="menu_preferences">Postavke</string>
@@ -293,7 +292,6 @@
   <string name="monthly">Mjesečno</string>
   <string name="monthly_on_day">Mjesečno (na isti datum)</string>
   <string name="monthly_on_day_count" formatted="false">Mjesečno (%1$s %2$s)</string>
-  <string name="more_match">Više događaja</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratak uvod</string>
   <string name="my_subscribe_events">Moje pretplate</string>

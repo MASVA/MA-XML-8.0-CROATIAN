@@ -416,7 +416,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="handle_text_system">Sustav</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Pomoć</string>
-  <string name="hide_mode_app_background_setting_text">Ušteda baterije aplikacija</string>
+  <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za uštedu baterije"</string>
   <string name="hide_mode_title_text">Skriveni način</string>
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacija i usluge neće moći primati obavijesti."</string>
@@ -789,7 +789,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Planirano uklj./isklj.</string>
   <string name="power_center_battery_full">Baterija je potpuno napunjena</string>
-  <string name="power_center_charge_time">%1$s do potpune napunjenosti</string>
+  <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostalo</string>
   <string name="power_center_custom_title">Profili baterije</string>
