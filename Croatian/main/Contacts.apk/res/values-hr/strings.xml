@@ -248,7 +248,6 @@ Kartice kontakata su isključene"</string>
   <string name="contactsJoinedMessage">Kontakti su pridruženi</string>
   <string name="contactsList">"Kontakti"</string>
   <string name="contacts_hybrid_activity_label">Obnovi kontakte</string>
-  <string name="contacts_in_call_show">"%s video"</string>
   <string name="contacts_setting_title">Postavke kontakata</string>
   <string name="contacts_unavailable_add_account">Prijavite se na račun</string>
   <string name="contacts_unavailable_create_contact">Izradi novi kontakt</string>

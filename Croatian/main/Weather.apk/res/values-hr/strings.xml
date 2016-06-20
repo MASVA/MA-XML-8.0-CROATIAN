@@ -30,15 +30,15 @@
   <string name="app_name">Vrijeme</string>
   <string name="aqi_data_source">Powered by Caiyun Weather</string>
   <string name="aqi_desc">Indeks kvalitete zraka</string>
-  <string name="aqi_detail_24_hours">24 sata</string>
-  <string name="aqi_detail_5_days">5 dana</string>
+  <string name="aqi_detail_24_hours">Vremenska prognoza svakog sata</string>
+  <string name="aqi_detail_5_days">Dnevna prognoza</string>
   <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_no2">NO₂</string>
   <string name="aqi_detail_o3">O₃</string>
   <string name="aqi_detail_pm10">PM10</string>
   <string name="aqi_detail_pm25">PM2.5</string>
   <string name="aqi_detail_so2">SO₂</string>
-  <string name="aqi_detail_sub_title">Pojedinosti Indeksa kvalitete zraka</string>
+  <string name="aqi_detail_sub_title">AQI detalji</string>
   <string name="aqi_detail_subtitle">AQI %1$s</string>
   <string name="aqi_detail_title">Indeks kvalitete zraka</string>
   <string name="aqi_publish_source">Ažurirano u %1$s sa CNEMC</string>
@@ -52,10 +52,10 @@
   <string name="button_confirm">Dopusti</string>
   <string name="button_exit">Izlaz</string>
   <string name="button_not_allow">Odustani</string>
-  <string name="button_sure_abandon">Potvrditi odbacivanje promjena?</string>
+  <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="close">Zatvori</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
-  <string name="daily_forcast_drawer_on_top">%1$s-dnevna prognoza</string>
+  <string name="daily_forcast_drawer_on_top">%1$s dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Nema vjetra</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_temperature_connect"/>
@@ -66,7 +66,7 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
-  <string name="edit_alert_city_title"/>
+  <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
@@ -74,7 +74,7 @@
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Sada</string>
-  <string name="hourly_forecast_title">%1$s-satna prognoza</string>
+  <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Stvarni osjećaj %1$s°C</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -99,7 +99,13 @@
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Instaliraj</string>
-  <string name="international_detail_menu_title">Pojedinosti</string>
+  <string name="international_detail_menu_title">Detalji</string>
+  <string name="international_details_pressure_title">Tlak</string>
+  <string name="international_details_real_feel_title">STVARNI OSJEĆAJ®</string>
+  <string name="international_details_title">Detalji</string>
+  <string name="international_details_uv_index_title">UV Indeks</string>
+  <string name="international_details_wind_connect">%1$s %2$s</string>
+  <string name="international_details_wind_title">VJETAR</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_management">Lokacije</string>
@@ -107,6 +113,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="menu_add_city">Uredi lokacije</string>
   <string name="menu_location">Lokacije</string>
   <string name="mi_pad2">latte</string>
+  <string name="more_details">Više detalja</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="no_data">--</string>
@@ -157,5 +164,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
+  <string name="weather_alert">Upozorenja vremena</string>
   <string name="wind_unit">%1$skm/h</string>
 </resources>

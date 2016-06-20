@@ -33,7 +33,7 @@
   <string name="callFailed_userBusy">Linija zauzeta</string>
   <string name="callUnanswered_forwarded">Proslijeđen neodgovoren poziv</string>
   <string name="call_button_dialer_text">Tipkovnica</string>
-  <string name="call_button_tools_text">Značajka</string>
+  <string name="call_button_tools_text">Značajke</string>
   <string name="call_contacts_deny_permission_msg">"Odbili ste dopuštenje za čitanje kontakata ne mogu prikazati informacije o kontaktima."</string>
   <string name="call_description_recording">Snimanje…</string>
   <string name="call_extension_conference_mode">Konferencija</string>
@@ -79,6 +79,7 @@
   <string name="conference_call_single_description" formatted="false">%s itd. ukupno %s</string>
   <string name="conference_caller_info_name">"%1$s konferencijski poziv"</string>
   <string name="conference_caller_name_me">Ja</string>
+  <string name="conference_callers_exceeded">Premašen broj pozivatelja u konferenciji</string>
   <string name="contactPhoto">Slika kontakta</string>
   <string name="contacts_icon_label">Kontakti</string>
   <string name="default_area_code_setting">Zadani pozivni broj</string>
@@ -121,12 +122,12 @@
   <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
   <string name="incoming_answer_voice_text">Odgovor glasom</string>
   <string name="incoming_call_forwarded_title">Prosijedi dolazni poziv</string>
-  <string name="incoming_circle_text_answer">Odvijano odgovaranje</string>
-  <string name="incoming_circle_text_answer_p">Klizno odgovaranje</string>
-  <string name="incoming_circle_text_message">Odvijani SMS odgovor</string>
-  <string name="incoming_circle_text_message_p">Klizno SMS odgovaranje</string>
-  <string name="incoming_circle_text_reject">Odvijano odbijanje</string>
-  <string name="incoming_circle_text_reject_p">Klizno odbijanje</string>
+  <string name="incoming_circle_text_answer">Otpusti</string>
+  <string name="incoming_circle_text_answer_p">Povuci prema gore</string>
+  <string name="incoming_circle_text_message">Otpusti</string>
+  <string name="incoming_circle_text_message_p">Povuci prema gore</string>
+  <string name="incoming_circle_text_reject">Otpusti</string>
+  <string name="incoming_circle_text_reject_p">Povuci prema gore</string>
   <string name="ivr_menu_dialing_msg">Preusmjeravanje…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Idite na odabranu uslugu…[Automatsko ispravljanje pogrešaka je omogućeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Dodirnite %s</string>
@@ -196,7 +197,7 @@
   <string name="onscreen_close_preview_camera">Zatvori kameru</string>
   <string name="onscreen_hold_text">Zadrži</string>
   <string name="onscreen_merge_calls_text">Spoji pozive</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
+  <string name="onscreen_mi_support_calls_text">Mi Support</string>
   <string name="onscreen_mute_text">Utišaj</string>
   <string name="onscreen_note_calls_text">Bilješka</string>
   <string name="onscreen_rcs_text">Poruke</string>

@@ -54,7 +54,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Neblokirani brojevi</string>
   <string name="antispam_notificaiton_type_show_none">Nikad</string>
   <string name="antispam_notification_setting_title">Obavijesti</string>
-  <string name="antispam_xpace_text">Prebacite se na vlasnika prostora da napravite postavke za antispam</string>
+  <string name="antispam_xpace_text">Prebacite se na Prvi prostor da napravite postavke za antispam</string>
   <string name="app_name">Lista zabranjenih</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>

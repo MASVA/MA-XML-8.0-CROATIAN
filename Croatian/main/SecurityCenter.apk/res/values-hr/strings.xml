@@ -237,6 +237,8 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="continue_install">Instaliraj</string>
+  <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
+  <string name="convenient_summary">"Ne zahtijeva zaporku nakon što je 1 aplikacija je otključana"</string>
   <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovo.</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>

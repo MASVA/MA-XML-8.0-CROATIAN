@@ -82,6 +82,10 @@
         <item quantity="other">Kontakata s e-poštom (%1$d)</item>
         <item quantity="one">1 kontakt s e-poštom</item>
     </plurals>
+	<plurals name="hint_account_contacts">
+        <item quantity="other">Pronađeno %1$d</item>
+        <item quantity="one">Pronađen 1</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Favorita (%1$d)</item>
         <item quantity="one">%1$d favorit</item>

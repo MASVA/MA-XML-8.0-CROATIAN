@@ -223,6 +223,7 @@
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
   <string name="information_setting">Postavke vijesti</string>
+  <string name="install_sucess">%s uspješno instaliran</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
   <string name="item_title_process_mode">Odaberite radnju</string>

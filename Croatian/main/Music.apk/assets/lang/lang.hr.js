@@ -119,7 +119,7 @@
   "vip_renew_title":"Pretplata će uskoro isteči",
   "vip_renew_message":"Pretplata istječe sutra. Nakon toga ćete biti u mogućnosti streamati redovitu kvalitetu zvuka. Neke pjesme možda nisu dostupne zbog zahtjeva izdavačkih kuća.",
   "vip_auto_renew_title":"Obavijest plaæanja obnove",
-  "vip_auto_renew_message":"Plaćanje obnove pretlapte će provesti večeras. Pobrinite se da imate dovoljno Mi Kredita na vašem računu, ili će vaša pretplata isteći.",
+  "vip_auto_renew_message":"Plaćanje obnove pretplate će biti povučeno večeras. Pobrinite se da imate dovoljno Mi Kredita na vašem računu, ili će vaša pretplata isteći.",
   "vip_renew_notification_title":"Pretplata istječe sutra",
   "vip_renew_notification_message":"Morat ćete se ponovno pretplatiti nakon što istekne trenutna pretplata",
   "vip_auto_renew_notification_title":"Plaćanje obnove pretplate će provesti večeras",

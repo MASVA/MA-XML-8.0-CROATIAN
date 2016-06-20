@@ -9,7 +9,7 @@
   <string name="apply_default_font_tip">"I dalje koristiti trenutni font sustava?"</string>
   <string name="apply_font_btn_exclude">Ne sada</string>
   <string name="apply_font_btn_reboot">Ponovno pokreni</string>
-  <string name="apply_font_tip">"Ponovno pokrenite za primjenu fonta ove teme."</string>
+  <string name="apply_font_tip">"Ponovno pokrenite uređaj za primjenu fonta ove teme."</string>
   <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
   <string name="audio_duration_minutes_format">%1$d minu.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
@@ -82,6 +82,9 @@
   <string name="gift_use_confirmation_dlg_title">Poslati kao poklon?</string>
   <string name="gift_use_fail_dlg_title">Nešto nije u redu</string>
   <string name="gift_used">Poslano</string>
+  <string name="incompatible_dialog_message">Ova tema nije u potpunosti kompatibilna sa MIUI 8. Neki elementi mogu biti prikazani na pogrešan način.</string>
+  <string name="incompatible_dialog_ok">Shvaćam</string>
+  <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="live_wallpaper">Animirana pozadina</string>
   <string name="loading">Učitavam…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
@@ -308,16 +311,16 @@
   <string name="settings">Postavke</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Obavijesti</string>
-  <string name="theme_apply_audio_dialog_item_ringtone">melodija zvona</string>
-  <string name="theme_apply_failured">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
+  <string name="theme_apply_audio_dialog_item_ringtone">Melodija zvona</string>
+  <string name="theme_apply_failured">"Ne mogu postaviti pozadinu Zaklj. zaslona"</string>
   <string name="theme_apply_success">Zaklj. zaslon postavljen</string>
   <string name="theme_applying">Postavljanje…</string>
   <string name="theme_batch_update_all">Ažuriraj sve</string>
   <string name="theme_batch_update_dlg_content">Ažurirati %1$s i još ovoliko tema %2$d?</string>
-  <string name="theme_batch_update_dlg_content_single">Ažurirati %1$s sada?</string>
+  <string name="theme_batch_update_dlg_content_single">Ažurirati sada %1$s?</string>
   <string name="theme_batch_update_dlg_title">Ažuriranje teme…</string>
   <string name="theme_batch_updating_text">Ažuriram (%1$d)</string>
-  <string name="theme_bug_report">Izvješće grešaka</string>
+  <string name="theme_bug_report">Pov. informacije</string>
   <string name="theme_changed_failed_message">"Ne mogu postaviti temu"</string>
   <string name="theme_changed_message">Tema postavljena</string>
   <string name="theme_changing_dialog_title">Postavljanje teme…</string>
@@ -393,6 +396,6 @@
   <string name="wallpaper_loading_text">Samo tren…</string>
   <string name="wallpaper_set_as_both">Podesi oboje</string>
   <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>
-  <string name="wallpaper_set_as_lockscreen">Podesi za sliku zaklj.zaslona</string>
+  <string name="wallpaper_set_as_lockscreen">Podesi za Zaklj.zaslon</string>
   <string name="wallpaper_settings">Postavke slike pozadine</string>
 </resources>

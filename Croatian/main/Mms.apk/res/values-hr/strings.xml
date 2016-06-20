@@ -169,6 +169,7 @@
   <string name="fake_cell_alert_hint">Izgleda da je ova poruka poslana s broja telefona koji se razlikuje od onog prikazanog. Budite oprezni prema SMS-u koji sadrži financijske zahtjeve.</string>
   <string name="fake_cell_checking_hint">Sigurnosna provjera…</string>
   <string name="fake_cell_safe_hint">Ova poruka je sigurna</string>
+  <string name="fake_cell_timeout_hint">"Ne mogu provjeriti sigurnost"</string>
   <string name="fdn_check_failure">Poruke možete slati samo brojevima za fiksno biranje.</string>
   <string name="festival">Brzi odgovori</string>
   <string name="festival_continue">U redu</string>

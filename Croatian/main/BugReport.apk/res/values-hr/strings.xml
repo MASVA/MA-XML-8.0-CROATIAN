@@ -4,7 +4,7 @@
   <string name="action_submit">Pošalji</string>
   <string name="announcement">Pažnja</string>
   <string name="app_empty">"Nemate preuzetih aplikacija."</string>
-  <string name="app_label">Prijava grešaka</string>
+  <string name="app_label">Pov. informacije</string>
   <string name="app_name">Pov. informacije</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
@@ -17,7 +17,7 @@
   <string name="bugreport_tool_log_toast_generate_bugreport">Izrada izvješća o pogrešci (traje oko minutu)</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
-  <string name="cta_dialog_content">Ova aplikacijia treba povezivanje s internetom za normalan rad.</string>
+  <string name="cta_dialog_content">Ova aplikacija treba povezivanje s internetom da radi normalno.</string>
   <string name="cta_dialog_title">Povezivanje s internetom</string>
   <string name="cta_not_show_again">"Ne prikazuj ponovno"</string>
   <string name="default_text_view">TextView</string>
@@ -196,6 +196,7 @@
   <string name="pull_to_refresh_release_label">Otpustite za osvježiti</string>
   <string name="refresh">Osvježi</string>
   <string name="reply">Odgovori</string>
+  <string name="reply_failed">"Ne mogu odgovoriti"</string>
   <string name="report_miui">Izvješće pogreške</string>
   <string name="request_empty_data">Nema podataka</string>
   <string name="save_pic">Spremi</string>
