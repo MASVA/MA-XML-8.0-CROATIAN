@@ -52,11 +52,11 @@
   <string name="adblock_notification">Blokirano reklama %d</string>
   <string name="adblock_rules_not_updated_toast">"Ne mogu ažurirati"</string>
   <string name="adblock_rules_restore">Odblokiraj</string>
-  <string name="adblock_rules_updated_toast">Dovršeno</string>
+  <string name="adblock_rules_updated_toast">Uspješno ažurirano</string>
   <string name="adblock_websites_settings_empyt_hint">"Nemate blokiranih web stranica."</string>
   <string name="adblock_websites_settings_title">Blokirane stranice</string>
   <string name="add_bookmark_group">Dodaj grupu</string>
-  <string name="add_bookshelf_popup_text">Već ste stavili ovu knjigu na svoju policu</string>
+  <string name="add_bookshelf_popup_text">Dodano na policu</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
@@ -468,8 +468,8 @@ Napustiti ovu stranicu?"</string>
   <string name="paused_unknown">Pauzirano</string>
   <string name="paused_waiting_for_network">Čeka se povezivanje…</string>
   <string name="paused_waiting_to_retry">Ponovni pokušaj…</string>
-  <string name="pay_failed_toast">Plaćanje nije uspjelo</string>
-  <string name="pay_success_toast">Plaćanje je uspjelo</string>
+  <string name="pay_failed_toast">"Ne mogu dovršiti plaćanje"</string>
+  <string name="pay_success_toast">Uspješno plaćeno</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih prozora?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accessibility">Pristupačnost</string>

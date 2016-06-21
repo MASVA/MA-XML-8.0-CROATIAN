@@ -449,6 +449,8 @@ Razlog: \"%s\""</string>
   <string name="favorites_list_empty">Nema favorita</string>
   <string name="firewall_setting">Lista blokiranih</string>
   <string name="followed_yellowpage">Provjereni računi</string>
+  <string name="force_touch_miprofile">Kartica kontakta</string>
+  <string name="force_touch_new_contact">Novi kontakt</string>
   <string name="foundTooManyContacts">Pronađeno je više od (%d) kontakata</string>
   <string name="frequentList">Često</string>
   <string name="from_account_format">%1$s</string>

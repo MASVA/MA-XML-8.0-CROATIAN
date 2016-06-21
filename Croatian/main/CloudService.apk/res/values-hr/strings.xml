@@ -53,7 +53,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="connect_wlan">Povežite se na WLAN</string>
   <string name="contact">Kontakti</string>
   <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
-  <string name="detect_sim_card">Traži SIM karticu ponovno</string>
+  <string name="detect_sim_card">Traži SIM karticu</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="disable_find_device_success">"Pronađi uređaj" je isključeno.</string>
   <string name="enableAll">Sinkroniziraj sve</string>
