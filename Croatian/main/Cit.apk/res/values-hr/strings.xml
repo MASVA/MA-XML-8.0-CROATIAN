@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. prednjeg zvučnika mikrofona</string>
+  <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Kada je OTG uređaj umetnut, tekst \"USB OTG uređaj otkriven\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_OTG_plugin_check_title">OTG (otkrivanje)</string>
   <string name="cit_OTG_plugout_check_summary">Kada je OTG uređaj uklonjen, tekst \"USB OTG uređaja uklonjen\" bi trebao biti prikazan u nastavku.</string>
@@ -34,6 +34,7 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_calibrating">Kalibriranje u tijeku…</string>
   <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. prednjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija poziva</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje stražnjeg zvučnika mikrofona. 
@@ -232,7 +233,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_reset_ese_title">Resetiraj eSE</string>
   <string name="cit_reset_se">Resetiraj eSE</string>
   <string name="cit_reset_se_nfc_closed">Nije uspjelo: NFC treba biti omogućen.</string>
-  <string name="cit_reset_se_start">Resetiranje eSE...</string>
+  <string name="cit_reset_se_start">Resetiranje eSE…</string>
   <string name="cit_reset_test">Testiranje</string>
   <string name="cit_right_button_light">Svjetlo desne tipke</string>
   <string name="cit_sd_fail">Došlo je do pogreške.</string>
@@ -377,8 +378,14 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
 
 Okrenite uređaj, govorite u mikrofon u položaju prijemnika, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik. 
-  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. gornjeg mikrofona zvu&amp;#269;nika&lt;/string&gt;
-Okrenite ure&amp;#273;aj, govorite u gornji mikrofon, trebali bi &amp;#269;uti glas u zvu&amp;#269;niku"</string>
+  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. gornjeg mikrofona zvučnika&lt;/string&gt;
+Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje gornjeg mikrofona zvučnika</string>
   <string name="cit_yellow_torch_on">Uključite svjetiljku žute boje</string>
+  <string name="keyboard">KEY</string>
+  <string name="lcminfo">LCM informacije</string>
+  <string name="testing">Pokretanje AutoTesta…</string>
+  <string name="tp_color">TP Boja:</string>
+  <string name="tp_version">TP Verzija:</string>
+  <string name="waiting">Waiting for 4s.</string>
 </resources>

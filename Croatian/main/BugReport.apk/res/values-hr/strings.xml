@@ -105,7 +105,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Kamera</string>
   <string name="michat_back_to_detail">Natrag u chat</string>
-  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
+  <string name="michat_cant_join_artifical">"Ne mogu se povezati zbog pogreške mreže"</string>
   <string name="michat_check_network">Provjerite mrežne postavke</string>
   <string name="michat_close_text">Chat završen</string>
   <string name="michat_comment_net_error">"Ne mogu se povezati na mrežu, pokušajte ponovo kasnije"</string>
@@ -118,7 +118,7 @@
   <string name="michat_error_need_login_btn">Prijavite se</string>
   <string name="michat_error_need_login_text">Prijavite se da bi mogli koristiti online podršku</string>
   <string name="michat_failed_to_add_media">"Na žalost, ne mogu poslati %1$s"</string>
-  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
+  <string name="michat_failed_to_fetch_fql">"Ne mogu dobiti FAQ informacije, provjerite mrežnu vezu"</string>
   <string name="michat_feedback_title_name">Anketa povratne informacije</string>
   <string name="michat_finish_text">Gotovo</string>
   <string name="michat_in_artifical_customer_state">"Ne mogu ovo uraditi dok pomažem osobi"</string>
@@ -126,12 +126,12 @@
   <string name="michat_invation_invite_fail">Žao nam je, svi naši radnici su trenutno zauzeti. Pokušajte ponovno kasnije.</string>
   <string name="michat_invation_invite_full">Žao nam je, svi naši radnici su trenutno zauzeti. Pokušajte ponovno kasnije.</string>
   <string name="michat_kefu_welcome">Dobrodošli u Xiaomi online podršku!</string>
-  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
+  <string name="michat_lose_artifical">Došlo je do mrežne pogreške, napustili ste chat</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
   <string name="michat_mesage_resend_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="michat_mesage_send_error_network">"Ne mogu poslati, provjerite mrežnu vezu"</string>
   <string name="michat_message_copy_info">Kopirano u međuspremnik</string>
-  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_join_again">"Drago nam je da ste se vratili!"</string>
   <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Ja sam robot za online podršku."</string>
   <string name="michat_msg_image_upload_error">"Ne mogu poslati sliku, Pokušajte ponovno kasnije"</string>
   <string name="michat_msg_input_info">Opišite ukratko svoj problem</string>
@@ -146,7 +146,7 @@
   <string name="michat_pull_to_refresh_pull_label">Povucite dolje za prikaz povijesti</string>
   <string name="michat_pull_to_refresh_refreshing_label">Učitavanje povijesti…</string>
   <string name="michat_pull_to_refresh_release_label">Otpustite za prikaz povijesti</string>
-  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
+  <string name="michat_queue_pos_update">Postoji %1$d ososba ispred vas, pričekajte trenutak…</string>
   <string name="michat_return_to_outside">Izlaz</string>
   <string name="michat_service_unavailiable">"Ne mogu dobiti informacije, Pokušajte ponovno kasnije"</string>
   <string name="michat_skillset_business_type_title">Odaberite uslugu</string>
@@ -155,7 +155,7 @@
   <string name="michat_try_again">Pokušajte ponovno</string>
   <string name="michat_type_list_null">"Ne mogu dobiti informacije, Pokušajte ponovno kasnije"</string>
   <string name="michat_type_picture">Image</string>
-  <string name="michat_user_quit">您已离开会话</string>
+  <string name="michat_user_quit">Napustili ste chat</string>
   <string name="michat_wait_for_a_moment">Samo trenutak, pomoć je na putu!</string>
   <string name="michat_webview_title">Prikaži detalje</string>
   <string name="min_error">Vaš %1$s bi trebao biti duži.</string>

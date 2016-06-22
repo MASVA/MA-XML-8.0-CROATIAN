@@ -312,10 +312,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="filter">Filter</string>
   <string name="filter_a4_aesthetic">Pročišćeno</string>
   <string name="filter_clarendon_fresh">Svježe</string>
-  <string name="filter_crema_elegant">Krema</string>
+  <string name="filter_crema_elegant">Rustično</string>
   <string name="filter_f2_classic">Klasika</string>
   <string name="filter_food">Hrana</string>
-  <string name="filter_hudson_blues">Hudson</string>
+  <string name="filter_hudson_blues">Ledeno</string>
   <string name="filter_japan_style_cool">Cool</string>
   <string name="filter_loft_twilight">Twilight</string>
   <string name="filter_original">Nište</string>
@@ -696,7 +696,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_cancel">Odusatni</string>
   <string name="video_editor_done">Dovršeno</string>
   <string name="video_editor_down_load_later">Kasnije</string>
-  <string name="video_editor_down_load_no_wifi_tips">Možete preuzeti samo putem WLAN-a</string>
+  <string name="video_editor_down_load_no_wifi_tips">Povežite se na WLAN za preuzimanje</string>
   <string name="video_editor_down_load_now">Preuzmi</string>
   <string name="video_editor_encode_video">Kodiranje videozapisa…</string>
   <string name="video_editor_encode_video_error">"Ne mogu kodirati videozapis"</string>
@@ -718,7 +718,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takve video datoteke nisu podržane"</string>
   <string name="video_editor_ok">U redu</string>
-  <string name="video_editor_res_not_load_dialog_msg">Za korištenje ovog, morate preuzeti pakete resursa</string>
+  <string name="video_editor_res_not_load_dialog_msg">Preuzmite dodatak za korištenje ove značajke.</string>
   <string name="video_editor_res_not_load_dialog_title">Potrebno je preuzeti</string>
   <string name="video_editor_template_family">Obitelj</string>
   <string name="video_editor_template_forbidden_tips">"Ne mogu to učiniti kada koristite predložak"</string>

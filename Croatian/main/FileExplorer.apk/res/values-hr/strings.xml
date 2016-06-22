@@ -5,6 +5,7 @@
   <string name="account_login_title">Račun</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
+  <string name="activity_parse_video_title">Zalijepi URL</string>
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Preuzmi</string>
   <string name="ad_downloading">Samo trenutak…</string>
@@ -14,6 +15,8 @@
   <string name="add_task">Dodaj zadatak</string>
   <string name="all_topic">Sve teme</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
+  <string name="album_creator">Izradio %s</string>
+  <string name="album_name">Dnevni izbor: %s</string>
   <string name="already_liked">"Već ste označili ovu stavku"</string>
   <string name="already_signin_description">"Već ste se prijavili danas."</string>
   <string name="app_name">Datoteke</string>
@@ -176,6 +179,7 @@
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
+  <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
   <string name="empty_comment">"Komentari ne mogu biti prazni"</string>
   <string name="empty_file_download">"Ne mogu preuzeti prazne datoteke"</string>
@@ -248,6 +252,7 @@
   <string name="hot_comments">Aktualno</string>
   <string name="hot_sticker">Naljepnice</string>
   <string name="hot_video">Videozapisi</string>
+  <string name="hot_video_load_more">Više &gt;</string>
   <string name="hottest_sticker_str">Popularno</string>
   <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
@@ -255,6 +260,8 @@
   <string name="installing">Instaliranje…</string>
   <string name="instruction">Unesite adresu u FTP klijent: </string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
+  <string name="interest_recommend">Preporučeni videozapisi</string>
+  <string name="join_activity">Sudjeluj</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorija</string>
@@ -338,7 +345,7 @@
   <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
   <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
   <string name="midrop_send_files">Odaberite datoteke za slanje</string>
-  <string name="migrate_announcement_msg">Kuaipan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena.</string>
+  <string name="migrate_announcement_msg">Kuaipan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
   <string name="migrate_announcement_title">KuaiPan se zamjenjuje s Mi Drive</string>
   <string name="migrate_cancel">Odustani</string>
   <string name="migrate_confirm">Transfer</string>
@@ -582,7 +589,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="repair_error">"Ne mogu obnoviti"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
   <string name="repeat_upload_video">Ovaj je videozapis već podijeljen, odaberite neki drugi.</string>
-  <string name="reply_success">Komentar je uspješno poslan, biti će prikazan nakon odobrenja</string>
+  <string name="reply_success">Komentar dodan</string>
   <string name="report_abuse">Zlostavljanje</string>
   <string name="report_advertisement">Oglasi</string>
   <string name="report_other">Ostalo</string>
@@ -690,6 +697,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="stay_awake_summary">Zaslon se neće isključiti tijekom FTP prijenosa</string>
   <string name="stay_awake_title">Držite zaslon uključenim</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
+  <string name="storage_cloned_app">Prostor za pohranu za klonirane aplikacije</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
@@ -721,6 +729,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_storage">POHRANA</string>
   <string name="tag_weixin_video">Video isječci</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>
   <string name="title_enable_documentsui">Uključi DocumentsUI</string>
   <string name="title_expire_video">O isteku</string>
@@ -756,6 +765,10 @@ oslobodili prostor.</string>
   <string name="ui_main_toast_operation_failed">"Ne mogu odznačiti %1$s"</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="unreviewed_video_cannot_share">Videozapisi trebaju biti pregledani prije dijeljenja	</string>
+  <string name="upload_external_action_hint">Zalijepi URL</string>
+  <string name="upload_external_notification_failed">"Ne mogu objaviti"</string>
+  <string name="upload_external_notification_success">Uspješno objavljeno</string>
+  <string name="upload_external_notification_title">Obajava u tijeku, pričekajte trenutak…</string>
   <string name="upload_failed">"Ne mogu učitati"</string>
   <string name="upload_file_toolarge_message">"%1$d je prevelika datoteka. Ne mogu učitati datoteke veće od 300 MB."</string>
   <string name="upload_local_video">Podijelite video isječak</string>
@@ -771,6 +784,7 @@ oslobodili prostor.</string>
   <string name="upload_video_dialog_message">"Vaš videozapis će biti istaknut nakon provjere."</string>
   <string name="upload_video_dialog_title">Videozapis uspješno podijeljen</string>
   <string name="upload_video_failed">"Dijeljenje videozapisa nije uspjelo, pokušajte ponovo."</string>
+  <string name="upload_video_forbidden">"Ne učitavaj slične videozapise"</string>
   <string name="upload_video_success">Provjeravam videozapis…</string>
   <string name="upload_video_tip">"Ne mogu podijeliti više od 1 videozapisa odjednom"</string>
   <string name="uploading">Učitavanje…</string>
@@ -820,6 +834,13 @@ oslobodili prostor.</string>
   <string name="video_data_consumption_confirm">U redu</string>
   <string name="video_data_consumption_dialog_message">Učitavanje će trebati %1$s mob. podataka</string>
   <string name="video_data_consumption_dialog_title">Upozorenje mob. podataka</string>
+   <string name="video_parse_btn">Start</string>
+  <string name="video_parse_error_repeated">"Ne učitavaj slične videozapise"</string>
+  <string name="video_parse_error_unknown">"Ova video usluga nije podržana, pokušajte s drugom"</string>
+  <string name="video_parse_hint">Podržane aplikacije: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Uspješno pregledano</string>
+  <string name="video_parse_timeout">Nešto je pošlo po krivu, pokušajte ponovo</string>
+  <string name="video_parsing_btn">Pregled…</string>
   <string name="video_play_failed">Nepoznata pogreška</string>
   <string name="video_publish_hint">Dobar opis će pomoći drugim osobama da pronađu vaš videozapis</string>
   <string name="video_releasing">Učitavanje…</string>

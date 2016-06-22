@@ -128,16 +128,16 @@
         <item quantity="one">Odblokirati ovaj broj telefona?</item>
     </plurals>
     <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d osoba</item>
+        <item quantity="one">%1$d osoba</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Zvoni (%d) puta</item>
         <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d kontakata</item>
+        <item quantity="one">%1$d kontakt</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Ovoliko kontakata/fotografija (%d) nije sinkr."</item>

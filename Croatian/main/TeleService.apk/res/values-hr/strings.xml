@@ -1275,6 +1275,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
   <string name="simContacts_title">Odabir kontakata za uvoz</string>
+  <string name="simFdnContacts_empty">Nema kontakata za fiksno biranje.</string>
   <string name="sim_absent">Nema</string>
   <string name="sim_activated">Provjereno</string>
   <string name="sim_card_activate">Provjera SIM kartice</string>
