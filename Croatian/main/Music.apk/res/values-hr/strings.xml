@@ -303,6 +303,8 @@
   <string name="filter_by_size_prefix">"Sakrij datoteke manje od "</string>
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
   <string name="find_music">Traži pjesme</string>
+  <string name="force_touch_audio_picker">Odabir zvuka</string>
+  <string name="force_touch_play_local_music_random">Nasumično reproduciraj loklanu glazbu</string>
   <string name="follow">Prati</string>
   <string name="followed">Pratim</string>
   <string name="format_not_support">"Ovaj format nije podržan.</string>
@@ -354,6 +356,8 @@
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Učitavanje…</string>
   <string name="local_music">Izvanmrežno</string>
+  <string name="local_music_empty">Lokalni popis pjesama je prazan</string>
+  <string name="local_music_empty_goto_online">Nema pronađenih pjesama</string>
   <string name="local_music_is_not_available">Lokalna glazba nije dostupna.</string>
   <string name="local_tracks_short">Izvanmrežno</string>
   <string name="login_first">Prijavite se prvo u svoj Mi Račun</string>
