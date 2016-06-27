@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Podaci tri linije.</string>
   <string name="accessibility_data_two_bars">Podaci dvije linije.</string>
   <string name="accessibility_home">"Početna"</string>
+  <string name="accessibility_ime_switch_button">Promjeni tipku načina unosa</string>
   <string name="accessibility_managed_profile">Radni profil</string>
   <string name="accessibility_menu">"Izbornik"</string>
   <string name="accessibility_no_data">"Nema podataka."</string>

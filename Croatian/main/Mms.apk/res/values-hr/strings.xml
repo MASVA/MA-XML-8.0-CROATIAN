@@ -19,8 +19,8 @@
   <string name="add_slide_hint">Dodirnite za stvaranje novog slajda</string>
   <string name="add_smiley">Smješko</string>
   <string name="add_timing">Vrijeme</string>
-  <string name="add_to_browser_favorite_failed">Nije uspjelo</string>
-  <string name="add_to_browser_favorite_success">Uspjelo</string>
+  <string name="add_to_browser_favorite_failed">"Ne mogu dodati"</string>
+  <string name="add_to_browser_favorite_success">Uspješno dodano</string>
   <string name="add_video">Dodaj videozapis</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
@@ -495,8 +495,8 @@
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
   <string name="search_title_mms">Slanje poruka</string>
-  <string name="second_mms_introduction">Idite u Drugi prostor</string>
-  <string name="second_mms_switch">Promjeni korisnika</string>
+  <string name="second_mms_introduction">Idi u Drugi prostor</string>
+  <string name="second_mms_switch">Promjeni</string>
   <string name="secs">sek</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Pošiljatelj nije u vašim kontaktima.
  "&lt;/font&gt;</string>
@@ -549,7 +549,7 @@
   <string name="slide_number">Slajd %s</string>
   <string name="slide_show_part">Dio %1$s/%2$s</string>
   <string name="slideshow_activity">Dijaprojekcija</string>
-  <string name="sms_card_partner_label">"Sms kartica partnera: "</string>
+  <string name="sms_card_partner_label">"SMS kartica partnera: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Sadržaj poruke</string>
   <string name="sms_full_body">"Dolazna poruka odbijena: Nema dovoljno prostora na ovom uređaju."</string>
@@ -632,15 +632,15 @@ Provedeni pokušaj: %s."</string>
   <string name="unstick_conversation">Odznači trenutan razgovor</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
-  <string name="url_fraud_dangerous_alert">Web stranica koju pokušavate posjetiti možda je lažna, jeste li sigurni da želite nastaviti?
+  <string name="url_fraud_dangerous_alert">Web stranica koju pokušavate posjetiti može biti opasna. To bi moglo oštetiti vaš uređaj i podatke. Svejedno posjetiti?
 %s"</string>
   <string name="url_fraud_insurance">Osiguranje od prijevara</string>
-  <string name="url_fraud_risky_alert">"Web stranica koju pokušavate posjetiti možda je lažna, jeste li sigurni da želite nastaviti?
+  <string name="url_fraud_risky_alert">"Web stranica koju pokušavate posjetiti može biti opasna. To bi moglo oštetiti vaš uređaj i podatke. Svejedno posjetiti?
  %s"</string>
-  <string name="url_fraud_title">Moguća lažna stranica</string>
+  <string name="url_fraud_title">Web stranica je možda lažna</string>
   <string name="url_fraud_visit">&lt;u&gt;Posjeti svejedno&lt;/u&gt;</string>
   <string name="url_result_safe">Ova poveznica je sigurna</string>
-  <string name="url_scanning">Skeniranje poveznice…</string>
+  <string name="url_scanning">Provjera poveznice…</string>
   <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement3">" i "</string>

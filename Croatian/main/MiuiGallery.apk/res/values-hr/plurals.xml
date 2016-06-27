@@ -33,24 +33,24 @@
         <item quantity="one">Podijeljeno sa %d osobom</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-         <item quantity="other">Odabrane fotografije nisu na uređaju, preuzeti putem mobilnih podataka?</item>
-         <item quantity="one">Odabrana fotografija nije na uređaju, preuzeti putem mobilnih podataka?</item>
+         <item quantity="other">"Odabrane fotografije nisu na uređaju. Preuzeti ih putem mobilnih podataka?"</item>
+         <item quantity="one">"Odabrana fotografija nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
      </plurals>
      <plurals name="picker_all_origin_need_download">
-         <item quantity="other">Odabrane fotografije nisu na uređaju (%dMB), preuzeti putem mobilnih podataka?</item>
-         <item quantity="one">Odabrana fotografija nije na uređaju (%dMB), preuzeti putem mobilnih podataka?</item>
+         <item quantity="other">"Odabrane fotografije (%dMB) nisu na uređaju. Preuzeti ih putem mobilnih podataka?"</item>
+         <item quantity="one">"Odabrana fotografija (%dMB) nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
      </plurals>
      <plurals name="picker_all_image_will_download">
-         <item quantity="other">Odabrane fotografije nisu na uređaju, preuzimanje…</item>
-         <item quantity="one">Odabrana fotografija nije na uređaju, preuzimanje…</item>
+         <item quantity="other">"Odabrane fotografije nisu na uređaju. One će se preuzeti."</item>
+         <item quantity="one">"Odabrana fotografija nije na uređaju. Ona će se preuzeti."</item>
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
-         <item quantity="other">Preuzimanje %1$d fotografija nije uspjelo, pokušati ponovno?</item>
-         <item quantity="one">Preuzimanje 1 fotografije nije uspjelo, pokušati ponovno?</item>
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija, pokušati ponovno?"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju, pokušati ponovno?"</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
-         <item quantity="other">Preuzimanje %1$d fotografija (%2$dMB) nije uspjelo, pokušati ponovno?</item>
-         <item quantity="one">Preuzimanje 1 fotografije (%2$dMB) nije uspjelo, pokušati ponovno?</item>
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), pokušati ponovno?"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), pokušati ponovno?"</item>
      </plurals>
      <plurals name="picker_cancel_confirm_message">
          <item quantity="other">Otkazati preuzimanja preostalih %d fotografija?</item>

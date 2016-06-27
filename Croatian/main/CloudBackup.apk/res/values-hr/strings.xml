@@ -12,6 +12,7 @@
   <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč.zaslona, postavke sustava, itd.</string>
   <string name="backup_now">Izradi Sig. kopiju sada</string>
   <string name="backup_size">Veličina: %s</string>
+  <string name="backup_size_summary">Veličina: %1$s</string>
   <string name="backup_success">Sig. kopija uspješno napravljena</string>
   <string name="backup_successfully">Sig. kopija uspješno napravljena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>

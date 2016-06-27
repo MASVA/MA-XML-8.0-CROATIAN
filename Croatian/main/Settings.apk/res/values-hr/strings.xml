@@ -1521,7 +1521,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
   <string name="global_font_change_title">Promjena veličine fonta</string>
-  <string name="global_locale_change_title">Promjeni jezik</string>
+  <string name="global_locale_change_title">Promjena jezika</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
   <string name="google_wallet">Google novčanik</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>

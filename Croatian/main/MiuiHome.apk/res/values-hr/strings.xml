@@ -209,6 +209,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_notice">Preporučene aplik.</string>
+  <string name="recommend_apps_notice_nodata">Preporučene aplik. (Nema podataka)</string>
   <string name="recommend_apps_switch_title">Preporučene aplik.</string>
   <string name="recommend_apps_tips">"Ova značajka treba povezivanje na internet da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>

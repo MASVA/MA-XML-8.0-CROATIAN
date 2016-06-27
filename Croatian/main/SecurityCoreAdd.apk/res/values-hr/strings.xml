@@ -86,7 +86,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="import_contacts_desc">Napravite Uvezeni kontakte privatnim</string>
   <string name="import_contacts_suc">Uvezeni privatni kontakti</string>
   <string name="import_file_suc">Stavke uvezene u mape</string>
-  <string name="import_now">Izvoz</string>
+  <string name="import_now">Uvoz</string>
   <string name="import_photo">Uvezi fotografije</string>
   <string name="import_photo_desc">Prikaži dijeljene stavke u Drugom prostoru</string>
   <string name="import_photo_suc">Uvezene fotografije</string>
@@ -123,6 +123,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="private_space_setting">Upravljaj</string>
   <string name="public_app">Oba prostora</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
+  <string name="remove_second_space_msg">Svi podaci aplikacija Drugog prostora će biti izgubljeni nakon brisanja Drugog prostora. Izbrisati sada Drugi prostor?</string>
   <string name="removingSpace">Brisanje…</string>
   <string name="restore_normal_show">"Ne prikazuj privatne poruke"</string>
   <string name="restore_show_desc">"Ne prikazuj privatne poruke u Drugom prostoru. One će i dalje biti dostupne u Prvom prostoru."</string>

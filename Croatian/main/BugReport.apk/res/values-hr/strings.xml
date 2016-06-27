@@ -51,9 +51,9 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problem \"%2$s\"</string>
   <string name="feedback_collect_log_failed">"Ne mogu dobiti zapise"</string>
   <string name="feedback_description">Opis</string>
-  <string name="feedback_description_bugreport_hint">U nekim slučajevima () moj telefon se loše ponaša ().</string>
+  <string name="feedback_description_bugreport_hint">U nekim slučajevima (…) moj telefon se loše ponaša (…).</string>
   <string name="feedback_description_label">Opis</string>
-  <string name="feedback_description_suggest_hint">"Želio bih da dodate novu značajku () jer mi treba ()."</string>
+  <string name="feedback_description_suggest_hint">"Želio bih da dodate novu značajku (…) jer mi treba (…)."</string>
   <string name="feedback_detail_tile">Napredak</string>
   <string name="feedback_empty_report_list">Nema još prijava</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se sa svojim Mi Računom da biste vidjeli pojedinosti i napredak vašeg izvješća"</string>
