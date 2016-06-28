@@ -340,12 +340,12 @@
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Mi Drive treba povezivanje s internetom da radi normalno.</string>
   <string name="midrive_space_full">Nema dovoljno prostora na Mi Drive-u.</string>
-  <string name="midrive_welcome_message">Vaši su Kuaipan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
+  <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
   <string name="midrive_welcome_title">Dobrodošli na Mi Drive</string>
   <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
   <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
   <string name="midrop_send_files">Odaberite datoteke za slanje</string>
-  <string name="migrate_announcement_msg">Kuaipan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
+  <string name="migrate_announcement_msg">KuaiPan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
   <string name="migrate_announcement_title">KuaiPan se zamjenjuje s Mi Drive</string>
   <string name="migrate_cancel">Odustani</string>
   <string name="migrate_confirm">Transfer</string>
@@ -361,8 +361,8 @@
   <string name="migrate_success_msg">Sve su vaše datoteke uspješno premještene iz KuaiPana u Mi Drive.</string>
   <string name="migrate_success_title">Uspješno premješteno</string>
   <string name="migrate_update_confirm">Isprobajte sada</string>
-  <string name="migrate_update_msg">Kuaipan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
-  <string name="migrate_update_title">Kuaipan je zamijenjen s Mi Drive</string>
+  <string name="migrate_update_msg">KuaiPan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
+  <string name="migrate_update_title">KuaiPan je zamijenjen s Mi Drive</string>
   <string name="mobile_network_dialog_cancle">Odustani</string>
   <string name="mobile_network_dialog_confirm">U redu</string>
   <string name="mobile_network_dialog_tip">"Koristiti vašu mobilnu podatkovnu vezu za pregled ove stranice? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
