@@ -111,13 +111,13 @@ Dodirnite + da napravite mapu"</string>
   <string name="sns_desc_preview_wechat">Pregled WeChat poruke</string>
   <string name="sns_desc_preview_weibo">Pregled Weibo poruke</string>
   <string name="sns_footer_text">Kreirano s Mi Notes</string>
-  <string name="sns_hint_content">"Što vam je na umu?"</string>
+  <string name="sns_hint_content">Unesite poruku</string>
   <string name="sns_hint_title">Predmet (opcija)</string>
   <string name="sns_message_disconnect">"Ne mogu se povezati na mrežu. Provjerite vezu i pokušajte ponovno."</string>
   <string name="sns_title_edit">Uredi naslov</string>
   <string name="sns_title_send">Pošalji poruku</string>
   <string name="sns_toast_empty">"Ne mogu poslati praznu poruku"</string>
-  <string name="sns_toast_over_limit">Pošalji kao sliku (preko ograničenja teksta)</string>
+  <string name="sns_toast_over_limit">Pošalji kao sliku</string>
   <string name="sync_tips">Dodirnite za sinkr. bilješki s Mi Cloudom.</string>
   <string name="theme_title_antique">Jesen</string>
   <string name="theme_title_arty">Cvijeće</string>

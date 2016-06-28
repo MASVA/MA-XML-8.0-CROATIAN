@@ -201,7 +201,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="app_data_usage">Upotreba podataka za apl.</string>
   <string name="app_disable_dlg_positive">Onemogući aplikaciju</string>
   <string name="app_disable_dlg_text">Ako onemogućite ovu aplikaciju, druge aplikacije možda više neće funkcionirati pravilno.</string>
-  <string name="app_disable_dlg_title">Onemogući ugrađenu aplikaciju?</string>
+  <string name="app_disable_dlg_title">Onemogućiti ugrađenu aplikaciju?</string>
   <string name="app_disable_notifications_dlg_text">Ako isključite obavijesti za ovu aplikaciju, možda ćete propustiti važna upozorenja i ažuriranja.</string>
   <string name="app_disable_notifications_dlg_title">Isključiti obavijesti?</string>
   <string name="app_factory_reset">Deinstaliraj ažuriranja</string>
@@ -213,7 +213,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="app_forward_locked">Aplikacija ima zaštitu protiv kopiranja.</string>
   <string name="app_install_location_summary">Promijenite željenu lokaciju instalacije za nove aplikacije.</string>
   <string name="app_install_location_title">Željena lokacija instalacije</string>
-  <string name="app_invisible">Aplik. skrivena</string>
+  <string name="app_invisible">Nevidljive aplikacije</string>
   <string name="app_launch_domain_links_title">Veze aplikacije</string>
   <string name="app_launch_open_domain_urls_summary">Otvori bez postavljanja pitanja</string>
   <string name="app_launch_open_domain_urls_title">Otvori podržane veze</string>

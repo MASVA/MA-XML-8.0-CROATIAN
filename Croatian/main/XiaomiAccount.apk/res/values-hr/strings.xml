@@ -142,7 +142,7 @@
   <string name="micloud_space_info">%s dostupno</string>
   <string name="mili_center">Mi Krediti</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite zadani prostor Mi Računa."</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Mi Računa."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="my_device_title">Trenutan uređaj</string>

@@ -417,6 +417,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="login_and_enable_service">Prijavite se kako bi koristili Mi Cloud</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Dodirni &amp; zadrži za ponovno fokusiranje</string>
+  <string name="main_discard_confirm_message">Efekti nisu spremljeni, izaći?</string>
+  <string name="main_discard_negative_btn">Odbaci</string>
+  <string name="main_discard_positive_btn">Spremi &amp; Izađi</string>
+  <string name="main_save_error_msg">Došlo je do pogreške prilikom spremanja efekata</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novi album</string>
   <string name="menu_item_sort_date">Datumu</string>
@@ -566,6 +570,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_from_contact">Ime iz kontakata</string>
+  <string name="renren_description">Provided by RenRen</string>
   <string name="request_qr_code_failed">"Ne mogu dobiti QR kod"</string>
   <string name="request_sms_url_failed">"Ne mogu dobiti QR kod"</string>
   <string name="request_sms_url_msg">Traženje informacija…</string>
@@ -639,7 +644,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="sticker">Naljepnica</string>
   <string name="storage_no_space">Nema dovoljno prostora za pohranu</string>
   <string name="straighten">Prilagodi</string>
-  <string name="straighten_tooltip">Povucite fotografiju da je izravnate</string>
+  <string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
+  <string name="sub_discard_confirm_message">Spremiti trenutnu radnju?</string>
+  <string name="sub_discard_negative_btn">Odbaci</string>
+  <string name="sub_discard_positive_btn">Spremi</string>
   <string name="success_create_quick_icon_on_desk">Uspješno izrađeno</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
   <string name="sync_battery_low">Slaba baterija</string>
@@ -718,8 +726,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takve video datoteke nisu podržane"</string>
   <string name="video_editor_ok">U redu</string>
-  <string name="video_editor_res_not_load_dialog_msg">Preuzmite glazbene podloge za korištenje ove značajke.</string>
-  <string name="video_editor_res_not_load_dialog_title">Potrebno je preuzeti</string>
+  <string name="video_editor_res_download_failed_tips">"Ne mogu preuzeti, provjerite mrežne postavke i pokušajte ponovo"</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Preuzeti glazbene podloge putem mobilnih podataka?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Koristi mobilne podatke</string>
+  <string name="video_editor_res_not_load_dialog_msg">Preuzmite glazbene podloge za korištenje ove značajke (više od 20MB).</string>
   <string name="video_editor_template_family">Obitelj</string>
   <string name="video_editor_template_forbidden_tips">"Ne mogu to učiniti kada koristite predložak"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
