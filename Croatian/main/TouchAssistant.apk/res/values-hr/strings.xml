@@ -11,6 +11,7 @@
     <string name="function_settings">Postavke prečaca</string>
     <string name="hide_touch_assistant">Sakrij automatski</string>
     <string name="hide_touch_assistant_intro">Sakrij Izbornik Prečaca u odabranim aplikacijama.</string>
+	<string name="motion_behavior">Način kretanja</string>
     <string name="name_alipay_payment_code">Alipay Plaćanja</string>
     <string name="name_alipay_scan">Alipay skener</string>
 	<string name="name_long_press_power_key">Dugi pritisak na tipku paljenja</string>

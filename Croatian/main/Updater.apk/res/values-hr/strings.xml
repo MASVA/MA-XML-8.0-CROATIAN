@@ -54,6 +54,9 @@
      <string name="continue_update_negative_btn">Nastavi</string>
      <string name="continue_update_positive_btn">Zaustavi</string>
      <string name="daily_build">Dnevno izdanje</string>
+	 <string name="dialog_reboot_message">"MIUI sustav se ažurira. Ovaj proces može potrajati 5-20 minuta. Držite uređaj uključenim, i nemojte ga ponovno pokrenuti sve dok proces ažuriranja ne završi."</string>
+     <string name="dialog_reboot_title">Ažuriranje sustava</string>
+     <string name="dialog_reboot_yes">Ažuriraj</string>
      <string name="download_again">Pokušaj ponovno</string>
      <string name="download_cancel">Odustani</string>
      <string name="download_current_rom">Ponovno pokreni za primjenu ažuriranja</string>
