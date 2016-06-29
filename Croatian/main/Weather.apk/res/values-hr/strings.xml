@@ -79,6 +79,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="open">Otvori</string>
+  <string name="open_browser">Otvori u Pregledniku</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Vjetar</string>
