@@ -84,7 +84,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_recover_help">Obnovi bilješke</string>
   <string name="privacy_hint">Privatnost</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
-  <string name="recover_notes_hint">Otkrivene abnormalni podaci bilješki, pokušajte ih povratiti na i.mi.com</string>
+  <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>
   <string name="redo">Ponovi</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapu</string>
   <string name="search">Bilješke</string>

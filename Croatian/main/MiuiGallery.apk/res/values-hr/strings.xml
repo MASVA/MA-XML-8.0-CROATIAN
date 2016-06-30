@@ -417,10 +417,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="login_and_enable_service">Prijavite se kako bi koristili Mi Cloud</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Dodirni &amp; zadrži za ponovno fokusiranje</string>
-  <string name="main_discard_confirm_message">Efekti nisu spremljeni, izaći?</string>
+  <string name="main_discard_confirm_message">Imate nespremljenih promjena</string>
   <string name="main_discard_negative_btn">Odbaci</string>
   <string name="main_discard_positive_btn">Spremi &amp; Izađi</string>
-  <string name="main_save_error_msg">Došlo je do pogreške prilikom spremanja efekata</string>
+  <string name="main_save_error_msg">Ne mogu spremiti promjene zbog pogreške</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novi album</string>
   <string name="menu_item_sort_date">Datumu</string>
@@ -513,9 +513,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="phone_number_empty_alert">Dodaj broj telefona</string>
   <string name="photo">Fotografija</string>
   <string name="photo_edit_file_not_exits_tip">Preuzmite fotografiju prije uređivanja</string>
-  <string name="photo_editor_saving">Spremanje</string>
+  <string name="photo_editor_saving">Spremanje…</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u Galeriju"</string>
-  <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju.</string>
+  <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Odaberi iz kontakata</string>
@@ -645,7 +645,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="storage_no_space">Nema dovoljno prostora za pohranu</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
-  <string name="sub_discard_confirm_message">Spremiti trenutnu radnju?</string>
+  <string name="sub_discard_confirm_message">Spremiti promjene?</string>
   <string name="sub_discard_negative_btn">Odbaci</string>
   <string name="sub_discard_positive_btn">Spremi</string>
   <string name="success_create_quick_icon_on_desk">Uspješno izrađeno</string>

@@ -98,7 +98,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WLAN</string>
   <string name="apps_item_sign_dialog_content">\"%s\" potpis se razlikuje od verzije u App Store. Izbrisati ovu aplikaciju i instalirati službenu verziju? Napomena: instaliranje aplikacije s konfliktnim potpisom može dovesti do gubitka podataka aplikacija.</string>
-  <string name="apps_item_sign_dialog_title">Instaliraj službenu verziju aplikacije</string>
+  <string name="apps_item_sign_dialog_title">Instaliraj službenu aplikaciju</string>
   <string name="apps_item_sign_install_button_text">Zamijeni</string>
   <string name="apps_item_sms_default_set_success">Uspješno postavljeno!</string>
   <string name="apps_item_sms_reset_button_text">Vrati zadane postavke</string>
@@ -744,12 +744,12 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="path_applicationlock">Aplikacije sustava/Sigurnost</string>
   <string name="path_cleanmaster">Aplikacije sustava/Sigurnost/Čistač</string>
   <string name="path_monthreport">Aplikacije sustava/Sigurnost</string>
-  <string name="path_networkassistant_1">Aplikacije sustava/Sigurnost/Network assistant</string>
-  <string name="path_networkassistant_2">Aplikacije sustava/Sigurnost/Network assistant</string>
-  <string name="path_networkassistant_3">Aplikacije sustava/Sigurnost/Network assistant/Ušteda podataka</string>
-  <string name="path_networkassistant_4">Aplikacije sustava/Sigurnost/Network assistant/Test mreže</string>
+  <string name="path_networkassistant_1">Aplikacije sustava/Sigurnost/Uporaba podataka</string>
+  <string name="path_networkassistant_2">Aplikacije sustava/Sigurnost/Uporaba podataka</string>
+  <string name="path_networkassistant_3">Aplikacije sustava/Sigurnost/Uporaba podataka</string>
+  <string name="path_networkassistant_4">Aplikacije sustava/Sigurnost/Uporaba podataka/Test mreže</string>
   <string name="path_permcenter">Aplikacije sustava/Sigurnost/Dopuštenja</string>
-  <string name="path_powercenter">Aplikacije sustava/Sigurnost/Ušteda baterije</string>
+  <string name="path_powercenter">Aplikacije sustava/Sigurnost/Potrošnja baterije</string>
   <string name="path_securitycenter">Aplikacije sustava/Sigurnost</string>
   <string name="path_securitycenter_settings">Aplikacije sustava/Sigurnost</string>
   <string name="pay_charge">Nadoplata dodatnih podataka</string>
@@ -925,7 +925,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_save_mode_end_time">Kraj</string>
   <string name="power_save_mode_ontime_enabled">Raspored vremena za promjenu načina rada</string>
   <string name="power_save_mode_start_time">Početak</string>
-  <string name="power_save_mode_summary" formatted="false">Nadziri pozadinske procese, isključi sinkronizaciju i sakrij animacije sustava. Ušteda baterije će se automatski isključiti kad je baterija 60% ili 100% napunjena.</string>
+  <string name="power_save_mode_summary" formatted="false">Nadziri pozadinske procese i isključi sinkronizaciju. Ušteda baterije će se automatski isključiti kad je baterija 60% ili 100% napunjena.</string>
   <string name="power_save_on_time_auto_save_title">Odabir rasporeda profila</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
@@ -1095,7 +1095,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="resource_networkassistant_2">Kalibriraj podatkovni plan</string>
   <string name="resource_networkassistant_4">Test mreže</string>
   <string name="resource_permcenter">Dopuštenja</string>
-  <string name="resource_powercenter">Ušteda baterije</string>
+  <string name="resource_powercenter">Potrošnja baterije</string>
   <string name="resource_securitycenter">Sigurnost</string>
   <string name="resource_securitycenter_settings">Sigurnost</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Isključiti Uštedu podataka i ograničiti podatke u pozadini?"</string>
@@ -1103,8 +1103,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="result_autoscan_info">Automatski nadziraj okruženje sustava kada su aplikacije za plaćanje pokrenute</string>
   <string name="result_sign_header">Pronađeno %d neslužbenih aplikacija</string>
   <string name="result_sms_header">Otkriveni rizici poruka</string>
-  <string name="result_sms_info_antispam">Otvori Antispam da spriječite zlonamjerne poveznice</string>
-  <string name="result_sms_info_auth">Molimo ograničite pristup stranim aplikacijama kodovima za potvrdu.</string>
+  <string name="result_sms_info_antispam">Uključite Antispam da zaštitite uređaj od zlonamjernih poveznica</string>
+  <string name="result_sms_info_auth">Ograničite pristup stranim aplikacijama kodovima za potvrdu.</string>
   <string name="result_sms_title_antispam">Prijetnja od zlonamjernih SMS i poveznica</string>
   <string name="result_sms_title_auth">Postoji rizik otkrivanja financijskih SMS-a</string>
   <string name="result_virus_header">Pronađeno %d virusa i nesigurnih aplikacija</string>
@@ -1137,12 +1137,12 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="safe_result_item_info_app_sign">Nema neslužbenih aplikacija</string>
   <string name="safe_result_item_info_app_virus">Nema virusa i rizičnih aplikacija</string>
   <string name="safe_result_item_info_sms_auth">Ograniči pristup stranim aplikacijama kodovima za potvrdu</string>
-  <string name="safe_result_item_info_sms_default">Vrati zadanu aplikaciju za razmjenu poruka</string>
-  <string name="safe_result_item_info_sms_url">Protection from malicious message URLs</string>
-  <string name="safe_result_item_info_system_antivirus">Protection from the phishing virus</string>
+  <string name="safe_result_item_info_sms_default">Promjeni na zadanu aplikaciju za slanje poruka</string>
+  <string name="safe_result_item_info_sms_url">Zaštita od zlonamjernih poruka URL-ova</string>
+  <string name="safe_result_item_info_system_antivirus">Zaštita od virusa krađe identiteta</string>
   <string name="safe_result_item_info_system_root">ROOT siguran</string>
   <string name="safe_result_item_info_system_scan">Nadziranje plaćanja je uključeno</string>
-  <string name="safe_result_item_info_system_version">Sustav ima najnoviju verziju</string>
+  <string name="safe_result_item_info_system_version">MIUI Sustav je ažuran</string>
   <string name="safe_result_item_info_wifi_arp">Nema ARP napada</string>
   <string name="safe_result_item_info_wifi_connection">WLAN povezan</string>
   <string name="safe_result_item_info_wifi_dns">DNS poslužitelj siguran</string>
@@ -1205,15 +1205,15 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_back_title_text_zero">Osiguraj</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
-  <string name="sp_safe_score_text">Plaćanje sigurno</string>
+  <string name="sp_safe_score_text">Plaćanje je sigurno</string>
   <string name="sp_scan_item_monitor">Nadziranje plaćanja</string>
   <string name="sp_scan_item_url_antispam">Zaštita od zlonamjernih poveznica</string>
   <string name="sp_settings_group_title_ime">Osiguraj IME postavke</string>
   <string name="sp_settings_group_title_omit">Omitted stavke</string>
-  <string name="sp_settings_info_input_method">Using system input method in payment apps</string>
-  <string name="sp_settings_info_monitor">Monitor system environment when payment apps are started</string>
-  <string name="sp_settings_plugin_monitor_summary">Scanning when payment plugIns are started in any apps</string>
-  <string name="sp_settings_plugin_monitor_title">Payment plugIn Monitoring</string>
+  <string name="sp_settings_info_input_method">Korištenje načina unosa sustava u aplikacijama za plaćanje</string>
+  <string name="sp_settings_info_monitor">Nadziri sustav okruženja kada su aplikacije za plaćanje pokrenute</string>
+  <string name="sp_settings_plugin_monitor_summary">Skeniraj kada se dodaci plaćanja pokrenuti u aplikacijama</string>
+  <string name="sp_settings_plugin_monitor_title">Dodaci nadzora plaćanja</string>
   <string name="sp_settings_root_title_omit">ROOT provjera</string>
   <string name="sp_settings_title_input_method">Osiguraj IME</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
@@ -1396,7 +1396,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="toast_reject_sms_read_permission_success">Set successfully!</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>
-  <string name="toast_set_success">Uspješno otvoreno!</string>
+  <string name="toast_set_success">Uspješno uključeno!</string>
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
   <string name="toast_show_notification">Prikvačeno u panel obavijesti</string>
@@ -1555,12 +1555,12 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="wifi_item_title_connection">WLAN veza</string>
   <string name="wifi_item_title_dns">Sigurnost DNS poslužitelja</string>
   <string name="wifi_item_title_encryption">WLAN šifriranje</string>
-  <string name="wifi_item_title_fake">Otkriven lažni WLAN</string>
+  <string name="wifi_item_title_fake">Otkrij lažni WLAN</string>
   <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obavijesti Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"No mobile data available on your Mi Data plan. Switched to your carrier's data plan."</string>
-  <string name="xiaomi_traffic_pass_expiry_date">Active until %s</string>
+  <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Using</string>
   <string name="xiaomi_traffic_pass_not_current_simcard">Switch mobile data cards to use Mi Data plan. Switch now?</string>
   <string name="xiaomi_traffic_pass_not_support">"Your mobile carrier doesn't support this feature"</string>
