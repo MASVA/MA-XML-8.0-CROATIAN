@@ -44,7 +44,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="create_space_loading">Izrada Drugog prostora…</string>
   <string name="creating_app_icon">Izrada ikone…</string>
   <string name="dataSafe">Korištenje Drugog prostora je kao da imate dva uređaja.</string>
-  <string name="declare_dialog_title">O kloniranim aplikacijama</string>
+  <string name="declare_dialog_title">O Dvojnim aplikacijama</string>
   <string name="deleteAll">Izbriši sve</string>
   <string name="deleteDataConfirm">Sve stavke biti će izbrisani</string>
   <string name="deleteDataDes">"Niste odabrali stavke za premještanje. Nećete biti u mogućnosti vratiti stavke nakon što ih izbrišete."</string>
@@ -198,16 +198,16 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="tryNow">Isprobajte sada</string>
   <string name="wating">Samo trenutak…</string>
   <string name="xspace_chocie">Ostale aplikacije</string>
-  <string name="xspace_creating">Kloniranje aplikacije…</string>
-  <string name="xspace_description">Klonirajte aplikacije da ih koriste odvojeno. Klonirane aplikacije će imati određene ikone Početnog zaslona.</string>
-  <string name="xspace_header">Klonirane aplikacije</string>
+  <string name="xspace_creating">Izrada dvojne aplikacije…</string>
+  <string name="xspace_description">Izradite dvojne aplikacije da ih koriste odvojeno. Dvojne aplikacije će imati određene ikone Početnog zaslona.</string>
+  <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na Početni zaslon</string>
   <string name="xspace_installing">Instaliranje…</string>
   <string name="xspace_introduce">Preporučeno</string>
-  <string name="xspace_label">Klonirane aplikacije</string>
+  <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Učitavanje aplikacija…</string>
-  <string name="xspace_uninstall_completed">Klonirana aplikacije uspješno deinstalirana</string>
-  <string name="xspace_uninstall_dialog_content">Deinstalacija klonirane aplikacije će ukloniti sve podatke aplikacije.</string>
-  <string name="xspace_uninstall_dialog_title">Deinstaliraj kloniranu aplikaciju</string>
+  <string name="xspace_uninstall_completed">Dvojna aplikacija uspješno deinstalirana</string>
+  <string name="xspace_uninstall_dialog_content">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
+  <string name="xspace_uninstall_dialog_title">Deinstaliraj dvojnu aplikaciju</string>
   <string name="xspace_uninstalling">Deinstalacija…</string>
 </resources>

@@ -86,10 +86,11 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="details_title">%1$d od %2$d:</string>
   <string name="dialog_ok">U redu</string>
   <string name="dual_camera_lens_covered_toast">Objektiv je pokriven.</string>
-  <string name="dual_camera_low_constract_toast">Slabi kontrast može utjecati na Dvostruke efekte kamere.</string>
-  <string name="dual_camera_lowlight_toast">Slabo osvjetljenje može utjecati na Dvostruke efekte kamere.</string>
-  <string name="dual_camera_too_close_toast">Preblizu objektu za Dvostruke efekte kamere.</string>
-  <string name="dual_camera_use_hint">Dvostruki način kamere može snimiti blur efekat, udaljenost između kamere i objekta treba biti manja od dva metra</string>
+  <string name="dual_camera_low_constract_toast">Izgleda da je kontrast prenizak.</string>
+  <string name="dual_camera_lowlight_toast">"Izgleda kao da je premračno."</string>
+  <string name="dual_camera_too_close_toast">Kamera je preblizu objekta.</string>
+  <string name="dual_camera_use_hint">"Stereo način pomaže vam zamutiti pozadinu. 
+Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="effect_setting_top_text">Filteri</string>
   <string name="disable_video_snapshot_hint">Video snimka je onemogućena kada su uključeni specijalni efekti.</string>
   <string name="download_by_browser">Preuzmi putem preglednika</string>
@@ -500,6 +501,11 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="pref_settings_mode">Način rada kamere</string>
   <string name="pref_simple_hdr_entry_off">Isključeno</string>
   <string name="pref_simple_hdr_entry_on">Uključeno</string>
+  <string name="pref_skin_beautify_color_title">Ton</string>
+  <string name="pref_skin_beautify_eye_title">Oči</string>
+  <string name="pref_skin_beautify_intelligent_title">Smart</string>
+  <string name="pref_skin_beautify_slim_title">Slim</string>
+  <string name="pref_skin_beautify_smooth_title">Koža</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_focusmode_entry_auto">Dodir</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>

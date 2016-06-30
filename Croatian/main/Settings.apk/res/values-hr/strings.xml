@@ -2606,7 +2606,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_xiaomi_account">Postavke/Mi Račun</string>
   <string name="path_xiaomi_cloud_service">Aplikacije</string>
   <string name="path_xiaomi_money_service">Aplikacije</string>
-  <string name="path_xspace">Postavke/Klonirane aplikacije</string>
+  <string name="path_xspace">Postavke/Dvojne aplikacije</string>
   <string name="path_zen_mode_option_miui_silent">Postavke/Zvuk &amp; vibracija/Bešumni način</string>
   <string name="performance_category">Performanse</string>
   <string name="permission_detail_info">Detalji</string>
@@ -3282,7 +3282,7 @@ Za prikvačivanje zaslona:
   <string name="search_wifi_wapi_cert_uninstall">Deinstaliraj WAPI certifikat</string>
   <string name="search_wps_connect_title">WPS tipka</string>
   <string name="search_xiaomi_account">Mi Račun</string>
-  <string name="search_xspace">Klonirane aplikacije</string>
+  <string name="search_xspace">Dvojne aplikacije</string>
   <string name="search_zen_mode_option_miui_silent">Bešumni način</string>
   <string name="second_space">Drugi prostor</string>
   <string name="secure_keyguard_business_title">Postavi zaklj. zaslona</string>
@@ -3974,9 +3974,9 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="under_keyguard">Na zaključanom zaslonu</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="uninstall_text">Deinstaliraj</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Odgovarajuće klonirane aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Deinstalacija klonirane aplikacije će ukloniti sve podatke aplikacije.</string>
-  <string name="uninstall_xspace_app_dlg_title">Deinstalirati kloniranu aplikaciju?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
+  <string name="uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_app">Nepoznata aplikacija</string>
   <string name="unlock_backup_info_summary">Kada vas Otključavanje licem ne može vidjeti, kako želite otključati?</string>
@@ -4854,5 +4854,5 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="zone_auto_summaryOn">Upotrijebi vremensku zonu mreže</string>
   <string name="zone_list_menu_sort_alphabetically">Poredaj abecedno</string>
   <string name="zone_list_menu_sort_by_timezone">Poredaj po vremenskoj zoni</string>
-  <string name="xspace">Klonirane aplikacije</string>
+  <string name="xspace">Dvojne aplikacije</string>
 </resources>

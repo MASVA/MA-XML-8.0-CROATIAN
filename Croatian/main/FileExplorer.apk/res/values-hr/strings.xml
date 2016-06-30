@@ -475,7 +475,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
-  <string name="open_private_folder">Otpustite za prikaz skrivenih mapa…</string>
+  <string name="open_private_folder">Otpustite za prikaz skrivenih mapa</string>
   <string name="operate_confirm_in_3g">"Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove datoteke? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
   <string name="operating">Obrada…</string>
   <string name="operation_add_fav">Dodavanje u favorite…</string>
@@ -684,7 +684,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="shared_str">Podijelio %s</string>
   <string name="show_message">Morate preuzeti ovu datoteku prije nego što je možete otvoriti.</string>
   <string name="sign_description">Prijava…</string>
-  <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežno povezivanje."</string>
+  <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežnu vezu."</string>
   <string name="signin_success">"Prijavljeni ste!
 Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="slashes">/</string>
@@ -697,7 +697,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="stay_awake_summary">Zaslon se neće isključiti tijekom FTP prijenosa</string>
   <string name="stay_awake_title">Držite zaslon uključenim</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
-  <string name="storage_cloned_app">Prostor za pohranu za klonirane aplikacije</string>
+  <string name="storage_cloned_app">Prostor za pohranu za dvojne aplikacije</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>

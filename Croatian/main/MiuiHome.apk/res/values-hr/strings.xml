@@ -53,9 +53,9 @@
   <string name="cloud_app_restore_title">Na čekanju</string>
   <string name="configure_wallpaper">Postavke</string>
   <string name="confirm_btn_label">U redu</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonirane aplikacije će biti deinstalirati zajedno s ovima.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonirana aplikacija će biti deinstalirana zajedno s ovom.</string>
-  <string name="confirm_uninstall_dialog_title">Odgovarajuće klonirane aplikacije će biti uklonjene.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije će biti deinstalirati zajedno s ovima.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija će biti deinstalirana zajedno s ovom.</string>
+  <string name="confirm_uninstall_dialog_title">Odgovarajuće dvojne aplikacije će biti uklonjene.</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
@@ -255,9 +255,9 @@
   <string name="uninstall_result_other_failed" formatted="false">"Ne mogu deinstalirati %s i %d ostalih aplikacija"</string>
   <string name="uninstall_result_succeeded">Aplikacija deinstalirana</string>
   <string name="uninstall_result_two_failed">"Ne mogu deinstalirati %s i 1 ostalu aplikaciju"</string>
-  <string name="uninstall_with_xspace_dialog_message">Odgovarajuće klonirane aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
-  <string name="uninstall_xspace_dialog_message">Deinstalacija klonirane aplikacije će ukloniti sve podatke aplikacije.</string>
-  <string name="uninstall_xspace_dialog_title_format">Deinstaliraj kloniranu \"%s\"</string>
+  <string name="uninstall_with_xspace_dialog_message">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
+  <string name="uninstall_xspace_dialog_message">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
+  <string name="uninstall_xspace_dialog_title_format">Deinstaliraj dvojnu \"%s\"</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="unnamed_folder_name">Mapa bez naziva</string>
   <string name="wallpaper">Slika pozadine</string>
