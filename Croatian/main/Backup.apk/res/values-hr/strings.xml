@@ -141,7 +141,8 @@
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
-  <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak.."</string>
+  <string name="multi_user_mode_backup_message">"Ne mogu koristiti Si. kopiju u Multi-korisnik načinu. Isključite Multi-korisnik način za nastavak."</string>
+  <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste u Multi-korisnik načinu rada"</string>
   <string name="never">Nikad</string>
   <string name="new_backup">Izradi Sig. kopiju</string>

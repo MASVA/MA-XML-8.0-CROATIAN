@@ -76,7 +76,7 @@
   <string name="mortgage_tab_combining_loan">Kombinirano</string>
   <string name="mortgage_tab_commercial_loan">Komercijalno</string>
   <string name="mortgage_years_amount">Trajanje kredita</string>
-  <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu vašeg uređaja da radi normalno."</string>
+  <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
   <string name="network_confirm_title">Potrebno povezivanje s internetom</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Unesite svoj bonus prije poreza</string>

@@ -2,6 +2,6 @@
 <resources>
 <string-array name="motion_behavior_entries">
          <item>Klizanje</item>
-         <item>Klikanje</item>
+         <item>Dodir</item>
      </string-array>
 </resources>

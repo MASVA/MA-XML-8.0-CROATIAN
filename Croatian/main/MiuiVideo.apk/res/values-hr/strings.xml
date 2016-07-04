@@ -161,6 +161,7 @@
   <string name="file_error">Greška datoteke</string>
   <string name="file_not_exist">Datoteka ne postoji</string>
   <string name="filter">Filter</string>
+  <string name="finish_install">Uspješno instalirano</string>
   <string name="forecast">Vrijeme</string>
   <string name="forecast_empty_hint">Prazno</string>
   <string name="forecasts">Vrijeme</string>

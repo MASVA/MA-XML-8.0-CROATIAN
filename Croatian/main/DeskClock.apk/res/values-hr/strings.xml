@@ -75,6 +75,7 @@
   <string name="menu_item_sort_by_name">Poredaj po nazivu</string>
   <string name="minute">1 minuta</string>
   <string name="minutes">%s minuta</string>
+  <string name="more_settings">Više postavki</string>
   <string name="never">Jednom</string>
   <string name="oneshot_alarm">Izbriši nakon gašenja alarma</string>
   <string name="pause">Pauza</string>
@@ -83,8 +84,8 @@
   <string name="revert">Obnovi</string>
   <string name="set_alarm">Postavi alarm</string>
   <string name="settings">Postavke</string>
-  <string name="shutdown_alarm_disable_summary">Isključeno gašenje alarma</string>
-  <string name="shutdown_alarm_enable_summary">Uključeno gašenje alarma</string>
+  <string name="shutdown_alarm_disable_summary">Alarm neće se oglasiti nakon isključenja</string>
+  <string name="shutdown_alarm_enable_summary">Alarm će se oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>
   <string name="silent_alarm_summary">Bešumno</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>

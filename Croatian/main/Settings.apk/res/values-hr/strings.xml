@@ -1465,6 +1465,10 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="force_stop">Prisilno zaustavi</string>
   <string name="force_stop_dlg_text">Ako silom zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
+  <string name="force_touch">3D Touch</string>
+  <string name="force_touch_demo">Demo prikaz</string>
+  <string name="force_touch_enable">Omogući 3D Touch</string>
+  <string name="force_touch_enable_tips">"Dugi pritisak na ikonu aplikacije će prikazati izbornik prečaca aplikacije dok je 3D Touch omogućen."</string>
   <string name="forget">ZABORAVI</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
@@ -3596,7 +3600,8 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
   <string name="status_bar_settings_notification_priority">Prioritet</string>
   <string name="status_bar_settings_notification_priority_summary">Prikaži obavijesti na vrhu popisa</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Zvuk &amp; vibracija</string>
+  <string name="status_bar_settings_notification_sound">Zvuk</string>
+  <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>

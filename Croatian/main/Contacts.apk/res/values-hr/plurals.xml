@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">Nedavnih kontakata (%1$d)</item>
-        <item quantity="one">1 nedavni kontakt</item>
+        <item quantity="one">%1$d nedavni kontakt</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">Kontakata (%1$d)</item>
@@ -80,11 +80,11 @@
     </plurals>
     <plurals name="hint_search_emails">
         <item quantity="other">Kontakata s e-poštom (%1$d)</item>
-        <item quantity="one">1 kontakt s e-poštom</item>
+        <item quantity="one">%1$d kontakt s e-poštom</item>
     </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">Pronađeno %1$d</item>
-        <item quantity="one">Pronađen 1</item>
+        <item quantity="one">Pronađen %1$d</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Favorita (%1$d)</item>
@@ -100,11 +100,11 @@
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Izbrisati (%d) kontakte</item>
-        <item quantity="one">Izbriši kontakt</item>
+        <item quantity="one">Izbriši %d kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d osoba</item>
-        <item quantity="one">1 osoba</item>
+        <item quantity="one">%d osoba</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">Uvezeno (%1$d) kontakata</item>
@@ -121,11 +121,11 @@
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blokirati ove (%1$d) brojeve telefona?</item>
-        <item quantity="one">Blokirati ovaj broj telefona?</item>
+        <item quantity="one">Blokirati (%1$d) broj telefona?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Odblokirati ove (%1$d) brojeve telefona?</item>
-        <item quantity="one">Odblokirati ovaj broj telefona?</item>
+        <item quantity="one">Odblokirati (%1$d) broj telefona?</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">%1$d osoba</item>
