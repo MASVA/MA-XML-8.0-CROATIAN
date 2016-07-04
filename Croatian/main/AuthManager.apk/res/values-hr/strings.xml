@@ -263,6 +263,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="Privacy_App_Uninstall">Deinstaliraj</string>
   <string name="Privacy_Perm_Count">%1$d dopušteno | %2$d odbijeno</string>
   <string name="Su_Enable_Dialog">%1$s traži ROOT pristup.</string>
+  <string name="Su_Package_Forbidden2">"nema ROOT pristup."</string>
   <string name="Su_Unavailable">ROOT pristup nije dostupan u ovoj MIUI verziji. Instalirajte MIUI developer verziju za dobivanje ROOT pristupa.</string>
   <string name="SysOpt_Boost_AutoStart">Dopuštenja autom. pokretanja</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatsko pokretanje</string>
@@ -284,6 +285,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="permission_group_title_settings_related">Postavke</string>
   <string name="permission_request_title">Zahtjev dopuštenja</string>
   <string name="permission_warning_template">Dopustiti %1$s %2$s ?</string>
+  <string name="permisson_reject_notice_toast_text2">"nema dopuštenje za %1$s."</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno Prekrivanje zaslona</string>
