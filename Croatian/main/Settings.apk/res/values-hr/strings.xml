@@ -2721,7 +2721,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="print_job_summary">"%1$s %2$s"</string>
   <string name="print_menu_item_add_printer">Dodaj pisač</string>
   <string name="print_menu_item_add_printers">Dodavanje pisača</string>
-  <string name="print_menu_item_add_service">+</string>
+  <string name="print_menu_item_add_service">Dodaj</string>
   <string name="print_menu_item_search">Pretraživanje</string>
   <string name="print_menu_item_settings">Postavke</string>
   <string name="print_no_printers_found">Nije pronađen nijedan pisač</string>

@@ -84,7 +84,7 @@
   <string name="revert">Obnovi</string>
   <string name="set_alarm">Postavi alarm</string>
   <string name="settings">Postavke</string>
-  <string name="shutdown_alarm_disable_summary">Alarm neće se oglasiti nakon isključenja</string>
+  <string name="shutdown_alarm_disable_summary">Alarm se neće oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_enable_summary">Alarm će se oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>
   <string name="silent_alarm_summary">Bešumno</string>
