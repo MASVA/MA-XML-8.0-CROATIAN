@@ -200,10 +200,14 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Veza je istekla. Pokušajte ponovno kasnije.</string>
   <string name="micloud_find_device_guide_micloud">Uključi sinkr. sa Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sink.  kontakte, fotografije, bilješke, i više sa Mi Cloudom</string>
-  <string name="micloud_find_device_guide_noti_content">Uključi</string>
-  <string name="micloud_find_device_guide_noti_title">Uključite Pronađi uređaj kako bi zaštitili svoje podatke, čak i kada izgubite svoj uređaj</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Uključite Pronađi uređaj kako bi osigurali svoje WeChat podatke</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Uključite Pronađi uređaj kako bi osigurali svoje Alipay podatke</string>
+  <string name="micloud_find_device_guide_noti_content">Zaštitite svoje podatke, čak i ako je uređaj izgubljen</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Vaši QQ podaci će biti sigurni, čak i ako izgubite svoj uređaj</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Vaši WeChat podaci će biti sigurni, čak i ako izgubite svoj uređaj</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Vaši Alipay podaci će biti sigurni, čak i ako izgubite svoj uređaj</string>
+  <string name="micloud_find_device_guide_noti_title">Uključi Pronađi uređaj</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ preporučuje da uključite Pronađi uređaj</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat preporučuje da uključite Pronađi uređaj</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay preporučuje da uključite Pronađi uređaj</string>  
   <string name="micloud_find_device_guide_progress">Isključivanje Pronađi uređaj…</string>
   <string name="micloud_find_device_guide_title">"Prijavite se u %s da pronađete, zaključate, 
 ili poništite svoj uređaj."</string>

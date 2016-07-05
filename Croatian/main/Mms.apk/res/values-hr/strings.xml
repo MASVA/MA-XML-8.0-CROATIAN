@@ -46,7 +46,8 @@
   <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>
   <string name="batch_deleting_progress_message">Brisanje odabranih niti poruke(a)</string>
   <string name="bcc_label">"Bcc: "</string>
-  <string name="block_messaging_entry_title">Blokirani SMS-i</string>
+  <string name="block_messaging_entry_title">Blokirani SMS-ovi</string>
+  <string name="block_support_text">Podržano od strane Antiy.</string>
   <string name="bookmark">Favoriti</string>
   <string name="bookmark_confirm_delete_message">Odabrana poruka će biti uklonjena iz favorita</string>
   <string name="bookmark_empty">Nema Oznaka</string>
