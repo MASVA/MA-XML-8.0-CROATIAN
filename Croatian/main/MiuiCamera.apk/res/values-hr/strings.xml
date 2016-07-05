@@ -238,6 +238,10 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Prosječan okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
   <string name="pref_camera_autoexposure_title">Postavke autom. ekspozicije</string>
+  <string name="pref_camera_beautify_entry_auto">Auto</string>
+  <string name="pref_camera_beautify_entry_high">Visoko</string>
+  <string name="pref_camera_beautify_entry_low">Nisko</string>
+   <string name="pref_camera_beautify_entry_normal">Srednje</string>
   <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Širenje</string>
@@ -439,10 +443,6 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_show_gender_age_entry_off">Isključeno</string>
   <string name="pref_camera_show_gender_age_entry_on">Prikaži godine i spol s uklj. Uljepšanjem</string>
   <string name="pref_camera_show_gender_age_title">Godine &amp; spol</string>
-  <string name="pref_camera_skinToneEnhancement_entry_auto">Auto poboljšanje</string>
-  <string name="pref_camera_skinToneEnhancement_entry_disable">Onemogući</string>
-  <string name="pref_camera_skinToneEnhancement_entry_enable">Omogući</string>
-  <string name="pref_camera_skinToneEnhancement_title">Poboljšanje boje kože</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Isklj.</string>
   <string name="pref_camera_snap_entry_take_movie">Snimanje: Kod isklj. zaslona pritisnite Glasnoća -</string>

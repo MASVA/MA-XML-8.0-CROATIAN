@@ -253,6 +253,7 @@ Kartice kontakata su isključene"</string>
   <string name="contacts_unavailable_create_contact">Izradi novi kontakt</string>
   <string name="contacts_unavailable_import_contacts">Uvezi kontakte iz datoteke</string>
   <string name="convenient_service">Usluge</string>
+  <string name="copy_number">Kopiraj</string>
   <string name="copy_text">Kopiraj u međuspremnik</string>
   <string name="createContactShortcutSuccessful">Widget za kontakte dodan je na vaš Početni zaslon</string>
   <string name="create_group_dialog_title">Izrada nove grupe</string>
@@ -1179,8 +1180,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="strequentList">Favoriti</string>
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
-  <string name="t9_search_guide_pinyin">Upišite 6 i 2 u potrazi za MASVA</string>
-  <string name="t9_search_guide_zhuyin">Upišite 6 i 2 u potrazi za MASVA</string>
+  <string name="t9_search_guide_pinyin_title1">Brzo pretraživanje kontakata pomoću unosu slova</string>
+  <string name="t9_search_guide_pinyin_title2">Unesite "6" i "2" za traženje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ario &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ASVA</string>
+  <string name="t9_search_guide_zhuyin_title1">Brzo pretraživanje kontakata pomoću unosu slova</string>
+  <string name="t9_search_guide_zhuyin_title2">Unesite "6" i "2" za traženje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ario &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ASVA</string>  
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Pridruži kontakte</string>
