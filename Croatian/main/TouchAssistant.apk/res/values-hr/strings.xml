@@ -11,6 +11,8 @@
     <string name="function_settings">Postavke prečaca</string>
     <string name="hide_touch_assistant">Sakrij automatski</string>
     <string name="hide_touch_assistant_intro">Sakrij Izbornik Prečaca u odabranim aplikacijama.</string>
+	<string name="hide_when_fullscreen">Pomakni u stranu kod cijelog zaslona</string>
+    <string name="hide_when_fullscreen_intro">Pomakni u stranu prilikom ulaska u cijeli zaslon.</string>
 	<string name="motion_behavior">Poželjne geste</string>
     <string name="name_alipay_payment_code">Alipay Plaćanja</string>
     <string name="name_alipay_scan">Alipay skener</string>
