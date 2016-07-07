@@ -30,16 +30,37 @@
     <string-array name="welcome_notes_content">
         <item>"Dobro došli u Bilješke
 "</item>
-        <item>"Dodirnite za stvaranje bilješke
-"</item>
-        <item>"Odaberite predloške
-"</item>
-        <item>"Napravite mape
-"</item>
+        <item>"Izradite bilješku
+Dodirnite + za izradu bilješke."</item>
+        <item>"Odaberite predložak
+Koristite predloške za promjenu pozadine i stilova svojih bilješki.
+Dodirnite desnu tipku na dnu bilješke da odaberete predložak."</item>
+        <item>"Izradite mape
+Organizirajte svoje bilješke u mapama.
+Postoje 2 načina za izradu mape:
+1. Dodirnite ikonu mape u gornjem desnom kutu, a zatim dodirnite +.
+2. Držite bilješku dok se ne pojavi skočni izbornik i odaberite \"Premjesti u\" - \"Nova mapa\"."</item>
         <item>"Sakrijte bilješke
+Zaštitite privatne bilješke sa zaporkom.
+Postoje 2 načina da sakrijete bilješku:
+1. Dodirnite tipku \"Više\" u gornjem desnom kutu bilješke i odaberite \"Sakrij\".
+2. Držite bilješku dok se ne pojavi skočni izbornik, a zatim odaberite \"Sakrij\".</item>
+        <item>"I još mnogo sjajnih značajki!		
+- Slike, kontrolne liste, podsjetnici.
+
+Dodavanje slike
+Dodirnite ikonu slike na dnu bilješku za dodavanje slike.
+Možete snimiti fotografiju ili je odabrati iz Galerije.
+Kada bilješka sadrži sliku, ta slika će biti korištena kao minijatura bilješke u mrežnom prikazu.
+
+Izrada kontrolne liste
+Potvrdni okvir je bitan element popisa obveza.
+Dodirnite ikonu potvrdnog okvira na dnu bilješke za dodavanje potvrdnog okvira u odlomak teksta.
+Označite potvrdni okvir kada je nešto obavljeno.
+
+Postavljanje podsjetnika
+Postavite podsjetnike izravno iz bilješki.
+Dodirnite tipku \"Više\" u gornjem desnom kutu bilješke, odaberite \"Podsjetnici\", postavite vrijeme.
 "</item>
-        <item>"I još više super značajki!
-  - Sinkronizacija s Mi Cloudom
-  - Postavite podsjetnike"</item>
     </string-array>
 </resources> 

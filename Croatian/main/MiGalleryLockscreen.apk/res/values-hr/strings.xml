@@ -13,7 +13,7 @@
   <string name="declaration_title">Uvjeti i Odredbe</string>
   <string name="hour_1">Svaki sat</string>
   <string name="hour_3">Svaka 3 sata</string>
-  <string name="lockscreen_magazine_summary">Kategorije</string>
+  <string name="lockscreen_magazine_summary">Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
   <string name="lockscreen_magazine_system_title">Zadano</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
