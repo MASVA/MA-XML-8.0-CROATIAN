@@ -222,6 +222,10 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Zadnje punjenje</string>
+  <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
+  <string name="charging_text_battery_perfect">Napunjeno</string>
+  <string name="charging_text_time_calculating">Izračun vremena punjenja…</string>
   <string name="chat_number">10 sati</string>
   <string name="chat_uint">" sati"</string>
   <string name="check_network_state">Provjeri status mreže</string>

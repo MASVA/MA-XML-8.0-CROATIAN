@@ -360,7 +360,7 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
-  <string name="email_setting">Postavke E-pošte</string>
+  <string name="email_setting">E-pošta</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">"Ne mogu pronaći račun"</string>

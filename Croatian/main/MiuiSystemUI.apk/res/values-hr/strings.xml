@@ -246,6 +246,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="screen_pinning_negative">Ne hvala</string>
   <string name="screen_pinning_positive">Razumijem</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>
+  <string name="screenshot_delete">Izbriši</string>
+  <string name="screenshot_delete_dlg_msg">Jeste li sigurni da želite izbrisati ovu snimku zaslona?</string>
+  <string name="screenshot_delete_dlg_title">Izbriši</string>
+  <string name="screenshot_dlg_cancel">Odustani</string>
+  <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">"Ne mogu napraviti snimak zaslona zbog ograničenog prostora za pohranu, ili to ne dopušta aplikacija ili vaša organizacija."</string>
   <string name="screenshot_long_screenshot">Pomakni</string>

@@ -2493,6 +2493,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
   <string name="path_equalizer">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Equalizer</string>
   <string name="path_font_settings">Postavke/Zaslon/Font sustava</string>
+  <string name="path_gesture_wakeup_title">Postavke/Zaslon/Dvaput dodirnite zaslon za buđenje</string>
   <string name="path_gps_settings">Postavke/Dodatne postavke/Privatnost/Lokacija</string>
   <string name="path_handy_mode_settings">Postavke/Dodatne postavke/Rad jednom rukom</string>
   <string name="path_home_key">Postavke/Dodatne postavke/Tipke/Početna</string>
@@ -2856,6 +2857,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="radioInfo_unknown">nepoznato</string>
   <string name="radio_controls_summary">Upravljanje značajkama WLAN, Bluetooth, Zrakoplovni način, mobilne mreže &amp; VPN-ovi</string>
   <string name="radio_controls_title">Više</string>
+  <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Odaberite radijsku frekvenciju</string>
   <string name="radio_info_call_redirect_label">Preusmjeravanje poziva:</string>
   <string name="radio_info_call_status_label">Status poziva:</string>
@@ -3162,6 +3164,7 @@ Za prikvačivanje zaslona:
   <string name="search_empty">Nema pronađenih rezultata</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">Font sustava</string>
+  <string name="search_gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="search_gps">GPS;Pristup lokaciji</string>
   <string name="search_handy_mode">Rad jednom rukom</string>
   <string name="search_hint">"Postavke pretraživanja"</string>

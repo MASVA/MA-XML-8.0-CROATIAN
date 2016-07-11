@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Provjera SIM-a…</string>
   <string name="add">Dodaj</string>
   <string name="addSimEntries">Dodaj SIM kontakt</string>
+  <string name="add_by_input">Dodaj unosom</string>
   <string name="add_fdn_contact">Dodaj broj za fiksno biranje</string>
+  <string name="add_from_contacts">Dodaj iz kontakata</string>
   <string name="add_sip_account">Dodavanje računa</string>
   <string name="add_vm_number_str">Dodaj broj</string>
   <string name="adding_fdn_contact">Dodavanje broja za fiksno biranje…</string>
@@ -1021,6 +1023,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="pin_progress_set_fdn_lock">Postavljanje FDN stanja zaključavanja…</string>
   <string name="pin_progress_set_icc_lock">Postavljanje ICC stanja zaključavanja…</string>
   <string name="pin_progress_unlock_icc">Otključavanje SIM kartice…</string>
+  <string name="please_enter_phone_number">Unesite broj telefona</string>
   <string name="please_connect_network_message">Povežite se na mrežu</string>
   <string name="please_connect_network_title">Nema mreže</string>
   <string name="please_login_mi_accout">Prijavite se</string>
