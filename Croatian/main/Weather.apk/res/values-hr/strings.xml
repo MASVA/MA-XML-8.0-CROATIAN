@@ -20,7 +20,9 @@
   <string name="activity_weathermain_locationg">Lociranje…</string>
   <string name="activity_weathermain_locationg_error">"Ne mogu locirati"</string>
   <string name="add_city">Dodaj</string>
+  <string name="alert_warning">Upozorenje</string>
   <string name="app_name">Vrijeme</string>
+  <string name="aqi_detail_unit">Jedinica:µg/m3(CO:mg/m3)</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
@@ -29,6 +31,7 @@
   <string name="button_not_allow">Odustani</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="close">Zatvori</string>
+  <string name="commercial">Komercijalno</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Nema vjetra</string>
@@ -44,6 +47,7 @@
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
+  <string name="index_item_install_now">Instaliraj sada</string>
   <string name="indices_desc_feel">Stvarni osjećaj %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -60,6 +64,7 @@
   <string name="indices_title_visibility">Vidljivost</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
+  <string name="information_set">Postavi Informaciju</string>
   <string name="install">Instaliraj</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>
@@ -83,6 +88,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Vjetar</string>
+  <string name="retry">Pokušaj ponovo</string>
+  <string name="set">Postavke</string>
   <string name="share">Podijeli</string>
   <string name="share_btn_cancel">Odustani</string>
   <string name="share_btn_confirm">Podijeli</string>
@@ -117,6 +124,9 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="tts_report_weather_desc"/>
   <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
+  <string name="unit">Jedinica</string>
+  <string name="unit_temperature">Jedinica temperature</string>
+  <string name="unit_wind">Jedinica vjetra</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

@@ -117,7 +117,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="back">Natrag</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="battery_capacity_title">Kapacitet baterije</string>
-  <string name="battery_charge_estimating">Izračunavam…</string>
+  <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napunjeno</string>
   <string name="battery_charging_prompt">Punjenje</string>
   <string name="battery_desc_apps">Baterija iskorištena aplikacijom</string>

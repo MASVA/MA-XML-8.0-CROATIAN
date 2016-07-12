@@ -187,6 +187,7 @@
   <string name="file_title">"Naziv: "</string>
   <string name="file_width_height">"Veličina: "</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Nove poruka</string>
   <string name="follow_finished">Broj praćenja</string>
   <string name="follow_forbidden">"Ne mogu pratiti ovaj broj"</string>
   <string name="forward_from">Proslijeđeno od:</string>

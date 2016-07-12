@@ -294,6 +294,9 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="find_on_page_next">Dalje</string>
   <string name="find_on_page_prev">Natrag</string>
   <string name="find_previous">Pronađi prethodno</string>
+  <string name="force_quick_search_title">Traži</string>
+  <string name="force_touch_bookmark_history_title">Oznake i Povijest</string>
+  <string name="force_touch_infoflow_title">Dnevne vijesti</string>
   <string name="geolocation_permissions_prompt_dont_share">Odbij</string>
   <string name="geolocation_permissions_prompt_message">%s želi znati vašu lokaciju</string>
   <string name="geolocation_permissions_prompt_remember">Zapamti prednosti</string>
