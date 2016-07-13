@@ -26,6 +26,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+  <string name="empty_recognition_tip">Prazno</string>
   <string name="error_app_internal">Provjerite da li druga aplikacija trenutno koristi značajku snimanja</string>
   <string name="error_app_internal_title">Snimanje zvuka greška</string>
   <string name="error_file_access">"Datoteka ne postoji ili je oštećena"</string>

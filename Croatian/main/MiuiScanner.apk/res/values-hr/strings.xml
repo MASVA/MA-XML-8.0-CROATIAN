@@ -100,7 +100,7 @@
   <string name="namecard_vendor_info">Powered by CamCard</string>
   <string name="nickname">Nadimak:</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="no_storage">Umetnite SD karticu prije korištenja kamere</string>
+  <string name="no_storage">Nema unutarnje pohrane</string>
   <string name="not_insert_contact">"Ne mogu dodati kontakt"</string>
   <string name="not_recommend_access_web_url">Gibaj odavde</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
@@ -110,7 +110,7 @@
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
   <string name="place_barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
-  <string name="preparing_sd">Priprema SD kartice…</string>
+  <string name="preparing_sd">Priprema unutarnje pohrane…</string>
   <string name="previous">Natrag</string>
   <string name="qr_code_details">Detalji QR koda:</string>
   <string name="recognize">Skeniraj</string>
@@ -123,7 +123,7 @@
   <string name="shopping_searching">Traženje…</string>
   <string name="shopping_title">Snimite fotografiju proizvoda</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
-  <string name="spaceIsLow_content">Nema dovoljno prostora na SD kartici. Oslobodite nešto prostora.</string>
+  <string name="spaceIsLow_content">Nema dovoljno prostora na unutarnjoj pohrani. Oslobodite nešto prostora.</string>
   <string name="study_report_title">Izvješće</string>
   <string name="study_rotate_picture">Obrada fotografije…</string>
   <string name="study_scan_result">Rezultat</string>

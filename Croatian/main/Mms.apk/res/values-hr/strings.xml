@@ -346,6 +346,7 @@
   <string name="network_error">Mrežna pogreška</string>
   <string name="networking_allow_continue">U redu</string>
   <string name="networking_allow_desc">"Smart poruke omogućuju vam slanje besplatnih poruka i glasa, prepoznati nepoznate brojeve, filtrirati neželjene poruke, itd. Korištenjem ove usluge slažete se Xiaomi %1$s i %2$s. Morate uključiti Yellow Pages povezati se s internetom za korištenje ove usluge."</string>
+  <string name="networking_allow_desc_without_mx">"Smart poruke omogućuju vam prepoznavanje nepoznatih brojeva, filtrirati neželjene poruke, itd. Korištenjem ove usluge slažete se Xiaomi %1$s i %2$s. Morate uključiti Yellow Pages i povezati se s internetom za korištenje ove usluge."</string>
   <string name="networking_allow_title">Pažnja</string>
   <string name="new_message">Nova poruka</string>
   <string name="new_message_arrived">Primljena nova poruka</string>
