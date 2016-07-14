@@ -46,7 +46,7 @@
   <string name="converting_to_picture_message">Pretvaranje u MMS…</string>
   <string name="converting_to_text_message">Pretvaranje u SMS…</string>
   <string name="copy_message_text">Kopiraj tekst</string>
-  <string name="copy_message_text_success">Tekst uspješno kopiran!</string>
+  <string name="copy_message_text_success">Tekst uspješno kopiran</string>
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">"Ne mogu spremiti privitak"</string>
   <string name="copy_to_sdcard_success">Privitak spremljen</string>
@@ -67,10 +67,10 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Dosegnuto je ograničenje veličine poruke.</string>
   <string name="failed_to_add_media">"U svoju poruku ne možete dodati ovaj naziv: %1$s."</string>
-  <string name="failed_to_resize_image">Nije promijenjena veličina slike.</string>
+  <string name="failed_to_resize_image">"Ne mogu promijeniti veličinu slike."</string>
   <string name="feedback_description_hint">Unesite povratnu informaciju ovdje</string>
   <string name="feedback_submit">Pošalji</string>
-  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom za normalan rad.</string>
+  <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom da radi normalno.</string>
   <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="file_create_time">"Izrađeno: "</string>
@@ -121,8 +121,8 @@
   <string name="mx_dspt">Pošaljite poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
   <string name="mx_enable">Mi Poruke</string>
   <string name="mx_msg">Mi Poruke</string>
-  <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
-  <string name="mx_on_sim_2">Mi Poruka sa SIM utora 2</string>
+  <string name="mx_on_sim_1">Mi Poruka sa SIM 1</string>
+  <string name="mx_on_sim_2">Mi Poruka sa SIM 2</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
   <string name="need_download">Sinkroniziram…</string>
   <string name="network_error">Pogreška mreže</string>
@@ -158,7 +158,7 @@
   <string name="pref_summary_hide_festival">Sakrij karticu Pozdravi za Ne kineski jezik</string>
   <string name="pref_summary_manage_sim_messages">Upravljaj porukama spremljenim na SIM kartici</string>
   <string name="pref_summary_mx_feedback">Prijavite pogreške i pošaljite povratne informacije.</string>
-  <string name="pref_summary_notification_body_enabled">Prikaži poruke na zaključanom zaslonu i panelu obavijesti</string>
+  <string name="pref_summary_notification_body_enabled">Prikaži poruke na Zaključanom zaslonu i Panelu obavijesti</string>
   <string name="pref_summary_show_recent_contacts">Prikaži popis nedavnih kontakata kod pisanja nove poruke</string>
   <string name="pref_system_title">Sustav</string>
   <string name="pref_time_auto_group_summary">Grupne poruke po vremenu</string>
@@ -171,7 +171,7 @@
   <string name="pref_title_hide_festival">Sakrij karticu Pozdravi</string>
   <string name="pref_title_manage_sim_messages">Upravljanje porukama SIM kartice</string>
   <string name="pref_title_miui_card">Pošalji putem kartice</string>
-  <string name="pref_title_notification_body_enabled">Prikaži obavijest na zaklj. zaslonu</string>
+  <string name="pref_title_notification_body_enabled">Prikaži obavijest na Zaklj. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Broj ponavljanja tona obavijesti</string>
   <string name="pref_title_show_recent_contacts">Nedavni kontakti</string>
   <string name="pref_title_vcard">Pošalji putem vCard</string>
@@ -229,8 +229,8 @@
   <string name="type_attachment">privitak</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">slika</string>
-  <string name="type_to_compose_text_enter_to_send">Upišite poruku</string>
-  <string name="type_to_compose_text_or_leave_blank">Upišite poruku ili ostavite prazno</string>
+  <string name="type_to_compose_text_enter_to_send">Unesite poruku</string>
+  <string name="type_to_compose_text_or_leave_blank">Unesite poruku ili ostavite prazno</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_title">Neisporučena poruka</string>
