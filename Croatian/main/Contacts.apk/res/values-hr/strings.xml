@@ -1181,9 +1181,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
   <string name="t9_search_guide_pinyin_title1">Brzo pretraživanje kontakata pomoću unosu slova</string>
-  <string name="t9_search_guide_pinyin_title2">Unesite "6" i "2" za traženje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ario &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ASVA</string>
+  <string name="t9_search_guide_pinyin_title2">Unesite 6 i 2 za traženje &lt;font fgcolor=""&gt;M&lt;/font&gt;ario &lt;font fgcolor=""&gt;M&lt;/font&gt;ASVA</string>
   <string name="t9_search_guide_zhuyin_title1">Brzo pretraživanje kontakata pomoću unosu slova</string>
-  <string name="t9_search_guide_zhuyin_title2">Unesite "6" i "2" za traženje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ario &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;ASVA</string>  
+  <string name="t9_search_guide_zhuyin_title2">Unesite 6 i 2 za traženje &lt;font fgcolor=""&gt;M&lt;/font&gt;ario &lt;font fgcolor=""&gt;M&lt;/font&gt;ASVA</string> 
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="titleJoinContactDataWith">Pridruži kontakte</string>

@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SDCard">SD Kartica</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Otkrivanje unutarnje SD kartice</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Unutarnja SD kartica nije dostupna</string>
+  <string name="SD_SDCard_available_szie">Dostupna veličina</string>
+  <string name="SD_SDCard_mounted">Otkrij SD karticu</string>
+  <string name="SD_SDCard_total_size">Ukupna veličina</string>
+  <string name="SD_SDCard_unmounted">SD kartica nije dostupna</string>
+  <string name="button_ok">U redu</string>
   <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Kada je OTG uređaj umetnut, tekst \"USB OTG uređaj otkriven\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_OTG_plugin_check_title">OTG (otkrivanje)</string>
@@ -378,14 +386,24 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
 
 Okrenite uređaj, govorite u mikrofon u položaju prijemnika, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje gornjeg mikrofona na zvučnik. 
-  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. gornjeg mikrofona zvučnika&lt;/string&gt;
+
 Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje gornjeg mikrofona zvučnika</string>
   <string name="cit_yellow_torch_on">Uključite svjetiljku žute boje</string>
+  <string name="error_app_internal">Interna pogreška aplikacije</string>
+  <string name="error_app_unsupported">Nepodržani format</string>
+  <string name="error_sdcard_access">Nije moguće pristupiti sustavu prostora!</string>
   <string name="keyboard">KEY</string>
   <string name="lcminfo">LCM informacije</string>
+  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC & SPK</string>
+  <string name="remove_headset_and_starttest">Uklonite slušalice i pritisnite start za testiranje</string>
+  <string name="speak_from_mic">Govorite u mikrofon, trebali bi čuti glas u zvučniku.</string>
+  <string name="start">Start</string>
+  <string name="testagain">Možete pritisnuti tipku HOME za ponovno testiranje</string>
   <string name="testing">Pokretanje AutoTesta…</string>
   <string name="tp_color">TP Boja:</string>
   <string name="tp_version">TP Verzija:</string>
-  <string name="waiting">Waiting for 4s.</string>
+  <string name="waiting">Pričekajte 4s.</string>
 </resources>

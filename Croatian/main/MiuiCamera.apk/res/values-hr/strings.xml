@@ -34,7 +34,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Odložite uređaj i
 iskoračite iz prikaza na trenutak"</string>
-  <string name="burst_shoot_exit_button_text">Isključi Brzo Okidanje</string>
+  <string name="burst_shoot_exit_button_text">Isključi kontiunirano slikanje</string>
   <string name="camera_disabled">Kamera je onemogućena</string>
   <string name="camera_error_title">Pogreška Kamere</string>
   <string name="camera_label">Kamera</string>
@@ -300,7 +300,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_exposuretime_entry_32s">32s</string>
   <string name="pref_camera_exposuretime_entry_4">1/4s</string>
   <string name="pref_camera_exposuretime_entry_4s">4s</string>
-  <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
+  <string name="pref_camera_exposuretime_entry_500">1/500s</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
@@ -325,11 +325,12 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_front_fb_title">Poboljšanje nijanse kože</string>
-  <string name="pref_camera_gradienter_title">Gradijent</string>
+  <string name="pref_camera_gradienter_title">Izravnaj</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Uživo</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
+  <string name="pref_camera_hdr_entry_off">Isklj.</string>
   <string name="pref_camera_hdr_entry_off">Isključeno</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
@@ -344,14 +345,19 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_histogram_entry_enable">Uključi</string>
   <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
-  <string name="pref_camera_iso_entry_iso100">ISO 100</string>
-  <string name="pref_camera_iso_entry_iso1600">ISO 1600</string>
-  <string name="pref_camera_iso_entry_iso200">ISO 200</string>
-  <string name="pref_camera_iso_entry_iso3200">ISO 3200</string>
-  <string name="pref_camera_iso_entry_iso400">ISO 400</string>
-  <string name="pref_camera_iso_entry_iso800">ISO 800</string>
-  <string name="pref_camera_iso_prefix">ISO</string>
+  <string name="pref_camera_iso_entry_iso100">100</string>
+  <string name="pref_camera_iso_entry_iso1600">1600</string>
+  <string name="pref_camera_iso_entry_iso200">200</string>
+  <string name="pref_camera_iso_entry_iso3200">3200</string>
+  <string name="pref_camera_iso_entry_iso400">400</string>
+  <string name="pref_camera_iso_entry_iso800">800</string>
   <string name="pref_camera_iso_title">Odaberi ISO</string>
+  <string name="pref_camera_iso_value_iso100">ISO100</string>
+  <string name="pref_camera_iso_value_iso1600">ISO1600</string>
+  <string name="pref_camera_iso_value_iso200">ISO200</string>
+  <string name="pref_camera_iso_value_iso3200">ISO3200</string>
+  <string name="pref_camera_iso_value_iso400">ISO400</string>
+  <string name="pref_camera_iso_value_iso800">ISO800</string>
   <string name="pref_camera_jpegquality_entry_high">Visoka</string>
   <string name="pref_camera_jpegquality_entry_low">Niska</string>
   <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
@@ -381,9 +387,9 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_peak_entry_off">Isključeno</string>
   <string name="pref_camera_peak_entry_on">Uključeno</string>
   <string name="pref_camera_peak_title">Maks. izoštravanje</string>
-  <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
-  <string name="pref_camera_picture_format_entry_raw">RAW</string>
-  <string name="pref_camera_picture_format_title">Formát fotografie</string>
+  <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
+  <string name="pref_camera_picture_format_entry_raw">Raw</string>
+  <string name="pref_camera_picture_format_title">Format fotografije</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8MP (1024x768)</string>
   <string name="pref_camera_picturesize_entry_1280x720">0.9MP (1280x720)</string>
   <string name="pref_camera_picturesize_entry_1280x960">1.3MP (1280x960)</string>
@@ -451,6 +457,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_sound_entry_off">Isključeno</string>
   <string name="pref_camera_sound_entry_on">Uključeno</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
+  <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
@@ -594,6 +601,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
   <string name="simple_mode_button_text_scene">Isključi način scena</string>
   <string name="simple_mode_button_text_slow_video">Isključi time-lapse</string>
+  <string name="simple_mode_button_text_square">Isključi Kvadrat</string>
   <string name="simple_mode_button_text_stereo_mode">Isključi Stereo</string>
   <string name="simple_mode_button_text_tilt_shift">Isključi Tilt-shift</string>
   <string name="simple_mode_button_text_ubi_focus">Isključi</string>
@@ -634,7 +642,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom pregleda zaslona.</string>
   <string name="videocamera_settings_label">Postavke videozapisa</string>
   <string name="visit_cloud_album">Posjetite cloud album</string>
-  <string name="wait">Pričekajte…</string>
+  <string name="wait">Samo trenutak…</string>
   <string name="web_url_apk_warning">Odabrani QR kod sadrži aplikaciju koja može izazvati opasnost,umjesto toga potražite aplikaciju na Trgovini Play</string>
   <string name="web_url_warning">QR web stranice predstavlja opasnost, MIUI preglednik će sigurno skenirati QR kod za vas.</string>
   <string name="website_details">"Detalji web stranice: "</string>
