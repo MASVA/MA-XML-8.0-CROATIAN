@@ -397,7 +397,7 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="lcminfo">LCM informacije</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
-  <string name="micphone_test">MIC & SPK</string>
+  <string name="micphone_test">MIC i SPK</string>
   <string name="remove_headset_and_starttest">Uklonite slušalice i pritisnite start za testiranje</string>
   <string name="speak_from_mic">Govorite u mikrofon, trebali bi čuti glas u zvučniku.</string>
   <string name="start">Start</string>
