@@ -45,7 +45,6 @@
      <string-array name="traffic_type">
         <item>"Mobilni podaci "</item>
         <item>"WLAN uporaba "</item>
-        <item>"Ušteđeno podataka "</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Mobilni podaci "</item>
@@ -54,8 +53,6 @@
      <string-array name="traffic_sort_type">
         <item>"Mobilni podaci "</item>
         <item>"WLAN uporaba "</item>
-        <item>"Ušteđeno podataka "</item>
-        <item>Mi Data plan</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">
         <item>Nabavite automatski</item>

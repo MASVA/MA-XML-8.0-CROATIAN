@@ -234,12 +234,17 @@ Provjerite broj za praćenje."</string>
   <string name="locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
   <string name="login_before_use">Morate se prvo prijaviti</string>
   <string name="login_ok">Prijava</string>
+  <string name="mark_number_check_choose_others">Odaberite ostale</string>
+  <string name="mark_number_check_dialog_title">Označi broj</string>
+  <string name="mark_number_check_most_choice">(Najčešći izbor korisnika)</string>
   <string name="mark_number_custom_mark_deleted">Oznaka je uklonjena</string>
   <string name="mark_number_dialog_maintitle">Prijavi ovaj broj</string>
   <string name="mark_number_dialog_subtitle">Prijavilo %2$d osoba kao %1$s.</string>
   <string name="mark_number_feedback">Prijavi</string>
   <string name="mark_number_feedback_hint">Vaša pov. informacija</string>
   <string name="mark_number_feedback_invalid_hint">Unesite pov. informaciju</string>
+  <string name="mark_number_feedback_not_number">"To nije %s broj"</string>
+  <string name="mark_number_feedback_personal_number">"To je osobni broj"</string>
   <string name="mark_number_feedback_success">Pov. informacija poslana.</string>
   <string name="mark_number_marked_maintitle">Promijeni prijavu za ovaj broj</string>
   <string name="mark_number_marked_subtitle">Prijavili ste taj broj kao %s</string>

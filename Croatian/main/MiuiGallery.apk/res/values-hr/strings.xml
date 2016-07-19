@@ -208,6 +208,7 @@
   <string name="crop_tooltip">Povucite oznake da obrežete sliku</string>
   <string name="crossprocess">Pomak boja</string>
   <string name="custom_select_title_deselect_all">Poništi odabir</string>
+  <string name="custom_select_title_quickly_share">Brzo dijeljenje</string>
   <string name="custom_select_title_select_all">Odaberi sve</string>
   <string name="custom_select_title_select_item">Odaberiie stavke</string>
   <string name="debugging_tip">Generiranje debug podataka</string>
@@ -307,6 +308,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="fail_to_pick_email">Nevažeća adresa e-pošte</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="family_member_invitation_text">Ostali članovi obitelji</string>
+  <string name="fast_share_auto_render">Uljepšanje</string>
+  <string name="fast_share_auto_render_finish">Uljepšano</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Dopunsko svjetlo</string>
   <string name="filter">Filter</string>
@@ -530,6 +533,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="picker_image_will_download">"%d odabranih fotografija nije na uređaju. One će se preuzeti."</string>
   <string name="picker_mobile_data_video">"Ne mogu preuzeti videozapise putem mobilnih podataka, preskočeno %d."</string>
   <string name="picker_origin_need_download">"%1$d odabranih fotografija nije na uređaju (%2$dMB). Preuzeti ih putem mobilnih podataka?"</string>
+  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Jedna fotografija nije na uređaju, preskoči"&lt;/item&gt; &lt;item quantity="other"&gt;"%d fotografija nije na uređaju, preskoči"&lt;/item&gt;" "</string>
   <string name="picker_title_format">Odabrano fotografija: %d</string>
   <string name="picker_title_selection_format">Odabrano fotografija: %d</string>
   <string name="picker_title_unlimit">Odaberite fotografije</string>

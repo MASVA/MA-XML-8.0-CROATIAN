@@ -145,6 +145,9 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="restore_show_toast">Privatne poruke se ne prikazuju</string>
   <string name="retain_src_file">Sačuvaj datoteke</string>
   <string name="retain_src_photo">Sačuvaj fotografije</string>
+  <string name="scanner_fingerprint">Skeniranje otiska prsta…</string>
+  <string name="scanner_fingerprint_enter_second">"Skenirajte otisak prsta Drugog prostora 
+za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="scanner_fingerprint_error_tips_desc">Ne mogu naći podudaranja. Dodati otisak prsta za Drugi prostor?</string>
   <string name="scanner_fingerprint_error_tips_title">Ne mogu naći podudaranja</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>

@@ -107,6 +107,7 @@
   <string name="dialog_call_ordinary_telephone">Regularni poziv</string>
   <string name="dialog_purchase">Nadoplati</string>
   <string name="do_not_ask">Ne prikazuj ponovno</string>
+  <string name="do_not_support_video_calls_by_remote">"Video pozivi nisu podržani na drugom uređaju"</string>
   <string name="emergency_call_dialog_number_for_display">Hitan poziv</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Odbij</string>

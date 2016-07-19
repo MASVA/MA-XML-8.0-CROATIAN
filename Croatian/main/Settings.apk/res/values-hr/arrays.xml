@@ -694,7 +694,7 @@
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Otključavanje licem</item>
-        <item>Obrazac</item>
+        <item>Uzorak</item>
         <item>PIN</item>
         <item>Zaporka</item>
     </string-array>

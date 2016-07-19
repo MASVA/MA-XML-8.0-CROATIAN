@@ -2619,10 +2619,13 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="permission_detail_info">Detalji</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
   <string name="permission_manage">Upravitelj dopuštenja</string>
+  <string name="permission_manage_global_build_title">Ostala dopuštenja</string>
   <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vaše povijesti poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>
+  <string name="permission_settings_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>
+  <string name="permission_settings_title">Dopuštenja aplikacija</string>
   <string name="permissions_label">Dopuštenja</string>
   <string name="permit_draw_overlay">Dopusti povlačenje preko drugih aplikacija</string>
   <string name="permit_usage_access">Dopusti pristup upotrebi</string>

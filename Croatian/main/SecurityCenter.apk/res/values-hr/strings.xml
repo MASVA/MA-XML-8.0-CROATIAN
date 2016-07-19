@@ -402,7 +402,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
   <string name="foreground_traffic">Prednja strana %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Zaboravljena zaporka&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Zaboravljen obrazac?&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Zaboravljen uzorak?&lt;/u&gt;</string>
   <string name="free_time_traffic">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_hint">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
@@ -1364,7 +1364,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
   <string name="title_dev_yes">Opcije Raz. programera isključene</string>
   <string name="title_find_device">Uključi \"Pronađi uređaj\"</string>
-  <string name="title_flow_notification">Izvješće uporabe podataka</string>
+  <string name="title_flow_notification">Obavijest mobilnih podataka</string>
   <string name="title_flow_purchase">Vrijeme je za nadoplatu!</string>
   <string name="title_flow_verify">Usporedi izračune</string>
   <string name="title_garbage_lib">Automatska ažuriranja su isključena</string>

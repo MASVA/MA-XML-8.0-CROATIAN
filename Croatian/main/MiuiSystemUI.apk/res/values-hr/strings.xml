@@ -343,8 +343,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="vpn_text_long">Povezano na %s. Dodirni za prikaz detalja.</string>
   <string name="vpn_title">VPN aktiviran</string>
   <string name="vpn_title_long">Povezivanje na VPN koristeći %s</string>
-  <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Ažurirano %1$s</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
