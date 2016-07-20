@@ -74,7 +74,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="exit_private_space">Promjeni</string>
   <string name="finger_print_num">Otisak prsta %d</string>
   <string name="finger_print_of_use">Upotrijebi otisak prsta</string>
-  <string name="fingerprint_removal_failed">Ne mogu izbrisati otisak prsta</string>
+  <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
   <string name="goToSecondSpacce">Idi u Drugi prosotor</string>
   <string name="go_on_import">Nastavi s uvozom</string>
   <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
@@ -111,7 +111,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="need_set_second_space_desc">Dodajte zaporku Drugog prostora prije dodavanja otiska prsta Drugog prostora</string>
   <string name="need_set_second_space_pwd_first">Postavite prvo zaporku Drugog prostora</string>
   <string name="newSecondSpace">Uključi Drugi prostor</string>
-  <string name="no_match_repate_scanner">Ne mogu naći podudaranja, skenirajte ponovno</string>
+  <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>
   <string name="next_setp">Dalje</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_multiple_users">"Višestruki prostori nisu podržani"</string>
@@ -129,7 +129,9 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="otherSettings">Ostale postavke</string>
   <string name="passWordGuardSummary">Uđi u Drugi prosotor sa Zaklj. zaslona koristeći zaporku</string>
   <string name="passwordProtect">Zaporka</string>
-  <string name="please_diff_finger_print">Uvjerite se da se različiti otisci prstiju koriste u Prvom prostoru i Drugom prostoru./nInače nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona.</string>
+  <string name="please_diff_finger_print">"Uvjerite se da se različiti otisci prstiju koriste u Prvom prostoru i Drugom prostoru.
+  
+  Inače nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona."</string>
   <string name="privacyContactsSummary">Prikaži privatne stavke u Drugom prostoru</string>
   <string name="privacyContactsTitle">Privatne poruke i kontakti</string>
   <string name="private_sms_show_sub_title">Podaci poruka će se dijeliti između dva prostora​</string>
@@ -148,8 +150,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="scanner_fingerprint">Skeniranje otiska prsta…</string>
   <string name="scanner_fingerprint_enter_second">"Skenirajte otisak prsta Drugog prostora 
 za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
-  <string name="scanner_fingerprint_error_tips_desc">Ne mogu naći podudaranja. Dodati otisak prsta za Drugi prostor?</string>
-  <string name="scanner_fingerprint_error_tips_title">Ne mogu naći podudaranja</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Ne mogu pronaći odgovarajuće otiske prstiju. Dodati otisak prsta za Drugi prostor?"</string>
+  <string name="scanner_fingerprint_error_tips_title">Ne mogu pronaći odgovarajuće otiske prstiju</string>
   <string name="scanner_fingerprint_tips_desc">Odaberite postojeći otisak prsta za ulazak u Drugi prostor. Nećete biti u mogućnosti koristiti ga u Prvom prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Uđite u Drugi prostor koristeći postojeći otisak prsta</string>
   <string name="scanner_second_space_fingerprint">Skeniraj otisak prsta za Drugi prostor</string>

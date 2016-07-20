@@ -56,7 +56,7 @@
   <string name="preference_enable_earpiece_summary">Koristite zvučnik za vanjsku reprodukciju</string>
   <string name="preference_enable_earpiece_title">Koristite prijemnik za reprodukciju zvuka</string>
   <string name="preference_led_indicator">Obavijesti zaključanog zaslona</string>
-  <string name="preference_led_indicator_prompt">Tijekom snimanja, prikaži u statusnoj traci i pulsnom svjetlu obavijesti kod zaključanog zaslona</string>
+  <string name="preference_led_indicator_prompt">Tijekom snimanja, prikaži prečac u statusnoj traci i pulsno svjetlo obavijesti kod Zaklj. zaslona</string>
   <string name="preference_record_scenes_dialog_title">Odaberite vrstu snimanja</string>
   <string name="preference_scenes">Vrsta snimanja</string>
   <string name="preference_silent_mode">Isključi zvuk zvona prilikom snimanja</string>
@@ -107,7 +107,7 @@
   <string name="search_app">Snimač</string>
   <string name="search_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>
   <string name="search_led_indicator">Obavijesti zaklj. zaslona</string>
-  <string name="search_led_indicator_prompt">Tijekom snimanja, prikaži obavijest u traci statusa i pulsno svjetlo obavijesti na zaključanom zaslonu</string>
+  <string name="search_led_indicator_prompt">Tijekom snimanja, prikaži prečac u statusnoj traci i pulsno svjetlo obavijesti kod Zaklj. zaslona</string>
   <string name="search_quliaty_title">Kvaliteta snimanja</string>
   <string name="search_scenes">Vrsta snimanja</string>
   <string name="search_silent_mode">Isključi zvuk zvona prilikom snimanja</string>

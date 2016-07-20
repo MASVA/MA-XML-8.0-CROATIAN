@@ -137,7 +137,7 @@
         <item quantity="one">Odabrana %d stavka</item>
     </plurals>
 	<plurals name="fast_share_auto_render_failed">
-        <item quantity="other">Dijeljenje %1$d fotografija nije uspjelo, preskoči</item>
-        <item quantity="one">Dijeljenje 1 fotografije nije uspjelo, preskoči</item>
+        <item quantity="other">"Preskočeno %1$d fotografija koje nisu mogle biti podijeljene."</item>
+        <item quantity="one">"Preskočena fotografija koja nije mogla biti podijeljena."</item>
      </plurals>
 </resources>

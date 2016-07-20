@@ -29,6 +29,9 @@
   <string name="apk_status_install">Instalirano</string>
   <string name="apk_status_installed_old">Starija vezija</string>
   <string name="apk_status_uninstalled">Nije instalirano</string>
+  <string name="app_install_tips_go_to">Pokreni sada</string>
+  <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Veličina</string>
   <string name="apps_sort_type_item_time">Učestalost korištenja</string>
   <string name="apps_sort_type_title">Poredaj po</string>
@@ -37,6 +40,8 @@
   <string name="auto_clean_switch_on">Uključi</string>
   <string name="auto_cleaner_open">Uključeno</string>
   <string name="back">Natrag</string>
+  <string name="browser_scan_history_desc">Povijest preglednika</string>
+  <string name="browser_search_history_desc">Stavke pretraživanja</string>
   <string name="btn_text_done">Gotovo</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
   <string name="btn_text_quick_scan">Skeniraj</string>
@@ -75,6 +80,7 @@
   <string name="cache_title_empty_folder2">Prazna mapa</string>
   <string name="cache_title_system_cache">Predmemorija</string>
   <string name="cached_garbage">Predmemorija</string>
+  <string name="call_log">Dnevnik poziva</string>
   <string name="cancel">Odustani</string>
   <string name="clean_content_all">Sve</string>
   <string name="clean_content_one">1 stavku</string>
@@ -84,6 +90,8 @@
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Sigurnosna traka obavijesti</string>
+  <string name="clip_board_history_desc">Kopiran/izrezan sadržaj</string>
+  <string name="clipboard">Međuspremnik</string>
   <string name="close">Zatvori</string>
   <string name="close_debug_mode">Kliknite %1$d da zatvorite debug prekidač</string>
   <string name="confirm_auto_cleaner">U redu</string>
@@ -160,7 +168,6 @@
   <string name="grabage_rank_title">Očišćeno danas</string>
   <string name="harass_detail">Blokirano %1$d SMS-a i %2$d poziva</string>
   <string name="header_optimizer">Korištenjem ove značajke, pristajete na %s.</string>
-  <string name="hint_bar_select_image">Odabrano: %d</string>
   <string name="hint_clean_select_similar_image">Brisanje duplikata…</string>
   <string name="hints_ad_header_left">Reklame</string>
   <string name="hints_apk_header_left">Paketi</string>
@@ -212,6 +219,7 @@
   <string name="hints_quick_prepare">Priprema…</string>
   <string name="hints_quick_scanning">Skeniranje…</string>
   <string name="hints_residual_header_left">Ostaci</string>
+  <string name="hints_scan_has_finish">Čišćenje završeno</string>
   <string name="hints_scanfinish">Nema smeća</string>
   <string name="hints_storage_clean_size">Oslobođeno %s unutarnje pohrane</string>
   <string name="hints_storage_free">Slobodno</string>
@@ -227,6 +235,8 @@
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
   <string name="item_title_process_mode">Odaberite radnju</string>
+  <string name="junk_tag_RF_EmptyFolders">Prazne mape</string>
+  <string name="junk_tag_RF_ImageThumbnails">Minijature Galerije</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Ništa</string>
@@ -269,6 +279,7 @@
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="petabyteShort">PB</string>
+  <string name="phone_search">Google Pretraživanje</string>
   <string name="positive_confirm">U redu</string>
   <string name="pref_category_title_auto_clean_settings">Očisti automatski</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
@@ -307,6 +318,7 @@
   <string name="privacy_app_desc_message">Račun, zaporke i poruke</string>
   <string name="privacy_app_desc_search">Račun, zaporke i povijest pretraživanja</string>
   <string name="privacy_app_desc_setting">Račun, zaporke, i postavke</string>
+  <string name="privacy_appdata_chrome_history_des">Posjećene web stranice</string>
   <string name="privacy_browser_desc">Stavke pretraživanja</string>
   <string name="privacy_cache_desc">Račun, zaporke, povijest, postavke i više</string>
   <string name="privacy_cache_empty">Nema privatnih podataka</string>
@@ -324,6 +336,7 @@
   <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
   <string name="sc_allow_network_dialog_button">Dopusti</string>
   <string name="sc_allow_network_dialog_message">Dopustiti ovoj aplikaciji povezivanje na internet za primanje ažuriranja?</string>
+  <string name="search_history">Povijest pretraživanja</string>
   <string name="see_more">Više</string>
   <string name="set_immediately">Postavi</string>
   <string name="seton_immediately">Uključi</string>
@@ -332,13 +345,15 @@
   <string name="similar_image_empty">Nema pronađenin duplikata</string>
   <string name="similar_image_scaning">Provjeravam…</string>
   <string name="similar_image_title">Fotografije</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponzorirano</string>
+  <string name="start_downloading_app">Započni preuzimanje: %1$s</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="summary_auto_cleaner">Čistiti automatski vaš sustav svaka 3 dana?</string>
   <string name="summary_delete_apk">Trajno izbrisati odabrane aplikacije?</string>
   <string name="summary_delete_cache">Očistiti predmemoriju odabranih aplikacija?</string>
   <string name="summary_delete_large_file">Trajno izbrisati odabrane datoteke?</string>
-  <string name="summary_delete_video">&gt;Trajno izbrisati odabrane videozapise?</string>
+  <string name="summary_delete_video">Trajno izbrisati odabrane videozapise?</string>
   <string name="summary_optimizer">"Ova značajka učitava nazive nepoznatih datoteka da ažurira Cheetah Mobile online bazu podataka te zahtijeva ID vašeg uređaja."</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Učitaj nazive mapa</string>

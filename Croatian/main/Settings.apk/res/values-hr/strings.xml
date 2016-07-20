@@ -1528,6 +1528,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
   <string name="global_font_change_title">Promjena veličine fonta</string>
   <string name="global_locale_change_title">Promjena jezika</string>
+  <string name="google_backup_enable">Uključi Sig. kopije</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
   <string name="google_wallet">Google novčanik</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
@@ -1893,8 +1894,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_sounds_enable_title">Zvukovi zaključavanja zaslona</string>
   <string name="lockpassword_cancel_label">Odustani</string>
   <string name="lockpassword_choose_for_second_user">Postavite zaporku za Drugi prostor</string>
-  <string name="lockpassword_choose_lock_generic_header">Odabir načina otključavanja</string>
-  <string name="lockpassword_choose_your_password_header">Odaberite svoju zaporku</string>
+  <string name="lockpassword_choose_lock_generic_header">Odaberite Zaklj. zaslona</string>
+  <string name="lockpassword_choose_your_password_header">Postavite svoju zaporku</string>
   <string name="lockpassword_choose_your_password_second_space">"Postavite zaporku
   za Drugi prostor"</string>
   <string name="lockpassword_choose_your_pattern_header">Odaberite uzorak</string>
