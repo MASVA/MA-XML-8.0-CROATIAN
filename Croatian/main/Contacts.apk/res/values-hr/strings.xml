@@ -215,7 +215,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_detail_miprofile_request_success_toast">Zahtjev je poslan</string>
   <string name="contact_detail_miprofile_save">Dodirnite za dobivanje kartice kontakta</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Ne mogu dobiti karticu kontakta"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Kartica kontakta je primljena</string>
+  <string name="contact_detail_miprofile_save_success_toast">Primanje Kartice kontakta</string>
   <string name="contact_detail_miprofile_settings_header">DODATNE POSTAVKE</string>
   <string name="contact_detail_miprofile_subtitle">Već ste razmjenili kartice</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Ne mogu se povezati na mrežu"</string>
@@ -453,6 +453,7 @@ Razlog: \"%s\""</string>
   <string name="force_touch_miprofile">Kartica kontakta</string>
   <string name="force_touch_new_contact">Novi kontakt</string>
   <string name="foundTooManyContacts">Pronađeno je više od (%d) kontakata</string>
+  <string name="fraud_more_indemnity">Više odšteta</string>
   <string name="frequentList">Često</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Ime</string>
@@ -1186,6 +1187,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="t9_search_guide_zhuyin_title2">Unesite 6 i 2 za traženje &lt;font fgcolor=""&gt;M&lt;/font&gt;ario &lt;font fgcolor=""&gt;M&lt;/font&gt;ASVA</string> 
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
+  <string name="telecom_fraud_insurance">Telekom prijevara osiguranja</string>
+  <string name="telecom_fraud_insurance_description">Garancija deset tisuća RMB | Xiaomi Prilagodba | 9.9 RMB godišnje</string>
   <string name="titleJoinContactDataWith">Pridruži kontakte</string>
   <string name="title_other_devices">Ostali dostupni uređaji</string>
   <string name="title_paired_devices">Upareni uređaji</string>
