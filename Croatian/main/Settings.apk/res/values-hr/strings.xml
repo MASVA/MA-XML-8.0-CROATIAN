@@ -361,18 +361,18 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="battery_action_display">Postavke zaslona</string>
   <string name="battery_action_stop">Prisilno zaustavi</string>
   <string name="battery_action_wifi">Postavke WLAN-a</string>
-  <string name="battery_desc_apps">Baterija iskorištena upotrebom aplikacija</string>
-  <string name="battery_desc_bluetooth">Baterija iskorištena upotrebom Bluetootha</string>
-  <string name="battery_desc_camera">Potrošnja baterije za fotoaparat</string>
+  <string name="battery_desc_apps">Baterija iskorištena aplikacijom</string>
+  <string name="battery_desc_bluetooth">Baterija iskorištena Bluetoothom</string>
+  <string name="battery_desc_camera">Baterija iskorištena fotoaparatom</string>
   <string name="battery_desc_display">Baterija iskorištena za zaslon i poz. svjetlo</string>
   <string name="battery_desc_flashlight">Baterija iskorištena za svjetiljku</string>
   <string name="battery_desc_overcounted">Previše obračunata potrošnja energije</string>
   <string name="battery_desc_radio">Baterija iskorištena upotrebom GSM-a</string>
-  <string name="battery_desc_standby">Upotreba baterije tijekom mirovanja telefona</string>
+  <string name="battery_desc_standby">Baterija iskorištena tijekom mirovanja telefona</string>
   <string name="battery_desc_unaccounted">Potrošnja energije u razne svrhe</string>
-  <string name="battery_desc_users">Baterija koju upotrebljava korisnik</string>
-  <string name="battery_desc_voice">Baterija upotrijebljena uslugom glasovnog poziva</string>
-  <string name="battery_desc_wifi">Baterijom se služi WLAN</string>
+  <string name="battery_desc_users">Baterija iskorištena od strane korisnika</string>
+  <string name="battery_desc_voice">Baterija iskorištena za glasovne pozive</string>
+  <string name="battery_desc_wifi">Baterijom iskorištena za WLAN</string>
   <string name="battery_history_days">%1$d d %2$d s %3$d min %4$d s</string>
   <string name="battery_history_days_no_seconds">%1$d d %2$d s %3$d min</string>
   <string name="battery_history_hours">%1$d s %2$d min %3$d s</string>
@@ -1641,9 +1641,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
   <string name="input_method_selector_always_hide_value">2</string>
+  <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
   <string name="input_method_selector_always_show_value">1</string>
 
-  <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
   <string name="input_method_selector_show_automatically_title">"Automatski"</string>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
@@ -2035,7 +2035,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="max_cpu4_info">"4 jezgreni "</string>
   <string name="max_cpu6_info">"6 jezgreni "</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>
-  <string name="max_fingerprint_number_reached">"Nije moguće dodati više od 5 otisaka prstiju. Da dodate otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
+  <string name="max_fingerprint_number_reached">"Ne mogu dodati više od 5 otisaka prstiju. Da dodate novi otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
   <string name="maximum_memory_use">Maksimalna upotreba memorije</string>
   <string name="media_button">Medijska tipka</string>
   <string name="media_category">Medija</string>
@@ -2656,7 +2656,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_autorun_empty">Prazno</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Kamera</string>
-  <string name="power_checker">Provjera energije</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
@@ -2665,6 +2664,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napunjenosti putem utičnice</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
+  <string name="power_checker">Provjera energije</string>
   <string name="power_discharge_remaining">%1$s preostalo</string>
   <string name="power_discharging_duration">%1$s - još približno %2$s</string>
   <string name="power_flashlight">Svjetiljka</string>
@@ -4778,8 +4778,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router dostupan</string>
   <string name="xiaomi_router_notif_summary">Obavijesti me kada je Mi Router dostupan</string>
   <string name="xiaomi_router_notif_title">Mi Router obavijesti</string>
+  <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
-  <string name="yes_all_caps">DA</string>
   <string name="zen_access_empty_text">Nijedna instalirana aplikacija nije zatražila pristup opciji Ne ometaj</string>
   <string name="zen_access_warning_dialog_summary">Aplikacija će moći uključiti ili isključiti opciju Ne ometaj i mijenjati povezane postavke.</string>
   <string name="zen_access_warning_dialog_title">Želite li dopustiti aplikaciji %1$s pristup opciji Ne ometaj?</string>
@@ -4868,5 +4868,4 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="zone_auto_summaryOn">Upotrijebi vremensku zonu mreže</string>
   <string name="zone_list_menu_sort_alphabetically">Poredaj abecedno</string>
   <string name="zone_list_menu_sort_by_timezone">Poredaj po vremenskoj zoni</string>
-  <string name="xspace">Dvojne aplikacije</string>
 </resources>

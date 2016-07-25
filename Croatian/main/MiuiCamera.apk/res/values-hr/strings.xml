@@ -626,7 +626,6 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubi_focus_exit_button_text">Isključi</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
-  <string name="video_camera_label">Camcorder</string>
   <string name="undo">Vrati</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
