@@ -92,6 +92,7 @@
      <string name="later">Kasnije</string>
      <string name="loading">Zahtjev…</string>
      <string name="log_share">Podijeli</string>
+	 <string name="menu_more_button">Izbornik</string>
      <string name="menu_title_current_version_log">Što ima novo</string>
      <string name="menu_title_download_current_rom">Preuzmi ažuriranje</string>
      <string name="menu_title_pick_rom_file">Odaberite paket ažuriranja</string>

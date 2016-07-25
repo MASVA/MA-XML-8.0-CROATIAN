@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="timer_message_minute">
         <item quantity="other">"%1$d min. "</item>
-        <item quantity="one">"%1$d minutu "</item>
+        <item quantity="one">"%1$d minuta "</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d sek.</item>

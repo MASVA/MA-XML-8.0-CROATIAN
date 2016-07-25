@@ -29,7 +29,7 @@
   <string name="apk_status_install">Instalirano</string>
   <string name="apk_status_installed_old">Starija vezija</string>
   <string name="apk_status_uninstalled">Nije instalirano</string>
-  <string name="app_install_tips_go_to">Pokreni sada</string>
+  <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Veličina</string>

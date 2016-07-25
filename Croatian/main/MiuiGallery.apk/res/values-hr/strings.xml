@@ -216,7 +216,7 @@
   <string name="default_album_name">Novi album</string>
   <string name="delete">Izbriši</string>
   <string name="delete_album_failed">"Ne mogu izbrisati album."</string>
-  <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s %3$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_finish_format">Izbrisano: %d</string>
   <string name="delete_from_album">iz albuma \"%s\" (svi uređaji)</string>

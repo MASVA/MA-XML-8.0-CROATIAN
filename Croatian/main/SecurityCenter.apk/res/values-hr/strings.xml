@@ -104,7 +104,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="apps_item_sms_reset_button_text">Vrati zadane postavke</string>
   <string name="apps_item_sms_title">Zadane postavke poruka</string>
   <string name="apps_item_summary_sms">%s ima pristup vašim porukama, to može izazvati sigurnosne probleme</string>
-  <string name="apps_item_summary_system_rooted">ROOT pristup je dopušten, vratite na zadane postavke kako bi izbjegli sigurnosne rizike!</string>
+  <string name="apps_item_summary_system_rooted">ROOT pristup je dopušten. Vratite na zadane postavke kako bi izbjegli sigurnosne rizike.</string>
   <string name="apps_item_summary_system_update">Neke greške su ispravljene u novoj verziji tako da plaćanja budu još više sigurnija.</string>
   <string name="apps_item_title_system">Ažuriranje sustava</string>
   <string name="apps_item_virus_cleanup_success">Uspješno izbrisano!</string>
@@ -1218,7 +1218,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_settings_info_monitor">Nadziri sustav okruženja kada su aplikacije za plaćanje pokrenute</string>
   <string name="sp_settings_plugin_monitor_summary">Skeniraj kada se dodaci plaćanja pokrenuti u aplikacijama</string>
   <string name="sp_settings_plugin_monitor_title">Dodaci nadzora plaćanja</string>
-  <string name="sp_settings_root_title_omit">ROOT provjera</string>
+  <string name="sp_settings_root_title_omit">Provjeri ROOT pristup</string>
   <string name="sp_settings_title_input_method">Osiguraj IME</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
   <string name="st_title_mode_choose_group">Odaberite profil</string>
@@ -1261,7 +1261,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_virus">Uklonite viruse da održite svoj uređaj sigurnim</string>
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
-  <string name="summary_xiaomi_roaming">0.01 yuan po MB za međunarodni mrežni promet.</string>
+  <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilnih podataka u roamingu.</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_check_content">Rizika %1$d</string>
@@ -1397,10 +1397,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="toast_garbage_lib">Automatska ažuriranja Čistača su uključena</string>
   <string name="toast_lockscreen_glogin_empty_password">Potrebna ja zaporka</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
-  <string name="toast_reject_sms_read_permission_success">Set successfully!</string>
+  <string name="toast_reject_sms_read_permission_success">Uspješno postavljeno</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>
-  <string name="toast_set_success">Uspješno uključeno!</string>
+  <string name="toast_set_success">Uspješno uključeno</string>
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
   <string name="toast_show_notification">Prikvačeno u panel obavijesti</string>
