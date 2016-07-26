@@ -68,6 +68,7 @@
   <string name="album_share_subtitle_quitting">Izlaz…</string>
   <string name="album_share_subtitle_requesting">Preuzimanje detalja albuma…</string>
   <string name="album_share_title_new_album">Podijeli novi album</string>
+  <string name="album_show_local_only">Prikaži samo lokalne albume</string>
   <string name="album_type_baby">Dječji album</string>
   <string name="album_type_share">Dijeljeni albumi</string>
   <string name="album_type_system">Albumi sustava</string>
@@ -222,6 +223,7 @@
   <string name="delete_from_album">iz albuma \"%s\" (svi uređaji)</string>
   <string name="delete_from_album_no_account">iz albuma \"%s\"</string>
   <string name="delete_from_all_devices">iz svih uređaja</string>
+  <string name="delete_from_cloud">Izbriši stavke iz cloud albuma</string>
   <string name="delete_from_devices">Svih sinkr. uređaja</string>
   <string name="delete_from_devices_album">Svih uređaja u koje je album bio sinkroniziran</string>
   <string name="delete_from_homepage_album">Albuma prikazanih u Galeriji</string>
@@ -540,6 +542,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="posterize">Posterizacija</string>
   <string name="preparing_data">Samo trenutak…</string>
   <string name="projection_checkbox_text">Zapamti ovaj zaslon</string>
+  <string name="projection_device_connection_failed">Ne mogu se povezati s projekcijskim uređajem</string>
   <string name="projection_local_mobile">Ovaj uređaj</string>
   <string name="projection_multi_title">Uređaji</string>
   <string name="projection_single_title">Emitiraj na %s</string>

@@ -223,6 +223,8 @@
   <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="folder_name_invalid">"Nazivi mapa ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Očisti</string>
+  <string name="force_touch_search">Traži datoteke</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="found_router">Router povezan</string>
   <string name="found_usb">USB pohrana povezana</string>

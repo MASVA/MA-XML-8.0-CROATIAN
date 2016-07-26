@@ -40,6 +40,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="folder_exist">Mapa s istim nazivom već postoji</string>
+  <string name="force_touch_menu_add">Dodaj bilješku</string>
   <string name="format_move_notes_out_folder">Premješteno %1$s izvan</string>
   <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>
   <string name="hint_foler_name">Naziv</string>
@@ -91,7 +92,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="search_hint">Pretraži Bilješke</string>
   <string name="search_keyword_notes">Bilješke;Memo</string>
   <string name="search_label">Pretraživanje…</string>
-  <string name="search_path_notes">Postavke/Aplikacije sustava/Bilješke</string>
+  <string name="search_path_notes">Aplikacije sustava/Bilješke</string>
   <string name="search_setting_description">Pretraži tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="sina_share_fail">Slanje nije uspjelo</string>
