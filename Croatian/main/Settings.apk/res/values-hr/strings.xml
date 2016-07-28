@@ -2467,7 +2467,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_battery_settings">Postavke/Baterija &amp; performanse</string>
   <string name="path_bluetooth_device_name">Postavke/Bluetooth/Naziv uređaja</string>
   <string name="path_bluetooth_device_searchable">Postavke/Bluetooth/Vdiljiv drugim uređajima</string>
-  <string name="path_bluetooth_enable">Postavke/Bluetooth/Bluetooth uključen</string>
+  <string name="path_bluetooth_enable">Postavke/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Postavke/Bluetooth</string>
   <string name="path_brightness_settings">Postavke/Zaslon/Jačina svjetline</string>
   <string name="path_button_light_timeout">Postavke/Dodatne postavke/Tipke/Osvjetljenje tipaka</string>
@@ -2477,7 +2477,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_cloud_backup_settings_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Postavke Sig. kopije</string>
   <string name="path_cloud_restore_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Vrati iz Mi Clouda</string>
   <string name="path_copyright">Postavke/O uređaju/Pravne informacije/Autorska prava</string>
-  <string name="path_credentials_install">Postavke/Dodatne postavke/Sigurnost Sustava/Instaliraj iz memorije</string>
+  <string name="path_credentials_install">Postavke/Dodatne postavke/Privatnost/Instaliraj iz memorije</string>
   <string name="path_date_time_settings">Postavke/Dodatne postavke/Datum &amp; vrijeme</string>
   <string name="path_development_settings">Postavke/Dodatne postavke/Developer opcije</string>
   <string name="path_device_info_memory">Postavke/Pohrana</string>
@@ -2487,7 +2487,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_dndm_alarm_content">Postavke/Ne ometaj/Iznimke</string>
   <string name="path_dndm_auto_button_title">Postavke/Ne ometaj/Postavi vrijeme</string>
   <string name="path_dndm_auto_time_setting">Postavke/Ne ometaj/Postavi vrijeme</string>
-  <string name="path_dndm_open">Postavke/Ne ometaj/Ne ometaj omogućen</string>
+  <string name="path_dndm_open">Postavke/Ne ometaj/Ne ometaj</string>
   <string name="path_dndm_repeated_call_setting_title">Postavke/Ne ometaj/Ponovi pozivatelje</string>
   <string name="path_dndm_vip_call_setting_title">Postavke/Ne ometaj/Iznimke</string>
   <string name="path_dndm_wristband">Postavke/Ne ometaj/Aktiviraj sa Mi Bandom</string>
@@ -2509,10 +2509,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_legal_user_agreement">Postavke/O uređaju/Pravne informacije/Uvjeti Pružanja usluge</string>
   <string name="path_local_auto_backup_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Autom. Sig. kopija</string>
   <string name="path_local_backup_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Lokalna pohrana</string>
-  <string name="path_location_settings_title">Postavke/Dodatne postavke/Sigurnost Sustava/Lokacija</string>
+  <string name="path_location_settings_title">Postavke/Dodatne postavke/Privatnost/Lokacija</string>
   <string name="path_lock_sounds_enable_title">Postavke/Zvuk &amp; vibracija/Zvuk zaključavanja zaslona</string>
-  <string name="path_manage_device_admin">Postavke/Dodatne postavke/Sigurnost Sustava/Administratori uređaja</string>
-  <string name="path_manage_notification_access_title">Postavke/Dodatne postavke/Sigurnost Sustava/Pristup obavijestima</string>
+  <string name="path_manage_device_admin">Postavke/Dodatne postavke/Privatnost/Administratori uređaja</string>
+  <string name="path_manage_notification_access_title">Postavke/Dodatne postavke/Privatnost/Pristup obavijestima</string>
   <string name="path_master_clear_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Vraćanje na tvorničko stanje</string>
   <string name="path_music_audio_effect_optimize">Postavke/Zvuk &amp; vibracija/Postavke zvuka</string>
   <string name="path_music_headset_calibrate">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Podešavanje tipki</string>
@@ -2525,7 +2525,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_notification_app_list_settings">Postavke/Obavijesti/Obavijesti alikacije</string>
   <string name="path_notification_sound">Postavke/Zvuk &amp; vibracija/Zadani zvuk obavijesti</string>
   <string name="path_notification_sound_title">Postavke/Zvuk &amp; vibracija/Zadani zvuk obavijesti</string>
-  <string name="path_ntts_settings_title">Postavke/Dodatne postavke/Pristupačnost/tts_settings_title</string>
+  <string name="path_ntts_settings_title">Postavke/Dodatne postavke/Pristupačnost/Pretvaranje teksta u govor</string>
   <string name="path_oldman_mode">Postavke/Lite Mode</string>
   <string name="path_onekey_migrate">Postavke/Dodatne postavke/Mi Mover</string>
   <string name="path_other_advanced_settings">Postavke/Dodatne postavke</string>
@@ -2540,9 +2540,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_preferred_network_type_settings">Postavke/Sim kartice &amp; Mobilne mreže/Poželjni tip mreže</string>
   <string name="path_privacy_policy">Postavke/O uređaju/Pravne informacije/Prvila o Privatnosti</string>
   <string name="path_privacy_settings">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi</string>
-  <string name="path_ringer_volume_settings">Postavke/Zvuk &amp; vibracija/Glasnoća/Melodija zvona &amp; obavijesti</string>
+  <string name="path_ringer_volume_settings">Postavke/Zvuk &amp; vibracija/Melodija zvona &amp; zvuk obavijesti</string>
   <string name="path_ringtone_settings">Postavke/Zvuk &amp; vibracija/Melodija zvona</string>
-  <string name="path_safe_result_header_title_system">Postavke/Dodatne postavke/Sigurnost Sustava</string>
+  <string name="path_safe_result_header_title_system">Postavke/Dodatne postavke/Privatnost</string>
   <string name="path_screen_effect_settings">Postavke/Zaslon/Boje &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Postavke/Dodatne postavke/Tipke/Postavi vrijeme dugog pritiska</string>
   <string name="path_screen_on_proximity_sensor_title">Postavke/Zaklj. zaslon &amp; zaporka/Spriječi slučajno biranje u džepu</string>
@@ -2551,7 +2551,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_screen_saver_settings">Postavke/Zaslon/Čuvar zaslona</string>
   <string name="path_screen_timeout_settings">Postavke/Zaklj. zaslon &amp; zaporka/Mirovanje</string>
   <string name="path_second_space">Postavke/Drugi prostor</string>
-  <string name="path_security_encryption_title">Postavke/Dodatne postavke/Sigurnost Sustava/Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
+  <string name="path_security_encryption_title">Postavke/Dodatne postavke/Privatnost/Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
   <string name="path_security_passwords_title">Postavke/Zaklj. zaslon &amp; zaporka/Zaklj. zaslon</string>
   <string name="path_security_settings">Postavke/Dodatne postavke/Privatnost</string>
   <string name="path_slot_status_title">Postavke/O uređaju/IMEI informacije</string>
@@ -2579,7 +2579,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_toggle_position_settings">Postavke/Obavijesti &amp; traka statusa/Položaj prečaca</string>
   <string name="path_touch_assistant_settings">Postavke/Dodatne postavke/Izbornik Prečaca</string>
   <string name="path_touch_sensitive_title">Postavke/Zaslon/Način rada u rukavicama</string>
-  <string name="path_trusted_credentials">Postavke/Dodatne postavke/Sigurnost Sustava/Pouzdane vjerodajnice</string>
+  <string name="path_trusted_credentials">Postavke/Dodatne postavke/Privatnost/Pouzdane vjerodajnice</string>
   <string name="path_tts_settings_title">Postavke/Dodatne postavke/Jezik &amp; unos/Pretvaranje teksta u govor</string>
   <string name="path_turn_on_security_lock">Postavke/Zaklj. zaslon &amp; zaporka/Zaklj. zaslon/Promijenite zaklj. zaslona</string>
   <string name="path_unlock_set_settings">Postavke/Zaklj. zaslon &amp; zaporka</string>
@@ -2588,7 +2588,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_vibrate_on_touch_title">Postavke/Zvuk &amp; vibracija/Vibracija na dodir</string>
   <string name="path_vibrate_when_ringing_title">Postavke/Zvuk &amp; vibracija/Vibracija i za pozive</string>
   <string name="path_virtual_sim">Postavke/Više/Međunarodni mobilni podaci</string>
-  <string name="path_vpn_enable">Postavke/Više/VPN/Omogući VPN</string>
+  <string name="path_vpn_enable">Postavke/Više/VPN/VPN</string>
   <string name="path_vpn_settings">Postavke/Više/VPN</string>
   <string name="path_vpn_settings_password">Postavke/Više/VPN/VPN zaporka</string>
   <string name="path_wakeup_for_keyguard_notification_title">Postavke/Zaklj. zaslon &amp; zaporka/Uključi zaslon kod obavijesti</string>
@@ -3221,9 +3221,9 @@ Za prikvačivanje zaslona:
   <string name="search_results_title">Postavke</string>
   <string name="search_ring_volume">Glasnoća;Glasnoće;Melodija zvona &amp; obavijesti;Melodija zvona;Melodije zvona;Alarm;Glazba</string>
   <string name="search_ringtone">Melodija zvona;Melodija zvona;Melodije zvona</string>
-  <string name="search_safe_result_header_title_system">Privatnost;Sigurnost;Nepoznati izvori;Prikaži zaporku;Potpis aplikacije;Potpisi aplikacija</string>
+  <string name="search_safe_result_header_title_system">Privatnost:Sigurnost:Nepoznati izvori;Prikaži zaporku;Potpis Aplikacije;Potpisi Aplikacije;Očisti vjerodajnice;Očisti vjerodajnicu</string>
   <string name="search_screen_effect">Boje &amp; saturacija;Boje &amp; kontrast;Boja;Boje;Saturacija;Kontrast</string>
-  <string name="search_screen_key_long_press_timeout">Postavi vrijeme dugog pritiska;Dugi pritisak;Pritisni;Dodirni i zadrži</string>
+  <string name="search_screen_key_long_press_timeout">Postavi vrijeme dugog pritiska; Dugi pritisak;Pritisni;Dodirni i zadrži</string>
   <string name="search_screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu;Džep;Džepno biranje;Džepna biranja</string>
   <string name="search_screen_paper_mode">Način čitanja;Način čitanja;Čitaj;Plavo svjetlo;Žuto svjetlo;Noćni način</string>
   <string name="search_screen_saver_settings">Čuvar zaslona</string>
@@ -3246,7 +3246,7 @@ Za prikvačivanje zaslona:
   <string name="search_status_bar_settings_show_network_speed">Prikaži brzinu veze;brzina veze</string>
   <string name="search_status_bar_settings_show_notification_icon">Prikaži ikone obavijesti;ikone obavijesti;prikaži ikone obavijesti</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona;Obavijest o snimci zaslona;Snimka zaslona</string>
-  <string name="search_status_bar_settings_style">Obavijesti &amp; raspored prečaca;prečaci;raspored prečaca;odvoji prečace</string>
+  <string name="search_status_bar_settings_style">Obavijesti &amp; raspored prečaca;prečaci;raspored prečaca;odvoji prečace;kombinirano;odvojeno;kombiniraj</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Umanji nakon dodira;umanji;sakrij</string>
   <string name="search_status_sim">SIM status;SIM</string>
   <string name="search_storage">Pohrana;Memorija</string>
@@ -3269,7 +3269,7 @@ Za prikvačivanje zaslona:
   <string name="search_vibrate_in_silent_title">Vibracija ako je bešumno;vibriraj;vibracija</string>
   <string name="search_vibrate_on_touch_title">Uključi Vibraciju na dodir;Vibriraj na dodir;vibriraj;vibracija</string>
   <string name="search_vibrate_when_ringing_title">Vibracija i za pozive;vibriraj;vibracija</string>
-  <string name="search_virtual_sim">Međunarodni mobilni podaci;Data roming;Roaming;Mobilni podaci u roamingu</string>
+  <string name="search_virtual_sim">Međunarodni mobilni podaci;Podaci u roamingu;Roaming;Mobilni podaci u roamingu;Lab funkcije</string>
   <string name="search_vpn">VPN;Dodaj VPN;Uključi VPN</string>
   <string name="search_vpn_enable">Uključi VPN;VPN</string>
   <string name="search_vpn_settings_password">VPN zaporka;Zaštiti VPN</string>
@@ -3287,7 +3287,7 @@ Za prikvačivanje zaslona:
   <string name="search_wifi_more_settings">Više;Zrakoplovni način;Zrakoplovni način;Zrakoplov;Let;VPN;Dijeljenje veze &amp; prijenosni hotspot;dijeljenje;hotspot;Bežični zaslon;Bežično;Međunarodni mobilni podaci;Roaming;NFC;Android Beam;Beam;Osiguraj položaj elementa</string>
   <string name="search_wifi_scan_always_available">Skeniranje je uvijek dostupno;Skeniraj mreže;Skeniraj Wifi;Skeniraj WLAN</string>
   <string name="search_wifi_setting_frequency_band_title">Pojas frekvencije WLAN mreže;WIFI frekvencija;WI-FI frekvencija;WLAN frekvencija;Pojas frekvencije</string>
-  <string name="search_wifi_setting_sleep_policy_title">Zadrži WLAN tijekom mirovanja;Zadrži WLAN tijekom mirovanja;Zadrži WLAN uključenim tijekom mirovanja;WLAN uključen tijekom mirovanja;WLAN uključen tijekom mirovanja;WLAN uključen tijekom mirovanja;</string>
+  <string name="search_wifi_setting_sleep_policy_title">Zadrži WLAN tijekom mirovanja;Zadrži WLAN tijekom mirovanja;Zadrži WLAN uključenim tijekom mirovanja;WLAN uključen tijekom mirovanja;WLAN uključen tijekom mirovanja;WLAN uključen tijekom mirovanja</string>
   <string name="search_wifi_tether_checkbox">Prijenosni hotspot;hotspot;prijenosni</string>
   <string name="search_wifi_tether_configure_ap_text">Postavi prijenosni hotspot;Postavi hotspot;dodaj hotspot;konfiguriraj hotspot</string>
   <string name="search_wifi_wapi_cert_install">Instaliraj WAPI certifikat;WAPI certifikati;WAPI</string>

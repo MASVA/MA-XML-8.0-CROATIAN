@@ -787,7 +787,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pm_auto_start_by_system_event">Dopusti aplikacijama automatsko pokretanje</string>
   <string name="pm_auto_start_proc_is_running">Pokrenuto</string>
   <string name="pm_remember_choice">Zapamti moj odabir</string>
-  <string name="pm_root_success_notification_title">ROOT pristup omogućen</string>
+  <string name="pm_root_success_notification_infomation">Uvjerite se da razumijete rizike vezane uz ROOT pristup</string>
+  <string name="pm_root_success_notification_title">ROOT pristup dopušten</string>
   <string name="power_20s_shutdown">Uređaj će se isključiti za %d sek.</string>
   <string name="power_analysis_consume_title">Potrošnja baterije</string>
   <string name="power_analysis_suggestion_need_optimize">Otkriveni problemi pri uporabi baterije.</string>
@@ -1107,7 +1108,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="result_autoscan_info">Automatski nadziraj okruženje sustava kada su aplikacije za plaćanje pokrenute</string>
   <string name="result_sign_header">Pronađeno %d neslužbenih aplikacija</string>
   <string name="result_sms_header">Otkriveni rizici poruka</string>
-  <string name="result_sms_info_antispam">Uključite Antispam da zaštitite uređaj od zlonamjernih poveznica</string>
+  <string name="result_sms_info_antispam">Uključite Listu blokiranih da zaštitite uređaj od zlonamjernih poveznica</string>
   <string name="result_sms_info_auth">Ograničite pristup stranim aplikacijama kodovima za potvrdu.</string>
   <string name="result_sms_title_antispam">Prijetnja od zlonamjernih SMS i poveznica</string>
   <string name="result_sms_title_auth">Postoji rizik otkrivanja financijskih SMS-a</string>
@@ -1186,6 +1187,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="settings_category_overheat">Pregrijavanje</string>
   <string name="settings_choice_no_notification">Isključeno</string>
   <string name="settings_power_save_ontime_title">Raspored</string>
+  <string name="settings_title_payment_security">Postavke Sigurnosti plaćanja</string>
   <string name="settings_title_permission">Postavke Dopuštenja</string>
   <string name="show_traffic_dialog_message">Detalji vaše uporabe podataka će biti prikazani u panelu obavijesti. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Uporaba podataka &gt; Postavke</string>
   <string name="show_traffic_dialog_title">Prikaži uporabu u panelu obavijesti</string>

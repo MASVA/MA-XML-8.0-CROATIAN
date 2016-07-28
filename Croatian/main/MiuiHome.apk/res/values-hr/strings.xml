@@ -47,7 +47,8 @@
   <string name="change_wallpaper">Promjeni</string>
   <string name="children_folder_title">Djeca</string>
   <string name="children_mode_exit">Izlaz</string>
-  <string name="children_mode_tips">Natrag u Postavke da upravljate pristupu aplikacijama.</string>
+  <string name="children_mode_tips_message">Nema aplikacije dječjem načinu. Odaberite aplikaciju.</string>
+  <string name="children_mode_tips_title">Odaberite aplikaciju</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi novu sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
@@ -208,9 +209,9 @@
   <string name="preferences_title">Postavke Pokretača</string>
   <string name="process"/>
   <string name="recommend_apps_default_title">Prazno</string>
-  <string name="recommend_apps_notice">Preporučene aplik.</string>
-  <string name="recommend_apps_notice_nodata">Preporučene aplik. (Nema podataka)</string>
-  <string name="recommend_apps_switch_title">Preporučene aplik.</string>
+  <string name="recommend_apps_notice">Promovirane aplik.</string>
+  <string name="recommend_apps_notice_nodata">Promovirane aplik. (Nema podataka)</string>
+  <string name="recommend_apps_switch_title">Promovirane aplik.</string>
   <string name="recommend_apps_tips">"Ova značajka treba povezivanje na internet da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
   <string name="screen_number">Zaslon %d</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Zrakoplovni način.</string>
-  <string name="accessibility_assistant">Asistent dodira.</string>
+  <string name="accessibility_assistant">Izbornik prečaca.</string>
   <string name="accessibility_back">"Natrag"</string>
   <string name="accessibility_battery_level">Baterija %d posto.</string>
   <string name="accessibility_bluetooth_connected">"Bluetooth je povezan."</string>

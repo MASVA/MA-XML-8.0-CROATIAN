@@ -44,6 +44,10 @@
          <item quantity="other">"Odabrane fotografije nisu na uređaju. One će se preuzeti."</item>
          <item quantity="one">"Odabrana fotografija nije na uređaju. Ona će se preuzeti."</item>
      </plurals>
+	 <plurals name="picker_skip_unavailable_images">
+         <item quantity="other">"Preskočeno %d fotografija koje nisu na uređaju."</item>
+         <item quantity="one">"Preskočena fotografija koja nije na uređaju."</item>
+     </plurals>
      <plurals name="picker_retry_image_confirm_message">
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija, pokušati ponovno?"</item>
          <item quantity="one">"Ne mogu preuzeti fotografiju, pokušati ponovno?"</item>
