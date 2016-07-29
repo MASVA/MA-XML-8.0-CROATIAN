@@ -439,7 +439,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="micloud_introduce">Izradi Sig. kopiju kamere i videozapisa automatski (potreban Mi Račun)</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face_album_name">Više osoba</string>
-  <string name="move_to_other_albums_tip">Mi Cloud sink. albuma bit će isključena, ako premjestite ovaj album na popis ostalih albuma, premjestiti album sada?</string>
+  <string name="move_to_other_albums_tip">Sinkronizacija s Mi Cloudom će biti isključena ako premjestite ovaj album u druge albume. Premjestiti sada?</string>
   <string name="must_pick_file">Odaberite fotografiju</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Uređaj nije povezan s internetom."</string>
@@ -573,7 +573,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Odaberite odnos</string>
   <string name="release_space_finish_format">Oslobođeno %s unutarnje pohrane</string>
-  <string name="remove_from_other_albums_tip">Album bi trebao biti uključen s Mi Cloud sinkronizacijom kada ga uklonite s popisa ostalih albuma, ukloniti album sada?</string>
+  <string name="remove_from_other_albums_tip">Uključite sinkronizaciju s Mi Cloudom da premjestite stavke iz drugih albuma. Premjestiti sada?</string>
   <string name="remove_from_secret_fail">"Ne mogu ukloniti iz skrivenog albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne mogu ukloniti iz skrivenog albuma. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s stavki ne može biti uklonjeno iz skrivenog albuma. %1$s."</string>
@@ -688,7 +688,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
   <string name="try_to_send">Poslano</string>
   <string name="turn_off_and_move">Isključi i premjesti</string>
-  <string name="turn_on_and_remove">Uključi i ukloni</string>
+  <string name="turn_on_and_remove">Uključi i premjesti</string>
   <string name="turn_on_sync">Uključi sinkr.</string>
   <string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
   <string name="unpublish_succeeded">Album nije objavljen!</string>

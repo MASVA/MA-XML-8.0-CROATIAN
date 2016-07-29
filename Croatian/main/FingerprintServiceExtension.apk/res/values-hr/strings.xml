@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="permdesc_ACCESS_EXTENSION_SERVICE">Omogućuje aplikaciji pristup modulu za produženje otiska prsta.</string>
+</resources>
