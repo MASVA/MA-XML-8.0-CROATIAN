@@ -1365,12 +1365,12 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="erase_external_storage_description">Izbriši sve podatke u unutarnjoj USB memorijui, poput glazbe ili fotografija</string>
   <string name="erase_internal_storage">Izbriši pohranjeni sadržaj</string>
   <string name="erase_internal_storage_description">Izbriši glazbu, fotografije, videozapise, i ostale korisničke podatke</string>
-  <string name="erase_optional">Sadržaj</string>
+  <string name="erase_optional">Neobavezno</string>
   <string name="erase_personal_data">Osobni podaci</string>
   <string name="erase_personal_data_description">Izbriši informacije Mi Računa, podatke aplikacija i postavke sustava</string>
   <string name="erase_sd_data">Formatiraj SD karticu</string>
   <string name="erase_sd_data_description">Formatiranje će izbrisati sve datoteke i podatke na SD kartici</string>
-  <string name="erase_sure">Osobni podaci</string>
+  <string name="erase_sure">Obvezno</string>
   <string name="error_apn_empty">APN ne može biti prazan.</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>
@@ -2621,7 +2621,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
   <string name="permission_manage">Upravitelj dopuštenja</string>
   <string name="permission_manage_global_build_title">Ostala dopuštenja</string>
-  <string name="permission_manage_summary">Pitaj za dopuštenje prije nego se dopusti aplikacijama čitanje vaših kontakata, prikaz vaše povijesti poziva, promjeni postavki sustava, ili pristupu kameri i ostalim resursima uređaja</string>
+  <string name="permission_manage_summary">Upravljaj sigurnošću i dopuštenjima</string>
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>

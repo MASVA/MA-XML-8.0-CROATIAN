@@ -311,6 +311,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="geolocation_settings_page_title">Izbriši pristup lokaciji</string>
   <string name="go_supermarket_button">Kreni</string>
   <string name="go_supermarket_title">Više aplikacija, veća brzina i manja potrošnja podataka u App Store</string>
+  <string name="gold_medals">Zlatne medalje</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="history_saved_webpage">Spremi stranicu</string>
@@ -712,6 +713,7 @@ Napustiti ovu stranicu?"</string>
   <string name="suggest_access_item_singer_albums">Albuma: %d</string>
   <string name="suggest_access_item_singer_pop">Popularnih pjesama: %d</string>
   <string name="suggest_access_music">Mi Glazba</string>
+  <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
   <string name="switch_proxy_dialog_msg">"Otkrivena krađa mreže. Koristite ugrađenu MIUI aplikaciju Sigurnost ili prijavite vašem mobilnim operateru."</string>
   <string name="switch_proxy_dialog_title">Krađa mreže</string>
