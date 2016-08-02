@@ -1755,6 +1755,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="large_font">Veliko</string>
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
   <string name="last_time_used_label">Posljednja upotreba</string>
+  <string name="lattice_smartcover_title">Rešetkasti prednji poklopac</string>
   <string name="later">Kasnije</string>
   <string name="launch_by_default">Otvori prema zadanim postavkama</string>
   <string name="launch_count_label">Broj</string>

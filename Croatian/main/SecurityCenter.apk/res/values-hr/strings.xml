@@ -698,6 +698,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
   <string name="never">jedanput</string>
+  <string name="next_step_button">Dalje</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_battery_consume_abnormal_summary">Ispražnjeno %2$s baterije tijekom zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
