@@ -56,6 +56,8 @@
   <string name="search_history">Povijest</string>
   <string name="search_in_app_store">Pretraži na Google Play</string>
   <string name="search_in_web">Pretraži web</string>
+  <string name="search_keyword_quicksearchbox">Traži</string>
+  <string name="search_path_quicksearchbox">Postavke/Instalirane aplikacije/Traži</string>
   <string name="search_settings">Postavke pretraživanja</string>
   <string name="search_sources">Stavke pretraživanja</string>
   <string name="search_sources_summary">Izaberite što tražiti na telefonu</string>

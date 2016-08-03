@@ -142,6 +142,10 @@
   <string name="mark_agent_block">Prijavljen kao agencija</string>
   <string name="mark_agent_block_large">Agencija</string>
   <string name="mark_agent_time_setting">Blokiraj brojeve agencije koji su prijavljeni određeni broj puta</string>
+  <string name="mark_courier">Blokiraj prijavljene dostavljače</string>
+  <string name="mark_courier_block">Prijavljen kao dostavljač</string>
+  <string name="mark_courier_block_large">Dostavljač</string>
+  <string name="mark_courier_time_setting">Blokiraj brojeve dostavljača koji su prijavljeni određeni broj puta</string>
   <string name="mark_fraud">Blokiraj prijavljene prijevare</string>
   <string name="mark_fraud_block">Prijavljen kao prevarant</string>
   <string name="mark_fraud_block_large">Prevarant</string>
@@ -151,6 +155,7 @@
   <string name="mark_harass_block_large">Smetnja</string>
   <string name="mark_harass_time_setting">Blokiraj brojeve smetnji koji su prijavljeni određeni broj puta</string>
   <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_courier">Dostavljač</string>
   <string name="mark_number_fraud">Prevarant</string>
   <string name="mark_number_harass">Uznemiravatelj</string>
   <string name="mark_number_info">"
