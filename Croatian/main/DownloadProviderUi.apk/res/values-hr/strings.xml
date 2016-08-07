@@ -306,7 +306,7 @@ i pokušajte ponovno."</string>
   <string name="shortcut_dialog_content">Dodaj prečac Poč. zaslona za brže traženje izvora.</string>
   <string name="shortcut_dialog_create">Napravi</string>
   <string name="shortcut_dialog_title">Napraviti prečac Poč. zaslona?</string>
-  <string name="show_more">Prikaži %s više</string>
+  <string name="show_more">Prikaži još %s</string>
   <string name="sniff_associate_text">Popularno</string>
   <string name="sniff_bt_text">Torrent</string>
   <string name="sniff_btn_text">Izvor</string>

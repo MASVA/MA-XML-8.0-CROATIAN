@@ -393,7 +393,7 @@
   <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
-  <string name="wallpaper_loading_text">Samo tren…</string>
+  <string name="wallpaper_loading_text">Samo trenutak…</string>
   <string name="wallpaper_set_as_both">Podesi oboje</string>
   <string name="wallpaper_set_as_destop">Podesi za sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Podesi za Zaklj.zaslon</string>

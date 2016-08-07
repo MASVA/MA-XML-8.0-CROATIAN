@@ -36,5 +36,5 @@
   <string name="privacy_prompt_traffic_purchase_message">"Vaš telefonski broj i pojedinosti operatera biti će šifrirani i poslani na Mi poslužitelje da bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="share">Podijeli</string>
   <string name="title_share_link">Podijeli poveznicu</string>
-  <string name="usage_sorted_loading_text">Samo tren…</string>
+  <string name="usage_sorted_loading_text">Samo trenutak…</string>
 </resources>

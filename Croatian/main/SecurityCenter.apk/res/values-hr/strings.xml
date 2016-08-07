@@ -903,11 +903,11 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_optimize_brightness">Osvijetljenost zaslona</string>
   <string name="power_optimize_btn_text_fixed">Optimizirano</string>
   <string name="power_optimize_catagory_fixed_title">Optimizirano</string>
-  <string name="power_optimize_close_app">Zatvari aplikacije koje troše prekomjerno energiju</string>
+  <string name="power_optimize_close_app">Zatvori aplikacije koje troše prekomjerno energiju</string>
   <string name="power_optimize_disable_app_autostart">Spriječi aplikacije od automatskog otvaranja</string>
   <string name="power_optimize_disable_gps">Isključi GPS</string>
   <string name="power_optimize_disable_start_other_app">Spriječi aplikacije od otvaranja drugih aplikacija</string>
-  <string name="power_optimize_loading">Samo tren…</string>
+  <string name="power_optimize_loading">Samo trenutak…</string>
   <string name="power_optimize_manual_catagory_title">Ručno</string>
   <string name="power_optimize_open_hide_mode">Uključi Skriveni način</string>
   <string name="power_optimize_save_mode_not_opened">Ušteda baterije isključena</string>
