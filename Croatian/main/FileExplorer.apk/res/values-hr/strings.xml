@@ -170,6 +170,8 @@
   <string name="directory_no_item">Prazno</string>
   <string name="disk_available">Dostupno: </string>
   <string name="disk_total">Ukupno: </string>
+  <string name="dislike_toast">"Takvi videozapisi neće biti preporučeni za vas."</string>
+  <string name="dislike_video">"Nisam zainteresiran"</string>
   <string name="dlg_error_unmount_text">"Ne mogu ukloniti USB pohranu."</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
@@ -223,7 +225,7 @@
   <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="folder_name_invalid">"Nazivi mapa ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
-  <string name="force_touch_clean">Očisti Smeće</string>
+  <string name="force_touch_clean">Očisti</string>
   <string name="force_touch_search">Traži datoteke</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Dodirni&lt;/a&gt;za ići u smeće</string>
   <string name="found_router">Router povezan</string>
@@ -290,6 +292,9 @@
 "</string>
   <string name="kuaipan_root_fooder">Početna</string>
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
+  <string name="like_toast_1">Takvi videozapisi će vam biti preporučeno često.</string>
+  <string name="like_toast_2">Pogledajte videozapise koje želite na svom profilu.</string>
+  <string name="like_toast_3">Prijavite se da pogledate videozapise koje želite na svom profilu.</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_more">Prikaži više</string>
   <string name="load_sticker_fail">"Ne mogu učitati naljepnicu"</string>
@@ -523,8 +528,12 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
   <string name="origin_name">%1$s: </string>
-  <string name="other_user_liked_topic_tip">Bez pitanja od važnosti</string>
-  <string name="other_user_topic_tab">Teme</string>
+  <string name="other_user_follow_title">Osobe koje pratim</string>
+  <string name="other_user_liked_topic_tip">Bez pitanje od važnosti</string>
+  <string name="other_user_liked_video_title">Videozapisi koji mi se sviđaju</string>
+  <string name="other_user_no_follow_tip">"Još nikoga ne pratite."</string>
+  <string name="other_user_no_liked_video_tip">Nema videozapisa koji mi se sviđaju.</string>
+ <string name="other_user_topic_tab">Teme</string>
   <string name="other_user_video_tab">Videozapisi</string>
   <string name="pan_settting">KuaiPan postavke</string>
   <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
@@ -580,6 +589,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recommend">Preporučeno</string>
+  <string name="recommend_topic">Preporučene teme</string>
+  <string name="recommend_user">Preporučeni profili</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="remote_video_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
@@ -667,6 +678,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="server_control_charset">Kodiranje prijenosa</string>
   <string name="server_control_settings">Postavke</string>
   <string name="server_error">Pogreška poslužitelja, pokušajte ponovno kasnije. (Pogreška %s)</string>
+  <string name="setting">Postavke</string>
   <string name="share_box">Podijeljeno</string>
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
@@ -719,14 +731,16 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
   <string name="tab_expand">Proširi</string>
+  <string name="tab_follow">Pratim</string>
   <string name="tab_hottest_video">Popularno</string>
   <string name="tab_local">LOKALNO</string>
   <string name="tab_local_video">Izvanmrežno</string>
   <string name="tab_more">Više</string>
+  <string name="tab_newest_video">Novo</string>
   <string name="tab_path">MAPE</string>
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Poredak</string>
-  <string name="tab_remote_video">Nedavno</string>
+  <string name="tab_recommend_video">Preporučeno</string>
   <string name="tab_source">APLIKACIJE</string>
   <string name="tab_storage">POHRANA</string>
   <string name="tag_weixin_video">Video isječci</string>
@@ -794,8 +808,9 @@ oslobodili prostor.</string>
   <string name="usb_label">USB</string>
   <string name="used">Iskorišteno</string>
   <string name="user_agreement">Korisnički sporazum</string>
-  <string name="user_center_setting">Postavke</string>
   <string name="user_center_title">Početna</string>
+  <string name="user_follow_me_title">Moji fanovi</string>
+  <string name="user_follow_title">Osobe koje pratim</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>
   <string name="user_guide_continue_use">U redu</string>
   <string name="user_guide_download_other_version">Učitajte datoteke s računala</string>
@@ -805,15 +820,27 @@ oslobodili prostor.</string>
   <string name="user_guide_save_file">Spremite vaše datoteke pomoću KuaiPana.</string>
   <string name="user_guide_summary">Praktična i sigurna cloud pohrana</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
+  <string name="user_like_text">Sviđa mi se</string>
+  <string name="user_liked_video_title">Videoapisi koji mi se sviđaju</string>
   <string name="user_login_dialog_cancle">Odustani</string>
   <string name="user_login_dialog_tip">Prijavite se za slanje videozapisa, sudjelovanje u poretku i osvajanju nagrada</string>
   <string name="user_login_dialog_title">Prijavite se</string>
+  <string name="user_message_text">Poruke</string>
+  <string name="user_no_fans_tip">Nema fanova</string>
+  <string name="user_no_follow_topic">"Ne pratite nijednu temu."</string>
+  <string name="user_no_follow_user">"Još nikog ne pratite."</string>
+  <string name="user_no_liked_video_tip">Video prilozi koji vam se sviđaju će se prikazati ovdje.</string>
   <string name="user_msg_text">Poruka</string>
   <string name="user_no_net_video_tip">Loša mrežna veza, provjerite postavke i pokušajte ponovo</string>
   <string name="user_no_upload">Nema videozapisa</string>
   <string name="user_no_video_tip">"Nema poslanih videozapisa"</string>
   <string name="user_not_login">Prvo se prijavite</string>
   <string name="user_not_video_btn_text">Pošaljite prvo videozapis</string>
+  <string name="user_recommend_follow">Recommended profiles</string>
+  <string name="user_setting_follow_new_msg">Obavijesti od osoba koje pratite</string>
+  <string name="user_setting_follow_new_msg_tip">Primaj obavijesti o novim videozapisa</string>
+  <string name="user_setting_followed_msg">Obavijesti o pratiteljima</string>
+  <string name="user_setting_followed_msg_tip">Primaj obavijesti kad vas ljudi počnu pratiti</string>
   <string name="user_setting_new_comment">Obavijest novog komentara</string>
   <string name="user_setting_new_comment_tip">Videozapis ili komentar na odgovor, bit ćete obaviješteni</string>
   <string name="user_setting_new_liked">Hvalite za obavijest o novoj poruci</string>
@@ -822,6 +849,7 @@ oslobodili prostor.</string>
   <string name="user_setting_topic_new_msg_tip">Kada se napravi nova tema, bit ćete obaviješteni</string>
   <string name="user_topic_btn_text">Pogledaj više tema</string>
   <string name="user_topic_text">Moje Teme</string>
+  <string name="user_upload_text">Učitavanja</string>
   <string name="user_upload_tip">Pošalji</string>
   <string name="user_video_text">Moji Videozapisi</string>
   <string name="utf8_summary">Zadano kodiranje FTP sistema</string>
@@ -839,7 +867,7 @@ oslobodili prostor.</string>
    <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne učitavaj slične videozapise"</string>
   <string name="video_parse_error_unknown">"Ova video usluga nije podržana, pokušajte s drugom"</string>
-  <string name="video_parse_hint">Podržane aplikacije: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_hint">Podržani videozapisi: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Uspješno pregledano</string>
   <string name="video_parse_timeout">Nešto je pošlo po krivu, pokušajte ponovo</string>
   <string name="video_parsing_btn">Pregled…</string>
@@ -877,6 +905,9 @@ oslobodili prostor.</string>
   <string name="weixin_not_installed">"WeChat nije instaliran"</string>
   <string name="weixin_sticker_tag_str">WeChat Naljepnice</string>
   <string name="wifi_state">WLAN mreža</string>
+  <string name="wx_title1">"Ovo je cool videozapis!"</string>
+  <string name="wx_title2">Podijelio sam videozapis, pogledajte!</string>
+  <string name="wx_title3">Pogledajte viralne videozapise iz cijelog svijeta!</string>
   <string name="wxcircle_platform">Trenuci</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>

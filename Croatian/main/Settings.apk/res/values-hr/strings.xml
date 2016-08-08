@@ -2496,6 +2496,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_dtmf_tone_enable_title">Postavke/Zvuk &amp; vibracija/Tonovi biranja</string>
   <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
   <string name="path_equalizer">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Equalizer</string>
+  <string name="path_fluency_mode">Postavke/Baterija &amp; performanse/Animacije sustavas</string>
   <string name="path_font_settings">Postavke/Zaslon/Font sustava</string>
   <string name="path_gesture_wakeup_title">Postavke/Zaslon/Dvaput dodirnite zaslon za buđenje</string>
   <string name="path_gps_settings">Postavke/Dodatne postavke/Privatnost/Lokacija</string>
@@ -3086,6 +3087,8 @@ Za prikvačivanje zaslona:
   <string name="screensaver_settings_summary_sleep">Tijekom punjenja</string>
   <string name="screensaver_settings_title">Sanjarenje</string>
   <string name="screensaver_settings_when_to_dream">Kada sanjariti</string>
+  <string name="screenshot">Snimka zaslona</string>
+  <string name="screenshot_three_gesture">Pomicanje sa 3 prsta istovremeno će napraviti snimku zaslona</string>
   <string name="sd_card_settings_label">Memorija USB</string>
   <string name="sd_card_storage">Memorija USB</string>
   <string name="sd_eject">Isključi dijeljenu pohranu</string>
@@ -3137,9 +3140,9 @@ Za prikvačivanje zaslona:
   <string name="search_back_key">Natrag;Tipka natrag;Tipka natrag</string>
   <string name="search_battery">Baterija &amp; performanse;Baterija &amp; performanse;Baterija;Performanse;Štednja baterije;Uštedi bateriju</string>
   <string name="search_battery_indicator">Izgled baterije</string>
-  <string name="search_bluetooth">Bluetooth;Naziv uređaja;Vidljiv;Bluetooth naziv;Naziv uređaja</string>
+  <string name="search_bluetooth">Bluetooth;Vidljiv</string>
   <string name="search_bluetooth_device_name">Naziv uređaja;Bluetooth naziv</string>
-  <string name="search_bluetooth_device_searchable">Vidljiv;Vidljiv;Bluetooth naziv</string>
+  <string name="search_bluetooth_device_searchable">Vidljiv;Vidljiv;Bluetooth naziv;Naziv telefona</string>
   <string name="search_bluetooth_enable">Bluetooth;Uključi Bluetooth;Bluetooth uključen</string>
   <string name="search_brightness">Jačina svjetline;Jačina svjetline;Osvjetljenje zaslona</string>
   <string name="search_button_light_timeout">Zadrži osvjetjenje tipaka uključenim;Osvjetljenje tipaka</string>
@@ -3156,7 +3159,7 @@ Za prikvačivanje zaslona:
   <string name="search_development_settings">Developer opcije</string>
   <string name="search_device_name">Naziv uređaja</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Zaslon;Zaslon;Jačina svjetline;Jačina svjetline;Jačina svjetline;Ambijentalno svjetlo;Boje;Džep;Džepno biranje;Saturacija boja;Rad u rukavicama;Čuvar zaslona;Autom. zakreni zaslon;Rotacija zaslona</string>
+  <string name="search_display">Zaslon;Zaslon;Ambijentalno svjetlo;Džepno biranje</string>
   <string name="search_dndm_alarm_content">Iznimke</string>
   <string name="search_dndm_auto_button_title">Postavi vrijeme</string>
   <string name="search_dndm_auto_time_setting">Postavi vrijeme;Ne ometaj</string>
@@ -3169,6 +3172,7 @@ Za prikvačivanje zaslona:
   <string name="search_edge_handgrip">Kontrole ruba</string>
   <string name="search_empty">Nema pronađenih rezultata</string>
   <string name="search_equalizer">Equalizer</string>
+  <string name="search_fluency_mode">Animacije sustava</string>
   <string name="search_font">Font sustava;Font;Fontovi;Veličine fonta;Veličina fonta</string>
   <string name="search_gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje;Dvaput dodirnite za buđenje;buđenje zaslona;Dvaput dodirnite zaslon;Dvaput dodirnite</string>
   <string name="search_gps">GPS;Pristup lokaciji;Usluge lociranja</string>
@@ -3204,7 +3208,7 @@ Za prikvačivanje zaslona:
   <string name="search_ntts_settings_title">TTS;TTS postavke</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
-  <string name="search_other_advanced_settings">Dodatne postavke;Više postavki;Postavke privatnosti;Datum&amp;vrijeme;;Datum i vrijeme;Datum;Vrijeme;Jezik &amp; unos;Jezik;Jezik i unos;Unos;Tipkovnica;Rad jednom rukom;Rad jednom rukom;Baterija &amp; performanse;Baterija i performanse;Baterija;Performanse;Pohrana;Memorija;Svjetlo obavijesti;LED svjetlo;LED;Slušalice &amp; zvučni efekti;Slušalice i zvučni efekti;Slušalice;Slušalice;Zvučni efekti;Tipke;Tipke;Pristupačnost;Beta značajke;Lab funkcije;Developer opcije;Sig. kopija &amp; poništi;Reset;Restore;Sig. kopija;Transfer;Mi Mover;Migracija jednom tipkom</string>
+  <string name="search_other_advanced_settings">Dodatne postavke;Više postavki</string>
   <string name="search_owner_info_settings">Informacije o vlasniku</string>
   <string name="search_page_layout_settings">Veličina teksta;Veličina fonta;Mali font;Veliki font;Srednji font;XXL font;Ogroman font;Veličine fontova</string>
   <string name="search_pointer_speed">Brzina pokazivača</string>
@@ -3874,6 +3878,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
   <string name="tether_settings_title_wifi">Prijenosni hotspot</string>
+  <string name="tether_share_qrcode_title">Podijeli QR kod</string>
   <string name="tethering_help_button_text">Pomoć</string>
   <string name="tethering_settings_not_available">Promijeni postavke dijeljenja veze u Prvom prostoru</string>
   <string name="theme_settings_title">Teme</string>

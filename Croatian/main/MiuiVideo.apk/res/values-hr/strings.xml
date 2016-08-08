@@ -131,6 +131,7 @@
   pohrani vašeg uređaja ili SD kartici."</string>
   <string name="download_finished">Dovršeno</string>
   <string name="download_geturl_fail">"Ne mogu dobiti URL"</string>
+  <string name="download_insufficient_space">Nedovoljno prostora</string>
   <string name="download_is_in_tasklist">Na redu preuzimanja</string>
   <string name="download_paused">Pauzirano</string>
   <string name="download_percent_hint">Preuzimanje %d%%</string>
@@ -240,7 +241,7 @@
   <string name="notification_default_title">Izvanmrežni videozapis</string>
   <string name="notification_sub_title">Završeno ukupno %d zadataka preuzimanja</string>
   <string name="notification_ticker_text">Završeno preuzimanje Izvanmrežnog videozapisa</string>
-  <string name="notification_title">\"%s\" preuzimanja završeno</string>
+  <string name="notification_title">\"%1$s\" preuzimanja završeno</string>
   <string name="nowifi_alert_dialog_continue">Shvaćam</string>
   <string name="nowifi_alert_dialog_exit">Izađi</string>
   <string name="nowifi_alert_dialog_message">Korištenje vaše mobilne podatkovne veze za gledanje videa će povećati upotrebu podataka. Ako prekoračite svoje mjesečno ograničenje, vaš operater vam može naplatiti dodatne troškove.</string>

@@ -85,6 +85,10 @@
   <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
   <string name="screen_paper_mode_enter_toast">Način čitanja je uključen. Da isključite ovu značajku idite u Postavke &gt; Zaslon &gt; Način čitanja.</string>
   <string name="screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
+  <string name="screenshot_gesture_detect_alert_button">Idi u postavke snimke zaslona za omogućivanje</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">Ne prikazuj ponovno</string>
+  <string name="screenshot_gesture_detect_alert_msg">Omogućiti značajku pravljenja snimke zaslona s 3 prsta povlačenjem prema dolje?</string>
+  <string name="screenshot_gesture_detect_alert_title">Snimka zaslona s 3 prsta</string>
   <string name="security_permission_denied_text">Pristup odbijen</string>
   <string name="security_permission_failed_text">Interna pogreška, pokušajte kasnije</string>
   <string name="security_permission_validate_warning">Hvala vam što nam pomažete napraviti MIUI boljim!</string>

@@ -264,6 +264,14 @@
          <item quantity="few">sljedbenika</item>
          <item quantity="many">sljedbenika</item>
      </plurals>
+	 <plurals name="user_follow_me_items">
+         <item quantity="other">sljedbenika</item>
+         <item quantity="zero">sljedbenika</item>
+         <item quantity="one">sljedbenik</item>
+         <item quantity="two">sljedbenika</item>
+         <item quantity="few">sljedbenika</item>
+         <item quantity="many">sljedbenika</item>
+     </plurals>
     <plurals name="number_of_comment">
          <item quantity="other">%1$s komentara</item>
          <item quantity="zero">%1$s komentara</item>
@@ -279,5 +287,13 @@
          <item quantity="two">%1$s videozapisa</item>
          <item quantity="few">%1$s videozapisa</item>
          <item quantity="many">%1$s videozapisa</item>
+     </plurals>
+	  <plurals name="follow_count">
+         <item quantity="other">%1$s sljedbenika</item>
+         <item quantity="zero">%1$s sljedbenika</item>
+         <item quantity="one">%1$s sljedbenik</item>
+         <item quantity="two">%1$s sljedbenika</item>
+         <item quantity="few">%1$s sljedbenika</item>
+         <item quantity="many">%1$s sljedbenika</item>
      </plurals>
 </resources> 

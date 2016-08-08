@@ -201,7 +201,7 @@
   <string name="contact_detail_action_item_nocalllog">Nema povijesti</string>
   <string name="contact_detail_calllog_call_note_tips">Bilješke</string>
   <string name="contact_detail_calllog_call_record_tips">Snimi poziv</string>
-  <string name="contact_detail_calllog_empty">Nema zapisa poziva</string>
+  <string name="contact_detail_calllog_empty">Nema povijesti</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši karticu</string>
   <string name="contact_detail_miprofile_accept">Razmjena Kartice kontakata</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Ne mogu razmjenjivati Kartice kontakata"</string>

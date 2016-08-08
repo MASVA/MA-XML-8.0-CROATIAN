@@ -22,7 +22,7 @@
   <string name="add_city">Dodaj</string>
   <string name="alert_warning">Upozorenja vremena</string>
   <string name="app_name">Vrijeme</string>
-  <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
+  <string name="aqi_detail_unit">Jedinica: µg/m³ (CO: mg/m³)</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
   <string name="button_allow">U redu</string>
@@ -48,7 +48,7 @@
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="index_item_install_now">Instaliraj sada</string>
-  <string name="indices_desc_feel">Stvarni osjećaj %1$s°C</string>
+  <string name="indices_desc_feel">Stvar. osjećaj %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_no_restriction">Ništa</string>
