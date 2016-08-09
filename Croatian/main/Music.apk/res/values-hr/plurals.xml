@@ -94,4 +94,12 @@
         <item quantity="other">Pjesme su već označene kao favoriti.</item>
         <item quantity="one">Pjesme je već označena kao favorit.</item>
     </plurals>
+	<plurals name="comment_count">
+         <item quantity="other">%d komentara</item>
+         <item quantity="one">%d komentar</item>
+     </plurals>
+     <plurals name="reader_count">
+         <item quantity="other">%d čitatelja</item>
+         <item quantity="one">%d čitatelj</item>
+     </plurals>
 </resources> 

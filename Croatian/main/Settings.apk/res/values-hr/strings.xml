@@ -325,6 +325,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="average_memory_use">Prosječna upotreba memorije</string>
   <string name="average_used">Prosječna upotreba (%)</string>
+  <string name="avoid_ui">Izbjegni UI</string>
   <string name="awake">Vrijeme budnosti uređaja</string>
   <string name="back_key">Natrag</string>
   <string name="background_data">Pozadinski podaci</string>

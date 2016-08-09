@@ -9,6 +9,10 @@
          <item>"Magisterij"</item>
          <item>"Doktorat"</item>
      </string-array>
+	 <string-array name="account_user_gender_name">
+         <item>Muškarac</item>
+         <item>Žena</item>
+     </string-array>
      <string-array name="income">
          <item>&lt; 2000</item>
          <item>2001~4000</item>
