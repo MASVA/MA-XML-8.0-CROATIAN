@@ -51,9 +51,7 @@
   <string name="app_downloads">%s preuzimanja</string>
   <string name="app_label">Preuzimanja</string>
   <string name="artist">Izvođači</string>
-  <string name="artist_album">Ablum</string>
-  <string name="artist_favor">Istaknuto</string>
-  <string name="artist_album">Ablum</string>
+  <string name="artist_album">Album</string>
   <string name="artist_favor">Istaknuto</string>
   <string name="artist_is_empty">Ime Izvođača ne može biti prazno.</string>
   <string name="artist_name">Izvođač</string>
@@ -311,8 +309,6 @@
   <string name="filter_by_size_prefix">"Sakrij datoteke manje od "</string>
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
   <string name="find_music">Traži pjesme</string>
-  <string name="follow">Prati</string>
-  <string name="followed">Pratim</string>
   <string name="force_touch_audio_picker">Prepoznaj pjesmu</string>
   <string name="force_touch_play_local_music_random">Nasumično reproduciraj loklanu glazbu</string>
   <string name="follow">Prati</string>
