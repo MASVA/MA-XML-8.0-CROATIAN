@@ -10,6 +10,7 @@
   <string name="armed_forces_day"/>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
+  <string name="carousel">Vrtuljak</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -18,6 +19,7 @@
   <string name="cloud_state_finished">Sinkronizirano s Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinkronizirano s Mi Cloudom</string>
   <string name="cold_dews"/>
+  <string name="daydream">Dvevno sanjarenje</string>
   <string name="day_following_good_friday"/>
   <string name="default_name">Zadano</string>
   <string name="delete_frequent_phrases">Izbriši česte izraze</string>
@@ -31,6 +33,7 @@
   <string name="fools_day">1. travanj</string>
   <string name="frequent_phrases_des">Unesite česte izraze sa samo nekoliko dodira tijekom uređivanja teksta</string>
   <string name="frequent_phrases_size_exceeded">Možete dodati najviše %1$d učestalih izraza. Izbrišite one nepotrebne da dodate još</string>
+  <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>

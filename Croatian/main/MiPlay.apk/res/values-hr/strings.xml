@@ -2,6 +2,9 @@
 <resources>
   <string name="app_name">MiPlay</string>
   <string name="cancel">Odustani</string>
+  <string name="enable_wifi_btn">Omogući</string>
+  <string name="enable_wifi_message">Omogući WLAN za korištenje pretraživanja i povezivanja uređaja u blizini.</string>
+  <string name="enable_wifi_title">Omogući WLAN</string>
   <string name="media_feature_projection">Zrcalni zaslon</string>
   <string name="media_status_error">Pogreška</string>
   <string name="media_status_started">Povezano</string>
