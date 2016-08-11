@@ -529,7 +529,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unlike">Odznači</string>
   <string name="origin_name">%1$s: </string>
   <string name="other_user_follow_title">Osobe koje pratim</string>
-  <string name="other_user_liked_topic_tip">Bez pitanje od važnosti</string>
+  <string name="other_user_liked_topic_tip">Nema tema</string>
   <string name="other_user_liked_video_title">Videozapisi koji mi se sviđaju</string>
   <string name="other_user_no_follow_tip">"Još nikoga ne pratite."</string>
   <string name="other_user_no_liked_video_tip">Nema videozapisa koji mi se sviđaju.</string>

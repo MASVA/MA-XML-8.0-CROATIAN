@@ -58,7 +58,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
   <string name="cloud_backup_detail_frequence_day">Izradi Sig. kopiju svakih %1$s</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Sig. kopija, Veličina:%2$s</string>
+  <string name="cloud_backup_detail_manage_summary">Sig. kopija: %1$s, Veličina:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, Poč. zaslon i postavke sustava</string>
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>

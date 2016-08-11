@@ -86,7 +86,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">"Ne prikazuj dijalog potvrde prilikom brisanja bilješke gestom"</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
   <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
   <string name="pref_title_font_size">Veličina fonta</string>
