@@ -53,16 +53,16 @@
          <item quantity="one">"Ne mogu preuzeti fotografiju, pokušati ponovno?"</item>
      </plurals>
 	 <plurals name="picker_no_network_retry_image_confirm_message">
-         <item quantity="other">"Ne mogu preuzeti %1$d fotografija, povežite s mrežom i pokušajte ponovno"</item>
-         <item quantity="one">"Ne mogu preuzeti fotografiju, povežite s mrežom i pokušajte ponovno"</item>
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija, povežite se s mrežom i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju, povežite se s mrežom i pokušajte ponovno"</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), pokušati ponovno?"</item>
          <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), pokušati ponovno?"</item>
      </plurals>
 	 <plurals name="picker_no_network_retry_origin_confirm_message">
-         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), povežite s mrežom i pokušajte ponovno"</item>
-         <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), povežite s mrežom i pokušajte ponovno"</item>
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), povežite se s mrežom i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), povežite se s mrežom i pokušajte ponovno"</item>
      </plurals>
      <plurals name="picker_cancel_confirm_message">
          <item quantity="other">Otkazati preuzimanja preostalih %d fotografija?</item>

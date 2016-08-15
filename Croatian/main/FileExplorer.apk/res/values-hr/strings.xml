@@ -843,11 +843,11 @@ oslobodili prostor.</string>
   <string name="user_setting_followed_msg">Obavijesti o pratiteljima</string>
   <string name="user_setting_followed_msg_tip">Primaj obavijesti kad vas ljudi počnu pratiti</string>
   <string name="user_setting_new_comment">Obavijest novog komentara</string>
-  <string name="user_setting_new_comment_tip">Videozapis ili komentar na odgovor, bit ćete obaviješteni</string>
+  <string name="user_setting_new_comment_tip">Dobit će te obavijest o odgovorima na vaše komentare i videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obavijest o novoj poruci</string>
-  <string name="user_setting_new_liked_tip">Kada se nekome svidi vaš videozapis ili komentar, bit ćete obaviješteni</string>
+  <string name="user_setting_new_liked_tip">Dobit će te obavijest kada se nekome svidi vaš videozapis ili komentar</string>
   <string name="user_setting_topic_new_msg">Dojava novih vrućih tema</string>
-  <string name="user_setting_topic_new_msg_tip">Kada se napravi nova tema, bit ćete obaviješteni</string>
+  <string name="user_setting_topic_new_msg_tip">Dobit će te obavijest o novim videozapisima u temama koje pratite</string>
   <string name="user_topic_btn_text">Pogledaj više tema</string>
   <string name="user_topic_text">Moje Teme</string>
   <string name="user_upload_text">Učitavanja</string>
