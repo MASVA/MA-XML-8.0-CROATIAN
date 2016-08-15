@@ -74,6 +74,10 @@
         <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
         <item quantity="few">Netočan PIN kôd SIM kartice; imate još %d pokušaja.</item>
 	</plurals>
+	<plurals name="connected_devices_number">
+         <item quantity="other">%d uređaja</item>
+         <item quantity="one">%d uređaj</item>
+     </plurals>
 	<plurals name="show_pho_countdown">
         <item quantity="other">"Još %1$d koraka od ulaska u informacije o telefonu."</item>
         <item quantity="one">"Još %1$d korak do ulaska u informacije o telefonu."</item>

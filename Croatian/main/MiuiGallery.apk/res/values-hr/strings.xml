@@ -24,6 +24,7 @@
   <string name="add_to_album_exist">Ova fotografija već postoji</string>
   <string name="add_to_album_failed">"Ne mogu dodati u album"</string>
   <string name="add_to_album_success">Dodano u album</string>
+  <string name="add_to_album_tip">Cloud fotografije</string>
   <string name="add_to_secret_exist">Fotografija već postoji u skrivenom albumu</string>
   <string name="add_to_secret_fail">"Ne mogu dodati u skriveni album"</string>
   <string name="add_to_secret_failed_with_reason">"Ne mogu dodati u skriveni album. %1$s."</string>
@@ -538,6 +539,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="picker_image_need_download">"%d odabranih fotografija nije na uređaju. Preuzeti ih putem mobilnih podataka?"</string>
   <string name="picker_image_will_download">"%d odabranih fotografija nije na uređaju. One će se preuzeti."</string>
   <string name="picker_mobile_data_video">"Ne mogu preuzeti videozapise putem mobilnih podataka, preskočeno %d."</string>
+  <string name="picker_no_network_message">Mreža nije dostupna, povežite se s mrežom i preuzmite</string>
   <string name="picker_origin_need_download">"%1$d odabranih fotografija nije na uređaju (%2$dMB). Preuzeti ih putem mobilnih podataka?"</string>
   <string name="picker_title_format">Odabrano fotografija: %d</string>
   <string name="picker_title_selection_format">Odabrano fotografija: %d</string>
@@ -617,6 +619,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="send_too_many_files_error">"Mogu poslati najviše %d stavki odjednom"</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
+  <string name="set_as_wallpaper_description">Ova slika je sličica, preuzeti prvo original?</string>
+  <string name="set_as_wallpaper_title">Postavi za pozadinu</string>
   <string name="set_face_group_toast_msg_new_user">Držite fotografiju osobe za spajanje ili ignoriranje te osobe</string>
   <string name="set_face_group_toast_msg_old_user">"Držite fotografiju osobe za izradu grupe (obitelj, prijatelji, kolege, itd.)</string>
   <string name="set_face_group_toast_title_new_user">Prijedlozi</string>
@@ -627,6 +631,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="share">Podijeli</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne mogu isključiti Sig. kopiju za dijeljene albume"</string>
+  <string name="share_app_is_launching">Ciljna aplikacija se pokreće</string>
   <string name="share_by_email_start">Podijeli %1$s u pozadini</string>
   <string name="share_by_email_successfully">Podijeljeno %1$s</string>
   <string name="share_public_url_text">Podijelio sam %1$s album s tobom. Pregledaj ga na %2$s</string>

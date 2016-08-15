@@ -2034,6 +2034,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="master_clear_summary">Briše sve podatke na uređaju</string>
   <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
   <string name="max_cpu10_info">"10 jezgreni "</string>
+  <string name="max_cpu2_info">"2 jezgreni "</string>
   <string name="max_cpu4_info">"4 jezgreni "</string>
   <string name="max_cpu6_info">"6 jezgreni "</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>
@@ -2299,6 +2300,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_application">Ništa</string>
   <string name="no_applications">Nema aplikacija</string>
   <string name="no_battery_summary">Nema potrošnje baterije od posljednjeg potpunog punjenja</string>
+  <string name="no_connected_devices">Nema povezanih uređaja</string>
   <string name="no_condition_providers">Nije instaliran nijedan davatelj uvjeta.</string>
   <string name="no_data_usage">Nema upotrebe podataka</string>
   <string name="no_default_apps">Nema zadanih aplikacija.</string>
@@ -3420,6 +3422,8 @@ Za prikvačivanje zaslona:
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
   <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
   <string name="show_background_processes">Prikaži procese iz predmemorije</string>
+  <string name="show_connected_devices_summary">Prikaži povezane uređaje</string>
+  <string name="show_connected_devices_title">Povezani uređaji</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
   <string name="show_dev_already">Nema potrebe, već ste razvojni programer.</string>
@@ -3874,6 +3878,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="testing_sim_toolkit">"Alat SIM-a"</string>
   <string name="testing_usage_stats">Korisnička statistika</string>
   <string name="testing_wifi_info">WLAN informacije</string>
+  <string name="tether_devices_management_title">Upravljaj uređajima</string>
+  <string name="tether_settings_disabled">Osobni Hotspot je isključen</string>
   <string name="tether_settings_title_all">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Dijeljenje veze Bluetoothom</string>
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>

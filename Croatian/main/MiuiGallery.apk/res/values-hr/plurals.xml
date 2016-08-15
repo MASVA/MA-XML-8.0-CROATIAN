@@ -52,14 +52,26 @@
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija, pokušati ponovno?"</item>
          <item quantity="one">"Ne mogu preuzeti fotografiju, pokušati ponovno?"</item>
      </plurals>
+	 <plurals name="picker_no_network_retry_image_confirm_message">
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija, povežite s mrežom i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju, povežite s mrežom i pokušajte ponovno"</item>
+     </plurals>
      <plurals name="picker_retry_origin_confirm_message">
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), pokušati ponovno?"</item>
          <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), pokušati ponovno?"</item>
+     </plurals>
+	 <plurals name="picker_no_network_retry_origin_confirm_message">
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), povežite s mrežom i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), povežite s mrežom i pokušajte ponovno"</item>
      </plurals>
      <plurals name="picker_cancel_confirm_message">
          <item quantity="other">Otkazati preuzimanja preostalih %d fotografija?</item>
          <item quantity="one">Otkazati preuzimanje preostale fotografije?</item>
     </plurals>	
+	<plurals name="add_to_album_cloud_photo_count_tip">
+         <item quantity="other">Dodano %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
+         <item quantity="one">Dodana %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
+     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Izbrisati %1$d fotografija %2$s?</item>
         <item quantity="one">Izbrisati ovu fotografiju %2$s?</item>

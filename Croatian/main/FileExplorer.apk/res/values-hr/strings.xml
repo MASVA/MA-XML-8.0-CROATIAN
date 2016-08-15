@@ -667,6 +667,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="select_image">Slike</string>
   <string name="select_music">Glazba</string>
   <string name="select_video">Videozapisi</string>
+  <string name="select_volume">Odaberi glasnoću</string>
   <string name="send_comment">Pošalji</string>
   <string name="send_error">"Ne mogu dodati komentar"</string>
   <string name="send_sticker">Pošalji naljepnicu</string>

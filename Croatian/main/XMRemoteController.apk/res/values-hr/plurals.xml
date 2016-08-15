@@ -9,8 +9,8 @@
     <item quantity="other">Korisnika: %1$s</item>
   </plurals>
   <plurals name="match_brand_selection_des">
-    <item quantity="one">Dostupna marka: 1</item>
-    <item quantity="other">Dostupne marke: %d</item>
+    <item quantity="one">Dostupna 1 marka</item>
+    <item quantity="other">Dostupnih marki: %d</item>
   </plurals>
    <plurals name="days_ago">
         <item quantity="other">Prije %1$d dana</item>
