@@ -7,7 +7,10 @@
   <string name="cal_text_copied">Tekst kopiran</string>
   <string name="choose_currency">Odaberite valutu</string>
   <string name="choose_unit">Odaberite jedinicu</string>
+  <string name="city">Grad</string>
   <string name="clear_history">Izbriši povijest</string>
+  <string name="combine_loan">Kombiniraj kredit</string>
+  <string name="commercial_loan">Komercijalni kredit</string>
   <string name="convert_currency">Konverzija valuta</string>
   <string name="convertion_unit">Konverzija jedinica</string>
   <string name="convertion_unit_area">Konverzija površine</string>
@@ -18,6 +21,7 @@
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
   <string name="currency_update_time_format">Ažurirano %s</string>
+  <string name="day">dan</string>
   <string name="error">Pogreška</string>
   <string name="error_fomrat">Format pogreške</string>
   <string name="from_unit_en">kilometara na sat</string>

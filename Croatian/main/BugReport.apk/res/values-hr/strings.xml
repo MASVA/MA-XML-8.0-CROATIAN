@@ -7,6 +7,8 @@
   <string name="app_label">Pov. informacije</string>
   <string name="app_name">Pov. informacije</string>
   <string name="btn_send">Pošalji</string>
+  <string name="bugreport_dialog_not_show_again">"Ne prikazuj ponovno"</string>
+  <string name="bugreport_dialog_submit_content">Vaše povratne informacije mogu sadržavati osobne podatke.</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
@@ -84,6 +86,7 @@
   <string name="feedback_submit_hint2">Idite u \"Moja izvješća\" za prikaz detalja</string>
   <string name="feedback_submit_succ">Uspješno poslano</string>
   <string name="feedback_submit_succ_button">Dovršeno</string>
+  <string name="feedback_submitting">Slanje…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s prijedlog \"%2$s\"</string>
   <string name="feedback_title">Naslov</string>
   <string name="feedback_title_hint">Opišite ukratko problem</string>
@@ -131,11 +134,11 @@
   <string name="michat_kefu_welcome">Dobrodošli u Xiaomi online podršku!</string>
   <string name="michat_lose_artificial">Došlo je do mrežne pogreške, napustili ste chat</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
-  <string name="michat_mesage_resend_error_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="michat_mesage_send_error_network">"Ne mogu poslati, provjerite mrežnu vezu"</string>
   <string name="michat_message_copy_info">Kopirano u međuspremnik</string>
+  <string name="michat_message_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="michat_message_join_again">"Drago nam je da ste se vratili!"</string>
   <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Ja sam robot za online podršku."</string>
+  <string name="michat_message_send_error_network">"Ne mogu poslati, provjerite mrežnu vezu"</string>
   <string name="michat_motto">Mi Support je spremna pomoći</string>
   <string name="michat_msg_image_upload_error">"Ne mogu poslati sliku, Pokušajte ponovno kasnije"</string>
   <string name="michat_msg_input_info">Opišite ukratko svoj problem</string>
@@ -192,7 +195,7 @@
   <string name="packaging_dialog_content">Izrada izvješća…</string>
   <string name="pic_not_exist">"Ova slika ne postoji"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
-  <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na Mi Poslužitelje."</string>
+  <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti postavke</string>
   <string name="post_miui_bbs_failed">"Ne mogu objaviti post na Forum"</string>
   <string name="pull_to_refresh_pull_label">Povucite za osvježiti</string>
@@ -213,7 +216,7 @@
   <string name="section_screenshot">Snimka zaslona</string>
   <string name="submit_dialog_cancel">Odustani</string>
   <string name="submit_dialog_confirm">Pošalji</string>
-  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslan na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
+  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>

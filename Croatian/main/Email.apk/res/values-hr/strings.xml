@@ -580,7 +580,7 @@
   <string name="message_invite_title">Kalendarska pozivnica</string>
   <string name="message_saved">Poruka je spremljena kao skica.</string>
   <string name="message_view_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
-  <string name="mibill_privacy_policy_button1">"Ne slažem se"</string>
+  <string name="mibill_privacy_policy_button1">Kasnije</string>
   <string name="mibill_privacy_policy_button2">Slažem se</string>
   <string name="mibill_privacy_policy_description">Dopustiti Mi Wallet analiziranje i upravljanje vašim računima automatski. Ova značajka je isključena po defaultu za rad s povezanim adresama e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Korištenjem ove značajke, slažete se s našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Uvjeti pružanja usluge&lt;/a&gt;</string>
@@ -752,6 +752,7 @@
   <string name="quick_reply_hint">Odgovori svim %1$d osobama</string>
   <string name="quick_reply_hint_bcc">"(U BCC)"</string>
   <string name="quick_reply_hint_cc">"(U CC)"</string>
+  <string name="quick_reply_hint_reply_only_from">Brzi odgovor (samo pošiljatelj)</string>
   <string name="quick_responses_empty_view">Nema brzih odgovora</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -844,6 +845,11 @@
   <string name="sent_folder_selection_title">Odaberite mapu za poslane stavke poslužitelja za %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Ne mogu potvrditi certifikat poslužitelja
 \u0009 (Provjerite dal je 'Auto sink. vremena' uključena u Postavkama.)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Previše neuspjelih pokušaja prijave</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Previše pokušaja prijave</string>
+  <string name="ser_resp_err_map_mailbox_locked">Račun e-pošte je zaštićen zaporkom</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Nema računa E-pošte</string>
+  <string name="ser_resp_err_map_max_connections">Previše pokušaja povezivanja</string>
   <string name="ser_resp_err_map_nouser">"Korisnik ne postoji"</string>
   <string name="ser_resp_err_map_or">%1$s ili %2$s</string>
   <string name="ser_resp_err_map_pserr">Netočno korisničko ime ili zaporka</string>
@@ -908,6 +914,7 @@
   <string name="too_large_to_attach_additional">"Veličina datoteke ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo.Veličina ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_single">"Ne mogu priložiti datoteku veću od %1$s."</string>
+  <string name="topic_merge">Spoji teme</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
