@@ -173,7 +173,9 @@
   <string name="dislike_toast">"Takvi videozapisi neće biti preporučeni za vas."</string>
   <string name="dislike_video">"Nisam zainteresiran"</string>
   <string name="dlg_error_unmount_text">"Ne mogu ukloniti USB pohranu."</string>
+  <string name="download">Preuzmi</string>
   <string name="download_current_progress">%1$d%%</string>
+  <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirnite na vezu ispod za pregled: </string>
   <string name="downloaded_sticker_str">Preuzeto</string>
@@ -220,7 +222,8 @@
   <string name="file_not_exist">"Datoteka ne postoji"</string>
   <string name="file_too_large">Datoteka je prevelika za učitavanje.</string>
   <string name="files">Datoteke</string>
-  <string name="finished">Završeno</string>
+  <string name="finished">Dovršeno</string>
+  <string name="flow_setting">Postavke</string>
   <string name="folder_exist">Mapa već postoji</string>
   <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
@@ -253,6 +256,7 @@
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_recent">Nedavno</string>
+  <string name="hot_app">Populare aplik.</string>
   <string name="hot_comments">Aktualno</string>
   <string name="hot_sticker">Naljepnice</string>
   <string name="hot_video">Videozapisi</string>
@@ -261,6 +265,7 @@
   <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
   <string name="input_memo_hint">Unesite dodatne razloge (po izboru)</string>
+  <string name="install_fail">"Ne mogu instalirati"</string>
   <string name="installing">Instaliranje…</string>
   <string name="instruction">Unesite adresu u FTP klijent: </string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
@@ -477,7 +482,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="oauth_failed_tip">"Ne mogu dovršiti autorizaciju"</string>
   <string name="oauth_success_tip">Uspješno autorizirano</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku u ovom trenutku."</string>
-  <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena, mogli bi:
+  <string name="only_wifi">Preuzmi kad je povezano na WLAN</string>
+  <string name="open_app">Otvori</string>
+  <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete:
 1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
@@ -588,6 +595,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Nedavno</string>
   <string name="recommend">Preporučeno</string>
   <string name="recommend_topic">Preporučene teme</string>
   <string name="recommend_user">Preporučeni profili</string>

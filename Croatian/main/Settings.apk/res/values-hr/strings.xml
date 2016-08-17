@@ -1459,6 +1459,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
 "</string>
   <string name="font_size_summary1">"Ako je tekst vašeg sustava je još uvijek premalen, pokušajte "</string>
   <string name="font_size_summary2">Lite mode</string>
+  <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
   <string name="force_hw_ui">Nametni GPU renderiranje</string>
   <string name="force_hw_ui_summary">Nametni upotrebu GPU-a za 2D crteže</string>
   <string name="force_msaa">Nametni 4x MSAA</string>

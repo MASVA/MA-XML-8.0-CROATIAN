@@ -44,7 +44,9 @@
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
+  <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">Trenutna lokacija</string>
+  <string name="hide_topic">Sakrij</string>
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="index_item_install_now">Instaliraj sada</string>
@@ -55,7 +57,7 @@
   <string name="indices_title">Preporučene aktivnosti</string>
   <string name="indices_title_Precip1hr">Oborine</string>
   <string name="indices_title_car_wash">Pranje auta</string>
-  <string name="indices_title_feel">Stvarni osjećaj</string>
+  <string name="indices_title_feel">Stvar. osjećaj</string>
   <string name="indices_title_humidity">Vlaga</string>
   <string name="indices_title_pressure">Tlak</string>
   <string name="indices_title_restriction">Ograničenje</string>
