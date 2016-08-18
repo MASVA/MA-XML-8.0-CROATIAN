@@ -776,7 +776,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="optimize_result_button_cloudspace">Dodaj cloud pohranu</string>
   <string name="optimize_result_button_consume_power_analysis">Skeniraj bateriju</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
-  <string name="optimize_result_button_correct_now">Kalibriraj</string>
+  <string name="optimize_result_button_correct_now">Podesi</string>
   <string name="optimize_result_button_fix_now">Popravi</string>
   <string name="optimize_result_button_onekey_open">Uključi</string>
   <string name="optimize_result_button_onekey_restore">Obnovi</string>
@@ -1323,7 +1323,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_flow_purchase">"Izgleda da nemate još puno preostalih podataka. Kupita podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">"Premašili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podataka nije sinkronizirana s vašim operaterom %d dana."</string>
-  <string name="summary_flow_verify_failed">Kalibriraj</string>
+  <string name="summary_flow_verify_failed">Automatski podesi uporabu podataka da izbjegnete dodatne naknade</string>
   <string name="summary_garbage_lib">Koristite najnovije definicije za uklanjanje spyware, adware i drugog neželjenog smeća.</string>
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 po minuti za domaće pozive.</string>
@@ -1451,7 +1451,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="title_flow_purchase">Kupi mobilne podatke</string>
   <string name="title_flow_rank">Uporaba mobilnih podataka</string>
   <string name="title_flow_verify">Usporedi izračune</string>
-  <string name="title_flow_verify_failed">"Ne mogu kalibrirati 5 dana za redom"</string>
+  <string name="title_flow_verify_failed">"Ne mogu podesiti 5 dana za redom"</string>
   <string name="title_garbage_lib">Ažuriraj definicije smeća</string>
   <string name="title_install_virus_no">Instaliranje nadzora isključeno</string>
   <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
@@ -1468,7 +1468,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="title_power_optimizer">Štednja baterije</string>
   <string name="title_saving_switch">Ušteda podataka</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
-  <string name="title_telecom_operator">Kalibiriaj</string>
+  <string name="title_telecom_operator">Automatski podesi</string>
   <string name="title_usb_no">USB ukl. pogr. uključeno</string>
   <string name="title_usb_yes">USB ukl. pogr. isključeno</string>
   <string name="title_virus_cloudscan">Skeniraj Cloud virusa</string>
@@ -1477,7 +1477,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="title_virus_update_yes">Autom. ažuriranje definicija virusa uključeno</string>
   <string name="title_virus_yes">Nema otkrivenih virusa</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_auto_traffic_correct">Automatska kalibracija je uključena</string>
+  <string name="toast_auto_traffic_correct">Uporaba podataka podešena je automatski</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
   <string name="toast_flow_notification">Obavijesti uporabe podataka su uključene</string>

@@ -204,7 +204,7 @@
   <string name="card_title_cugcall">CUG Poziv</string>
   <string name="card_title_deflectedcall">Poziv skrenut</string>
   <string name="card_title_dialing">Biranje broja</string>
-  <string name="card_title_forwardcheckreceived">Primljena provjera prosljeđivanja</string>
+  <string name="card_title_forwardcheckreceived">Proslijeđen poziv provjeren &amp; primljen</string>
   <string name="card_title_forwarded_MTcall">Prosljeđen dolazni poziv</string>
   <string name="card_title_hanging_up">Prekidanje veze</string>
   <string name="card_title_in_call">Poziv u tijeku</string>
@@ -1449,7 +1449,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="unlock_success">Mrežno otključavanje bilo je uspješno.</string>
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje…</string>
   <string name="updating_settings">Ažuriranje postavki…</string>
-  <string name="updating_title">Postavke poziva</string>
+  <string name="updating_title">Telefon</string>
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
   <string name="uplmn_list_setting_title">Poželjne mreže</string>
   <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
@@ -1484,7 +1484,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_number_not_set">Nije postavljeno</string>
   <string name="voicemail_provider">Govorna pošta</string>
   <string name="voicemail_provider_summary">Odaberite uslugu govorne pošte</string>
-  <string name="voicemail_settings">Postavljanje</string>
+  <string name="voicemail_settings">Postavke gov. pošte</string>
   <string name="voicemail_settings_number_hint">Unesite broj spremnika glasovnih poruka</string>
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>

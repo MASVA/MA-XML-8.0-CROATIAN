@@ -169,12 +169,12 @@
         <item quantity="many">Pronađeno (%1$d) novih datoteka</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Primljeno datoteka (%1$d) apl. %2$s</item>
-        <item quantity="zero">Primljeno datoteka (%1$d) apl.%2$s</item>
-        <item quantity="one">Primljena datoteka (%1$d) apl. %2$s</item>
-        <item quantity="two">Primljene datoteke (%1$d) apl. %2$s</item>
-        <item quantity="few">Primljeno datoteka (%1$d) apl. %2$s</item>
-        <item quantity="many">Primljeno datoteka (%1$d) apl. %2$s</item>
+        <item quantity="other">Primljeno datoteka (%1$d) od %2$s</item>
+        <item quantity="zero">Primljeno datoteka (%1$d) od%2$s</item>
+        <item quantity="one">Primljena datoteka (%1$d) od %2$s</item>
+        <item quantity="two">Primljene datoteke (%1$d) od %2$s</item>
+        <item quantity="few">Primljeno datoteka (%1$d) od %2$s</item>
+        <item quantity="many">Primljeno datoteka (%1$d) od %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
         <item quantity="other">Primljeno (%1$d) datoteka od WeChat</item>
