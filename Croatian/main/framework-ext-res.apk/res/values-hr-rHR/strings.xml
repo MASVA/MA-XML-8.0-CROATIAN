@@ -14,6 +14,7 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="auto_disable_screenbuttons_prompts_ok">U redu</string>
   <string name="auto_disable_screenbuttons_prompts_title">Onemogućiti Navigacijske tipke?</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dodirnite ponovno za izlaz</string>
   <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>

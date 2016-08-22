@@ -185,7 +185,7 @@
   <string name="drive_opened">Prijavljeni ste</string>
   <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
-  <string name="empty_comment">"Komentari ne mogu biti prazni"</string>
+  <string name="empty_comment">"Komentar ne može biti prazan"</string>
   <string name="empty_file_download">"Ne mogu preuzeti prazne datoteke"</string>
   <string name="empty_file_upload">"Ne mogu učitati prazne datoteke"</string>
   <string name="enable_documentsui">Uključite prvo %s u Postavke &gt; Instalirane aplikacije</string>
@@ -849,7 +849,7 @@ oslobodili prostor.</string>
   <string name="user_setting_follow_new_msg">Obavijesti od osoba koje pratite</string>
   <string name="user_setting_follow_new_msg_tip">Primaj obavijesti o novim videozapisa</string>
   <string name="user_setting_followed_msg">Obavijesti o pratiteljima</string>
-  <string name="user_setting_followed_msg_tip">Primaj obavijesti kad vas ljudi počnu pratiti</string>
+  <string name="user_setting_followed_msg_tip">Biti će te obaviješteni kad vas ljudi počnu pratiti</string>
   <string name="user_setting_new_comment">Obavijest novog komentara</string>
   <string name="user_setting_new_comment_tip">Dobit će te obavijest o odgovorima na vaše komentare i videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obavijest o novoj poruci</string>

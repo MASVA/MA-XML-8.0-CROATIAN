@@ -134,7 +134,7 @@
      <string name="notification_share">Podijeli</string>
 	 <string name="notification_uncrypt_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
      <string name="notification_uncrypt_title_hm">Ponovno pokreni za primjenu ažuriranja</string>
-     <string name="notification_uncrypting">Dešifriranje ažuriranja</string>
+     <string name="notification_uncrypting">Dešifriranje ažuriranja…</string>
      <string name="notification_update_new_version">Dostupno je ažuriranje</string>
      <string name="notification_update_now">Ažurirati sada</string>
      <string name="notification_updating">Ažuriranje…</string>

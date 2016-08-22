@@ -1068,6 +1068,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_import_from_other_phone">Kontakti;Uvoz;Drugi telefon</string>
   <string name="search_import_from_sdcard">Kontakti;Uvoz;SD kartica</string>
   <string name="search_import_from_sim">Kontakti;Uvoz;SIM kartica</string>
+  <string name="search_input_hint">Možete tražiti brojeve telefona ili usluge</string>
   <string name="search_key_photo_word">Dodijeli;Kontakt;Fotografije;Kontakti</string>
   <string name="search_key_rebuild_t9_index_title">Organiziraj;Kontakti;t9</string>
   <string name="search_key_sim_manage">Organiziraj;Kontakti</string>

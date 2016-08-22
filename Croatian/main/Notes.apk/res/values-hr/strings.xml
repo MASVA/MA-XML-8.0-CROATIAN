@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
   <string name="alert_title_delete">Izbrisati bilješku?</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
+  <string name="alert_title_hidden_note">Primljen podsjetnik skrivene bilješke</string>
   <string name="all_folder_name">Sve bilješke</string>
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
@@ -41,6 +42,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_note_empty_for_clock">"Ne mogu postaviti vrijeme podsjetnika za praznu bilješku"</string>
   <string name="error_note_empty_for_send_to_desktop">Prazne bilješke nije moguće postaviti na Početni zaslon</string>
   <string name="error_note_not_exist">"Bilješka ne postoji"</string>
+  <string name="error_send_empty_note">"Ne mogu poslati praznu bilješku"</string>
+  <string name="error_send_empty_note_to_weibo">"Ne mogu poslati praznu bilješku na Weibo"</string>
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="folder_exist">Mapa s istim nazivom već postoji</string>
@@ -59,6 +62,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="menu_hide">Sakrij</string>
   <string name="menu_move_parent_folder">Starija mapa</string>
   <string name="menu_move_to">Premjesti u</string>
+  <string name="menu_new_folder">Nova mapa</string>
   <string name="menu_restore">Vrati</string>
   <string name="menu_send_as_image">Pošalji kao sliku</string>
   <string name="menu_send_as_text">Pošalji kao tekst</string>

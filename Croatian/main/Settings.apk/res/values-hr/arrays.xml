@@ -130,8 +130,8 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Uvijek</item>
-        <item>Samo kad je uključeno</item>
-        <item>Nikada</item>
+        <item>Samo kad je priključen na napajanje</item>
+        <item>Nikad</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Uvijek</item>
@@ -140,7 +140,7 @@
     </string-array>
 	<string-array name="data_usage_data_range">
         <item>Posljednjih 30 dana</item>
-        <item>Postavi ciklus uporabe...</item>
+        <item>Postavi ciklus uporabe…</item>
     </string-array>
     <string-array name="sim_card_data_range">
         <item>Zadnje 4 znamenke</item>
@@ -611,6 +611,7 @@
         <item>Pokreni upravitelje</item>
         <item>Pokreni Google now</item>
         <item>Zatvori trenutnu aplikaciju</item>
+		<item>Pokreni Brzo pretraživanje</item>
         <item>Prikaži Izbornik</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

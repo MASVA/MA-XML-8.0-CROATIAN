@@ -2500,8 +2500,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_dtmf_tone_enable_title">Postavke/Zvuk &amp; vibracija/Tonovi biranja</string>
   <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
   <string name="path_equalizer">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Equalizer</string>
-  <string name="path_fluency_mode">Postavke/Baterija &amp; performanse/Animacije sustavas</string>
+  <string name="path_fluency_mode">Postavke/Baterija &amp; performanse/Animacije sustava</string>
   <string name="path_font_settings">Postavke/Zaslon/Font sustava</string>
+  <string name="path_force_touch">Postavke/Dodatne postavke/3D Touch</string>
   <string name="path_gesture_wakeup_title">Postavke/Zaslon/Dvaput dodirnite zaslon za buđenje</string>
   <string name="path_gps_settings">Postavke/Dodatne postavke/Privatnost/Lokacija</string>
   <string name="path_handy_mode_settings">Postavke/Dodatne postavke/Rad jednom rukom</string>
@@ -3178,6 +3179,7 @@ Za prikvačivanje zaslona:
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">Animacije sustava</string>
   <string name="search_font">Font sustava;Font;Fontovi;Veličine fonta;Veličina fonta</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje;Dvaput dodirnite za buđenje;buđenje zaslona;Dvaput dodirnite zaslon;Dvaput dodirnite</string>
   <string name="search_gps">GPS;Pristup lokaciji;Usluge lociranja</string>
   <string name="search_handy_mode">Rad jednom rukom;Rad jednom rukom;Rad jednom rukom;Jedna ruka</string>
@@ -3536,6 +3538,8 @@ Za prikvačivanje zaslona:
   <string name="sim_status_summary">Informacije povezane sa SIM-om</string>
   <string name="sim_status_title">Status SIM-a</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
+  <string name="single_key_use">Korištenje jedne tipke</string>
+  <string name="single_key_use_summary">Tipka Početna umjesto druge dvije tipke za normalan rad</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na zaključanom zaslonu.</string>
   <string name="skip_step">Preskoči</string>

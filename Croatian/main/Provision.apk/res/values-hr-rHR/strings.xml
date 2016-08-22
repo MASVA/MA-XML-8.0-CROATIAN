@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">Slažem se</string>
   <string name="agree_terms">"Pročitao sam i slažem se s Uvjetima pružanja usluge i Pravila o Privatnosti"</string>
+  <string name="app_name">Odredbe</string>
   <string name="back">Natrag</string>
   <string name="congratulation_label">"Spremni ste za MIUI!"</string>
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
+  <string name="content_description_language_picker">Odabir jezika</string>
+  <string name="content_description_miui_version">MIUI8</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -48,9 +51,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
-  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Korištenja i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
-
-Morate se složiti s Uvjeti pružanja usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Morate se povezati na internet za aktiviranje Mi Usluge i Pronađi uređaj"</string>
+  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\r\n\r\nMorate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Morate se povezati na internet da aktivirat Mi Usluge, Pronađi uređaj i Mi Home."</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="welcome">Dobrodošli</string>
