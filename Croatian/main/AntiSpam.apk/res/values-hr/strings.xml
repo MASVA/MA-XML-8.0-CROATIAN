@@ -77,6 +77,7 @@
   <string name="close_callwait">Isključeno</string>
   <string name="customizer_mode_user_define_name">Prilagođeno</string>
   <string name="dlg_add_blacklist">Blokirati ovaj broj?</string>
+  <string name="dlg_add_blacklist_title">Dodaj na listu blokiranih</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s i %2$s ostali kontakti su već na popisu iznimaka.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Konflikt iznimaka</string>
   <string name="dlg_add_keyword">Dodaj ključne riječi</string>

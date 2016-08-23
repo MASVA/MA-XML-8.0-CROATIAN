@@ -164,6 +164,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="android_beam_tips">Uvjerite se da se uređaji dodiruju, zatim dodirnite sadržaj koji želite poslati.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
+  <string name="anr_record_interval_title">Snimi ANR intervale</string>
   <string name="anti_spam">AntiSpam</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta provjere autentičnosti</string>
@@ -914,8 +915,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="current_backup_pw_prompt">Ovdje unesite trenutačnu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_screen_lock">Trenutačno zaključavanje zaslona</string>
-  <string name="current_use_ese">Korištenje ugrađenog sigurnosnog elementa</string>
-  <string name="current_use_uicc_se">Korištenje ugrađenog elementa na SIM kartici</string>
+  <string name="current_use_ese">Korištenjem MIPay-a, možete koristiti MI Pay i tranzitnu karticu</string>
+  <string name="current_use_uicc_se">Korištenje HCE novčanika</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
@@ -1975,6 +1976,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="long_press_volume_down">Dugo pritisnite smanjivanje glasnoće</string>
   <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
   <string name="login_action">Prijavite se</string>
@@ -2290,7 +2292,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_payment_use_default">Koristi zadano</string>
   <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="nfc_se_route_title">Pozicija sigurnog elementa</string>
+  <string name="nfc_se_route_title">Odaberite način plaćanja</string>
   <string name="night_mode_auto">Automatska</string>
   <string name="night_mode_no">Svijetla</string>
   <string name="night_mode_summary">%s</string>
@@ -2368,6 +2370,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
+  <string name="open_anr_debug">Uključi ANR otklanjanje grešaka</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovo pokrenuti radi primjene ove promjene</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
@@ -2918,6 +2921,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="recognizer_settings_title">Glasovno pretraživanje</string>
   <string name="recognizer_title">Prepoznavanje glasa</string>
   <string name="recompute_size">Ponovni izračun veličine…</string>
+  <string name="record_anr_in_background">Snimi pozadinske ANR slučajeve</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informacije o propisima</string>
   <string name="remove_account_failed">Vaš administrator ne dopušta tu promjenu</string>
@@ -3120,8 +3124,8 @@ Za prikvačivanje zaslona:
   <string name="sdcard_settings_unmounted_status">Sad na siguran način možete ukloniti USB pohranu.</string>
   <string name="sdcard_settings_used_bytes_label">Iskorišteni bajtovi:</string>
   <string name="sdcard_unmount">Isključi USB memoriju</string>
-  <string name="se_route_ese">Ugrađeni sigurni element</string>
-  <string name="se_route_uicc">Sigurni element na SIM kartici</string>
+  <string name="se_route_ese">Korištenjem Xiaomi novčanika, možete koristiti MI Pay i tranzitnu karticu</string>
+  <string name="se_route_uicc">Koristi HCE novčanik</string>
   <string name="search_about">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Autom.zakreni zaslon;Rotiraj zaslon;Orijentacija;Portrait;Landscape</string>
   <string name="search_access_control">Postavke privatnosti;Postavke sigurnosti;Gost;Gost način</string>

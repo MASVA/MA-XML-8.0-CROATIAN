@@ -39,8 +39,8 @@
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Isključite ovu značajku da uštedite na mobilnim podacima</string>
   <string name="sst_wifi_only_title">Ažuriraj slike pozadine koristeći mobilne podatke</string>
-  <string name="summary">"Korištenjem ove značajke, slažete se s našim &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnosti&lt;/a&gt; za početak. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>  
-  <string name="summary_international">"Korištenjem ove značajke, slažete se s našim &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Privatnost&lt;/a&gt;. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
+  <string name="summary">"Korištenjem ove značajke, slažete se s našim Pravila o Privatnosti za početak. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>  
+  <string name="summary_international">"Korištenjem ove značajke, slažete se s našim Korisnički Sporazum i Pravila o Privatnost. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovno kasnije"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>

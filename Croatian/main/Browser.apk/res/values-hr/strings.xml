@@ -228,6 +228,16 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="dialog_queued_body">Ova datoteka je u redu čekanja za preuzimanje.</string>
   <string name="dialog_title_not_available">"Ne mogu preuzeti"</string>
   <string name="dialog_title_queued_body">Datoteka još nije dostupna</string>
+  <string name="document_download_background_btn">Preuzimanje u pozadini</string>
+  <string name="document_download_cancel_btn">Odustani</string>
+  <string name="document_download_failed">Ne mogu preuzeti</string>
+  <string name="document_download_official">Službeno preuzimanje</string>
+  <string name="document_download_open_direct">Otvori izravno</string>
+  <string name="document_download_title">Preuzimanje</string>
+  <string name="document_open_file">Otvori %s</string>
+  <string name="document_open_message">Da poboljšate svoje iskustvo čitanja i osigurate sigurnost, preporučujemo da koristite WPS službenu prilagođenu verziju</string>
+  <string name="document_open_other">Ostale aplikacije</string>
+  <string name="document_open_title">Otvori sa</string>
   <string name="dont_remind_again">Zapamti moj izbor</string>
   <string name="download_btn_select_all">Odaberi sve</string>
   <string name="download_btn_select_none">Poništi odabir</string>
@@ -241,12 +251,14 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="download_dialog_file_length_nolength_txt">Preuzimanje…</string>
   <string name="download_failed">"Ne mogu završiti preuzimanje"</string>
   <string name="download_filter_all">Sve</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplik.</string>
   <string name="download_filter_audio">Glazba</string>
   <string name="download_filter_image">Fotografije</string>
   <string name="download_filter_others">Ostalo</string>
   <string name="download_filter_text">Datoteke</string>
   <string name="download_filter_video">Videozapisi</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Preuzimanje…</string>
   <string name="download_list_open_xl_ok">U redu</string>
   <string name="download_memory_info_avai">"Dostupno %s|"</string>
@@ -282,8 +294,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="error_title">"Ne mogu sinkronizirati."</string>
   <string name="error_unauthorized">Sinkronizacija s vašim Mi Računom je isključena zbog previše pokušaje prijave.</string>
   <string name="exit_browser_warning">Napustiti Preglednik?</string>
-  <string name="file_dir">Mapa</string>
-  <string name="file_name">Naziv</string>
+  <string name="file_dir">Promjeni direktorij</string>
+  <string name="file_name">"Naziv: "</string>
   <string name="file_picker">Odaberi putanju</string>
   <string name="filename_empty_alert_message">"Naziv ne može biti prazan"</string>
   <string name="filename_illegal_alert_message">Nevažeći znak je uklonjen iz naziva datoteke.</string>
@@ -450,6 +462,7 @@ Napustiti ovu stranicu?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupna otvorena WLAN mreža</string>
   <string name="new_folder_name_lable">Naziv grupe</string>
   <string name="next_button_label">Dalje</string>
+  <string name="no_app_open_document">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="no_matches">Nema podudaranja</string>
   <string name="no_space_alert_cancel">Kasnije</string>
   <string name="no_space_alert_clean">Oslobodite prostor</string>
@@ -628,6 +641,7 @@ Napustiti ovu stranicu?"</string>
   <string name="same_folder_name_warning">Grupa s istim nazivom već postoji</string>
   <string name="save_button_text">Spremi</string>
   <string name="save_dialog_title">Spremi</string>
+  <string name="save_file">Spremi %s datoteku</string>
   <string name="save_file_already_exist_alert_message">Datoteka s istim nazivom već postoji, želite li je prepisati?</string>
   <string name="save_file_already_exist_alert_title">Prepisati datoteku?</string>
   <string name="save_form_data_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
@@ -807,6 +821,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_subtitle_prefix_message">"Gledano: "</string>
   <string name="video_title_prefix_message">"Izvanmrežno: "</string>
   <string name="view_certificate">Prikaži certifikat</string>
+  <string name="view_document_downloaded_files">Prikaži preuzete datoteke u Upravitelju preuzimanja</string>
   <string name="voice_sub_title">"Ne znate što reći? Probajte Otvori mi.com!"</string>
   <string name="voice_title">Izgovorite naredbu…</string>
   <string name="voice_title_distinguish">Obrada…</string>

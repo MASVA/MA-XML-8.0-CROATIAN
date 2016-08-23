@@ -165,6 +165,7 @@
   <string name="clip_dialog_title">Birati kopirani broj?</string>
   <string name="close_dial_pad_description">Zatvori brojčanu tipkovnicu</string>
   <string name="cloud_antispam_mark">Prijavi</string>
+  <string name="cloud_antispam_marked">Prijavljeno</string>
   <string name="cloud_antispam_title">ID Pozivatelja</string>
   <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloudom.</string>
   <string name="cloud_state_disabled">Sinkronizacija s Mi Cloudom je isključena</string>
@@ -1185,9 +1186,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="success_message_import_from_account">Kontakt uvezen</string>
   <string name="summary_kind_title">Sažetak</string>
   <string name="t9_search_guide_pinyin_title1">Unesite brojeve da biste pronašli kontakte</string>
-  <string name="t9_search_guide_pinyin_title2">Unesite 6 i 2 za traženje &lt;font fgcolor=""&gt;M&lt;/font&gt;ario &lt;font fgcolor=""&gt;M&lt;/font&gt;ASVA</string>
+  <string name="t9_search_guide_pinyin_title2">Unesite 6 i 2 za traženje Mario MASVA</string>
   <string name="t9_search_guide_zhuyin_title1">Unesite brojeve da biste pronašli kontakte</string>
-  <string name="t9_search_guide_zhuyin_title2">Unesite 6 i 2 za traženje &lt;font fgcolor=""&gt;M&lt;/font&gt;ario &lt;font fgcolor=""&gt;M&lt;/font&gt;ASVA</string> 
+  <string name="t9_search_guide_zhuyin_title2">Unesite 6 i 2 za traženje Mario MASVA</string> 
   <string name="take_new_photo">Snimi novu fotografiju</string>
   <string name="take_photo">Snimi fotografiju</string>
   <string name="telecom_fraud_insurance">Telekom prijevara osiguranja</string>
