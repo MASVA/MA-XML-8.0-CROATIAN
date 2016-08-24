@@ -243,9 +243,15 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="card_main_paysafe_action">Uključi</string>
   <string name="card_main_paysafe_summary">Skeniraj okolinu plaćanja za potencijalne rizike</string>
   <string name="card_main_paysafe_title">Sigurnost plaćanja</string>
+  <string name="card_main_private_space_action">Izradi</string>
+  <string name="card_main_private_space_summary">Korištenje Drugog prostora je kao da imate 2 uređaja</string>
+  <string name="card_main_private_space_title">Drugi prostor</string>
   <string name="card_main_sectool_title">Alati</string>
   <string name="card_main_speeddetail_title">Brzina veze</string>
   <string name="card_main_speeddetailt_summary">Prikaži brzinu veze za pojedine aplikacije</string>
+  <string name="card_main_xspace_action">Izradi</string>
+  <string name="card_main_xspace_summary">Izradite dvojne račune za bilo koju aplikaciju</string>
+  <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Zadnje punjenje</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
