@@ -15,6 +15,7 @@
   <string name="account_yellowpage_favorite">Favoriti</string>
   <string name="account_yellowpage_followed">Provjereni Računi</string>
   <string name="account_yellowpage_recent">Prikaži povijest</string>
+  <string name="add_to_desktop">Dodaj na Poč. zaslon</string>
   <string name="agree">Slažem se</string>
   <string name="agree_to_continue">Nastavi</string>
   <string name="agree_to_turn_on">Slažem se</string>
@@ -65,6 +66,8 @@
   <string name="description_uploadtime">Ažuriraj</string>
   <string name="description_version">Verzija</string>
   <string name="description_version_szie">Verzija: %1$s Veličina: %2$s</string>
+  <string name="didi_back">Natrag</string>
+  <string name="didi_close">Zatvori</string>
   <string name="do_not_remind_me">"Ne podsjećaj me"</string>
   <string name="dont_enable">Isključi</string>
   <string name="download_completed">Preuzimanje spremljeno u %s</string>
@@ -114,6 +117,7 @@
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Služba za dostavu</string>
   <string name="express_inquiry">Praćenje</string>
+  <string name="express_inquiry_and_send">Praćenje i slanje</string>
   <string name="express_inquiry_button_text">Prati</string>
   <string name="express_inquiry_clipboard_number_message">Pratiti broj za praćenje?</string>
   <string name="express_inquiry_data_owner_prefix">Praćenje pošiljke pruža vam</string>
@@ -138,6 +142,14 @@ Provjerite broj za praćenje."</string>
   <string name="express_inquiry_provider_info">"Powered by "</string>
   <string name="express_inquiry_serial_number_indication">Broj za praćenje</string>
   <string name="express_inquiry_serial_number_prefix">Broj: %s</string>
+  <string name="express_inquiry_status_delivered">Dostavljeno</string>
+  <string name="express_inquiry_status_difficult_goods">Nepoznato</string>
+  <string name="express_inquiry_status_dispatch">Otpremanje</string>
+  <string name="express_inquiry_status_on_the_way">Na putu</string>
+  <string name="express_inquiry_status_receipted">Primljeno</string>
+  <string name="express_inquiry_status_return">Vraćanje</string>
+  <string name="express_inquiry_status_sign_out">Odbijeno</string>
+  <string name="express_inquiry_status_unknown">Nepoznato</string>
   <string name="express_inquiry_trace">Prati</string>
   <string name="express_inquiry_trace_device_login_notice">"Koristiite ove usluge na drugom uređaju. Ako želite dobiti status narudžbe iz ovog uređaja, morate potvrditi svoju Mi Račun."</string>
   <string name="express_inquiry_trace_success">Praćenje</string>
@@ -183,6 +195,8 @@ Provjerite broj za praćenje."</string>
   <string name="express_sender_info">Podaci o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Lokacija pošiljatelja</string>
+  <string name="express_shortcut_name">Upit ili ekspresno slanje</string>
+  <string name="express_show_all_inquiry_history">Prikaži sve upite povijest</string>
   <string name="express_submit_order">Pošalji</string>
   <string name="express_track_order">Prati</string>
   <string name="express_tracking_number">Broj za praćenje</string>
@@ -285,6 +299,7 @@ Provjerite broj za praćenje."</string>
   <string name="miuishare_wechat_timeline_title">WeChat Momenti</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Svi kuponi</string>
+  <string name="more_express_numbers">Više ekspresnih brojeva</string>
   <string name="navigation_search_all_cities">Svi gradovi</string>
   <string name="navigation_search_automatically_positioned_city">Trenutan grad</string>
   <string name="navigation_search_default_hint">Unesite riječi koje želite pretražiti (npr. MIUI Adria)</string>

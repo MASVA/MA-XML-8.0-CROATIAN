@@ -222,6 +222,7 @@
   <string name="invalid_recipient_message">Ispravite primatelja (e) ili neće primiti poruku.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Izgled dijaprojekcije "</string>
+  <string name="left_cancel">Povuci lijevo za poništavanje</string>
   <string name="loading_all_messages">Učitavanje…</string>
   <string name="loading_conversations">Učitavanje…</string>
   <string name="loading_mms">Učitavanje MMS-a…</string>
@@ -439,6 +440,7 @@
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
   <string name="preferences_title">Postavke</string>
   <string name="prepare_send">Priprema za slanje…</string>
+  <string name="press_recording">Pritisnite &amp; držite ikonu mikrofona za snimanje</string>
   <string name="preview">Pregled</string>
   <string name="preview_slideshow">Pregled</string>
   <string name="priority_high">Visoki</string>

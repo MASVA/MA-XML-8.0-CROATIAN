@@ -1328,6 +1328,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
   <string name="summary_flow_purchase">"Izgleda da nemate još puno preostalih podataka. Kupita podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">"Premašili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
+  <string name="summary_flow_purchase_left">Preostalo vam je još %sMB mobilnih podataka za ovaj mjesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podataka nije sinkronizirana s vašim operaterom %d dana."</string>
   <string name="summary_flow_verify_failed">Automatski podesi uporabu podataka da izbjegnete dodatne naknade</string>
   <string name="summary_garbage_lib">Koristite najnovije definicije za uklanjanje spyware, adware i drugog neželjenog smeća.</string>

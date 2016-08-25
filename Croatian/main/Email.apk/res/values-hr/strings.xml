@@ -17,6 +17,8 @@
   <string name="account_security_policy_explanation_fmt">Poslužitelj %s zahtijeva da mu omogućite daljinsko upravljanje nekim sigurnosnim značajkama vašeg Android uređaja.</string>
   <string name="account_security_title">Sigurnost uređaja</string>
   <string name="account_set_up_change_type_note">Ako trebate postaviti prebacivanje računa između POP3 i IMAP, prvo morate izbrisati račun, te ponovno napraviti novi s vašim željenim postavkama.</string>
+  <string name="account_setting">Računi</string>
+  <string name="account_setting_keywords">Računi;e-pošta</string>
   <string name="account_settings_action">Postavke računa</string>
   <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
   <string name="account_settings_background_attachments_summary">Preuzimanje privitaka putem WLAN mreže</string>
@@ -29,6 +31,7 @@
   <string name="account_settings_enforced_label">Pravila</string>
   <string name="account_settings_enforced_summary">Ništa</string>
   <string name="account_settings_exit_server_settings">Odbaciti nespremljene promjene?</string>
+  <string name="account_settings_incoming_summary">Korisničko ime, zaporka i druge postavke poslužitelja</string>
   <string name="account_settings_login_dialog_content_fmt">Netočno je korisničko ime ili zaporka za račun %s. Želite li to ažurirati sada?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Ne mogu se prijaviti u %s; Ovo je poruka poslužitelja: %s"</string>
   <string name="account_settings_login_dialog_title">"Ne mogu se prijaviti"</string>
@@ -241,6 +244,7 @@
   <string name="compose_sent">Poslano</string>
   <string name="confirm">U redu</string>
   <string name="confirm_delete">Izbrisati ovu poruku ?</string>
+  <string name="confirm_before_delete">Potvrdi prije brisanja</string>
   <string name="confirm_before_delete_keywords">Potvrdi prije brisanja;Potvrdi brisanje</string>
   <string name="confirm_before_send">Potvrdi prije slanja</string>
   <string name="confirm_before_send_keywords">Potvrdi prije slanja;Potvrdi slanje</string>
@@ -952,6 +956,7 @@
 Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali jednom ili &lt;b&gt;Promjena sinkronizacije&lt;/b&gt; da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>
   <string name="wait_for_sync_body_txt_array_4">upozorenja sustava</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_title">Čekaj na sinkr.</string>
   <string name="widget_all_mail">Sva E-pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>

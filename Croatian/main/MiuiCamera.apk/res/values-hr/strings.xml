@@ -125,6 +125,12 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="face_analyze_info_female">Žena</string>
   <string name="face_analyze_info_male">Muškarac</string>
   <string name="face_beauty_advanced">Pro</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
+  <string name="face_beauty_age_alias_60_m">60+</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Žena 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Žena 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Žena 31-44</string>
@@ -142,9 +148,6 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="face_beauty_intelligent_level_1">+1</string>
   <string name="face_beauty_intelligent_level_2">+2</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
-  <string name="face_beauty_intelligent_title">Automatski</string>
-  <string name="face_beauty_manual_title">Ručno</string>
-  <string name="face_beauty_simple_mode_title">Nijanse kože</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="file_size">Veličina datoteke</string>
   <string name="find_cloud_album">Pronađite QR kod cloud albuma</string>
@@ -200,7 +203,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="ok">U redu</string>
   <string name="orientation">Orijentacija</string>
   <string name="pano_dialog_panorama_failed">"Ne mogu spremiti panoramu."</string>
-  <string name="pano_dialog_prepare_preview">Príprava panorámy</string>
+  <string name="pano_dialog_prepare_preview">Priprema panorame</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Čekanje završetka prethodne panorame</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -249,6 +252,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mjerenje mjesta</string>
   <string name="pref_camera_autoexposure_title">Postavke autom. ekspozicije</string>
   <string name="pref_camera_beautify_entry_auto">Auto</string>
+  <string name="pref_camera_beautify_entry_close">Isklj.</string> 
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nisko</string>
    <string name="pref_camera_beautify_entry_normal">Srednje</string>
@@ -463,6 +467,8 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_sound_title">Zvukovi kamere</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Krug</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Paralela</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Isključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Uključeno</string>

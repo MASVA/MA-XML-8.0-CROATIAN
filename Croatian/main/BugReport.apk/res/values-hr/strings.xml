@@ -65,6 +65,7 @@
   <string name="feedback_probability_label">Vjerojatnost</string>
   <string name="feedback_remind_login_btn">Prijavite se</string>
   <string name="feedback_report_remind_login_desc">"Prijavite se sa svojim Mi Računom kako bi vas naši inženjeri mogli kontaktirati. Također možete pregledati napredak vašeg izvješća \"Moja izvješća\"."</string>
+  <string name="feedback_report_remind_login_desc2">"Također možete pregledati napredak izvješća u \"Moja izvješća\"."</string>
   <string name="feedback_retest_label">Koraci za reproduciranje</string>
   <string name="feedback_select_images">Dodajte slike</string>
   <string name="feedback_select_upload_log">Dodajte zapise</string>
@@ -112,6 +113,7 @@
   <string name="michat_back_to_detail">Natrag u chat</string>
   <string name="michat_cant_access_artificial">"Ne mogu doći do podrške sada"</string>
   <string name="michat_cant_join_artifical">"Ne mogu se povezati zbog pogreške mreže"</string>
+  <string name="michat_cant_join_artificial">"Ne mogu se povezati zbog pogreške mreže"</string>
   <string name="michat_check_network">Provjerite mrežne postavke</string>
   <string name="michat_close_text">Chat završen</string>
   <string name="michat_comment_net_error">"Ne mogu se povezati na mrežu, pokušajte ponovo kasnije"</string>
@@ -134,6 +136,8 @@
   <string name="michat_kefu_welcome">Dobrodošli u Xiaomi online podršku!</string>
   <string name="michat_lose_artificial">Došlo je do mrežne pogreške, napustili ste chat</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
+  <string name="michat_mesage_resend_error_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="michat_mesage_send_error_network">"Ne mogu poslati, provjerite mrežnu vezu"</string>
   <string name="michat_message_copy_info">Kopirano u međuspremnik</string>
   <string name="michat_message_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="michat_message_join_again">"Drago nam je da ste se vratili!"</string>

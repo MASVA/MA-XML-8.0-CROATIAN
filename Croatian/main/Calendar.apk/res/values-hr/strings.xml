@@ -417,6 +417,7 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
+  <string name="setting_holiday">Praznici</string>
   <string name="setting_holiday_display_desc">Kartica praznika koja se nalazi na početnoj strani Kalendara</string>
   <string name="setting_holiday_display_title">Prikaži praznike</string>
   <string name="setting_holiday_reminder">Podsjetnik praznika</string>

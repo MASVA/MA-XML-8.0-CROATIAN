@@ -750,6 +750,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Poredak</string>
   <string name="tab_recommend_video">Preporučeno</string>
+  <string name="tab_remote_video">Nedavno</string>
   <string name="tab_source">APLIKACIJE</string>
   <string name="tab_storage">POHRANA</string>
   <string name="tag_weixin_video">Video isječci</string>
@@ -818,6 +819,7 @@ oslobodili prostor.</string>
   <string name="used">Iskorišteno</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_center_title">Početna</string>
+  <string name="user_center_setting">Postavke</string>
   <string name="user_follow_me_title">Moji fanovi</string>
   <string name="user_follow_title">Osobe koje pratim</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>

@@ -109,6 +109,7 @@
   <string name="bedroom">Spavaća soba</string>
   <string name="bind_stb">Poveži set-top box</string>
   <string name="bind_stb_dlg">Poveži set top box za prebacivanje kanala</string>
+  <string name="bind_stb_dlg_2">Set-top box se treba povezati</string>
   <string name="bind_stb_dlg_agree">Poveži sada</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Odaberi proizvođača</string>
@@ -225,7 +226,10 @@
   <string name="epg_channel_operation_tip">Pritisnite kanal za uređivanje ili dodavanje u favorite</string>
   <string name="epg_channel_search_hint">Dodajte broj kanala/Traži naziv kanala</string>
   <string name="epg_comment_action_bar_title">Komentar: %1$s</string>
+  <string name="epg_comment_agree_user">Sviđa mi se</string>
   <string name="epg_comment_list_title">Komentari （%1$d）</string>
+  <string name="epg_comment_no_reply">Previše nisko, nije dobio komentare prijatelja</string>
+  <string name="epg_comment_reply">Odgovori</string>
   <string name="epg_detail_title_text">Opis</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">Naziv kanala</string>
@@ -250,6 +254,7 @@
   <string name="epg_no_more_latest_comment">Nema komentara</string>
   <string name="epg_no_program_data">Nema podataka programa</string>
   <string name="epg_no_search_result">Nema rezultata</string>
+  <string name="epg_no_sys_notification">Privremeno nema obavijesti sustava</string>
   <string name="epg_not_booked_program_time_left">Rezervirano （Preostalo vrijeme %1$s）</string>
   <string name="epg_program_comment">Napiši komentar</string>
   <string name="epg_program_detail_more_time_events">Više događanja</string>
@@ -329,6 +334,7 @@
   <string name="hour">sati</string>
   <string name="humidity">Vlaga:</string>
   <string name="humidity_frame">%1$d%%</string>
+  <string name="increase">Povećaj</string>
   <string name="input_complete">Završeno</string>
   <string name="input_dialogue_cancel_button">Odustani</string>
   <string name="input_dialogue_guide1">Instaliraj neovlaštenu aplikaciju</string>
@@ -545,6 +551,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="notification_found_shared_remote_title">Pronađeno %1$s u blizini</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" će uskoro započeti.</string>
+  <string name="notification_str3">\" počet će za 5 minuta.</string>
   <string name="notification_title">Obavijesti Timera</string>
   <string name="num_keys">Brojčane tipke</string>
   <string name="off">Isključi</string>
@@ -616,11 +623,12 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="passport_get_back_pwd">Dobivanje zaporke računa</string>
   <string name="passport_get_verify_code">Dobijte kod</string>
   <string name="passport_getting_verify_code">Dobivanje</string>
-   <string name="passport_identitfication_expired">Kod za provjeru istekao, počnite ispočetka</string>
+  <string name="passport_identitfication_expired">Kod za provjeru istekao, počnite ispočetka</string>
   <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Mi Račun koristi IMEI da identificirata uređaj na kojem ste prijavljeni/se prijavljujete, kako bi održali svoj Mi Račun sigurnim."</string>
   <string name="passport_imei_permission_denied_title">Traženje IMEI dopuštenja</string>
   <string name="passport_input_captcha_hint">Unesite kod</string>
   <string name="passport_input_password_for_login">Ovaj broj je povezan s postojećim korisničkim računom, unesete svoju zaporku</string>
+  <string name="passport_input_password_hint">Unesite zaporku</string>
   <string name="passport_input_phone_hint">Unesite tel. broj</string>
   <string name="passport_input_vcode_hint">Unesite kod za provjeru</string>
   <string name="passport_input_verify_code_hint">Unesite kod za provjeru</string>
@@ -947,6 +955,7 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Isključi timer</string>
   <string name="timer_turn_on">Uključi timer</string>
+  <string name="title_hot_links">Popularno</string>
   <string name="title_nodata_feedback">"Ne mogu dobiti informacije o uređaju"</string>
   <string name="to_be_used_in_these_modes">Koristi samo %2$s način rada</string>
   <string name="to_qq">Otvorite QQ i pridružite se grupi</string>

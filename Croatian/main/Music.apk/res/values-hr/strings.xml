@@ -647,6 +647,11 @@
   <string name="settings_notification_text">Prikaži widget glazbe u panelu obavijesti</string>
   <string name="settings_notification_title">Widget panela obavijesti</string>
   <string name="settings_search_title_main">Glazba</string>
+  <string name="settings_search_title_desktop_lyric">Tekst na Poč. zaslonu</string>
+  <string name="settings_search_title_download_quality">Kvaliteta preuzimanja</string>
+  <string name="settings_search_title_download_when_favorite">Preuzmi favorite</string>
+  <string name="settings_search_title_notification">Obavijesti glazbe</string>
+  <string name="settings_search_title_vip_service">Premium pjesme</string>
   <string name="share_append_text">Od @MIUI</string>
   <string name="share_chooser_title">Dijeli putem</string>
   <string name="share_description">Od Mi Glazba</string>
