@@ -235,6 +235,7 @@
   <string name="colon">:</string>
   <string name="compose">Nova poruka</string>
   <string name="compose_attachment_number_limit">"Ne mogu dodati više od 10 privitaka"</string>
+  <string name="compose_paste_address_oob">Umetnuti tekst je predugačak</string>
   <string name="compose_picturesexceedlimits">"Broj online slika u poruci ne smije prelaziti 5 !"</string>
   <string name="compose_send">Pošalji</string>
   <string name="compose_sent">Poslano</string>

@@ -589,7 +589,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="yellow_page_website">Službena stranica</string>
   <string name="yellowpage_navigation_network_location_enable">Dopusti</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ne sada</string>
-  <string name="yellowpage_navigation_network_location_enabled">Pristup lokaciji je uključen. Možetem isključiti ovu značajku u bilo kojem trenutku u Postavkama.</string>
+  <string name="yellowpage_navigation_network_location_enabled">Pristup lokaciji je uključen. Možete isključiti ovu značajku u bilo kojem trenutku u Postavkama.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Poboljšajte rezultate pretraživanja dopuštajući Žutim Stranicama pristup podacima o Vašoj lokaciji.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Pristup lokaciji</string>
 </resources>
