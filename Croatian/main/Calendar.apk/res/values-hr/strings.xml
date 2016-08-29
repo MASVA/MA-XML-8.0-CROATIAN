@@ -307,9 +307,9 @@
   <string name="no_network_btn">Pokušajte ponovno</string>
   <string name="no_syncable_calendars">Nema kalendara</string>
   <string name="no_title_label">(bez naslova)</string>
-  <string name="no_visiable_calendar_message">Morate odabrati račun kalendara, kliknite na "Odaberi račun" na sljedećem koraku.</string>
-  <string name="no_visiable_calendar_select_account">Odaberi Račun</string>
-  <string name="no_visiable_calendar_title">Odaberi Račun Kalendara</string>
+  <string name="no_visiable_calendar_message">Morate odabrati račun kalendara. Dodirnite Odaberi račun za nastavak.</string>
+  <string name="no_visiable_calendar_select_account">Odaberi račun</string>
+  <string name="no_visiable_calendar_title">Odaberi račun kalendara</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">Nije sinkronizirano</string>
   <string name="olympic_county">Zemlja</string>

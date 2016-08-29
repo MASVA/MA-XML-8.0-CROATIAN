@@ -247,6 +247,7 @@
   <string name="toast_title_required">Opišite svoj problem</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Pokušajte ponovno</string>
+  <string name="upload_log_failed">"Ne mogu poslati izvješća"</string>
   <string name="warning_field_empty">Unesi %1$s</string>
   <string name="warning_field_invalid">Odaberite valjani %1$s</string>
 </resources>
