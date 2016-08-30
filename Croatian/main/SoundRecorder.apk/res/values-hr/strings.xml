@@ -6,7 +6,7 @@
   <string name="back">Natrag</string>
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
-  <string name="call_record">Snimljenih poziva (%d)</string>
+  <string name="call_record">Snimljeni pozivi</string>
   <string name="cloud_record">Sinkronizirano %d</string>
   <string name="cloud_record_open">Sinkr. snimaka</string>
   <string name="cloud_record_tip">Sinkr. snimaka s Mi Cloudom.</string>

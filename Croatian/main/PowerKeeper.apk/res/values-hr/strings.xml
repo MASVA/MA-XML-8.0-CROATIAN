@@ -41,6 +41,7 @@
   <string name="fragment_tab_title_sys">Aplikacije sustava</string>
   <string name="full_screen_enter">Cijeli zaslon</string>
   <string name="full_screen_exit">Izlaz iz cijelog zaslona</string>
+  <string name="google_base_app_install_choice">\"%s\" zahtijeva Google Service Framework aplikacije da radi normalno, preuzeti i instalirati ih?</string>
   <string name="hide_mode_desc">"Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Mrežna veza, usluga lociranja, radio, timer, itd. mogu biti pogođeni ovom značajkom. Ova je konfiguracija pogodna za većinu aplikacija, ali ako određena aplikacija ne funkcionira normalno dok radi u pozadini, možete prilagoditi postavke te aplikacije."</string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
   <string name="high">Performanse</string>

@@ -1547,6 +1547,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
   <string name="haptic_feedback_level">Razina vibracije</string>
   <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>
+  <string name="has_screenshot_sound">Zvuk snimke zaslona</string>
   <string name="hdcp_checking_dialog_title">Postav. ponaš. HDCP prov.</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
   <string name="hdmi_3d_display_enable_summary">Podrška za 3D igre</string>
@@ -3100,7 +3101,8 @@ Za prikvačivanje zaslona:
   <string name="screensaver_settings_title">Sanjarenje</string>
   <string name="screensaver_settings_when_to_dream">Kada sanjariti</string>
   <string name="screenshot">Snimka zaslona</string>
-  <string name="screenshot_three_gesture">Pomicanje sa 3 prsta istovremeno će napraviti snimku zaslona</string>
+  <string name="screenshot_three_gesture">Povucite s tri prsta za izradu snimke zaslona</string>
+  <string name="screenshot_three_gesture_summary">Ostale geste s tri prsta će biti isključene</string>
   <string name="sd_card_settings_label">Memorija USB</string>
   <string name="sd_card_storage">Memorija USB</string>
   <string name="sd_eject">Isključi dijeljenu pohranu</string>

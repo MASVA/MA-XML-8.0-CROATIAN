@@ -19,7 +19,11 @@
 	<plurals name="adblock_rules_number_text">
        <item quantity="other">Blokirano stavki: %d</item>
        <item quantity="one">%d stavka blokirana</item>
-    </plurals>    
+    </plurals> 
+   <plurals name="video_subtitle_last_message">
+         <item quantity="other">Preostalo je %d minuta</item>
+         <item quantity="one">Preostala je 1 minuta</item>
+     </plurals>	
 	<plurals name="video_download_clear_prompt">
         <item quantity="other">Izbrisati %1$d videozapisa?</item>
         <item quantity="one">Izbrisati %1$d videozapis?</item>

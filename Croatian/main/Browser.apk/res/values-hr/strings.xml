@@ -373,7 +373,7 @@ Napustiti ovu stranicu?"</string>
   <string name="media_error_timeout">Povezivanje s mrežom je isteklo</string>
   <string name="media_error_video_not_exist">"Videozapis ne postoji"</string>
   <string name="media_player_error_button">U redu</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis nije valjan za streaming na ovom uređaju.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Ovaj videozapis ne može biti streaman na ovom uređaju.</string>
   <string name="media_player_error_text_unknown">"Ne mogu reproducirati taj videozapis."</string>
   <string name="media_player_error_title">"Ne mogu reprod. videozapis"</string>
   <string name="media_player_loading_video">Učitavanje videozapisa</string>
@@ -469,6 +469,7 @@ Napustiti ovu stranicu?"</string>
   <string name="no_space_alert_text">Nema dovoljno prostora za pohranu</string>
   <string name="no_space_alert_title">Preuzimanje pauzirano</string>
   <string name="no_space_clean_failed">"Ne mogu osloboditi prostor na uređaju​"</string>
+  <string name="not_allowed_open">"Ne mogu koristiti Preglednik u boot-strapu"</string>
   <string name="not_remind_again">Zapamti moj odabir</string>
   <string name="notif_install_successful">Preuzimanje završeno</string>
   <string name="ok">U redu</string>
@@ -791,6 +792,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_download_exists">Preuzimanje već postoji</string>
   <string name="video_download_fail">Pogreška</string>
   <string name="video_download_failed">"Ne mogu preuzeti"</string>
+  <string name="video_download_finding_address">Pronalaženje adrese</string>
   <string name="video_download_pause">Pauzirano</string>
   <string name="video_download_start">Preuzimanje…</string>
   <string name="video_download_success">Dovršeno</string>
@@ -811,6 +813,7 @@ Napustiti ovu stranicu?"</string>
   <string name="video_group_noupdates_list">Nema dostupnih ažuriranja</string>
   <string name="video_group_updates_list">Ažuriranja</string>
   <string name="video_history_empty">Nema povijesti</string>
+  <string name="video_manager_action_bar_end_view">Videozapisi</string>
   <string name="video_play_error">"Ne mogu reproducirati videozapis"</string>
   <string name="video_project_button">Zaustavi</string>
   <string name="video_project_msg">Videozapis se prikazuje na %s</string>
@@ -818,8 +821,11 @@ Napustiti ovu stranicu?"</string>
   <string name="video_push_multi_message">Dostupno ažuriranja: %1$d</string>
   <string name="video_push_multi_title">Dostupno ažuriranje</string>
   <string name="video_push_single_message">Dodirnite za ažurirati na %1$d</string>
-  <string name="video_subtitle_prefix_message">"Gledano: "</string>
+  <string name="video_subtitle_last_message1">Preostalo je manje od 1 minute</string>
+  <string name="video_subtitle_prefix1">Pogledano</string>
+  <string name="video_subtitle_prefix2">"Pogledano "</string>
   <string name="video_title_prefix_message">"Izvanmrežno: "</string>
+  <string name="video_unknown_duration">Trajanje nepoznato</string>
   <string name="view_certificate">Prikaži certifikat</string>
   <string name="view_document_downloaded_files">Prikaži preuzete datoteke u Upravitelju preuzimanja</string>
   <string name="voice_sub_title">"Ne znate što reći? Probajte Otvori mi.com!"</string>
