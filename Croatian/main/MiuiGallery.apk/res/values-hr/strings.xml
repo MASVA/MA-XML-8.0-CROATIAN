@@ -247,11 +247,16 @@
   <string name="do_not_save">"Ne spremaj"</string>
   <string name="documentary">Dokumentarni</string>
   <string name="doodle">Crtarija</string>
+  <string name="doodle_brush">Kist</string>
+  <string name="doodle_mark">Marker</string>
+  <string name="doodle_pen">Kemijska</string>
+  <string name="doodle_pencil">Olovka</string>
   <string name="doodle_big_size">Veliko</string>
   <string name="doodle_middle_size">Srednje</string>
   <string name="doodle_mosaic">Mozaik</string>
   <string name="doodle_small_size">Malo</string>
   <string name="doodle_super_big_size">Ogromno</string>
+  <string name="doodle_tooltip">Dodirni za crtariju</string>
   <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download">Preuzimanje</string>
   <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovo"</string>
