@@ -357,6 +357,7 @@
   <string name="no">Odustani</string>
   <string name="no_block_button_msg">"Ne blokiraj poruke s ovog broja"</string>
   <string name="no_conversations">Nema razgovora</string>
+  <string name="no_delivery_report">Nema Izvješća o isporuci</string>
   <string name="no_subject">(Nema predmeta)</string>
   <string name="no_subject_view">(Nema predmeta)</string>
   <string name="non_english_subject_limit">Najviše 13 znakova za ne-Engleski predmet</string>
@@ -543,6 +544,7 @@
   <string name="set">Podesi</string>
   <string name="share_img">Dijeli</string>
   <string name="show_all_messages">Prikaži sve poruke</string>
+  <string name="show_delivery_status">Prikaži Izvješća o isporuci</string>
   <string name="show_sender">Prikaži detalje pošiljatelja</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
