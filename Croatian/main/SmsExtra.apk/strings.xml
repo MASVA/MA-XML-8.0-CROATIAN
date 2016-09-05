@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activity_not_found">Nije pronađena aplikacija za provedbu ove radnje</string>
+  <string name="back_to_message_list">Natrag na popis poruka</string>
+  <string name="confirm_delete_all_conversations">Izbrisati sve razgovore?</string>
+  <string name="confirm_delete_conversation">Izbrisati cijelu ovu temu?</string>
+  <string name="confirm_delete_group_message">Izbrisati sve grupne poruke?</string>
+  <string name="confirm_delete_locked_message">Izbrisati zaključanu poruku?</string>
+  <string name="confirm_delete_message">Izbrisati ovu poruku?</string>
+  <string name="confirm_dialog_locked_title">Izbrisati zaključanu poruku?</string>
+  <string name="confirm_dialog_title">Izbrisati?</string>
+  <string name="copy_message_text">Kopiraj</string>
+  <string name="copy_message_text_success">Tekst uspješno kopiran</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_message">Izbriši</string>
+  <string name="from_label">"Šalje: "</string>
+  <string name="menu_forward">Proslijedi</string>
+  <string name="menu_lock">Označi</string>
+  <string name="menu_unlock">Odznači</string>
+  <string name="message_details_title">Podaci o poruci</string>
+  <string name="message_type_label">"Vrsta: "</string>
+  <string name="received_label">"Primljeno: "</string>
+  <string name="sent_label">"Poslano: "</string>
+  <string name="sms_card_partner_label">"SMS kartica partnera: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+  <string name="text_message">Tekstualna poruk</string>
+  <string name="view_message_details">Prikaži pojedinosti</string>
+</resources>

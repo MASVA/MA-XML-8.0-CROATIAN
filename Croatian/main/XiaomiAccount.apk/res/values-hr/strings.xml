@@ -237,7 +237,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se</string>
-  <string name="passport_login_check_find_device">Provjera statusa Pronađi uređaj…</string>
+  <string name="passport_login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
   <string name="passport_login_check_find_device_failed_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>

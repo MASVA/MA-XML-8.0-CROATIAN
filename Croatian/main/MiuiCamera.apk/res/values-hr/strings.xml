@@ -48,8 +48,8 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="camera_snap_mode_title_detail">Dodirnite za prikaz detalja</string>
   <string name="can_not_play_video">Otključaj zaslon za prikaz reprodukcije</string>
   <string name="cancel">Odustani</string>
-  <string name="cannot_connect_camera_once">"Ne mogu se povezati s kamerom."</string>
-  <string name="cannot_connect_camera_twice">"Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj."</string>
+  <string name="cannot_connect_camera_once">Ne mogu se povezati s kamerom.</string>
+  <string name="cannot_connect_camera_twice">Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj.</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>

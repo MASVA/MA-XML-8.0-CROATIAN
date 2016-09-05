@@ -322,13 +322,13 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="auto_startup_application_manage">Automatsko pokretanje</string>
   <string name="auto_startup_count">Dopušteno automatsko pokretanje aplik.: %d</string>
   <string name="auto_upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
-  <string name="auto_upload_debug_log_title">Pošalji Dijagnostičke podatke automatski</string>
+  <string name="auto_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="automatic_brightness">Automatska svjetlina</string>
   <string name="available_size">%s dostupno</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="average_memory_use">Prosječna upotreba memorije</string>
   <string name="average_used">Prosječna upotreba (%)</string>
-  <string name="avoid_ui">Izbjegni UI</string>
+  <string name="avoid_ui">Blokiraj dodir</string>
   <string name="awake">Vrijeme budnosti uređaja</string>
   <string name="back_key">Natrag</string>
   <string name="background_data">Pozadinski podaci</string>
@@ -1474,8 +1474,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demo prikaz</string>
-  <string name="force_touch_enable">Omogući 3D Touch</string>
-  <string name="force_touch_enable_tips">"Dugi pritisak na ikonu aplikacije će prikazati izbornik prečaca aplikacije dok je 3D Touch omogućen."</string>
+  <string name="force_touch_enable">Uključi 3D Touch</string>
+  <string name="force_touch_enable_tips">"Dugi pritisak na ikonu aplikacije će prikazati izbornik prečaca aplikacije dok je 3D Touch uključen."</string>
   <string name="forget">ZABORAVI</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
@@ -1547,6 +1547,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
   <string name="haptic_feedback_level">Razina vibracije</string>
   <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>
+  <string name="hardware_version">Hardware verzija</string>
   <string name="has_screenshot_sound">Zvuk snimke zaslona</string>
   <string name="hdcp_checking_dialog_title">Postav. ponaš. HDCP prov.</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
@@ -1669,6 +1670,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="install_unknown_applications">Dopustite instalaciju aplikacija iz nepoznatih izvora</string>
   <string name="install_unknown_applications_title">Omogućuje instaliranje aplikacija iz izvora koji nisu Google Play</string>
   <string name="install_whole_rom">Preuzmi ROM</string>
+  <string name="instruction_title">Instrukcije</string>
   <string name="insufficient_storage">Nema dovoljno prostora za pohranu.</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Radnja:</string>
@@ -3547,8 +3549,8 @@ Za prikvačivanje zaslona:
   <string name="sim_status_summary">Informacije povezane sa SIM-om</string>
   <string name="sim_status_title">Status SIM-a</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
-  <string name="single_key_use">Korištenje jedne tipke</string>
-  <string name="single_key_use_summary">Tipka Početna umjesto druge dvije tipke za normalan rad</string>
+  <string name="single_key_use">Jedna tipka</string>
+  <string name="single_key_use_summary">Koristite tipku Početna za funkcije koje obavljaju druge 2 tipke</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na zaključanom zaslonu.</string>
   <string name="skip_step">Preskoči</string>
@@ -3556,7 +3558,7 @@ Za prikvačivanje zaslona:
   <string name="slot_number">(Utor %1$d)</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Mali</string>
-  <string name="smallwindow_smartcover_title">Prozirni prednji pokrov</string>
+  <string name="smallwindow_smartcover_title">Prozirni prozor</string>
   <string name="smartcover_sensitive_title">Smartcover način</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
@@ -3892,7 +3894,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="testing_sim_toolkit">"Alat SIM-a"</string>
   <string name="testing_usage_stats">Korisnička statistika</string>
   <string name="testing_wifi_info">WLAN informacije</string>
-  <string name="tether_and_hotspot_title">Dijeljenje veze i hotspot</string>
+  <string name="tether_and_hotspot_title">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljaj uređajima</string>
   <string name="tether_settings_disabled">Osobni Hotspot je isključen</string>
   <string name="tether_settings_title_all">Dijeljenje veze &amp; prijenosni hotspot</string>

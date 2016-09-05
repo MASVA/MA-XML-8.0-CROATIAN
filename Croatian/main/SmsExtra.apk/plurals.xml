@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <plurals name="confirm_delete_conversation">
+        <item quantity="other">Izbrisati odabrane &lt;g id="number" example="15">%1$s&lt;/g> razgovore?</item>
+        <item quantity="one">Izbrisati ovaj razgovor?</item>
+    </plurals>
+</resources> 

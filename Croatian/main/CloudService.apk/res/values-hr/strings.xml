@@ -410,6 +410,14 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
+  <string name="search_cloudbackup_pref">Cloud Sig. kopija</string>
+  <string name="search_cloudbackup_pref_desc">Uklj/Isklj. Cloud Sig. kopija</string>
+  <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud sig. kopija</string>
+  <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/IZRADI SIG. KOPIJU I VRATI</string>
+  <string name="search_finddevice_pref">Pronađi uređaj</string>
+  <string name="search_finddevice_pref_desc">Uklj/Isklj. Pronađi uređaj</string>
+  <string name="search_finddevice_pref_key_words">finddevice, find device</string>
+  <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/PRONAĐI UREĐAJ</string>
   <string name="setting">Postavke</string>
   <string name="settings_backup_title">Postavke Sig. kopije sustava</string>
   <string name="share_cancel">Dijeljenje otkazano</string>
