@@ -883,7 +883,7 @@ oslobodili prostor.</string>
   <string name="user_not_video_btn_text">Pošaljite prvo videozapis</string>
   <string name="user_recommend_follow">Preporučeni profili</string>
   <string name="user_setting_follow_new_msg">Obavijesti od osoba koje pratite</string>
-  <string name="user_setting_follow_new_msg_tip">Primaj obavijesti o novim videozapisa</string>
+  <string name="user_setting_follow_new_msg_tip">Primaj obavijesti novih videozapisa</string>
   <string name="user_setting_followed_msg">Obavijesti o pratiteljima</string>
   <string name="user_setting_followed_msg_tip">Biti će te obaviješteni kad vas ljudi počnu pratiti</string>
   <string name="user_setting_logout">Odjava</string>
