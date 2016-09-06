@@ -11,6 +11,8 @@
   <string name="media_status_starting">Povezivanje…</string>
   <string name="media_status_stopped">Zaustavljeno</string>
   <string name="media_status_stopping">Zaustavljanje…</string>
+  <string name="noti_projection_status_desc_on">Zrcaljenje zaslona je ključeno</string>
+  <string name="noti_projection_status_title">MiPlay Bežični prikaz</string>
   <string name="prjection_title">Bežični zaslon</string>
   <string name="search_for_devices">Osvježi</string>
   <string name="wifi_display_autonomous_go">Omogući autonomni GO</string>

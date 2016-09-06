@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"Izrada Sig. kopije nije završena. Svejedno zaustaviti?"</string>
+  <string name="abort_restore_confirm">"Vraćanje nije završeno. Svejedno zaustaviti?"</string>
   <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
   <string name="account_login">Prijavite se</string>
   <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>

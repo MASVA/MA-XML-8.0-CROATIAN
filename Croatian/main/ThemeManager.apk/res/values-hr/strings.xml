@@ -49,6 +49,9 @@
   <string name="fail_to_add_account">"Ne mogu dodati račun"</string>
   <string name="favorite_list">Omiljene</string>
   <string name="favorite_list_format">Omiljena %1$s</string>
+  <string name="forcetouch_featured">Istaknuti</string>
+  <string name="forcetouch_free_themes">Besplatne teme</string>
+  <string name="forcetouch_offline">Izvanmrežno</string>
   <string name="gift_anonymous">Anonimno</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Odustani</string>
