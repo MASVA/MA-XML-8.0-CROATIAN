@@ -21,10 +21,10 @@
   <string name="send_sms">Pošalji poruku</string>
   <string name="sharedUserLabel">Matične aplikacije za Android</string>
   <string name="third_party_delete_contact_info">"\"%s\" pokušava izbrisati vaše kontakte. Ovu radnju ne mogu provoditi aplikacije drugih proizvođača. Stoga, za brisanje kontakata, koristite MIUI aplikaciju Kontakti."</string>
-  <string name="upgrade_msg">Nadogradnja baze podataka kontakata.</string>
-  <string name="upgrade_out_of_memory_notification_text">Dodirnite da biste dovršili nadogradnju.</string>
-  <string name="upgrade_out_of_memory_notification_ticker">Za nadogradnju kontakata potrebno je više memorije.</string>
-  <string name="upgrade_out_of_memory_notification_title">Nadogradnja pohrane za kontakte</string>
+  <string name="upgrade_msg">Ažuriranje baze podataka kontakata.</string>
+  <string name="upgrade_out_of_memory_notification_text">Dodirnite da biste dovršili ažuriranje.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Ažuriranje zahtijeva više memorije.</string>
+  <string name="upgrade_out_of_memory_notification_title">Ažuriranje prostora za pohranu za kontakte</string>
   <string name="video_call">Videopoziv</string>
   <string name="voicemail_from_column">Govorna pošta od </string>
 </resources>

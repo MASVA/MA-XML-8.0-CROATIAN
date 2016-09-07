@@ -50,7 +50,7 @@
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
-  <string name="notification_stopped">Snimanje je zaustavljeno</string>
+  <string name="notification_stopped">Snimanje je završeno</string>
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
   <string name="notification_warning">Premalo pohrane (preostalo manje %d minuta)</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>

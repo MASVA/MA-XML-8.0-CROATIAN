@@ -82,6 +82,7 @@
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliku</string>
   <string name="app_name_view_picture">Pregled fotografija</string>
+  <string name="app_name_view_video">Pregled videozapisa</string>
   <string name="apply">Primjeni</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Prilagođeno</string>
@@ -96,7 +97,7 @@
   <string name="auto_upload_before_share_message">Napravite Sig. kopiju ovog albuma na Mi Cloudu prije dijeljenja</string>
   <string name="auto_upload_before_share_title">Savjet</string>
   <string name="auto_upload_disable_tip">Sinkronizacija s Mi Cloudom je isključena</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Sinkronizacija s Mi Cloudom je isključena, idite na Drugi albumi za pregled</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Sinkronizacija s Mi Cloudom je isključena, idite na druge albume za pregled</string>
   <string name="auto_upload_enable_toast_long_press_menu">Sinkronizacija s Mi Cloudom je uključena, idite na Albumi za pregled</string>
   <string name="autofix">Auto-fix</string>
   <string name="baby_album">Dječji album</string>
@@ -241,7 +242,7 @@
   <string name="delete_to_trash_tips">Možete pogledati nedavno izbrisane fotografije u Postavke &gt; Smeće</string>
   <string name="deny">Odbaci</string>
   <string name="detail_title">Pojedinosti</string>
-  <string name="disable_auto_upload_tip">"Nove i izbrisane fotografije neće biti sinkronizirane s Mi Cloudom. Ovaj album bit će premješten u \"Ostali albumi\"."</string>
+  <string name="disable_auto_upload_tip">"Nove i izbrisane fotografije neće biti sinkronizirane s Mi Cloudom. Ovaj album bit će premješten u druge albume."</string>
   <string name="disable_auto_upload_title">Isključi sinkr. s Mi Cloud</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
   <string name="do_not_save">"Ne spremaj"</string>
@@ -272,7 +273,7 @@
   <string name="edited_photo_bucket_name">Uređeno</string>
   <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
-  <string name="enable_auto_upload_tip">Ovaj album će biti uklonjen iz \"Ostali albumi\" nakon što uključite.</string>
+  <string name="enable_auto_upload_tip">Ovaj album će biti uklonjen iz drugih albuma nakon što uključite.</string>
   <string name="enable_auto_upload_title">Uključi sinkr. s Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Uključite Mi Cloud albume za prikaz dijeljenih fotografija.</string>
   <string name="enable_face_album_summary">Automatski poredaj fotografije osoba koje su na njima</string>
@@ -416,6 +417,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Visina treba biti &gt; 0</string>
   <string name="limit_width">Širina treba biti &gt; 0</string>
+  <string name="loading_dual_tip">Učitavanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne mogu preuzeti"</string>
   <string name="loading_fail_sync_off">Uključite sinkr. s Mi Cloudom za preuzimanje</string>
   <string name="loading_fail_sync_off_message">"Ne mogu učitati fotografije, sinkr. s Mi Cloudom je isključena."</string>
@@ -628,7 +630,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu zaklj. zaslona</string>
   <string name="set_as_wallpaper_description">Ova slika je minijatura, preuzeti original?</string>
-  <string name="set_as_wallpaper_title">Postavi za pozadinu</string>
+  <string name="set_as_wallpaper_title">Postavi za sliku pozadine</string>
   <string name="set_face_group_toast_msg_new_user">Držite fotografiju osobe za spajanje ili ignoriranje te osobe</string>
   <string name="set_face_group_toast_msg_old_user">"Držite fotografiju osobe za izradu grupe (obitelj, prijatelji, kolege, itd.)</string>
   <string name="set_face_group_toast_title_new_user">Prijedlozi</string>

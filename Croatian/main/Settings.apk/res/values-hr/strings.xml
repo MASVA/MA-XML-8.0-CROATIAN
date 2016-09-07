@@ -917,8 +917,10 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="current_backup_pw_prompt">Ovdje unesite trenutačnu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_screen_lock">Trenutačno zaključavanje zaslona</string>
-  <string name="current_use_ese">Korištenjem MIPay-a, možete koristiti MI Pay i tranzitnu karticu</string>
-  <string name="current_use_uicc_se">Korištenje HCE novčanika</string>
+  <string name="current_use_ese">Korištenje ugrađenog sigurnosnog elementa</string>
+  <string name="current_use_ese_wallet">"Vi koristite Mi Novčanik. On vam omogućuje da koristite Mi Pay i upotrebljavate svoj telefon kao tranzitnu karticu."</string>
+  <string name="current_use_hce_wallet">"Vi koristite HCE Novčanik"</string>
+  <string name="current_use_uicc_se">Korištenje sigurnosnog elementa na SIM kartici</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
@@ -2152,7 +2154,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
-  <string name="model_number">Broj modela</string>
+  <string name="model_number">Model uređaja</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>
   <string name="modem_tool_log_start">Započni</string>
   <string name="modem_tool_log_start_toast">"Započni zapisnik modema na %s"</string>
@@ -2298,6 +2300,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Odaberite način plaćanja</string>
+  <string name="nfc_se_wallet_title">Zadani novčanik</string>
   <string name="night_mode_auto">Automatska</string>
   <string name="night_mode_no">Svijetla</string>
   <string name="night_mode_summary">%s</string>
@@ -3131,8 +3134,10 @@ Za prikvačivanje zaslona:
   <string name="sdcard_settings_unmounted_status">Sad na siguran način možete ukloniti USB pohranu.</string>
   <string name="sdcard_settings_used_bytes_label">Iskorišteni bajtovi:</string>
   <string name="sdcard_unmount">Isključi USB memoriju</string>
-  <string name="se_route_ese">Korištenjem Xiaomi novčanika, možete koristiti MI Pay i tranzitnu karticu</string>
-  <string name="se_route_uicc">Koristi HCE novčanik</string>
+  <string name="se_route_ese">Ugrađeni sigurnosni element</string>
+  <string name="se_route_uicc">Korištenje sigurnosnog elementa na SIM kartici</string>
+  <string name="se_wallet_ese">Mi Novčanik vam omogućuje da koristite Mi Pay i upotrebljavate svoj telefon kao tranzitnu karticu.</string>
+  <string name="se_wallet_hce">Koristi HCE Novčanik</string>
   <string name="search_about">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Autom.zakreni zaslon;Rotiraj zaslon;Orijentacija;Portrait;Landscape</string>
   <string name="search_access_control">Postavke privatnosti;Postavke sigurnosti;Gost;Gost način</string>
