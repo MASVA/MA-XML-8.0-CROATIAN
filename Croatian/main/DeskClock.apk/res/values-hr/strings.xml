@@ -14,13 +14,13 @@
   <string name="alarm_notify_snooze_label">%s odgođeno</string>
   <string name="alarm_notify_text">Odgodite ili obustavite alarm.</string>
   <string name="alarm_repeat">Ponovi</string>
-  <string name="alarm_screen">Zaslon i melodija Alarma</string>
+  <string name="alarm_screen">Zaslon i zvuk Alarma</string>
   <string name="alarm_settings">Postavke Alarma</string>
   <string name="alarm_vibrate">Vibracija</string>
   <string name="alarm_volume_summary">Podesi glasnoću alarma</string>
   <string name="alarm_volume_title">Glasnoća alarma</string>
   <string name="alarmclock_empty_text">Nema postavljenih alarma</string>
-  <string name="alert">Melodija alarma</string>
+  <string name="alert">Zvuk alarma</string>
   <string name="analog_gadget">Analogni sat</string>
   <string name="app_label">Sat</string>
   <string name="auto_silence_never">Nikada</string>
@@ -68,8 +68,8 @@
   <string name="legal_workday">Radni dan</string>
   <string name="legal_workday_invalidate">Podaci istekli (Alarm zvoni od Pon do Pet)</string>
   <string name="legal_workday_invalidate_message">(Podaci istekli. Ažuriraj u Postavkama)</string>
-  <string name="legal_workday_message">" (Alarm isključen tokom praznika)"</string>
-  <string name="loading_ringtone">Učitavam melodiju alarma…</string>
+  <string name="legal_workday_message">" (Alarm isključen tijekom praznika)"</string>
+  <string name="loading_ringtone">Učitavam zvuk alarma…</string>
   <string name="menu_add_worldclock">Dodaj sat</string>
   <string name="menu_desk_clock">Sat</string>
   <string name="menu_edit_timer_item">Uredi zadatak Kronometra</string>
@@ -80,7 +80,7 @@
   <string name="minutes">%s minuta</string>
   <string name="more_settings">Više postavki</string>
   <string name="never">Jednom</string>
-  <string name="oneshot_alarm">Izbriši nakon gašenja alarma</string>
+  <string name="oneshot_alarm">Izbriši nakon isklj. alarma</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Melodija zvona</string>
   <string name="reset">Resetiraj</string>
@@ -93,7 +93,7 @@
   <string name="silent_alarm_summary">Bešumno</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
-  <string name="slider_text">Povucite gore za gašenje alarma</string>
+  <string name="slider_text">Povucite gore za isklj. alarma</string>
   <string name="snooze_confirm_cancel">Otkaži odgodu</string>
   <string name="snooze_duration_title">Trajanje odgode</string>
   <string name="start">Start</string>
