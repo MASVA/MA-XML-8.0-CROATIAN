@@ -321,7 +321,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="fail_to_pick_email">Nevažeća adresa e-pošte</string>
   <string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
   <string name="family_member_invitation_text">Ostali članovi obitelji</string>
-  <string name="fast_share_auto_render">Uljepšanje</string>
+  <string name="fast_share_auto_render">Uljepšaj</string>
   <string name="fast_share_auto_render_finish">Uljepšano</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Dopunsko svjetlo</string>
@@ -333,7 +333,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="filter_food">Hrana</string>
   <string name="filter_hudson_blues">Ledeno</string>
   <string name="filter_japan_style_cool">Cool</string>
-  <string name="filter_loft_twilight">Twilight</string>
+  <string name="filter_loft_twilight">Sumrak</string>
   <string name="filter_original">Nište</string>
   <string name="filter_profoto_cloud">Toplo</string>
   <string name="filter_rise_lomo">Lomo</string>
@@ -359,7 +359,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="frame_white">Bijela</string>
   <string name="free">Slobodno</string>
   <string name="gallery_setting">Postavke</string>
-  <string name="gallery_sync_disable_toast">Sinkr.Galerije nije omogućena</string>
+  <string name="gallery_sync_disable_toast">Sinkr. Galerije nije omogućena</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -461,7 +461,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
   <string name="new_album_invalid_char">"Nazivi ne mogu sadržavati \"%s\", unesite slovo ili broj."</string>
-  <string name="new_album_invalid_name">\"%s\" je album sustava, molimo preimenujete ga.</string>
+  <string name="new_album_invalid_name">\"%s\" je album sustava, preimenujte ga.</string>
   <string name="new_album_invalid_prefix">"Nemojte koristiti \".\" ili \"_\" na početku naziva albuma."</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
@@ -646,7 +646,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="share_by_email_successfully">Podijeljeno %1$s</string>
   <string name="share_public_url_text">Podijelio sam %1$s album s tobom. Pregledaj ga na %2$s</string>
   <string name="share_with_family">Podijelite sa obitelji</string>
-  <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem ljudi."</string>
+  <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem osoba."</string>
   <string name="sharpen">Izoštri</string>
   <string name="show_all">Slike i videozapisi</string>
   <string name="show_hidden_album_title">Pokaži skrivene albume</string>
@@ -719,7 +719,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_abandon_changes_tip_title">Odbaci promjene</string>
   <string name="video_editor_analyzing">Analiza videozapisa…</string>
   <string name="video_editor_audio">Audio</string>
-  <string name="video_editor_audio_custom">Odaber</string>
+  <string name="video_editor_audio_custom">Odaberi</string>
   <string name="video_editor_audio_dynamic">Techno</string>
   <string name="video_editor_audio_love">Romantičan</string>
   <string name="video_editor_audio_memory">Memory</string>

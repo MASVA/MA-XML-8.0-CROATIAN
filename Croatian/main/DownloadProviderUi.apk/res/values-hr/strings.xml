@@ -9,8 +9,8 @@
   <string name="about">O aplikaciji</string>
   <string name="action_settings">Postavke</string>
   <string name="ad_mark">AD</string>
-  <string name="ad_title">Ljudi su također preuzeli ovo s  %1$s </string>
-  <string name="ad_title_other">Ljudi koji su preuzeli ovu sliku takođe su preuzeli</string>
+  <string name="ad_title">Osobe su također preuzele ovo s  %1$s </string>
+  <string name="ad_title_other">Osobe koje su preuzele ovu sliku također su preuzele</string>
   <string name="add_flow_fail_haveget_msg">Probni period je istekao</string>
   <string name="add_flow_fail_vip_msg">Xunlei ubrzanje preuzimanja je uključeno</string>
   <string name="add_flow_success_msg">Dodano ovaj mjesec: %s</string>
@@ -341,8 +341,8 @@ i pokušajte ponovno."</string>
   <string name="sniff_terms_agree_new">Slažem se</string>
   <string name="sniff_terms_check_text">Slažem se s Uvjeti pružanja usluge</string>
   <string name="sniff_terms_msg">Trebali bi se složiti sa \"Uvjeti korištenja\" da počnete koristiti drugu tražilicu.</string>
-  <string name="sniff_terms_msg_a">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjetima pružanja usluge prije nego je možete koristiti.</string>
-  <string name="sniff_terms_msg_b">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjetima pružanja usluge prije nego je možete koristiti. Ako se slažete, označite kućicu ispod.</string>
+  <string name="sniff_terms_msg_a">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjeti pružanja usluge prije nego je možete koristiti.</string>
+  <string name="sniff_terms_msg_b">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjeti pružanja usluge prije nego je možete koristiti. Ako se slažete, označite kućicu ispod.</string>
   <string name="sniff_terms_msg_bold">Uvjeti korištenja</string>
   <string name="sniff_terms_msg_bold_new">Uvjeti pružanja usluge</string>
   <string name="sniff_terms_reject">Odbijam</string>
