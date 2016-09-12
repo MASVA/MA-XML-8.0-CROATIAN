@@ -24,6 +24,7 @@
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
+  <string name="account_protection">Zaštita računa</string>
   <string name="account_security_question">Sigurnosno pitanje</string>
   <string name="account_settings">Račun</string>
   <string name="account_user_avatar">Fotografija profila</string>
@@ -57,8 +58,10 @@
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="add_this_verified_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
+  <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovo kasnije</string>
   <string name="authorize_title">Autorizacija</string>
   <string name="barcode_add_account_prompt">Da dodate račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
   <string name="bind_facebook">Dodaj Facebook račun</string>
@@ -78,6 +81,9 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Sve je postavljeno!</string>
   <string name="confirm_activate_email">Potvrđeno</string>
+  <string name="confirm_delete_app_message">Nakon brisanja ove aplikacije, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
+  <string name="confirm_delete_browser_message">Nakon brisanja ovog preglednika, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
+  <string name="confirm_delete_device_message">Nakon brisanja ovog uređaja, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
@@ -91,14 +97,18 @@
   <string name="data_keep_in_device">Zadrži podatke na ovom uređaju</string>
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
+  <string name="delete_app">Izbriši aplikaciju</string>
+  <string name="delete_browser">Izbriši preglednik</string>
+  <string name="delete_device">Izbriši uređaj</string>
   <string name="delete_device_btn">Ukloni</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
   <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
-  <string name="device_delete_loading">Samo trenutak…</string>
+  <string name="delete_lock_device_success">Uspješno izbrisano</string>
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
   <string name="device_delete_success_title">Odjavljeno</string>
   <string name="device_list__header">Moji uređaji</string>
   <string name="device_list_title">Moji uređaji</string>
+  <string name="device_name">Naziv uređaja</string>
   <string name="device_trust_info">Pouzdani uređaji</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
@@ -112,7 +122,9 @@
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
   <string name="find_device_access_denied">"Ne mogu dobiti status, pristup odbijen"</string>
   <string name="find_device_account_error">"Ne mogu dobiti status zbog pogreške računa"</string>
+  <string name="find_device_activate_account">Aktiviraj račun</string>
   <string name="find_device_bad_response_error">"Ne mogu dobiti status zbog pogreške poslužitelja, pokušajte ponovno kasnije"</string>
+  <string name="find_device_display_id">Br. otključavanja: %s</string>
   <string name="find_device_error_password_not_confirmed">"Ne mogu isključiti Pronađi uređaj. Ponovno unesite zaporku Mi Računa"</string>
   <string name="find_device_error_password_recently_changed">"Promijenili ste zaporku u zadnja 3 dana. Ne mogu sada isključiti Pronađi uređaj iz sigurnosnih razloga."</string>
   <string name="find_device_interrupted">Radnja je prekinuta, pokušajte ponovno kasnije</string>
@@ -124,6 +136,7 @@
   <string name="find_device_request_error">"Ne mogu zahtijevati informacije o statusu, pokušajte ponovno kasnije"</string>
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
+  <string name="first_login_time">Prvi pokušaj prijave: %s</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
@@ -131,7 +144,12 @@
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
   <string name="just_a_second">Samo trenutak…</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
+  <string name="local_device">(ovaj uređaj)</string>
   <string name="locating_current_location">Lociranje</string>
+  <string name="login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
+  <string name="login_check_find_device_failed_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
+  <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
+  <string name="login_guard_prompt">Potrebna je provjera broja telefona kad se prijavite na svoj Mi Račun sa nepoznatog uređaja ili u nepoznatu aplikaciju po prvi puta.</string>
   <string name="location_service_not_working">Usluga lociranja ne radi</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
@@ -142,6 +160,8 @@
   <string name="micloud_space_info">%s dostupno</string>
   <string name="mili_center">Mi Krediti</string>
   <string name="mipay_center">Mi Wallet</string>
+  <string name="miui_provision_find_status_text">"Ovaj uređaj je povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
+(Br. otključavanja: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Mi Računa."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
@@ -149,13 +169,13 @@
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
   <string name="no_response_retry">Nema odgovora, pokušajte ponovo.</string>
-  <string name="no_sim_card">Nema SIM kartice</string>
+  <string name="no_sim_card_or_unactivated">Nema SIM kartice ili nije aktivirana</string>
   <string name="nobind">Nije povezano</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa u pozadini je ograničena. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_title">"Mi Račun se ne može povezati na mrežu"</string>
-  <string name="other_devices">Ostali uređaji</string>
+  <string name="other_devices_title">Ostali uređaji</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_hint_text">Adresa E-pošte ili ID Mi Računa</string>
   <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
@@ -186,6 +206,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_completed">Završeno</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_confirm_recycle_account">Da</string>
+  <string name="passport_copy_message_text_success">Tekst uspješno kopiran</string>
+  <string name="passport_copy_message_vcode">Kopiraj kod za provjeru</string>
   <string name="passport_country_code_notice">Kod zemlje</string>
   <string name="passport_delete_account">Odjava</string>
   <string name="passport_downlink_reg">Izradite račun koristeći broj telefona</string>
@@ -212,13 +234,11 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sim_not_ready">"Ne mogu pronaći SIM karticu"</string>
-  <string name="passport_error_ssl_hand_shake">"Ne mogu povezati na poslužitelj"</string>
+  <string name="passport_error_ssl_hand_shake">"Ne mogu se povezati na poslužitelj"</string>
   <string name="passport_error_unknown">"Ne mogu se prijaviti"</string>
   <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano.</string>
   <string name="passport_error_verify_code">Kôd koje ste unijeli nije valjan.</string>
   <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
-  <string name="passport_find_device_activate_account">Aktiviraj račun</string>
-  <string name="passport_find_device_display_id">Br. otključavanja: %s</string>
   <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da resetirate svoju zaporku.</string>
   <string name="passport_forget_password">Zaboravljena zaporka</string>
   <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
@@ -237,10 +257,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se</string>
-  <string name="passport_login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
-  <string name="passport_login_check_find_device_failed_title">"Ne mogu provjeriti status Pronađi uređaj"</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
-  <string name="passport_login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>
   <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
@@ -248,8 +265,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavu</string>
   <string name="passport_login_with_email_or_id">Prijavite se adresom E-pošte ili ID Mi Računa</string>
-  <string name="passport_miui_provision_find_status_text">"Ovaj uređaj je povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
- (Br. otključavanja: %2$s)"</string>
+  <string name="passport_message_dialog_title">Provjeri poruku</string>
   <string name="passport_next">Dalje</string>
   <string name="passport_notification_title">Pogreška prijave za %1$s</string>
   <string name="passport_password">Unesite zaporku</string>
@@ -335,8 +351,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_send_verify_code_prompt">Pošalji kod za provjeru %s</string>
-  <string name="phone_unactivated">Nije aktivirano</string>
-  <string name="phone_unknown">Nepoznato</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
@@ -367,9 +381,12 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="service_error">Pogreška usluge</string>
   <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="submit_answers">Pošalji</string>
   <string name="success">Dovršeno</string>
+  <string name="trusted_browsers">Pouzdani preglednici</string>
+  <string name="trusted_browsers_prompt">Preglednik više neće biti pouzdan ako izbrišete kolačiće.</string>
   <string name="trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="turn_off_find_device_failed_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="turning_off_find_device">Isključivanje Pronađi uređaj…</string>
@@ -383,6 +400,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="updated_nothing">Ažurirano</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
+  <string name="verified_apps">Provjerene aplikacije</string>
+  <string name="verified_devices">Provjereni uređaji</string>
+  <string name="verify_phone_prompt">Odaberi broj telefona za provjeru</string>
+  <string name="verify_phone_title">Provjeri broj telefona</string>
   <string name="wipe_data_dialog_msg">%s će biti izbrisano ako nastavite.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane"</string>

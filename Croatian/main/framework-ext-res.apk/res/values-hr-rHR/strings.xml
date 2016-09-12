@@ -64,7 +64,7 @@
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
-  <string name="memory_clear_result">"Izbrisano: %1$sB Dostupno: %2$sB"</string>
+  <string name="memory_clear_result">"Izbrisano: %1$sB | Dostupno: %2$sB"</string>
   <string name="miui">miui</string>
   <string name="paste">Zalijepi</string>
   <string name="perm_send_push_dspt">Dopusti Mi push poruke</string>
@@ -106,7 +106,8 @@
   <string name="sim_added_reboot_confirm">Ponovno pokreni</string>
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
-  <string name="softap_notifif_title">Hot-spot \"%s\" uključen</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
+  <string name="start_security_permission_verify_text">Provjerite dopuštenja sa svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -126,7 +127,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne ometaj</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
-  <string name="status_bar_toggle_rotate">Rotacija</string>
+  <string name="status_bar_toggle_rotate">Rotacija isklj.</string>
   <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
   <string name="status_bar_toggle_shutdown">Isključivanje</string>

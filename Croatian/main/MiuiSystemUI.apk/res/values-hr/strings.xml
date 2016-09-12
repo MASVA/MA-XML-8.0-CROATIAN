@@ -116,10 +116,10 @@
   <string name="call_status_dialing">"Biranje broja"</string>
   <string name="call_status_ringing">Zvonjava</string>
   <string name="camera_key_action_app_title">"Otvori aplikaciju"</string>
-  <string name="camera_key_action_category_title">Upotrijebi ako aplikacija Fotoaparata nije otvorena</string>
+  <string name="camera_key_action_category_title">Upotrijebi ako aplikacija Kamera nije otvorena</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
-  <string name="camera_key_action_shortcut_call">"Nazovi"</string>
+  <string name="camera_key_action_shortcut_call">Poziv</string>
   <string name="camera_key_action_shortcut_home">Povratak na Početni zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">"Snimak zaslona"</string>
   <string name="camera_key_action_shortcut_search">"Pretraži"</string>
@@ -171,6 +171,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="headset_settings">Slušalice su spojene</string>
+  <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">USB punjenje nije podržano.
  Koristite isključivo originalni punjač.</string>
   <string name="kilobyte_per_second">KB/s</string>
@@ -192,7 +193,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="mdb_usb_disconnection_exit">"USB nije povezan"</string>
   <string name="media_projection_action_text">Započni</string>
   <string name="media_projection_dialog_text">"%s će početi snimanje svega što se prikazuje na zaslonu."</string>
-  <string name="media_projection_remember_text">"Ne prikazuj ponovo"</string>
+  <string name="media_projection_remember_text">"Ne prikazuj ponovno"</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">"Da"</string>

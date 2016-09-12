@@ -15,7 +15,7 @@
   <string name="app_version_which_call">Verzija aplikacije: %s</string>
   <string name="birthday">Rođendan</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
-  <string name="check_phone_io_error">"Ne mogu se spojiti na mrežu".</string>
+  <string name="check_phone_io_error">"Ne mogu se povezati na mrežu".</string>
   <string name="close">Zatvori</string>
   <string name="copyright">Autorska prava</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
@@ -250,8 +250,8 @@ idite na: %s."</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
-  <string name="time_picker_label_hour">S</string>
-  <string name="time_picker_label_minute">Min</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>

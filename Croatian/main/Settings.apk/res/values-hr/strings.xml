@@ -359,6 +359,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="band_mode_succeeded">Uspješno</string>
   <string name="band_mode_title">Postavi mrežu GSM/UMTS</string>
   <string name="baseband_version">Osnovna verzija</string>
+  <string name="batch_delete_saved_network">Izbrisati spremljenu mrežu: %s?</string>
   <string name="battery_action_app_details">Informacije o aplikaciji</string>
   <string name="battery_action_app_settings">Postavke aplikacije</string>
   <string name="battery_action_bluetooth">Bluetooth postavke</string>
@@ -713,7 +714,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="call_settings_title">Postavke poziva</string>
   <string name="calls_title">Pozivi</string>
   <string name="camera_key_action_app_title">Otvori aplikaciju</string>
-  <string name="camera_key_action_category_title">"Korištenje Kamere nije dopušteno"</string>
+  <string name="camera_key_action_category_title">"Ne mogu koristiti Kameru"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Poziv</string>
@@ -824,7 +825,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="color_yellow">Žuta</string>
   <string name="common_settings">Brze postavke</string>
   <string name="complete_settings">Opće postavke</string>
-  <string name="computing_size">Izračunavanje…</string>
+  <string name="computing_size">Izračun…</string>
   <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu Ne ometaj.</string>
   <string name="condition_provider_security_warning_title">Želite li omogućiti uslugu %1$s?</string>
   <string name="config_charging_function_name">Punjenje</string>
@@ -1005,8 +1006,10 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="data_usage_restrict_background_title">Ograničiti podatke u pozadini?</string>
   <string name="data_usage_restrict_denied_dialog">Ograničavanje podataka u pozadini moguće je samo ako ste postavili ograničenje mobilnih podataka.</string>
   <string name="data_usage_summary_title">Uporaba podataka</string>
-  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;""&lt;font size="12"&gt;ograni&amp;#269;enje&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;Upozorenja: ^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;""</string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limit&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;Upozorenje&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1070,6 +1073,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="delete_fingerprint_text">Ukloni</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati ovaj otisak prsta?</string>
+  <string name="delete_saved_network">Izbriši spremljenu mrežu</string>
   <string name="deny">Odbij</string>
   <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>
@@ -1114,7 +1118,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_security_settings_title">Sigurnost</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
-  <string name="device_status_summary">Telefonski broj, signal itd.</string>
+  <string name="device_status_summary">Broj telefona, signal itd.</string>
   <string name="dial_application_title">Biraj</string>
   <string name="dial_pad_tones_title">Tonovi brojčanika</string>
   <string name="dialog_content_login">Potreban je Mi Račun za ažuriranja, sigurno se želite prijaviti?</string>
@@ -2453,6 +2457,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="page_layout_page2_small_title">Extra malen</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="paper_mode_end_time_title">Vrijeme završetka</string>
+  <string name="paper_mode_start_time_title">Vrijeme početka</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
@@ -3029,6 +3035,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nije zatraženo nijedno dopuštenje</string>
   <string name="save">Spremi</string>
   <string name="saved_network">Spremljeno: %1$s</string>
+  <string name="saved_wifi">Spremljena mreža</string>
+  <string name="saved_wifi_delete">Izbriši</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
@@ -3062,6 +3070,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
   <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
   <string name="screen_paper_mode_summary">"Smanji odsjaj pozadine"</string>
+  <string name="screen_paper_mode_time_title">Planirano</string>
   <string name="screen_paper_mode_title">Način čitanja</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
@@ -3341,6 +3350,8 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_close_dialog_title">Idi natrag na zadanu zaštitu zaporkom</string>
   <string name="security_encryption_diaglog_continue">Dalje</string>
   <string name="security_encryption_is_used">Uključeno</string>
+  <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
+  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
@@ -3564,7 +3575,7 @@ Za prikvačivanje zaslona:
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Mali</string>
   <string name="smallwindow_smartcover_title">Prozirni prozor</string>
-  <string name="smartcover_sensitive_title">Smartcover način</string>
+  <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
@@ -4075,6 +4086,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="unmount_inform_text">USB Memorija bit će isključena.</string>
   <string name="untitled_apn">Bez naslova</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
+  <string name="upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
+  <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="upload_debug_log_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju</string>
   <string name="upload_debug_log_title">Program Iskustva korisnika</string>
   <string name="usage_access">Pristup upotrebi</string>

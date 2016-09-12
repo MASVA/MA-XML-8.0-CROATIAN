@@ -19,6 +19,14 @@
   <string name="cloud_state_finished">Sinkronizirano s Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinkronizirano s Mi Cloudom</string>
   <string name="cold_dews"/>
+  <string name="cta_button_continue">Slažem se</string>
+  <string name="cta_button_quit">Izlaz</string>
+  <string name="cta_check_reminder">"Ne prikazuj ponovno"</string>
+  <string name="cta_message_license">Korištenjem ovog proizvoda, slažete s uvjetima navedenim u našim Uvjeti pružanja usluge i Pravila o Privatnosti.</string>
+  <string name="cta_message_permission">Ova aplikacija treba %2$s da radi normalno.</string>
+  <string name="cta_permission_and"> i </string>
+  <string name="cta_permission_delimiter">, </string>
+  <string name="cta_title">Uvjeti korištenja</string>
   <string name="daydream">Dvevno sanjarenje</string>
   <string name="day_following_good_friday"/>
   <string name="default_name">Zadano</string>

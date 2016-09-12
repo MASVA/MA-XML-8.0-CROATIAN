@@ -39,6 +39,7 @@
   <string name="notification_rec_title">Dodirni za pregled snimke</string>
   <string name="pre_station">Prethodna postaja</string>
   <string name="record_completed">Snimanje završeno</string>
+  <string name="runtime_permission_ungranted">"Ne mogu započeti snimanje jer nije odobreno dopuštenje"</string>
   <string name="search_dialog_title">Skeniraj</string>
   <string name="set">Podesi</string>
   <string name="station_check_favorite">Dodaj u favorite</string>
