@@ -4088,8 +4088,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
   <string name="upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
   <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
-  <string name="upload_debug_log_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka o korištenju</string>
-  <string name="upload_debug_log_title">Program Iskustva korisnika</string>
   <string name="usage_access">Pristup upotrebi</string>
   <string name="usage_access_description">Pristup upotrebi omogućuje aplikaciji praćenje drugih aplikacija koje upotrebljavate i učestalosti njihove upotrebe, kao i praćenje mobilnog operatera, postavki jezika i ostalih pojedinosti.</string>
   <string name="usage_access_title">Apl. s pristupom pod. o upot.</string>

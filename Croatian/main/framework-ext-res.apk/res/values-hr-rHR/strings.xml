@@ -95,7 +95,6 @@
   <string name="security_permission_validate_warning">Hvala vam što nam pomažete napraviti MIUI boljim!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN i mobilni podaci uključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Unesite vaš ID Mi Računa</string>
-  <string name="start_security_permission_verify_text">Potvrdite dopuštenja sa svojim Mi Računom</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
   <string name="set_password_action">Postavite zaporku</string>
