@@ -711,6 +711,12 @@
 		<item>Zaklj. aplikacija</item>
 		<item>Drugi prostor</item>
     </string-array>
+	<string-array name="anr_record_interval_entries">
+        <item>10 sek</item>
+        <item>20 sek</item>
+        <item>30 sek</item>
+        <item>1 min</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minuta</item>
         <item>15 minuta</item>
@@ -727,7 +733,7 @@
         <item>Galerija</item>
         <item>Glazba</item>
         <item>E-pošta</item>
-	<item>Video</item>
+	    <item>Video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Mreža je spora zbog previše prometa</item>
@@ -769,11 +775,11 @@
     </string-array>
 	<string-array name="install_non_market_app_entries">
         <item>Uključi (preporučeno)</item>
-        <item>"Ne koristiti (opasno)"</item>
+        <item>"Ne koristi (opasno)"</item>
     </string-array>
 	<string-array name="install_non_market_app_contents">
         <item>Uključi</item>
-        <item>Ne koristiti</item>
+        <item>Ne koristi</item>
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Odmah</item>
@@ -790,7 +796,7 @@
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>"Ubrzajte performanse uređaja"</item>
-        <item>"Mogu usporiti performanse uređaja"</item>
+        <item>"Može usporiti performanse uređaja"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
@@ -803,7 +809,7 @@
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Svaki dan</item>
-        <item>Radnim danom</item>
+        <item>Radnim danima</item>
         <item>Vlastito</item>
     </string-array>
 	<string-array name="screen_resolution_entries">

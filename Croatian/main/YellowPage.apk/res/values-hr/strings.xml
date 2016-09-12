@@ -272,7 +272,7 @@ Provjerite broj za praćenje."</string>
   <string name="menu_call_ip_number">Biraj IP poziv</string>
   <string name="menu_copy_text">Kopiraj u međuspremnik</string>
   <string name="menu_correct_yellow_page">Ispravak</string>
-  <string name="menu_delete_call_log">Izbrši povijest poziva</string>
+  <string name="menu_delete_call_log">Izbriši povijest poziva</string>
   <string name="menu_delete_one">Ukloni iz povijesti poziva</string>
   <string name="menu_enroll_in_yellow_page">Prijavite se za Žute stranice</string>
   <string name="menu_follow_yellow_page">Prati</string>
