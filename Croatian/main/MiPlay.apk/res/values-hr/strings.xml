@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiPlay</string>
+  <string name="app_name">Mi Play</string>
   <string name="cancel">Odustani</string>
-  <string name="enable_wifi_btn">Omogući</string>
-  <string name="enable_wifi_message">Omogući WLAN za korištenje pretraživanja i povezivanja uređaja u blizini.</string>
-  <string name="enable_wifi_title">Omogući WLAN</string>
+  <string name="enable_wifi_btn">Uključi</string>
+  <string name="enable_wifi_message">Uključi WLAN za pretraživanje i povezivanje uređaja u blizini.</string>
+  <string name="enable_wifi_title">Uključi WLAN</string>
   <string name="media_feature_projection">Zrcalni zaslon</string>
   <string name="media_status_error">Pogreška</string>
   <string name="media_status_started">Povezano</string>
@@ -12,16 +12,16 @@
   <string name="media_status_stopped">Zaustavljeno</string>
   <string name="media_status_stopping">Zaustavljanje…</string>
   <string name="noti_projection_status_desc_on">Zrcaljenje zaslona je uključeno</string>
-  <string name="noti_projection_status_title">MiPlay Bežični prikaz</string>
+  <string name="noti_projection_status_title">Mi Play Bežični prikaz</string>
   <string name="prjection_title">Bežični zaslon</string>
   <string name="search_for_devices">Osvježi</string>
-  <string name="wifi_display_autonomous_go">Omogući autonomni GO</string>
+  <string name="wifi_display_autonomous_go">Uključi autonomni GO</string>
   <string name="wifi_display_certification_heading">Potvrda</string>
   <string name="wifi_display_details">Postavke prikaza</string>
-  <string name="wifi_display_enable_menu_item">Omogući bežični prikaz</string>
+  <string name="wifi_display_enable_menu_item">Uključi bežični prikaz</string>
   <string name="wifi_display_listen_channel">Poslušajte kanal</string>
-  <string name="wifi_display_listen_mode">Omogući način rada slušanja</string>
-  <string name="wifi_display_no_devices_found">Nema pronađenih uređaja u blizini.</string>
+  <string name="wifi_display_listen_mode">Uključi način rada slušanja</string>
+  <string name="wifi_display_no_devices_found">"Ne mogu pronaći uređaje u blizini."</string>
   <string name="wifi_display_operating_channel">Radni kanal</string>
   <string name="wifi_display_options_done">Dovršeno</string>
   <string name="wifi_display_options_forget">Zaboravi</string>

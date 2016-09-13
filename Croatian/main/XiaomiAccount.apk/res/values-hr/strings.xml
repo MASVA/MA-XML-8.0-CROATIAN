@@ -58,7 +58,6 @@
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="add_this_verified_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovo kasnije</string>
@@ -287,7 +286,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_reg_failed">"Ne mogu postaviti račun"</string>
   <string name="passport_reg_new">Izradi Mi Račun besplatno</string>
   <string name="passport_reg_prompt">"Nemate Mi Račun? Kreirajte ga besplatno."</string>
-  <string name="passport_reg_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
   <string name="passport_reg_success">Račun izrađen</string>
   <string name="passport_reg_success_summary">%1$s je dodan vašem Mi Računu. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_reg_type_email">Koristi adresu e-pošte</string>
@@ -328,7 +326,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
   <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
   <string name="passport_title_reg">Izradi račun</string>
-  <string name="passport_trust_device">Vjeruj ovom uređaju</string>
+  <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
+  <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="passport_uplink_reg">Koristi broj telefona</string>
   <string name="passport_uplink_slot1_reg">Koristi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Koristi SIM 2</string>
@@ -342,6 +341,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_vcode_notice">Kod</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
   <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
+  <string name="passport_vcode_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
   <string name="passport_verification_failed">Autentikacija nije uspjela</string>
   <string name="passport_verify">Provjeri</string>
   <string name="passport_wait_for_sms_prompt">"Započeti sada ponovno? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
@@ -350,7 +350,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="phone_activated">%s aktiviran</string>
-  <string name="phone_send_verify_code_prompt">Pošalji kod za provjeru %s</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
@@ -387,7 +386,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="success">Dovršeno</string>
   <string name="trusted_browsers">Pouzdani preglednici</string>
   <string name="trusted_browsers_prompt">Preglednik više neće biti pouzdan ako izbrišete kolačiće.</string>
-  <string name="trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="turn_off_find_device_failed_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="turning_off_find_device">Isključivanje Pronađi uređaj…</string>
   <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>

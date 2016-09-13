@@ -139,6 +139,9 @@
   <string name="callFailed_userBusy">Linija je zauzeta</string>
   <string name="callUnanswered_forwarded">Poziv neodgovoren i preusmjeren</string>
   <string name="call_advanced_setting_title">Napredne postavke</string>
+  <string name="call_background_default">Zadana slika</string>
+  <string name="call_background_lock_wallpaper">Pozadina zaklj. zaslona</string>
+  <string name="call_background_setting">Pozadina poziva</string>
   <string name="call_barring">Zabrana poziva</string>
   <string name="call_barring_incoming">Zabrana dolaznih poziva</string>
   <string name="call_barring_outgoing">Zabrana odlaznih poziva</string>

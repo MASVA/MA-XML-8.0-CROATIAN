@@ -472,7 +472,7 @@
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">Najnovije</string>
   <string name="vp_next_ci">Dalje</string>
-  <string name="vp_notify_apk_installed">Aplikacija %1$s uspješno instalirana</string>
+  <string name="vp_notify_apk_installed">Aplikacija uspješno instalirana</string>
   <string name="vp_offline">Izvanmrežno</string>
   <string name="vp_offline_status_done">Dovršeno</string>
   <string name="vp_offline_status_dowloading">Preuzimanje</string>

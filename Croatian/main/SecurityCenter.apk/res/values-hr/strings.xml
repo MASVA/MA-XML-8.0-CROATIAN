@@ -670,6 +670,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">AntiVirus</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
+  <string name="menu_text_garbage_cleanup_danger">%s premašeno</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
   <string name="menu_text_networkassistants">Potrošnja podataka</string>
   <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
@@ -1331,6 +1332,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_flow_purchase_left">Preostalo vam je još %sMB mobilnih podataka za ovaj mjesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podataka nije sinkronizirana s vašim operaterom %d dana."</string>
   <string name="summary_flow_verify_failed">Automatski podesi uporabu podataka da izbjegnete dodatne naknade</string>
+  <string name="summary_garbage_clean">Izbriši predmemoriju da se oslobodi nešto prostora</string>
   <string name="summary_garbage_lib">Koristite najnovije definicije za uklanjanje spyware, adware i drugog neželjenog smeća.</string>
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 po minuti za domaće pozive.</string>
@@ -1459,6 +1461,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="title_flow_rank">Uporaba mobilnih podataka</string>
   <string name="title_flow_verify">Usporedi izračune</string>
   <string name="title_flow_verify_failed">"Ne mogu podesiti 5 dana za redom"</string>
+  <string name="title_garbage_clean">Veličina predmemorije aplik. dosegla %s</string>
   <string name="title_garbage_lib">Ažuriraj definicije smeća</string>
   <string name="title_install_virus_no">Instaliranje nadzora isključeno</string>
   <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
