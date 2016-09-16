@@ -23,6 +23,7 @@
   <string name="action_settings">Postavke</string>
   <string name="ad_close">Zatvori</string>
   <string name="ad_extension">Promocija</string>
+  <string name="ad_mark">Oglas</string>
   <string name="add_music">Dodaj pjesme</string>
   <string name="add_to_last_of_playlist">Dodaj na kraj popisa pjesama</string>
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
@@ -200,6 +201,7 @@
   <string name="download_done_btn">Preuzeto</string>
   <string name="download_error">Nije uspjelo</string>
   <string name="download_error_insufficient_space">Nema dovoljno prostora</string>
+  <string name="download_fail_to_fetch_info">Ne mogu preuzeti. Pokušajte ponovno.</string>
   <string name="download_filesize_unknown">Nepoznato</string>
   <string name="download_in_process">PREUZIMANJE</string>
   <string name="download_info_count_deleted_tasks">Uklonjeno %s preuzimanja</string>
@@ -360,6 +362,7 @@
   <string name="list_item_play_FM_radio">Dodirnite za reprodukciju FM Radija</string>
   <string name="list_item_play_all_tracks">Reproduciraj sve pjesme</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Samo trenutak…</string>
   <string name="loading_hint">Učitavanje…</string>
   <string name="local_music">Izvanmrežno</string>
   <string name="local_music_empty">Lokalni popis pjesama je prazan</string>
@@ -454,6 +457,7 @@
   <string name="nav_online_billboard">Ljestvice</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Popis pjesama</string>
+  <string name="network_error_and_retry">"Ne mogu se povezati, dodirnite da pokušate ponovno"</string>
   <string name="network_failure">Provjerite vezu i pokušajte ponovo.</string>
   <string name="network_request_error">"Ne mogu se povezati na mrežu"</string>
   <string name="network_settings_error">"Ne mogu se povezati na mrežu"</string>
@@ -656,6 +660,7 @@
   <string name="share_chooser_title">Dijeli putem</string>
   <string name="share_description">Od Mi Glazba</string>
   <string name="share_end_note">Od Mi Glazba</string>
+  <string name="share_image_error">Ne mogu podijeliti sliku zbog pogreške preuzimanja slike</string>
   <string name="share_text_list">"Popis pjesama od Mi Glazba: "</string>
   <string name="share_text_song">"Pjesma u Mi Glazba: "</string>
   <string name="show_more">Prikaži još %s</string>
@@ -706,6 +711,19 @@
   <string name="tab_track">Pjesme</string>
   <string name="tab_track_list">Pjesme</string>
   <string name="take_effect_afater_restart">Morate ponovno pokrenuti aplikaciju da ove postavke stupe na snagu.</string>
+  <string name="talkback_back">Zatvori trenutnu stranicu</string>
+  <string name="talkback_device">Reproduciraj preko drugih uređaja</string>
+  <string name="talkback_download">Preuzmi</string>
+  <string name="talkback_favorite">Sviđa mi se ova pjesma</string>
+  <string name="talkback_mode">Promjeni loop način</string>
+  <string name="talkback_more">Više</string>
+  <string name="talkback_next">Sljedeća pjesma</string>
+  <string name="talkback_play">Reproduciraj / Pauza</string>
+  <string name="talkback_pre">Prethodna pjesma</string>
+  <string name="talkback_progress">Traka napretka</string>
+  <string name="talkback_radar">Prepoznavanje glazbe</string>
+  <string name="talkback_search">Traži</string>
+  <string name="talkback_share">Podijeli</string>
   <string name="task_already_exist">Zadatak već postoji</string>
   <string name="ticket_summary">Kupite ulaznice za predstave, koncerte, predstave i druge manifestacije</string>
   <string name="ticket_title">Prikaži ulaznice</string>
@@ -723,6 +741,7 @@
   <string name="toast_cancel_download">Preuzimanje otkazano</string>
   <string name="toast_cancel_play">Reprodukcija otkazana</string>
   <string name="toast_download_error_by_count_limit">"Dosegli ste ograničenje vaših preuzimanja za ovaj mjesec."</string>
+  <string name="toast_download_error_by_not_login">Prijavite se na Mi Račun i pokušajte ponovno.</string>
   <string name="toast_download_error_by_vip_required">Nabavite Premium pretplatu da preuzmete ovu pjesmu.</string>
   <string name="toast_download_in_process">Preuzimanje u tijeku</string>
   <string name="toast_normal_songs_for_download">Kvaliteta preuzimanja je postavljena na standardno</string>

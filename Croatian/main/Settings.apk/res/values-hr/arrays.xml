@@ -832,5 +832,9 @@
          <item>Ništa</item>
          <item>Brza fotografija (odaberite način u kameri)</item>
          <item>Gradski prijevoz</item>
+     </string-array>
+    <string-array name="screen_button_style">
+         <item>Ljevak</item>
+         <item>Dešnjak</item>
      </string-array>	 
 </resources>

@@ -1014,7 +1014,7 @@ Imate još %d pokušaja."</string>
   <string name="pin2_lock_warning">"
 Vezane funkcije PIN2-a će biti zaključane nakon još jednog neuspjelog pokušaja."</string>
   <string name="pin2_or_fdn_invalid">FDN nije ažuriran. PIN2 nije točan ili je telefonski broj odbijen.</string>
-  <string name="pin2_unblocked">PIN2 više nije blokiran</string>
+  <string name="pin2_unblocked">PIN 2 više nije blokiran</string>
   <string name="pin_attempts">"
 Preostalo vam je još %d pokušaja."</string>
   <string name="pin_changed">PIN ažuriran.</string>

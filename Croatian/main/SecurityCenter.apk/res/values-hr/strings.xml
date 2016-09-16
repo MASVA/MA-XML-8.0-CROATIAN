@@ -253,7 +253,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="card_main_xspace_summary">Izradite dvojne račune za bilo koju aplikaciju</string>
   <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">Zadnje punjenje</string>
+  <string name="charging_text_battery_full_time">"Zadnje punjenje "</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
   <string name="charging_text_battery_perfect">Napunjeno</string>
   <string name="charging_text_time_calculating">Izračun vremena punjenja…</string>
@@ -869,7 +869,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="power_btn_analyze">Analiziraj potrošnju baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Planirano uklj./isklj.</string>
-  <string name="power_center_battery_full">Baterija je potpuno napunjena</string>
+  <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostalo</string>

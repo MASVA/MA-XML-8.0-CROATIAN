@@ -5,7 +5,7 @@
   <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="app_name">Snimač</string>
   <string name="back">Natrag</string>
-  <string name="btn_clear_records">Izbrisati snimke(stavki %d)</string>
+  <string name="btn_clear_records">Izbriši snimke (stavki %d)</string>
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
   <string name="call_record">Snimljeni pozivi</string>
@@ -50,7 +50,7 @@
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
-  <string name="notification_stopped">Snimanje je završeno</string>
+  <string name="notification_stopped">Snimanje zaustavljeno</string>
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
   <string name="notification_warning">Premalo pohrane (preostalo manje %d minuta)</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>

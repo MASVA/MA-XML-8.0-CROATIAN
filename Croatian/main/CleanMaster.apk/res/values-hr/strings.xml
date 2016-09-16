@@ -265,7 +265,7 @@
   <string name="login_immediately">Prijavite se</string>
   <string name="long_click_dialog_summary">Dugi pritisak za dodavanje u iznimke.</string>
   <string name="long_click_dialog_title">Obavijest</string>
-  <string name="low_memory_clean_dialog_msg">Očistite prvo barem %1$s datoteka</string>
+  <string name="low_memory_clean_dialog_msg">Očistite prvo najmanje 100 MB datoteka</string>
   <string name="low_memory_clean_dialog_ok_button">U redu</string>
   <string name="low_memory_clean_dialog_title">Nema dovoljno slobodnog prostora</string>
   <string name="low_memory_warning_dialog_cancel_button">Odustani</string>
