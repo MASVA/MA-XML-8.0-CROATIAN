@@ -795,7 +795,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="clear_failed_dlg_text">Brisanje podataka za aplikaciju nije uspjelo.</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
-  <string name="close_gesture">Gesta zatvaranja</string>
+  <string name="close_gesture">Zatvori koristeći gestu</string>
   <string name="close_dialog">U redu</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
   <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
@@ -1618,7 +1618,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Skriveni SSID:</string>
   <string name="hide">Sakrij</string>
-  <string name="hide_screen_button">Sakrij tipku zaslona</string>
+  <string name="hide_screen_button">Sakrij tipke zaslona</string>
   <string name="high_performance_notif_summary">"Uređaj se može jače zagrijati tijekom dužeg korištenja."</string>
   <string name="high_performance_notif_title">Način Performanse je uključen</string>
   <string name="high_performance_title">"Izgleda kao da provodite benchmark testiranje. Postavite upravljanje napajanjem na \"Performanse\" za bolje rezultate."</string>
@@ -2722,8 +2722,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="pref_button_light_summary">Osvjetljenje tipaka Izbornik, Početna i Natrag</string>
   <string name="pref_edge_handgrip">Kontrole ruba</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
-  <string name="pref_volume_launch_camera_summary">Pritisnite tipku glasnoće prema dolje dva puta da pokrenete kameru</string>
-  <string name="pref_volume_launch_camera_title">Brza kamera</string>
+  <string name="pref_volume_launch_camera_summary">Pritisnite tipku glasnoće dolje dva puta da pokrenete kameru</string>
+  <string name="pref_volume_launch_camera_title">Pokreni kameru</string>
   <string name="pref_volume_wake_summary">Klik na tipke za podešavanje glasnoće budi uređaj</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
@@ -3049,8 +3049,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
-  <string name="screen_button">Tipka zaslona</string>
-  <string name="screen_button_tips">Ne skrivaj tipku zaslona</string>
+  <string name="screen_button">Tipke zaslona</string>
+  <string name="screen_button_tips">Kliznite dolje da biste sakrili tipke zaslona</string>
   <string name="screen_color_and_optimize">Boje &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne mogu podesiti temperaturu boje u načinu čitanja"</string>
   <string name="screen_color_temperature">Boje</string>
@@ -3638,7 +3638,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Promjenite položaj tipke</string>
-  <string name="status_bar_screen_button_desc">Napravite gestu da sakrijete tipku zaslona</string>
+  <string name="status_bar_screen_button_desc">Kliznite dolje da biste sakrili tipke zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona mogu se sakriti</string>
   <string name="status_bar_screen_key_back">Natrag</string>
@@ -3872,13 +3872,15 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>
-  <string name="suspension_ball_enable">Promjeni tipku</string>
-  <string name="suspension_ball_enable_desc">Nakon uključenja, možete brzo otvoriti skrivenu tipku zaslona</string>
+  <string name="suspension_ball_enable">Prečac izbornika prečaca</string>
+  <string name="suspension_ball_enable_desc">Uključite/isključite izbornik prečaca koristeći prečac</string>
   <string name="suw_back_button_label">Natrag</string>
   <string name="suw_more_button_label">Više</string>
   <string name="suw_next_button_label">Dalje</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
+  <string name="switch_screen_button_order">Zrcalne tipke</string>
+  <string name="switch_screen_button_order_desc">Zrcalna tipka Natrag i tipke Izbornika</string>
   <string name="symbols_not_allowed_for_password">"Zaporka ne može sadržavati simbole"</string>
   <string name="sync_active">Sinkronizacija aktivna</string>
   <string name="sync_automatically">Autom. sinkr. podataka aplikacije</string>
