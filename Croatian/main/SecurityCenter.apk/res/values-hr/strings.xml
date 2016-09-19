@@ -9,8 +9,8 @@
   <string name="Settings_title_power_center">Postavke baterije</string>
   <string name="ac_enable_title">Uključite Zaklj. aplikacija</string>
   <string name="ac_enter_applock">Uđi u Zaklj. aplikacija</string>
-  <string name="ac_firstUseApplock_subTitle">Upotrijebite Zaklj. aplikacija da zaštitite svoju privatnost</string>
-  <string name="ac_firstUseApplock_title">Potrebna je zaporka za otvaranje odabranih aplikacija</string>
+  <string name="ac_firstUseApplock_subTitle">Koristite bolje sigurnosne alate na razini sustava</string>
+  <string name="ac_firstUseApplock_title">Postavite zaporku da zaštitite vaše aplikacije</string>
   <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
   <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
   <string name="access_control_need_password">"%s uspješno dodano
@@ -1259,6 +1259,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="see_detail">Detalji</string>
   <string name="select_pattern">Odaberite uzorak</string>
+  <string name="set_applock_password">Postavite zaporku</string>
   <string name="setting_traffic_pkg">Postavite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
   <string name="settings_battery_consume_abnormal_summary">Obavijesti kada se baterija prazni prebrzo</string>
@@ -1403,7 +1404,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="tc_sms_report_get_sms">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms2">Dobivanje SMS-a</string>
   <string name="tc_sms_report_get_sms_again">Osvježi SMS</string>
-  <string name="tc_sms_report_get_sms_failure">"Nije bilo moguće dobiti podatke o uporabi u SMS formatu"</string>
+  <string name="tc_sms_report_get_sms_bill">Dobivanje SMS-a</string>
+  <string name="tc_sms_report_get_sms_calltime">Dobivanje SMS-a</string>
+  <string name="tc_sms_report_get_sms_failure">"Ne mogu dobiti podatke o uporabi u SMS formatu"</string>
   <string name="tc_sms_report_get_sms_successs">Uporaba podataka SMS formata ažurirana</string>
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan i pošaljite ga nama."</string>
@@ -1424,6 +1427,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="tc_sms_report_tips_dialog_message">"Uporaba podataka koristi posebno formatirane SMS poruke da biste dobili svoje najnovije izvješće uporabe podataka od svog mobilnog operatera. Ako ova značajka ne radi normalno, pokušajte ažurirati podatke uporabe formata SMS poruka.Novi obnovljeni format će tada biti učitan na naše poslužitelje."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS uporaba podataka</string>
   <string name="tc_sms_report_title">Pogreška izvješća uporabe podataka</string>
+  <string name="tc_sms_report_title_bill">Pogreška izvješća uporabe podataka</string>
+  <string name="tc_sms_report_title_calltime">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_toast_text">Primanje izvješća…</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>

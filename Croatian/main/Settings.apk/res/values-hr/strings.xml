@@ -1661,7 +1661,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
   <string name="input_method_selector_always_show_value">1</string>
-
   <string name="input_method_selector_show_automatically_title">"Automatski"</string>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
@@ -1670,6 +1669,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_methods_and_subtype_enabler_title">Odabir aktivnih načina unosa</string>
   <string name="input_methods_settings_label_format">%1$s postavke</string>
   <string name="input_methods_settings_title">Unos teksta</string>
+  <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_settings">Postavke unosa</string>
   <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
@@ -4844,6 +4844,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="xiaomi_router_notif_title">Mi Router obavijesti</string>
   <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">Nijedna instalirana aplikacija nije zatražila pristup opciji Ne ometaj</string>
   <string name="zen_access_warning_dialog_summary">Aplikacija će moći uključiti ili isključiti opciju Ne ometaj i mijenjati povezane postavke.</string>
   <string name="zen_access_warning_dialog_title">Želite li dopustiti aplikaciji %1$s pristup opciji Ne ometaj?</string>

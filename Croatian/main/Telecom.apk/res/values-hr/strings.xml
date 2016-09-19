@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Poziv utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvučnik je uključen.</string>
   <string name="add_vm_number_str">Dodaj broj</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Ne mogu uputiti videopoziv dok je glasovni poziv u tijeku"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="change_default_dialer_dialog_title">Želite li promijeniti zadanu aplikaciju brojčanika?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Želite li upotrebljavati %s kao zadanu aplikaciju brojčanika?</string>

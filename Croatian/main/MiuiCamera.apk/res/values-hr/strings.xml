@@ -50,6 +50,7 @@ iskoračite iz prikaza na trenutak"</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_connect_camera_once">Ne mogu se povezati s kamerom.</string>
   <string name="cannot_connect_camera_twice">Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj.</string>
+  <string name="cannot_connect_camera_volte_call">Videopoziv u tijeku, pokušajte kasnije.</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>
