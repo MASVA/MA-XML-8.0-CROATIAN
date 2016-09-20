@@ -70,6 +70,7 @@
   <string name="album_share_subtitle_requesting">Preuzimanje detalja albuma…</string>
   <string name="album_share_title_new_album">Podijeli novi album</string>
   <string name="album_show_local_only">Prikaži samo lokalne albume</string>
+  <string name="album_show_local_only_summary">Uključite samo za pregled i brisanje fotografija na vašem uređaju</string>
   <string name="album_type_baby">Dječji album</string>
   <string name="album_type_share">Dijeljeni albumi</string>
   <string name="album_type_system">Albumi sustava</string>
@@ -223,9 +224,10 @@
   <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s %3$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_finish_format">Izbrisano: %d</string>
-  <string name="delete_from_album">iz albuma \"%s\" (svi uređaji)</string>
+  <string name="delete_from_album">iz albuma \"%s\" i Mi Clouda</string>
   <string name="delete_from_album_no_account">iz albuma \"%s\"</string>
   <string name="delete_from_all_devices">iz svih uređaja</string>
+  <string name="delete_from_all_devices_and_cloud">iz svih uređaja i Mi Clouda</string>
   <string name="delete_from_cloud">Izbriši stavke iz Mi Clouda</string>
   <string name="delete_from_devices">Svih sinkr. uređaja</string>
   <string name="delete_from_devices_album">Svih uređaja u koje je album bio sinkroniziran</string>

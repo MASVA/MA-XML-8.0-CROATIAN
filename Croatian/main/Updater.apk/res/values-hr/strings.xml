@@ -21,6 +21,7 @@
      <string name="autosetmode">Postavke</string>
      <string name="best_update">Najbolje ažuriranje do sada</string>
      <string name="boot_recovery">Ponovno pokrenuti u Recovery mode?</string>
+	 <string name="button_delay_update_reboot">Ponovno pokreni &amp; ažuriraj</string>
      <string name="button_text_check">Provjeri za ažuriranja</string>
      <string name="button_text_later_reboot">Kasnije</string>
      <string name="button_text_reboot">Ponovno pokreni</string>
@@ -54,6 +55,11 @@
      <string name="continue_update_negative_btn">Nastavi</string>
      <string name="continue_update_positive_btn">Zaustavi</string>
      <string name="daily_build">Dnevno izdanje</string>
+	 <string name="delay_update_text">Ažuriraj kasnije</string>
+     <string name="dialog_delay_update_cancel">Odustani</string>
+     <string name="dialog_delay_update_msg">"Vaš će se uređaj ponovno pokrenuti za primijenu ažuriranja kada je uključen, a baterija najmanje na 30% energije"</string>
+     <string name="dialog_delay_update_title">Dostupno je ažuriranje</string>
+     <string name="dialog_delay_update_tonight">Ažuriraj noćas</string>
 	 <string name="dialog_reboot_message">"MIUI sustav se ažurira. Ovaj proces može potrajati 5-20 minuta. Držite uređaj uključenim, i nemojte ga ponovno pokrenuti sve dok proces ažuriranja ne završi."</string>
      <string name="dialog_reboot_title">Ažuriranje sustava</string>
      <string name="dialog_reboot_yes">Ažuriraj</string>
@@ -118,6 +124,12 @@
      <string name="no_wifi_title">Upozorenje uporabe podataka</string>
      <string name="not_open">Ne</string>
      <string name="notification_auto_reboot_seccess_title">Uređaj je ažuriran automatski</string>
+	 <string name="notification_delay_update_button">Ažuriraj za 2 sata</string>
+     <string name="notification_delay_update_cancel">"Ne ažuriraj noćas"</string>
+     <string name="notification_delay_update_low_power">Izgleda da je baterija bila previše slaba noću</string>
+     <string name="notification_delay_update_msg">Uređaj će se ponovo pokrenuti &amp; ažurirati za​ %ssek</string>
+     <string name="notification_delay_update_no_update">"Ažuriranja nisu primijenjena"</string>
+     <string name="notification_delay_update_shutdown">Izgleda da je uređaj bio isključen noću</string>
      <string name="notification_downloading">Preuzimanje ažuriranja…</string>
      <string name="notification_fail_msg">Pokušajte preuzeti ROM u cijelosti</string>
      <string name="notification_load_body_alpha">Nabavite najnovija ažuriranja za vaš uređaj.</string>
@@ -205,6 +217,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="test">Test</string>
      <string name="timer_title">Uređaj će se ponovno pokrenuti za %d sek.</string>
      <string name="title_toast_auto">Ažuriranja će se preuzeti automatski</string>
+	 <string name="toast_delay_update_tonight">Vaš će se uređaj ažurirati između 2:00AM i 5:00AM</string>
      <string name="top_secret_build">Tajno</string>
 	 <string name="uncrypt_title">Dešifriranje (%s)</string>
      <string name="unkown_error_title">Ne mogu preuzeti</string>

@@ -24,15 +24,17 @@
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Račun</string>
   <string name="auth_fail">"Ne mogu dobiti autorizaciju"</string>
-  <string name="bind_xunlei_account">Dodaj Xunlei Račun</string>
+  <string name="bind_xunlei_account">Dodan Xunlei Račun %1$s</string>
   <string name="bt_download">Preuzmi</string>
   <string name="bt_path_not_exit">"Ova putanja ne postoji"</string>
   <string name="bt_restart_dialog_message">Ponovno pokrenuti sva preuzimanja u BT mapi?</string>
   <string name="bt_restart_dialog_title">Ponovno pokrenuti sva preuzimanja</string>
   <string name="bt_xunlei_open_info">Koristiti Xunlei Engine za otvaranje ovakvih poveznica?</string>
+  <string name="btn_change">Promjeni</string>
   <string name="button_sort_by_date">Poredaj po datumu</string>
   <string name="button_sort_by_size">Poredaj po veličini</string>
   <string name="cancel">Odustani</string>
+  <string name="choose_open_picture">Opcije</string>
   <string name="cancel_running_download">Odustani</string>
   <string name="cancle">Odustani</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
@@ -53,6 +55,8 @@
   <string name="deselect_all">Poništi odabir</string>
   <string name="deselect_subfile_all">Poništi odabir</string>
   <string name="determine">U redu</string>
+  <string name="dialog_btn_cancel">Odustani</string>
+  <string name="dialog_btn_ok">U redu</string>
   <string name="dialog_btn_ok_disabled_net">Postavke mreže</string>
   <string name="dialog_cannot_resume">Preuzimanje je prekinuto i ne može se nastaviti.</string>
   <string name="dialog_confirm_delete_checkbox_message">Izbriši lokalne datoteke također</string>
@@ -66,10 +70,12 @@
   <string name="dialog_insufficient_space_on_external">Preuzimanje se ne može završiti. Na vanjskoj pohrani nema dovoljno prostora.</string>
   <string name="dialog_media_not_found">Preuzimanje nije moguće. Vanjski medij nije dostupan.</string>
   <string name="dialog_msg_disabled_net">%1$s ograničava preuzimanja u trenutnoj mreži. Dodirnite Postavke mreže za odlazak u aplikaciju Sigurnost.</string>
+  <string name="dialog_msg_recommend">"Nećete biti u mogućnosti vidjeti preporučene izvore nakon isključivanja. Možete odabrati \"Učitaj kada je povezan na WLAN\" da uštedite mobilne podatke."</string>
   <string name="dialog_queued_body">Ova datoteka stavljena je u red čekanja za buduće preuzimanje tako da još nije dostupna.</string>
   <string name="dialog_title_disabled_net">Pristup Internetu</string>
   <string name="dialog_title_not_available">Preuzimanje nije uspjelo.</string>
   <string name="dialog_title_queued_body">Datoteka nedostupna</string>
+  <string name="dialog_title_recommend">Isključi preporučene izvore</string>
   <string name="disable">Isključeno</string>
   <string name="display_expire_netiv1">Ovaj mjesec</string>
   <string name="do_not_support_url">"Ova vrsta poveznice nije podržana"</string>
@@ -108,6 +114,9 @@
   <string name="download_share_dialog">Dijeli putem</string>
   <string name="download_speed">Brzina preuzimanja:</string>
   <string name="download_spend_time">Vrijeme</string>
+  <string name="download_status_continue">Nastavi</string>
+  <string name="download_status_fail">Pokušaj ponovno</string>
+  <string name="download_status_paused">Pauzirano</string>
   <string name="download_success">Dovršeno</string>
   <string name="download_title">Preuzimanja</string>
   <string name="download_title_sorted_by_date">Preuzimanja - Poredano po datumu</string>
@@ -145,6 +154,9 @@
   <string name="file_exist_hint">Ova datoteka već postoji</string>
   <string name="file_picker">Odaberite lokaciju</string>
   <string name="file_size">Veličina:</string>
+  <string name="force_touch_newdownload">Nova preuzimanja</string>
+  <string name="force_touch_rank">Poredak</string>
+  <string name="force_touch_search">Pretraži internet</string>
   <string name="free_high_speed_channel">Xunlei ubrzanje preuzimanja (besplatno)</string>
   <string name="free_speedup_exp">Isprobajte Xunlei ubrzanje preuzimanja besplatno</string>
   <string name="get_account_dialog_msg">Dobivanje detalja računa…</string>
@@ -160,8 +172,9 @@
   <string name="high_speed_tryout_speedup_confirm">Priprema za povećanje brzine…</string>
   <string name="high_speed_tryout_time">Probno preostalo vrijeme: %1$s. Postanite Xunlei član.</string>
   <string name="hint">Pažnja</string>
+  <string name="home_page_new_download_guide">Nova preuzimanja idu ovdje</string>
   <string name="immediately_a_renewal">Obnovi sada</string>
-  <string name="info_flow_only_load_wifi">Učitaj preporučene izvore kada je povezano na WLAN</string>
+  <string name="info_flow_only_load_wifi">Učitaj kada je povezano na WLAN</string>
   <string name="info_flow_setting">Postavke</string>
   <string name="info_flow_show">Preporučeni izvori</string>
   <string name="input_valid_address">Unesite putanju datoteke</string>
@@ -201,6 +214,9 @@
   <string name="no_vip_info">Nabavite Xunlei članstvo za ubrzanje preuzimanja</string>
   <string name="no_vip_show_info">"Ubrzajte preuzimanja na svim vašim uređajima sa Xunlei"</string>
   <string name="notify_disabled_net_by_app">Pristup Internetu ograničen</string>
+  <string name="notify_install_guide_forward_text">Otvori</string>
+  <string name="notify_install_guide_msg">Uspješno instalirano</string>
+  <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_not_support">"Takve obavijesti nisu podržane, ažurirajte sada"</string>
   <string name="notify_only_wifi_download">Čekanje na WLAN</string>
   <string name="one_month">1 mjesec</string>
@@ -223,6 +239,7 @@
   <string name="paused_unknown">Nepoznata greška</string>
   <string name="paused_waiting_for_network">Čekanje na mobilnu mrežu</string>
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
+  <string name="percent_title">%1$s osoba preuzelo</string>
   <string name="period_of_validity">"Valjanost: "</string>
   <string name="pref_download_revert_default">Zadano</string>
   <string name="pref_download_settings_title">Ograničenje veličine preuzimanja</string>
@@ -342,7 +359,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_terms_check_text">Slažem se s Uvjeti pružanja usluge</string>
   <string name="sniff_terms_msg">Trebali bi se složiti sa \"Uvjeti korištenja\" da počnete koristiti drugu tražilicu.</string>
   <string name="sniff_terms_msg_a">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjeti pružanja usluge prije nego je možete koristiti.</string>
-  <string name="sniff_terms_msg_b">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjeti pružanja usluge prije nego je možete koristiti. Ako se slažete, označite kućicu ispod.</string>
+  <string name="sniff_terms_msg_b">Ovu značajku pretraživanje pružaju developeri drugih proizvođača. Morate se složiti s Uvjeti pružanja usluge prije nego je možete koristiti. Ako se slažete s Uvjetima, dodirnite kvačicu ispod.</string>
   <string name="sniff_terms_msg_bold">Uvjeti korištenja</string>
   <string name="sniff_terms_msg_bold_new">Uvjeti pružanja usluge</string>
   <string name="sniff_terms_reject">Odbijam</string>
@@ -364,7 +381,7 @@ i pokušajte ponovno."</string>
   <string name="subfile_list">Datoteke</string>
   <string name="task_detail">Zadaci</string>
   <string name="task_detail_notfound_confirm">U redu</string>
-  <string name="task_fail">Nije uspjelo</string>
+  <string name="task_fail">"Ne mogu dovršiti radnju"</string>
   <string name="text_showmore_infoflow">Pogledaj više izvora</string>
   <string name="third_web_cancel">Odustani</string>
   <string name="third_web_confirm">U redu</string>

@@ -55,6 +55,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="format_move_notes_out_folder">Premješteno %1$s izvan</string>
   <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>
   <string name="hidden_notes_fragment_title">Skrivene bilješke</string>
+  <string name="hint_cannot_view_hidden_note_content">"Ne mogu pregledati sadržaj u skrivenim bilješkama"</string>
   <string name="hint_foler_name">Naziv</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
   <string name="loading_text">Samo trenutak…</string>

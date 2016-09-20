@@ -47,7 +47,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
   <string name="cloud_back_up_frequence_short">Svaki dan</string>
   <string name="cloud_back_up_interval_long">7 dana</string>
-  <string name="cloud_back_up_interval_short">Svaki dan</string>
+  <string name="cloud_back_up_interval_short">dnevno</string>
   <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na WLAN"</string>
   <string name="cloud_back_up_ok_btn">U redu</string>
   <string name="cloud_back_up_opening">Samo trenutak…</string>
