@@ -186,7 +186,7 @@
          <item quantity="one">Izbrisan %d virus</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
-         <item quantity="other">+%d poena</item>
-         <item quantity="one">+%d poen</item>
+         <item quantity="other">+%d</item>
+         <item quantity="one">+%d</item>
      </plurals>
 </resources>

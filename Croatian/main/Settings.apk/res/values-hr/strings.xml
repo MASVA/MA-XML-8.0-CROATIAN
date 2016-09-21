@@ -225,6 +225,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="app_link_open_never">Ne otvaraj u ovoj aplikaciji</string>
   <string name="app_list_memory_use">Potrošnja aplikacije</string>
   <string name="app_list_preference_none">Ništa</string>
+  <string name="app_lock_role_instruction">Zaštitite svoje privatne aplikacije</string>
   <string name="app_memory_use">Upotreba memorije</string>
   <string name="app_name_label">Aplikacija</string>
   <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu instaliranih aplikacija."</string>
@@ -455,6 +456,11 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="battery_sugg_wifi">"Isključi WLAN ako se ne upotrebljava ili ako nije dostupan"</string>
   <string name="battery_summary">%1$d%% potrošnje od posljednjeg potpunog punjenja</string>
   <string name="bearer">Nositelj</string>
+  <string name="bind_xiaomi_account_cancel">Odustani</string>
+  <string name="bind_xiaomi_account_confirm">Dodaj</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite."</string>
+  <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
+  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
   <string name="biometric_weak_liveliness_summary">Prilikom otključavanja potrebno je trepnuti</string>
   <string name="biometric_weak_liveliness_title">Provjera živosti</string>
@@ -774,6 +780,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="checking_decryption">Provjeravanje…</string>
   <string name="checking_find_device_status">Provjera statusa Pronađi uređaj…</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
+  <string name="childmod_privacy_password_role_instruction">Uključite Dječji način da spriječite neželjene radnje dok uređaj koristi dijete</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
   <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina dodirnite tipku Početna za povratak na Početni zaslon.</string>
@@ -834,6 +841,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="configure_apps">Konfiguranje aplikacija</string>
   <string name="configure_input_method">Postavljanje načina unosa</string>
   <string name="confirm_action">U redu</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_download_cancelation_dialog_message">Otkazati preuzimanje ažuriranja?</string>
   <string name="confirm_enable_multi_window_text">UPOZORENJE: ovo je vrlo eksperimentalna značajka koja omogućuje istovremeno vršenje više radnji na zaslonu putem korisničkog sučelja nedavnih aplikacija. Neke se aplikacije mogu srušiti ili možda neće funkcionirati pravilno kada se upotrebljavaju s tom značajkom.</string>
   <string name="confirm_enable_multi_window_title">Želite li omogućiti način rada s više prozora?</string>
@@ -843,6 +851,9 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
+  <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
+  <string name="confirm_privacy_password_fingerprint">Skenirajte otisak prsta ili unesite Zaporku zaštite privatnosti</string>
+  <string name="confirm_privacy_password_instruction">Ova zaporka štiti aplikacije, poruke, fotografije i kontakte.</string>
   <string name="confirm_reset_aaid">U redu</string>
   <string name="connect_to_internet">Poveži se na internet</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
@@ -1404,6 +1415,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="failed_to_shut_down_find_device_content">"Ne mogu isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne mogu isključiti"</string>
   <string name="fcc_equipment_id">ID opreme</string>
+  <string name="file_privacy_password_role_instruction">Vaše privatne datoteke će biti pohranjene ovdje.</string>
   <string name="filter">Filtar</string>
   <string name="filter_all_apps">Sve aplikacije</string>
   <string name="filter_apps_all">Sve</string>
@@ -1440,7 +1452,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_list_title">"Otisak prsta "</string>
   <string name="fingerprint_lock_first">Otključaj Prvi prostor</string>
   <string name="fingerprint_lock_second">Otključaj Drugi prostor</string>
-  <string name="fingerprint_manage_category_title">Otisci prstiju</string>
+  <string name="fingerprint_manage_category_title">Upravljaj Otiscima prstiju</string>
+  <string name="fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta. Unesite svoju zaporku"</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
   <string name="fingerprint_usage_category_title">Upotreba otiska prsta za</string>
@@ -1486,6 +1499,9 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="force_touch_enable_tips">"Dugi pritisak na ikonu aplikacije će prikazati izbornik prečaca aplikacije dok je 3D Touch uključen."</string>
   <string name="forget">ZABORAVI</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
+  <string name="forget_pattern">Zaboravili ste zaporku?</string>
+  <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
+  <string name="forget_privacy_password_summary">Koristite Mi Račun za poništavanje vaše zaporke</string>
   <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na Poč. zaslon</string>
@@ -1536,6 +1552,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_toggle_bluetooth">Ažuriranje postavki Bluetootha</string>
   <string name="gadget_toggle_wifi">Ažuriranje WLAN postavki</string>
   <string name="gadget_wifi">WLAN</string>
+  <string name="gallery_privacy_password_role_instruction">Vaše privatne fotografije će biti pohranjene ovdje.</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
@@ -1681,6 +1698,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="install_unknown_applications">Dopustite instalaciju aplikacija iz nepoznatih izvora</string>
   <string name="install_unknown_applications_title">Omogućuje instaliranje aplikacija iz izvora koji nisu Google Play</string>
   <string name="install_whole_rom">Preuzmi ROM</string>
+  <string name="instruction_privacy_password">Ova zaporka štiti sljedeće stavke</string>
   <string name="instruction_title">Instrukcije</string>
   <string name="insufficient_storage">Nema dovoljno prostora za pohranu.</string>
   <string name="intent_sender_account_label">Račun:</string>
@@ -1987,6 +2005,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Osim kad ga %1$s drži otključanim</string>
   <string name="lockpattern_settings_title">Uzorak za otključavanje</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Previše netočnih pokušaja. Pokušajte ponovo za %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
@@ -2154,6 +2174,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_silent_title">omogući bešumno</string>
   <string name="mms_breathing_light_color_title">Boja LED-a kod SMS-a</string>
   <string name="mms_breathing_light_freq_title">Frekvencija treperenja LED-a kod SMS-a</string>
+  <string name="mms_privacy_password_role_instruction">Vaši razgovori s privatnim kontaktima će biti pohranjeni ovdje.</string>
   <string name="mobile_connect_to_internet">Povežite se s internetom</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
@@ -2164,6 +2185,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
   <string name="model_number">Model uređaja</string>
+  <string name="modify_instruction_password_settings">Postavi zaporku</string>
+  <string name="modify_privacy_password">Promjeni zaporku</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>
   <string name="modem_tool_log_start">Započni</string>
   <string name="modem_tool_log_start_toast">"Započni zapisnik modema na %s"</string>
@@ -2343,6 +2366,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
+  <string name="notes_privacy_password_role_instruction">Vaše privatne bilješke će biti pohranjene ovdje.</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
   <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a kod obavijest</string>
@@ -2783,10 +2807,29 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
+  <string name="privacy_applock">Zaklj. aplik.</string>
+  <string name="privacy_childmode">Dječji način</string>
+  <string name="privacy_file">Datoteke</string>
+  <string name="privacy_gallery">Fotografije</string>
+  <string name="privacy_mms">Poruke</string>
   <string name="privacy_mode_dialog_message">Sakriti poruke, bilješke, fotografije, postavke i dolazne pozive?</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, fotografije, postavke i dolazne pozive</string>
   <string name="privacy_mode_enable_title">Gost način rada</string>
+  <string name="privacy_notes">Bilješke</string>
+  <string name="privacy_password">Zaporka zaštite privatnosti</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
+  <string name="privacy_password_confirm_use_finger">Otključajte pomoću otiska prsta</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"Ne mogu potvrditi otisak"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Otisak prsta potvrđen</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Stavite prst na senzor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj otisak prsta</string>
+  <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
+  <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, bilješke i aplikacije.</string>
+  <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Prikaži uzorak</string>
   <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
   <string name="privacy_mode_title">Postavke privatnosti</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
@@ -3436,6 +3479,7 @@ Za prikvačivanje zaslona:
   <string name="set_password_action">Postavi zaporku</string>
   <string name="set_password_message">Postavite zaporku za isključivanje Dječjeg načina, kao i za otključavanje ovog uređaja.</string>
   <string name="set_password_title">Postavi zaporku</string>
+  <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
   <string name="settings_backup">Postavke sigurnosne kopije</string>
   <string name="settings_backup_summary">Stvori sigurnosnu kopiju postavki</string>
   <string name="settings_button">Postavke</string>
@@ -4185,6 +4229,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="use_nuplayer">Koristi NuPlayer (eksp.)</string>
   <string name="use_nuplayer_summary">Koristi NuPlayer umjesto AwesomePlayera</string>
   <string name="use_personalized_ad_service">Prilagođeni oglasi</string>
+  <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>
   <string name="user_account_title">Račun za sadržaj</string>

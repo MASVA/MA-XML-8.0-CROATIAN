@@ -3,6 +3,7 @@
   <string name="app_label">HTML pregledač</string>
   <string name="app_name_which_call">Aplikacija: %s</string>
   <string name="app_version_which_call">Verzija: %s</string>
+  <string name="ime_privacy_policy">Odaberi tipkovnicu</string>
   <string name="license_host_unreachable">"Ne mogu se povezati s mrežom. Za pregled ove informacije,
 idite na %s"</string>
   <string name="loading">Učitavanje…</string>

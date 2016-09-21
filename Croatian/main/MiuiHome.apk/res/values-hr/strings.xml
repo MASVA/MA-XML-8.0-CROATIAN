@@ -177,6 +177,8 @@
   <string name="multi_selecting_tips">Da pokupite aplikaciju, dodirnite njenu ikonu</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="normal_wallpaper">Slika pozadine</string>
+  <string name="notification_installed">Uspješno instalirano</string>
+  <string name="notification_open_button">Otvori</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
   <string name="permdesc_install_shortcut">Dopušta aplikaciji dodavanje prečaca bez intervencije korisnika.</string>

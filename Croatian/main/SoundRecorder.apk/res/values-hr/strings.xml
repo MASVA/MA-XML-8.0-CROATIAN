@@ -41,7 +41,9 @@
   <string name="export_to_note">Izvezi u Bilješke</string>
   <string name="fm_record">Snimke FM-a (%d)</string>
   <string name="invalid_argument">Nevažeći argument</string>
-  <string name="low_battery_error">Preostalo manje od 5% baterije, da snimanje ne bude izgubljeno, snimanje je bilo zaustavljeno i spremljeno.</string>
+  <string name="low_battery_error">"Preostalo je manje od 5% baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
+  <string name="low_battery_error_confirm">U redu</string>
+  <string name="low_battery_error_title">Slaba baterija</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
   <string name="new_record_name">Nova snimka</string>

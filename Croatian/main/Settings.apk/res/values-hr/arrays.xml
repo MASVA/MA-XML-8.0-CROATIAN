@@ -832,9 +832,17 @@
          <item>Ništa</item>
          <item>Brza fotografija (odaberite način u kameri)</item>
          <item>Gradski prijevoz</item>
-     </string-array>
+    </string-array>
     <string-array name="screen_button_style">
          <item>Ljevak</item>
          <item>Dešnjak</item>
+		 </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+         <item>Poruke</item>
+         <item>Fotografije</item>
+         <item>Datoteke</item>
+         <item>Bilješke</item>
+         <item>Zaklj. aplik.</item>
+         <item>Dječji način</item>
      </string-array>	 
 </resources>

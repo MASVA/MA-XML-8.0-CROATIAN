@@ -32,6 +32,7 @@
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
+  <string name="common_loading_text">Učitavanje…</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Nema vjetra</string>
@@ -90,6 +91,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Vjetar</string>
+  <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="set">Postavke</string>
   <string name="share">Podijeli</string>

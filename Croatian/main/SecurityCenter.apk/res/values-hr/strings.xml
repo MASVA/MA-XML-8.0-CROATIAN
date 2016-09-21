@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s uspješno dodano
  "</string>
    <string name="access_control_need_to_unlock">"Skenirajte otisak prsta
-ili unesite zaporku Zaklj. aplikacije"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku Zaklj. aplikacije</string>
+ili unesite Zaporku zaštite privatnosti"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Unesite Zaporku zaštite privatnosti</string>
   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacije</string>
   <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun da poništite Zaklj. aplikacija</string>
   <string name="action_button_text_100">Optimiziraj</string>
@@ -162,6 +162,12 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="battery_status_unknown">Nepoznata pogreška</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum resetiranja korištenja</string>
+  <string name="bind_xiaomi_account_cancel">Odustani</string>
+  <string name="bind_xiaomi_account_confirm">Dodaj</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite. Račun će biti uklonjen automatski ako se odjavite."</string>
+  <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
+  <string name="bind_xiaomi_account_summary">Koristite Mi Račun za poništavanje zaporke</string>
+  <string name="bind_xiaomi_account_title">Dodaj Mi Račun</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_time">Uključivanje: %1$s</string>
   <string name="boot_time_day">Uključivanje: %2$s %1$dd</string>
@@ -268,6 +274,7 @@ ili unesite zaporku Zaklj. aplikacije"</string>
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
@@ -816,6 +823,11 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="package_setted_error_notification_titile">"Ne mogu postaviti plan podataka"</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="passwordIncorrect">Pogrešno korisničko ime ili zaporka</string>
+  <string name="password_promotion_button_text">Shvaćam</string>
+  <string name="password_promotion_message">Zaklj. aplikacija se nadograđuje u Zaporku zaštite privatnosti. Možete upotrijebiti svoj trenutni Mi Račun da je resetirate.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Zaklj. aplikacija se nadograđuje u Zaporku zaštite privatnosti. Možete upotrijebiti svoj trenutni Mi Račun da je resetirate. Dodajte svoj Mi Račun da bi mogli to napraviti.</string>
+  <string name="password_promotion_postbutton_text">Idi u Postavke</string>
+  <string name="password_promotion_title">Zaporka zaštite privatnosti</string>
   <string name="path_antispam">Aplikacije sustava/Sigurnost/Lista blokiranih</string>
   <string name="path_antivirus">Aplikacije sustava/Sigurnost/Skeniranje virusa</string>
   <string name="path_applicationlock">Aplikacije sustava/Sigurnost</string>
@@ -1260,6 +1272,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="see_detail">Detalji</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="set_applock_password">Postavite zaporku</string>
+  <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
   <string name="setting_traffic_pkg">Postavite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
   <string name="settings_battery_consume_abnormal_summary">Obavijesti kada se baterija prazni prebrzo</string>

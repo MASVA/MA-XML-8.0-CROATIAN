@@ -154,9 +154,9 @@
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
   <string name="ragment_sys_listempty">Nema aplikacija sustava</string>
   <string name="reading">Način čitanja</string>
-  <string name="screen_off">Zaslon isključen</string>
-  <string name="screen_off_10_min">Zaslon isključen preko 10 min.</string>
-  <string name="screen_on">Zaslon uključen</string>
+  <string name="screen_off">Zaslon je isključen</string>
+  <string name="screen_off_10_min">Zaslon je isključen preko 10 min.</string>
+  <string name="screen_on">Zaslon je uključen</string>
   <string name="select_items">Odabrano %d</string>
   <string name="set_brightness">Maks. osvjetljenje zaslona</string>
   <string name="set_cpu_powermode">Korištenje CPU-a</string>

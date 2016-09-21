@@ -701,6 +701,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="server_control_charset">Kodiranje prijenosa</string>
   <string name="server_control_settings">Postavke</string>
   <string name="server_error">Pogreška poslužitelja, pokušajte ponovno kasnije. (Pogreška %s)</string>
+  <string name="set_pattern">Zaporka je nadograđena</string>
+  <string name="set_pattern_btn">Postavi</string>
+  <string name="set_pattern_msg">Ponovno postavite zaporku. Zaporka zaštite privatnosti funkcionira i za fotografije i poruke.</string>
   <string name="setting">Postavke</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obavijesti</string>
@@ -810,6 +813,8 @@ oslobodili prostor.</string>
   <string name="unbind_account">Izbrisati %s?</string>
   <string name="unbind_fail">"Ne mogu izbrisati"</string>
   <string name="unbind_success">Uspješno izbrisano</string>
+  <string name="unlock_pattern_msg">Zaporka zaštite privatnosti funkcionira i za aplikacije, fotografije, bilješke i skrivene mape.</string>
+  <string name="unlock_pattern_title">Nova zaporka</string>
   <string name="unlogin">Prijavite se prvo</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="unreviewed_video_cannot_share">Videozapisi trebaju biti pregledani prije dijeljenja	</string>
