@@ -760,6 +760,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
+  <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je izmijenjena</string>
+  <string name="notification_sysapp_cracked_title">Otkriven je sigurnosni rizik</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notify_daily_data_usage_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
@@ -1366,6 +1368,15 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilnih podataka u roamingu.</string>
+  <string name="sys_app_prot_cracked_confirm">Shvaćam</string>
+  <string name="sys_app_prot_cracked_login">Prijavite se s Mi Računom</string>
+  <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
+
+Pobrinite se da znate odakle ovaj uređaj dolazi, i obratite se ovlaštenom Xiaomi servisu u vašem području da biste dobili pomoć."</string>
+ <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Mi Računom da biste isključili ovo upozorenje.
+  
+Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
+  <string name="sys_app_prot_cracked_title">Sigurnosni rizik</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_check_content">Rizika %1$d</string>
