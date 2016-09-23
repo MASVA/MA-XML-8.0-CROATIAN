@@ -1990,8 +1990,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_recording_incorrect_too_short">Povežite barem ovoliko točaka: %d. Pokušajte ponovno.</string>
   <string name="lockpattern_recording_inprogress">Dignite prst kad završite</string>
   <string name="lockpattern_recording_intro_footer">Pritisnite Izbornik za pomoć.</string>
-  <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanj:</string>
-  <string name="lockpattern_recording_intro_header_second_space">Iscrtajte uzorak za otključavanj Drugi prostor:</string>
+  <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
+  <string name="lockpattern_recording_intro_header_second_space">Iscrtajte uzorak za otključavanje Drugog prostora:</string>
   <string name="lockpattern_restart_button_text">Iscrtajte ponovno</string>
   <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
   <string name="lockpattern_settings_change_lock_pattern">Izmijeni uzorak za otključavanje</string>
