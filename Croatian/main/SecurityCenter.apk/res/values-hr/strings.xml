@@ -53,6 +53,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Detalji virusa</string>
   <string name="activity_title_virus_settings">Postavke</string>
+  <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovo</string>
+  <string name="adb_install_open">Dopuštanje…</string>
+  <string name="adb_install_open_error">"Ne mogu dopustiti, provjerite mrežnu vezu"</string>
+  <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
+  <string name="adb_install_reject_notiy_desc">Možete dopustiti instalaciju putem USB-a u Opcije Raz. programera</string>
+  <string name="adb_login_xiaomi_account">Prijavite se prvo s Mi Računom</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
@@ -1671,6 +1677,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
+  <string name="usb_adb_input_apply_step_1">Vaše računalo će biti u mogućnosti promjeniti postavke i odobriti dopuštenja bez vašeg znanja kada je vaš uređaj priključen putem USB-a</string>
+  <string name="usb_adb_input_apply_step_2">To može dovesti do curenja privatnih informacija, kao što su računi ili poruke</string>
+  <string name="usb_adb_input_apply_step_3">Pobrinite se da razumijete moguće rizike prije nego što dopustite. Dopustiti sada?</string>
   <string name="usb_install_desc">Instalirati ovu aplikaciju putem USB-a?</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>

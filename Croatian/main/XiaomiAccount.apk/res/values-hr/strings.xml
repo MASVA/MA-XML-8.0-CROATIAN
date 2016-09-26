@@ -224,7 +224,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_empty_email">Unesite vašu adresu E-pošte</string>
   <string name="passport_error_empty_phone_num">Unesite broj telefona</string>
   <string name="passport_error_empty_pwd">Unesite zaporku</string>
-  <string name="passport_error_empty_username">Unesite korisničko ime</string>
+  <string name="passport_error_empty_username">Unesite ID vašeg računa</string>
   <string name="passport_error_empty_vcode">Unesite kod za provjeru</string>
   <string name="passport_error_illegal_pwd">Nevažeća zaporka</string>
   <string name="passport_error_invalid_dev_id">"ID vašeg uređaja nije valjan."</string>
@@ -391,6 +391,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="turn_off_find_device_failed_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="turning_off_find_device">Isključivanje Pronađi uređaj…</string>
   <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
+  <string name="unlock_help_notice">"Pomoć:
+· Ako ste zaboravili svoju zaporku, idite na id.mi.com da je resetirate.
+· Ako ne možete otključati uređaj, idite na i.mi.com da isključite Pronađi uređaj
+· Recite ovaj broj otključavanja službi za korisnike: %s"</string>
   <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="update_contacts">Ažuriranje imenika</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>

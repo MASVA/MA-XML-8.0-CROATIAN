@@ -3,6 +3,7 @@
   <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvarite vrtuljak slika pozadine</string>
   <string name="click_to_enter_text">Dodirnite za pregled</string>
   <string name="confirm_pin_msg">Unesite PIN ponovno</string>
+  <string name="custom_lock_wallpaper_enter">Uđi</string>
   <string name="default_lockscreen_unlock_hint_text">Povucite gore za otključavanje</string>
   <string name="delete">Izbriši</string>
   <string name="emergency_call_string">SOS</string>

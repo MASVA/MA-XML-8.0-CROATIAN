@@ -507,7 +507,7 @@
   <string name="load_more">Učitaj više</string>
   <string name="loading_conversation">Učitavanje…</string>
   <string name="loading_conversations">Učitavanje…</string>
-  <string name="loading_from_remote">Pretraživanje…</string>
+  <string name="loading_from_remote">Učitavanje…</string>
   <string name="local_search">Lokalno pretraživanje</string>
   <string name="local_search_result">Rezultati u sinkr. porukama %s</string>
   <string name="login">Prijavite se</string>
@@ -925,14 +925,14 @@
   <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo.Veličina ne smije prelaziti %1$s."</string>
   <string name="too_large_to_attach_single">"Ne mogu priložiti datoteku veću od %1$s."</string>
   <string name="topic_merge">Spoji teme</string>
-  <string name="translation_loading">Učitavanje…</string>
+  <string name="translation_loading">Samo trenutak…</string>
   <string name="translation_no_result">Nema rezultata</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">Pretraživanje nije uspjelo</string>
-  <string name="translation_technology_support">Technical Support by PowerWord</string>
+  <string name="translation_query_failure">"Ne mogu pronaći rezultate"</string>
+  <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -979,5 +979,6 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="yes">Da</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Poslati dnevnik korištenjem mobilne podatkovne veze? Ako prekoračite preko vaše ograničenje podataka, vaš mobilni operater može vam naplatiti dodatne naknade.</string>
+  <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Nema datoteka.</string>
 </resources>

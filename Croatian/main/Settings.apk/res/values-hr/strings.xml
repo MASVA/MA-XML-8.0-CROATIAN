@@ -4175,6 +4175,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="usage_type_video">"Videozapis"</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN se izvodi</string>
+  <string name="usb_adb_input">USB uklanjanje pogrešaka (Sigurnosne postavke)</string>
+  <string name="usb_adb_input_desc">Dopusti davanje dopuštenja i simuliranja ulaza preko USB uklanjanje pogrešaka</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
   <string name="usb_charging_summary">Isključi sve ostale značajke USB povezivanja za ubrzanje punjenja.</string>
@@ -4187,6 +4189,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="usb_host_mode_subtext">Korištenje igraćih kontrolera i ostalih perifernih uređaja na USB priključku, može potrošiti više energije</string>
   <string name="usb_host_mode_text">Način USB domaćina</string>
   <string name="usb_insert_summary">Umetnite USB memoriju za uključivanje</string>
+  <string name="usb_install_app">Instaliraj putem USB-a</string>
+  <string name="usb_install_app_desc">Dopusti instalaciju aplikacija putem USB-a</string>
   <string name="usb_label_installer_cd">Instaliraj alate za prijenos datoteka</string>
   <string name="usb_media_format_button_text">Izbriši USB memoriju</string>
   <string name="usb_media_format_desc">Izbrisati USB memoriju? Izgubiti će te &lt;b&gt;all&lt;/b&gt; sve podatke s memorije!</string>
