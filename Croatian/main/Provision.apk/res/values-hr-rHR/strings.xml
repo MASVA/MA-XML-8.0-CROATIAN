@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Slažem se</string>
-  <string name="agree_terms">"Pročitao sam i slažem se s Uvjetima pružanja usluge i Pravila o Privatnosti"</string>
+  <string name="agree_terms">"Pročitao sam i slažem se s Uvjeti Pružanja Usluge i Pravila o Privatnosti"</string>
   <string name="app_name">Odredbe</string>
   <string name="back">Natrag</string>
   <string name="congratulation_label">"Spremni ste za MIUI!"</string>
@@ -20,7 +20,7 @@
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite tipkovnicu</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
-  <string name="locale_picker_title">Odaberite vaše mjesto</string>
+  <string name="locale_picker_title">Odaberite vašu regiju</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
@@ -46,7 +46,7 @@
   <string name="provision_inputmethod_policy_description">"
 Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="provision_inputmethod_policy_description1">Pravila o Privatnosti</string>
-  <string name="setting_locale">Postavljanje mjesta…</string>
+  <string name="setting_locale">Postavljanje regije…</string>
   <string name="shut_down">Isključivanje</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>

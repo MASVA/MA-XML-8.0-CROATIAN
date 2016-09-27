@@ -118,7 +118,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="loading">Učitavanje…</string>
   <string name="loading_hint">Učitavanje</string>
   <string name="master_alert_notif_content">"Ne mogu sinkronizirati"</string>
-  <string name="master_alert_notif_dspt_add">Za sinkr.: %s</string>
+  <string name="master_alert_notif_dspt_add">Stavki čeka na sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Uključi sinkr.sa Mi Cloudom</string>
   <string name="micloud_all_sub_1_intl_sms">"Međunarodni SMS biti će poslan za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
@@ -174,7 +174,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
-  <string name="micloud_detail_not_sync">Čeka na sinkr. %d</string>
+  <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
   <string name="micloud_detail_not_synced">Nije sinkr.</string>
   <string name="micloud_detail_ok">U redu</string>
@@ -187,9 +187,9 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_detail_syncing">Sinkroniziram</string>
   <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
-  <string name="micloud_detail_wlan">Čeka na sinkr. %d</string>
-  <string name="micloud_detail_wlan_contact">%d slika konatakata čeka na sinkr.</string>
-  <string name="micloud_detail_wlan_mms">%d MMS-a čeka na sinkr.</string>
+  <string name="micloud_detail_wlan">Stavki čeka na sinkr.: %d</string>
+  <string name="micloud_detail_wlan_contact">Slika kontakata čeka na sinkr.: %d</string>
+  <string name="micloud_detail_wlan_mms">MMS-a čeka na sinkr.: %d</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_find_device_finish">Gotovo</string>
@@ -248,7 +248,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_message_not_synced">%s podataka nije sinkr.</string>
   <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
   <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
-  <string name="micloud_main_not_sync">Stavki %d čeka na sinkr.</string>
+  <string name="micloud_main_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_main_query_error_message">"Ne mogu potvrditi da je sinkronizacija dovršena za neke usluge"</string>
   <string name="micloud_main_query_error_title">"Ne mogu dobiti informacije o tijeku sinkronizacije"</string>
   <string name="micloud_main_set_internet">Mreža</string>
@@ -439,7 +439,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="start_micloud">Start</string>
   <string name="storage">Prostor za pohranu</string>
   <string name="sub_alert_notif_content">Uključite sinkr. sa Mi Cloudom za pohranu vaših podataka</string>
-  <string name="sub_alert_notif_dspt_add">Stavaka čeka na sinkr.: %s</string>
+  <string name="sub_alert_notif_dspt_add">Stavki čeka na sinkr.: %s</string>
   <string name="sub_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="sub_alert_notif_title">Sinkr. s Mi Cloud</string>
   <string name="sub_sync_item_sms_summary">"Sinkroniziraj SMS koji sadrže fotografije, zvuk ili druge medije kada je povezano na WLAN mrežu"</string>

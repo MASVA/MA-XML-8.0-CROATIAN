@@ -95,7 +95,7 @@
   <string name="express_address_warning_no_phone">Broj tel. je potreban</string>
   <string name="express_addressee_info">Detalji naslovnika</string>
   <string name="express_addressee_name">Naziv naslovnika</string>
-  <string name="express_addressee_region">Mjesto naslovnika</string>
+  <string name="express_addressee_region">"Regija adrese"</string>
   <string name="express_banner_header">%1$s / Broj za praćenje</string>
   <string name="express_cancel_order">Odustani</string>
   <string name="express_company_list_empty">Nema kompanija</string>
@@ -194,7 +194,7 @@ Provjerite broj za praćenje."</string>
   <string name="express_send_notice">Zabranjeni predmeti</string>
   <string name="express_sender_info">Podaci o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
-  <string name="express_sender_region">Lokacija pošiljatelja</string>
+  <string name="express_sender_region">"Regija pošiljatelja"</string>
   <string name="express_shortcut_name">Upit ili ekspresno slanje</string>
   <string name="express_show_all_inquiry_history">Prikaži sve upite povijest</string>
   <string name="express_submit_order">Pošalji</string>

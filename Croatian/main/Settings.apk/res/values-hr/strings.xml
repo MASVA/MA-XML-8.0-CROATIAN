@@ -1844,7 +1844,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
   <string name="locale_default">Zadano</string>
-  <string name="locale_settings">Zemlja</string>
+  <string name="locale_settings">Regija</string>
   <string name="location_access_off">Isklj.</string>
   <string name="location_access_on">Uklj.</string>
   <string name="location_access_summary">Aplikacije mogu dobiti vaše podatke o lokaciji</string>
@@ -4146,7 +4146,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="unmount_inform_text">USB Memorija bit će isključena.</string>
   <string name="untitled_apn">Bez naslova</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
-  <string name="upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
+  <string name="upload_debug_log_summary">Podaci koje prikupljamo mogu sadržavati osobne podatke. Oni će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada se neće koristiti za vašu osobnu identifikaciju.</string>
   <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="usage_access">Pristup upotrebi</string>
   <string name="usage_access_description">Pristup upotrebi omogućuje aplikaciji praćenje drugih aplikacija koje upotrebljavate i učestalosti njihove upotrebe, kao i praćenje mobilnog operatera, postavki jezika i ostalih pojedinosti.</string>

@@ -110,7 +110,9 @@
   <string name="confirm_delete_the_download_item_message">Izbrisati ova preuzimanja?</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
-  <string name="cp_info_first">Uslugu Online streaming glazbe uglavnom pruža Ultimate Inc.</string>
+  <string name="cp_info_first">Uslugu Online streaming glazbe 
+  
+uglavnom pruža Ultimate Inc.</string>
   <string name="create_playlist">Izradi novi popis pjesama</string>
   <string name="create_order_fail">"Ne mogu napraviti narudžbu, pokušajte ponovo."</string>
   <string name="create_playlist_failure">"Ne mogu izraditi popis pjesama"</string>
@@ -660,7 +662,7 @@
   <string name="share_chooser_title">Dijeli putem</string>
   <string name="share_description">Od Mi Glazba</string>
   <string name="share_end_note">Od Mi Glazba</string>
-  <string name="share_image_error">Ne mogu podijeliti sliku zbog pogreške preuzimanja slike</string>
+  <string name="share_image_error">"Ne mogu podijeliti sliku zbog pogreške preuzimanja"</string>
   <string name="share_text_list">"Popis pjesama od Mi Glazba: "</string>
   <string name="share_text_song">"Pjesma u Mi Glazba: "</string>
   <string name="show_more">Prikaži još %s</string>

@@ -97,8 +97,8 @@
   <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikaciju</string>
-  <string name="delete_bank_card_message">Kako bi zaštitili svoju imovinu, izbrišite svoju bankovnu karticu kada se odjavite</string>
-  <string name="delete_bank_card_title">Izbrišite svoju bankovnu karticu</string>
+  <string name="delete_bank_card_message">Vaša bankovna kartica će biti izbrisana iz sigurnosnih razloga kada se odjavite</string>
+  <string name="delete_bank_card_title">Brisanje vaše bankovne kartice</string>
   <string name="delete_browser">Izbriši preglednik</string>
   <string name="delete_device">Izbriši uređaj</string>
   <string name="delete_device_btn">Ukloni</string>
@@ -396,7 +396,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
 · Ako ne možete otključati uređaj, idite na i.mi.com da isključite Pronađi uređaj
 · Recite ovaj broj otključavanja službi za korisnike: %s"</string>
   <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
-  <string name="update_contacts">Ažuriranje imenika</string>
+  <string name="update_contacts">Ažuriraj kontakte</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>	
   <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>

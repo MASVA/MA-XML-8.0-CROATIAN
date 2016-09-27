@@ -450,11 +450,11 @@
   <string name="priority_normal">Normalni</string>
   <string name="privacy_mode_hint">"Ne mogu slati poruke u Gost načinu rada"</string>
   <string name="privacy_password_message1">Zaporka zaštite privatnosti funkcionira i za aplikacije, fotografije, bilješke i skrivene mape.</string>
-  <string name="privacy_password_message2">Upotrijebi Zaporku zaštite privatnosti. Funkcionira za aplikacije, fotografije, bilješke i skrivene mape</string>
-  <string name="privacy_password_message3">"Zaporka privatnih poruka biti će zamijenjena s Zaporkom zaštite privatnosti koja funkcionira za aplikacije, fotografije, bilješke i skrivene mape."</string>
+  <string name="privacy_password_message2">Koristi Zaporku zaštite privatnosti. Funkcionira za aplikacije, fotografije, bilješke i skrivene mape</string>
+  <string name="privacy_password_message3">"Zaporka poruka biti će zamijenjena s Zaporkom zaštite privatnosti koja funkcionira za aplikacije, fotografije, bilješke i skrivene mape."</string>
   <string name="privacy_password_set_password">Postavi</string>
   <string name="privacy_password_title1">Postavi zaporku</string>
-  <string name="privacy_password_title2">Upotrijebi Zaporku zaštite privatnosti</string>
+  <string name="privacy_password_title2">Koristi Zaporku zaštite privatnosti</string>
   <string name="privacy_password_title3">Nadogradite vašu zaporku</string>
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="private_message">Privatna poruka</string>
