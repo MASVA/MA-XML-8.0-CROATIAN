@@ -32,7 +32,7 @@
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
-  <string name="common_loading_text">Učitavanje…</string>
+  <string name="common_loading_text">Samo trenutak…</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Nema vjetra</string>

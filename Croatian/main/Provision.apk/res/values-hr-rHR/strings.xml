@@ -34,8 +34,8 @@
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
   <string name="other_settings_mifg_online_content">Rotiranje pozadina</string>
-  <string name="other_settings_mifg_online_content_summary">Povežite se na internet da biste dobili nove pozadine Zaklj. zaslona redovito.</string>
-  <string name="other_settings_upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada se neće koristiti za vašu identifikaciju.</string>
+  <string name="other_settings_mifg_online_content_summary">Dobijte nove pozadine dostavljene na vaš Zaklj. zaslon redovito.</string>
+  <string name="other_settings_upload_debug_log_summary">Informacije koje prikupljamo će se koristiti za pronalaženje i analiziranje problema u sustavu, a mogu sadržavati osobne podatke. Podaci neće biti korišteni za vašu osobnu identifikaciju.</string>
   <string name="other_settings_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>

@@ -7,6 +7,10 @@
   <string name="activate_finddevice">Povežite se na mrežu da aktivirate uređaj</string>
   <string name="activate_number_change_dialog_message">Odaberite broj telefona koji će biti vidljiv drugim uređajima kada koristite poziv putem VoIP-a.</string>
   <string name="activating">Aktiviranje…</string>
+  <string name="add_cloud_storage">Dodaj prostor za pohranu</string>
+  <string name="add_short_cut">Dodaj</string>
+  <string name="added_successfully">Uspješno dodano</string>
+  <string name="all_sync_item_open">Sve stavke su uključene</string>
   <string name="alert_notif_title_dspt">Nije sinkronizirano</string>
   <string name="antispam_sync">Postavke "Ne ometaj me"</string>
   <string name="app_name">Mi Cloud</string>
@@ -47,6 +51,8 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
+  <string name="cloud_storage_full">Cloud pohrana</string>
+  <string name="cloud_storage_is_full">Puno</string>
   <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
   <string name="connect_network">Povežite se na WLAN ili umetnite SIM karticu</string>
@@ -55,11 +61,12 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
   <string name="detect_sim_card">Traži SIM karticu</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
-  <string name="disable_find_device_success">"Pronađi uređaj" je isključeno.</string>
+  <string name="disable_find_device_success">"Pronađi uređaj" je isključen.</string>
+  <string name="due_date_format">dd/MM/yyyy</string>
   <string name="enableAll">Sinkroniziraj sve</string>
   <string name="enable_cloud_service_notification">Morate aktivirati Mi Cloud</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
-  <string name="enable_find_device_success">"Pronađi uređaj" je uključeno.</string>
+  <string name="enable_find_device_success">"Pronađi uređaj" je uključen.</string>
   <string name="enable_micloud">Koristi Mi Cloud</string>
   <string name="enable_sync">Sinkr.</string>
   <string name="enable_sync_dspt">"Nemoj sinkr."</string>
@@ -95,6 +102,9 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_reading_status">Učitavanje statusa…</string>
   <string name="find_device_reading_status_failure">"Ne mogu učitati status."</string>
   <string name="find_device_send_sms_alert">"Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
+  <string name="find_device_service_summary">"Locirajte vaš uređaj i zaključajte ga na daljinu u slučaju da je izgubljen."</string>
+  <string name="find_device_service_summary_international">"Locirajte vaš uređaj i zaključajte ga na daljinu u slučaju da je izgubljen."</string>
+  <string name="find_device_service_title">Pronađi uređaj</string>
   <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
@@ -120,7 +130,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="master_alert_notif_content">"Ne mogu sinkronizirati"</string>
   <string name="master_alert_notif_dspt_add">Stavki čeka na sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
-  <string name="master_alert_notif_title">Uključi sinkr.sa Mi Cloudom</string>
+  <string name="master_alert_notif_title">Uključi sinkr. sa Mi Cloudom</string>
+  <string name="member_due_date">Vrijedi do %s</string>
   <string name="micloud_all_sub_1_intl_sms">"Međunarodni SMS biti će poslan za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
   <string name="micloud_all_sub_1_sms">"Redovita SMS poruka biti će poslana za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS poruke (redovita i međunarodna) bit će poslane za aktiviranje SIM kartice. Snositi ćete naknade vašeg mobilnog operatera."</string>
@@ -129,7 +140,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_all_sub_resend_sms">"Kada uključite "Pronađi uređaj", SMS aktivacije može biti poslan nakon što promjenite SIM kartice."</string>
   <string name="micloud_battery_low_notification_message">Priključite punjač da sinkr.</string>
   <string name="micloud_battery_low_notification_title">Slaba baterija</string>
-  <string name="micloud_buy_member">Račun</string>
+  <string name="micloud_buy_member">Kupite Mi Cloud članstvo</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
@@ -173,10 +184,10 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_download_syncing">Preuzimanje %s</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
-  <string name="micloud_detail_lastest">Sinkronizirano</string>
+  <string name="micloud_detail_lastest">micloud_detail_not_synced</string>
   <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
-  <string name="micloud_detail_not_synced">Nije sinkr.</string>
+  <string name="micloud_detail_not_synced">nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>
   <string name="micloud_detail_pending">Na čekanju</string>
   <string name="micloud_detail_preference_sync_items">Stavke</string>
@@ -253,12 +264,11 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_query_error_title">"Ne mogu dobiti informacije o tijeku sinkronizacije"</string>
   <string name="micloud_main_set_internet">Mreža</string>
   <string name="micloud_main_space_full">Cloud pohrana je puna</string>
-  <string name="micloud_main_space_full_title">Cloud pohrana je puna</string>
+  <string name="micloud_main_space_full_title">Nema dovoljno prostora za pohranu, sinkronizaciju pauzirana</string>
   <string name="micloud_main_space_low">Još ima malo prostora</string>
   <string name="micloud_main_stop_sync">Sinkr. zaustavljena</string>
   <string name="micloud_main_suggest_master_sync">"Ne mogu sve sinkronizirati"</string>
-  <string name="micloud_main_suggest_setting">"Čeka se WLAN veza za sinkronizaciju.
-Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
+  <string name="micloud_main_suggest_setting">"Promjenite postavke ili se povežite na WLAN"</string>
   <string name="micloud_main_suggest_sync">"Ne mogu sve sinkronizirati"</string>
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
@@ -346,6 +356,7 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_sync_alert_dialog_negative">Odustani</string>
   <string name="micloud_sync_alert_dialog_positive">U redu</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
+  <string name="micloud_sync_off">Sinkr. sa Mi Cloud je isključena</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
@@ -364,7 +375,7 @@ Dodirnite tipku Postavke sinkr. za prikaz više opcija"</string>
   <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
   <string name="micloud_web_discription_02">da pohranite i pristupite vašim datotekama s bilo kojeg mjesta</string>
   <string name="micloud_web_discription_international">Posjetite www.mi.com/micloud</string>
-  <string name="micloud_website">Pogledajte stavke u Mi Cloudu</string>
+  <string name="micloud_website">Stavke u Mi Cloudu</string>
   <string name="micloud_wipe_data_confirm_label">Ukloni podatke iz Mi Clouda</string>
   <string name="micloud_wipe_data_confirm_title">Ukloniti sinkronizirane stavke iz Mi Clouda i iz telefona nakon što se odjavite?</string>
   <string name="micloud_wipe_data_remove">Ukloni</string>
@@ -394,10 +405,18 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
   <string name="mx_voip_dspt">Mi Voice</string>
+  <string name="network_unconnected">Niste povezani na mrežu</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
+  <string name="one_sync_item_close">%d je isključen</string>
+  <string name="open_micloud_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="other_settings">Ostale postavke</string>
+  <string name="other_sync_item">Ostale sinkr. stavke</string>
+  <string name="passed_synced_time_day">Sinkr. prije %d d</string>
+  <string name="passed_synced_time_hour">Sinkr. prije %1$dh %2$dm</string>
+  <string name="passed_synced_time_min">Sinkr. prije %d min</string>
+  <string name="passed_synced_time_sec">Sinkr. prije %d sek</string>
   <string name="password">Unesite zaporku</string>
   <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtijevati vaš broj telefona. "</string>
   <string name="phone_number_required_dspt_provision">"Ova usluga zahtijeva vaš broj telefona. "</string>
@@ -408,6 +427,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="recommend_open_all_sync">Sinkr. sve stavke</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
   <string name="search_cloudbackup_pref">Cloud Sig. kopija</string>
@@ -426,6 +446,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_weibo_not_installed">Weibo nije instaliran.</string>
   <string name="share_weixin_not_installed">WeChat nije instaliran.</string>
+  <string name="short_cut_desc">Dodati ikonu Mi Clouda na Poč. zaslon?</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
   <string name="sina_share_fail_content_repeat">"Ne mogu podijeliti, sadržaj već postoji…"</string>
   <string name="sina_share_pendding">Šaljem…</string>
@@ -433,6 +454,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sina_token_expired_warning">Weibo račun je istekao: Povežite ponovo</string>
   <string name="sina_token_invalid_warning">Weibo račun nije valjan: Povežite ponovo</string>
   <string name="sms">SMS</string>
+  <string name="some_sync_item_close">%d su isključeni</string>
   <string name="soundrecorder_sync_only_in_wifi">Koristi samo WLAN za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>
@@ -466,6 +488,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_item_calllog_title">Sinkroniziraj povijest poziva</string>
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS poruke na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
+  <string name="sync_item_title">Sinkr. stavke</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
   <string name="sync_resend_sms_dspt_provision">  "Ako promijenite SIM kartice, vaš operater može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
@@ -499,6 +522,7 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="vcode">Provjera koda</string>
   <string name="verify">Potvrdi</string>
   <string name="view_storage_title">Prostor za pohranu</string>
+  <string name="virtual_sim_desc">Uključite Mi SIM da locirate uređaj bez SIM kartice</string>
   <string name="voip_choose_sim">Odaberite broj telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Provjeri ako je sinkronizirano</string>
   <string name="wipe_data_dialog_msg">"%s nije sinkronizirano i ostati će na vašem telefonu."</string>

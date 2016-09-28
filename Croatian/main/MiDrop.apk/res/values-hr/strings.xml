@@ -29,7 +29,7 @@
   <string name="notif_receive_progress">Primanje: %1$s…</string>
   <string name="notif_receive_success">Primljeno: %1$s</string>
   <string name="notif_send_cancel">Prijenos na %1$s prekinut</string>
-  <string name="notif_send_cancel_multi">Prijenos na %1$s+%2$ prekinut</string>
+  <string name="notif_send_cancel_multi">Prijenos na %1$s+%2$d je prekinut</string>
   <string name="notif_send_progress">Prijenos na %1$s…</string>
   <string name="notif_send_success">Pošalji %1$s</string>
   <string name="notif_send_success_multi">Pošalji %1$d osoba</string>
