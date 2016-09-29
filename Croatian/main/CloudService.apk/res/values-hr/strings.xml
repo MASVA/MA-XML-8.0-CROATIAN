@@ -43,7 +43,7 @@ Da dobijete više prostora za pohranu, posjetite mi.com/micloud."</string>
 Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Napravi Sig. kopiju kada je povezano na WLAN svakih %1$s</string>
   <string name="cloud_back_up_remove_success">Sig. kopija je izbrisana</string>
-  <string name="cloud_back_up_summary">Napravi Sig. kopiju ka je povezano na WLAN</string>
+  <string name="cloud_back_up_summary">Napravi Sig. kopiju kada je povezano na WLAN</string>
   <string name="cloud_back_up_title">Napravi Sig. kopiju uređaja</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
@@ -412,7 +412,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="one_sync_item_close">%d je isključen</string>
   <string name="open_micloud_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="other_settings">Ostale postavke</string>
-  <string name="other_sync_item">Ostale sinkr. stavke</string>
+  <string name="other_sync_item">Ostale stavke sinkr.</string>
   <string name="passed_synced_time_day">Sinkr. prije %d d</string>
   <string name="passed_synced_time_hour">Sinkr. prije %1$dh %2$dm</string>
   <string name="passed_synced_time_min">Sinkr. prije %d min</string>
@@ -421,7 +421,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtijevati vaš broj telefona. "</string>
   <string name="phone_number_required_dspt_provision">"Ova usluga zahtijeva vaš broj telefona. "</string>
   <string name="photo">Fotografije</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slike kontakata samo kada ste povezani na WLAN mrežu"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkronizacija slika kontakata samo kada ste povezani na WLAN mrežu"</string>
   <string name="pref_summary_sync_video_on_wifi_only">"Sinkronizacija videozapisa profila kontakata samo kada ste povezani na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>

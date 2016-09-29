@@ -80,7 +80,7 @@
   <string name="minutes">%s minuta</string>
   <string name="more_settings">Više postavki</string>
   <string name="never">Jednom</string>
-  <string name="oneshot_alarm">Izbriši nakon isklj. alarma</string>
+  <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Melodija zvona</string>
   <string name="reset">Resetiraj</string>
