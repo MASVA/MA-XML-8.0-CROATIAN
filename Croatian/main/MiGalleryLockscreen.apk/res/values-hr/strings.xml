@@ -43,7 +43,9 @@
   <string name="sst_grid_view_select_all">Odaberi sve</string>
   <string name="sst_grid_view_unselect_all">Poništi odabir</string>
   <string name="sst_no_favor_wallpaper_hint">Nema slika pozadina u Favoritima</string>
-  <string name="sst_prov_enable_desc">Uključi vrtuljak pozadine na zaklj. zaslonu. Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_desc">"Dodajte vaše slike pozadina u mapu 
+  
+Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
   <string name="sst_prov_enable_title">Uključi vrtuljak slika pozadine</string>
   <string name="sst_require_one_category_hint">Odaberite najmanje 1 kategoriju</string>
   <string name="sst_sti_desc">Postavite učestalost ažuriranja slika pozadine</string>
@@ -52,7 +54,7 @@
   <string name="sst_wifi_only_desc">Isključite ovu značajku da uštedite na mobilnim podacima</string>
   <string name="sst_wifi_only_title">Ažuriraj slike pozadine koristeći mobilne podatke</string>
   <string name="summary">"Korištenjem ove značajke, slažete se s našim Pravila o Privatnosti za početak. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>  
-  <string name="summary_international">"Korištenjem ove značajke, slažete se s našim Korisnički Sporazum i Pravila o Privatnost. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
+  <string name="summary_international">"Korištenjem ove značajke, slažete se s našim Korisnički Sporazum i Pravila o Privatnosti. Ova značajka zahtijeva povezivanje s internetom da radi normalno.​"</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovno kasnije"</string>
   <string name="theme_apply_success">Pozadina zaklj. zaslona postavljena</string>
   <string name="theme_applying">Postavljanje…</string>

@@ -27,7 +27,7 @@
   <string name="component_backup_preference_title">Izradi Sig.kopiju teme</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>
-  <string name="component_title_ringtone">Melodija zvona</string>
+  <string name="component_title_ringtone">Melodije</string>
   <string name="component_title_wallpaper">Slika pozadine</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zaklj. zaslon</string>
@@ -181,7 +181,7 @@
   <string name="resource_delta_update_total">%1$d delta ažuriranja spremljeno %2$s</string>
   <string name="resource_detail">Detalji</string>
   <string name="resource_detail_comment_title">Komentari</string>
-  <string name="resource_detail_description_pic_text">%1$d ikona ukupno total</string>
+  <string name="resource_detail_description_pic_text">%1$d ikona ukupno</string>
   <string name="resource_detail_header_theme_designer_title">Dizajner: %1$s</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Isti autor</string>

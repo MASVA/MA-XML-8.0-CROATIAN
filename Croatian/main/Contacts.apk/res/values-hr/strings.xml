@@ -101,7 +101,7 @@
   <string name="calllog_menu_send_sms">"Pošalji poruku"</string>
   <string name="callrecordview_item_newcontact">"Novi kontakt"</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
-  <string name="callrecordview_item_op_time_missed">Nije spojeno</string>
+  <string name="callrecordview_item_op_time_missed">Nije povezano</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
   <string name="callrecordview_item_op_time_rejected">"Odbijeno"</string>

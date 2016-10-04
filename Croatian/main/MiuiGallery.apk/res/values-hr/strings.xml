@@ -492,7 +492,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="operation_enable_auto_upload">Uključi sinkronizaciju s Mi Cloudom</string>
   <string name="operation_enter_delete_local">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
   <string name="operation_enter_delte_thumbnail">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
-  <string name="operation_failed">Radnja nije uspjela</string>
+  <string name="operation_failed">"Ne mogu dovršiti radnju"</string>
   <string name="operation_force_top">Zakači</string>
   <string name="operation_hide">Sakrij</string>
   <string name="operation_in_process">Obrada…</string>
@@ -617,7 +617,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="save">Spremi</string>
   <string name="save_photo">Spremiti uređenu fotografiju?</string>
   <string name="saving_failure">"Ne mogu spremiti sliku"</string>
-  <string name="scan_barcode_guide">"Za dobivanje QR koda albuma, dodirnite ikonu Dijeli."</string>
+  <string name="scan_barcode_guide">"Za dobivanje QR kod albuma, dodirnite ikonu Dijeli."</string>
   <string name="scan_barcode_to_join">Skeniraj QR kod za dodavanje albuma</string>
   <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
   <string name="secret_album_display_name">Skriveni album</string>
@@ -634,7 +634,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="secret_reason_too_large">Datoteka je prevelika</string>
   <string name="secret_reason_type_not_support">"Ova vrsta datoteke nije podržana"</string>
   <string name="secret_reason_unknow_reasons">Nepoznata pogreška</string>
-  <string name="select_item_face">"Na fotog. je %s"</string>
+  <string name="select_item_face">"Na fotog. je %s ?"</string>
   <string name="select_origin_tip">Izvorna datoteka (%s)</string>
   <string name="send_invitation_fail">"Ne mogu poslati pozivnicu"</string>
   <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
