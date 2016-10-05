@@ -138,7 +138,7 @@
   <string name="jeejen_reject_call_text">Odbij</string>
   <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
   <string name="keep_wait_call_back">Nastavi čekati</string>
-  <string name="livetalk_dial">Using Top-up package</string>
+  <string name="livetalk_dial">Korištenje paketa nadoplate</string>
   <string name="livetalk_hangup">Prekini poziv</string>
   <string name="livetalk_left_minute">%s min. preostalo</string>
   <string name="manageConferenceLabel">Upravljaj konferencijskim pozivom</string>
@@ -152,7 +152,6 @@
   <string name="modify_call_option_vt_tx">Prijenos video</string>
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Trenutna je mreža nestabilna. Promjena na redoviti poziv koji može biti naplaćen od strane operatera.</string>
   <string name="network_error_title">Nestabilna mreža</string>
   <string name="no_balance_message">Nemate dovoljno sredstava u vašem paketu. Još uvijek možete uputiti redoviti poziv koji će biti naplaćen od strane operatera.</string>

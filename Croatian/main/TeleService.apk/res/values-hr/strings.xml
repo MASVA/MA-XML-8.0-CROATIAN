@@ -309,7 +309,7 @@
   <string name="default_areacode">Zadani pozivni broj</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Zadani zvuk (%1$s)</string>
-  <string name="default_preference_summary">&lt;Nije postavljeno&gt;</string>
+  <string name="default_preference_summary">Nije postavljeno</string>
   <string name="default_sim_setting">Zadane SIM postavke kao:</string>
   <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbriši sve kontakte sa SIM kartice</string>
@@ -789,7 +789,6 @@ to start using Top-up package"</string>
   <string name="msim_not_set_summary">Nije postavljeno</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Biranje</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Pogreška ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Ne mogu podesiti tijekom poziva"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
@@ -932,17 +931,15 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="operator_mins_first">"Dati prioritet planu operatera"</string>
   <string name="operator_mins_first_close">Isključi</string>
   <string name="operator_remain_mins">Paket minuta Operatora</string>
-  <string name="operator_remain_mins_value">%1$s minutes</string>
+  <string name="operator_remain_mins_value">%1$s minuta</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
-  <string name="optional_summary">&lt;Izborno&gt;</string>
+  <string name="optional_summary">Izborno</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Često korišteno</string>
   <string name="order_id">ID narudžbe:%1$s</string>
-  <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Status narudžbe: nije uspjelo</string>
   <string name="order_status_successful">Status narudžbe: završeno</string>
   <string name="order_time">%1$s min</string>
-  <string name="order_unit_price">¥ %1$s/min</string>
   <string name="ota_activate">Aktiviraj</string>
   <string name="ota_call_end">Natrag</string>
   <string name="ota_failure">Programiranje telefona nije uspjelo</string>

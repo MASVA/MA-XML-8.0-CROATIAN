@@ -7,7 +7,6 @@
   <string name="alarm_config_24h">Alarm u 18:00</string>
   <string name="alarm_label">Tekst alarma (opcija)</string>
   <string name="alarm_time">Vrijeme alarma</string>
-  <string name="alarm_value">Alarm %s%%</string>
   <string name="app">Pokreni aplikaciju</string>
   <string name="app_center">Centar aplikacija</string>
   <string name="app_name">NFC</string>
@@ -102,7 +101,6 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="input_password_gain">Unesite ponovo zaporku</string>
   <string name="input_password_warning">"Zaporka će biti zapisana na oznaku"</string>
   <string name="local_app">Preuzeto</string>
-  <string name="media_value">Mediji %s%%</string>
   <string name="meeting_mode">Način susreta</string>
   <string name="miui_ringer_mode">Način zvonjave</string>
   <string name="mode">Način</string>
@@ -115,7 +113,6 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="no_available_networks_summary">Pokušajte ponovo nakon spajanja na WLAN mrežu.</string>
   <string name="no_available_xiaomi_shop">"Ne mogu otvoriti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
-  <string name="notification_value">Obavijesti %s%%</string>
   <string name="null_task">Nema zadataka</string>
   <string name="off">Isključeno</string>
   <string name="on">Uključeno</string>
@@ -143,7 +140,6 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="ringer_mode">Način zvonjava</string>
   <string name="ringer_normal">Zvonjava</string>
   <string name="ringer_silent">Bešumno</string>
-  <string name="ringer_value">Zvono %s%%</string>
   <string name="running">je pokrenut</string>
   <string name="save_alert">Spremiti ovaj zadatak?</string>
   <string name="save_btn">Spremi</string>
@@ -197,7 +193,6 @@ dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="vibrate_mode">Vibracija</string>
   <string name="vibrate_off">Vibracija isključena</string>
   <string name="vibrate_on">Vibracija uključena</string>
-  <string name="voice_call_value">Glasnoća poziva %s%%</string>
   <string name="volume">Zvuk</string>
   <string name="web_label">Web natpis (opcija)</string>
   <string name="web_url">URL</string>

@@ -314,7 +314,6 @@ Adresa: %2$s"</string>
   <string name="edit">Uredi</string>
   <string name="edit_app">Upravljanje aplikacijama</string>
   <string name="email_alert">E-pošta</string>
-  <string name="empty_value">--</string>
   <string name="enable_app_alert">Uključi obavijesti aplikacija</string>
   <string name="enable_broadcast">Uključi način rada otkrivanja</string>
   <string name="enable_id_broadcast_comments">Uključite da bude vidljiv uređajima u blizini i da se može povezati s njima</string>

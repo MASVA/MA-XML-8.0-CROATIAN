@@ -23,11 +23,6 @@
   <string name="label_pages">Stranice</string>
   <string name="label_paper_size">Veličina papira</string>
   <string name="label_paper_size_summary">Veličina papira:</string>
-  <string name="mediasize_default">ISO_A4</string>
-  <string name="mediasize_standard_china">3</string>
-  <string name="mediasize_standard_iso">0</string>
-  <string name="mediasize_standard_japan">2</string>
-  <string name="mediasize_standard_north_america">1</string>
   <string name="more_options_button">Više opcija</string>
   <string name="no_connection_to_printer">Nema veze s pisačem</string>
   <string name="page_description_template">Stranica %1$d od %2$d</string>

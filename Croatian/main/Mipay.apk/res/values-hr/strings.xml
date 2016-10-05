@@ -96,7 +96,6 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="mipay_login_password_error">Provjerite svoju zaporku za Xiaomi račun</string>
   <string name="mipay_nfc_balance_limit_title">E-Cash Stanje Limita</string>
   <string name="mipay_nfc_bank_card_details_title">Bank. kartica</string>
-  <string name="mipay_nfc_bank_card_name_default">A Bank</string>
   <string name="mipay_nfc_card_balance_title">Stanje</string>
   <string name="mipay_nfc_card_title">NFC Čitač kartica</string>
   <string name="mipay_nfc_card_valid_date">"Vrijedi do "</string>
@@ -132,7 +131,6 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="mipay_order_change">Zamijeni</string>
   <string name="mipay_order_choose">Koristi:</string>
   <string name="mipay_order_denom">Cijena:</string>
-  <string name="mipay_order_denom_value">￥%1$s</string>
   <string name="mipay_order_id">Narudžba:</string>
   <string name="mipay_order_title">Proizvod:</string>
   <string name="mipay_pass_err_find">Pronađi zaporku</string>

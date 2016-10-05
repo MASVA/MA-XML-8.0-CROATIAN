@@ -313,7 +313,6 @@ Pokušajte ponovno za %d sekundi."</string>
      <string name="wifi_display_wfd_off_hdmi_on">Bežični zaslon će se isključiti kada uključite HDMI. Želite li nastaviti?</string>
      <string name="wifi_display_wifi_ap_affects_quality">Current WLAN AP may affect the quality of Wireless display.</string>
      <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna WLAN izravna veza će se prekinuti kada se spojite s uređajem za bežični prikaz. Želite li nastaviti?</string>
-     <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
      <string name="wifi_wps_failed_overlap">Otkrivena je druga WPS sesija. Pokušajte ponovno za nekoliko minuta.</string>
      <string name="wikiPediaName">wikipedia</string>
 </resources>

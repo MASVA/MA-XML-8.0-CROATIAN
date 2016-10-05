@@ -1075,7 +1075,6 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_assist_title">Aplikacija-pomoćnik</string>
   <string name="default_browser_title">Aplikacija preglednika</string>
   <string name="default_browser_title_none">Nema zadanog preglednika</string>
-  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_emergency_app">Aplikacija za hitne slučajeve</string>
   <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
@@ -1607,7 +1606,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -1675,12 +1673,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">"Automatski"</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Postavke</string>
   <string name="input_method_settings_button">Postavke</string>
   <string name="input_methods_and_subtype_enabler_title">Odabir aktivnih načina unosa</string>
@@ -4459,7 +4453,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za uklanjanje pogrešaka prije pokretanja</string>
   <string name="wakeup_for_keyguard_notification_title">Uključi zaslon kod obavijesti</string>
   <string name="wallpaper_attributions">Slike pozadine</string>
-  <string name="wallpaper_attributions_values">"Davatelji satelitskih slika:©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Početni zaslon</string>
   <string name="wallpaper_live">Animirana pozadina</string>
   <string name="wallpaper_lockscreen">Pozadina Zaklj.zaslona</string>
@@ -4807,7 +4800,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni hotspot</string>
   <string name="wifi_tether_enabled_subtext">Aktivan je prijenosni hotspot %1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>

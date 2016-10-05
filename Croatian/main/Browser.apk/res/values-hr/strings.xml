@@ -143,7 +143,7 @@
   <string name="cloud_sync_failed_toast">"Ne mogu ažurirati"</string>
   <string name="cloud_tab">Kartica Cloud</string>
   <string name="cloud_time_tips">Zadnja sinkronizacija</string>
-  <string name="cloud_up_to_loading_tips">Pustite za sinkr.</string>
+  <string name="cloud_up_to_loading_tips">Otpustite za sinkr.</string>
   <string name="color_picker_button_black">Crna</string>
   <string name="color_picker_button_blue">Plava</string>
   <string name="color_picker_button_cancel">Odustani</string>
@@ -158,7 +158,6 @@
   <string name="color_picker_dialog_title">Odaberite boju</string>
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Zasićenje</string>
-  <string name="color_picker_value">Vrijednost</string>
   <string name="comment_app_menu">Komentar</string>
   <string name="comment_menu">Komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
@@ -351,7 +350,6 @@ Napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_positive_button">Napusti</string>
   <string name="js_dialog_before_unload_title">Potvrdi</string>
   <string name="js_dialog_title">Stranica na \" %s \" navodi:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Onemogućavanje JavaScript može uzrokovati neispravan prikaz nekih stranica</string>
   <string name="js_disable_confirm_title">Onemogućiti JavaScript?</string>
   <string name="keep_queued_download">Sačuvaj</string>

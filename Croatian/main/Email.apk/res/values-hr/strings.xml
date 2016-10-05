@@ -308,9 +308,6 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danas u %1$s</string>
   <string name="default_">ZADANO</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">ZADANE POSTAVKE</string>
   <string name="default_signature">Poslano s mog Mi Telefona</string>
   <string name="del_account_questionnair_hint">"Možete li nam reći zašto brišete ovaj račun?"</string>
@@ -866,7 +863,6 @@
   <string name="ser_resp_err_map_serclosed">Poslužitelj %s je zatvoren</string>
   <string name="ser_resp_err_map_ssl">"Odaberite 'SSL/TLS (Prihvati sve certifikate)' u 'Vrsta sigurnosti'"</string>
   <string name="set_network">Postavljanje mreže</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">E-pošta</string>
   <string name="share_choose">Odaberite datoteku za dijeljenje</string>
   <string name="sharing">Podijeli</string>
