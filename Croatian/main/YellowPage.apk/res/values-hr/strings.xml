@@ -302,7 +302,6 @@ Provjerite broj za praćenje."</string>
   <string name="more_express_numbers">Više ekspresnih brojeva</string>
   <string name="navigation_search_all_cities">Svi gradovi</string>
   <string name="navigation_search_automatically_positioned_city">Trenutan grad</string>
-  <string name="navigation_search_default_hint">Unesite riječi koje želite pretražiti (npr. MIUI Adria)</string>
   <string name="navigation_search_hot_cities">Popularno</string>
   <string name="navigation_search_no_city_list">"Ništa nije pronađeno"</string>
   <string name="navigation_search_positioning">Lociranje…</string>
@@ -359,7 +358,6 @@ Provjerite broj za praćenje."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Cijena:</string>
   <string name="recharge_charge_range">Cijena: ¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Cijena: ¥%s</string>
   <string name="recharge_follow_name">Nadoplata</string>
   <string name="recharge_history">Povijest nadoplate</string>
   <string name="recharge_history_empty">Nema povijesti</string>
@@ -402,7 +400,6 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_account_login_before_action">Prijavite se u vaš Mi Račun</string>
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Promijeni</string>
-  <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Izvor preglednika</string>
   <string name="resource_apply">Primjeni</string>
   <string name="resource_apply_trial">Pokušajte sada</string>
@@ -423,7 +420,6 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Dodaj komentar</string>
   <string name="resource_comment_edit_comment_waiting">Provjeravanje povijesti korisnika…</string>
-  <string name="resource_comment_edit_text_default">Napiši komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Vidi komentare</string>
   <string name="resource_comment_expand_full_text">Proširi tekst▼</string>
@@ -431,7 +427,6 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_comment_good_comments">Pozitivni komentari</string>
   <string name="resource_comment_invalid">Dodirni zvijezdu da ocijeniš</string>
   <string name="resource_comment_loading_list">Učitavanje…</string>
-  <string name="resource_comment_name_default">Korisnik %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Nema komentara</string>
   <string name="resource_comment_publish">Pošalji</string>
@@ -446,9 +441,7 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_comment_upload_not_bought">Morate podesiti temu prije pisanja komentara.</string>
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Komentar će se objavit nakon što bude pregledan</string>
-  <string name="resource_default">Zadana melodija zvona</string>
-  <string name="resource_default_name">Resursi</string>
-  <string name="resource_delete">Izbrisati</string>
+  <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrisati %1$d odabrane elemente?</string>
   <string name="resource_delete_confirm">Izbrisati odabrane elemente?</string>
   <string name="resource_delta_update_failed">Ažuriranje nije uspjelo:Preuzimam temu ponovo…</string>
@@ -501,7 +494,6 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_mute">Ništa</string>
   <string name="resource_my">Lokalno</string>
   <string name="resource_no_result">"Ništa nije pronađeno"</string>
-  <string name="resource_notification_default">Obavijesti</string>
   <string name="resource_on_trial">Isprobavam: %1$s</string>
   <string name="resource_online">Mrežno %1$s</string>
   <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
@@ -518,7 +510,6 @@ Ukupan iznos: RMB %3$s"</string>
   <string name="resource_ranking">Popularno</string>
   <string name="resource_ranking_free">Besplatno</string>
   <string name="resource_ranking_purchase">Uz plaćanje</string>
-  <string name="resource_ringtone_default">Melodija zvona</string>
   <string name="resource_ringtone_playing_error">Pogreška plaćanjar</string>
   <string name="resource_ringtone_volume_mute">Vaša melodija zvona je utišana</string>
   <string name="resource_save_to_note">Spremi u Bilješke</string>

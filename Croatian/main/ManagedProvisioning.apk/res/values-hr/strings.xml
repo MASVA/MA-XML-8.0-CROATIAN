@@ -11,8 +11,6 @@
   <string name="continue_provisioning_notify_text">Dodirnite da biste nastavili postavljati radni profil</string>
   <string name="continue_provisioning_notify_title">Enkripcija je dovršena</string>
   <string name="copying_certs">Postavljanje CA certifikata</string>
-  <string name="default_managed_profile_name">Radni profil</string>
-  <string name="default_owned_device_username">Korisnik radnog uređaja</string>
   <string name="delete_profile">IZBRIŠI</string>
   <string name="delete_profile_title">Ukloniti radni profil?</string>
   <string name="device_owner_cancel_cancel">ODUSTANI</string>

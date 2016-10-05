@@ -159,10 +159,8 @@
   <string name="downloaded">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_wallpaper">Preuzimanje slika pozadine</string>
-  <string name="drop_down_list_footer_default_text">Više</string>
   <string name="drop_down_list_footer_loading_text">Samo trenutak…</string>
   <string name="drop_down_list_footer_no_more_text">Nema više</string>
-  <string name="drop_down_list_header_default_text">Kliknite za osvježiti</string>
   <string name="drop_down_list_header_loading_text">Učitavanje…</string>
   <string name="drop_down_list_header_pull_text">Povucite dolje za osvježiti</string>
   <string name="drop_down_list_header_release_text">Otpustite za osvježiti</string>

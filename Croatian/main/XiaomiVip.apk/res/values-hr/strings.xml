@@ -51,7 +51,6 @@
   <string name="invalid_json">Nešto nije u redu</string>
   <string name="level">Razina</string>
   <string name="level_detail">Ograničenje dnevnog izazova: %d</string>
-  <string name="level_exp_value" formatted="false">Bodova: %d/%d</string>
   <string name="level_info_format" formatted="false">"Razina %d %d/%d
 %s"</string>
   <string name="limit_task">Ograničeni izazovi</string>

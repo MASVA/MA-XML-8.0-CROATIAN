@@ -800,7 +800,6 @@ raspon mjerenja (%s)"</string>
   <string name="please_set_sport_goal">Postavite cilj aktivnosti</string>
   <string name="please_stand_weight">Stanite na vagu</string>
   <string name="pm">PM</string>
-  <string name="pre_hr_value">Prethodni rezultat</string>
   <string name="pre_measure">Prethodni rezultat</string>
   <string name="prev_step">Dalje</string>
   <string name="pull_label_sync_data">Povuci dolje za sinkr.</string>
@@ -1171,7 +1170,6 @@ Prethodni rekord: %5$s koraka (%4$s)"</string>
   <string name="share_uninstall_client">"Ova aplikacija nije instalirana."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weight_bmi">BMI</string>
-  <string name="share_weight_current_value">Trenutna težina</string>
   <string name="share_weight_figure">Tip tijela</string>
   <string name="share_weight_hidden_tip">Dodirnite da sakrijete</string>
   <string name="share_weight_last_title">U odnosu na prošlo vaganje</string>

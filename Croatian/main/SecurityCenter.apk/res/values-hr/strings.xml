@@ -1393,9 +1393,6 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_brand_error_notification_title">Pogrešna vrsta mreže</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna marka operatera&lt;br/&gt;&lt;br/&gt;Postavite marku: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna marka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Gotovo</string>
-  <string name="tc_diagnostic_fragment_default">"O dijagnostici
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Dodirnite za podešavanje lokacije</string>
   <string name="tc_diagnostic_location_error_notification_title">Pogrečna lokacija</string>
   <string name="tc_diagnostic_notification_sumarry">Dodirnite za prikaz rezultata</string>

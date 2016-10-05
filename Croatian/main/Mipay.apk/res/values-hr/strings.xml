@@ -116,8 +116,7 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="mipay_nfc_per_limit_title">Per-Trade Limit</string>
   <string name="mipay_nfc_record_empty">Nema zapisa</string>
   <string name="mipay_nfc_record_title">Zapisi</string>
-  <string name="mipay_nfc_shop_name_default">Bez imena</string>
-  <string name="mipay_nfc_support_list_tip">&lt;u&gt;Podržane kartice&lt;/u&gt;</string>
+  <string name="mipay_nfc_support_list_tip">Podržane kartice</string>
   <string name="mipay_nfc_support_tip">Koristite svoj Mi uređaj bilo gdje je NFC podržan, od bankomata do javnog prijevoza.</string>
   <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
   <string name="mipay_nfc_trade_times_title">Aktivnosti plaćanja</string>

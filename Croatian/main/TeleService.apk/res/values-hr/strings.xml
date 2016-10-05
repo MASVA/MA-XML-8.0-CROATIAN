@@ -931,7 +931,6 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="operator_mins_first">"Dati prioritet planu operatera"</string>
   <string name="operator_mins_first_close">Isključi</string>
   <string name="operator_remain_mins">Paket minuta Operatora</string>
-  <string name="operator_remain_mins_value">%1$s minuta</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
   <string name="optional_summary">Izborno</string>
   <string name="order_by_name">Abecedno</string>

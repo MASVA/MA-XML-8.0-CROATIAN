@@ -238,7 +238,6 @@
   <string name="not_buy_vip">Ne VIP</string>
   <string name="not_exist_openid">Dobivanje informacija o računu, molimo pričekajte…</string>
   <string name="not_login">Prijavite se</string>
-  <string name="notification_default_title">Izvanmrežni videozapis</string>
   <string name="notification_sub_title">Završeno ukupno %d zadataka preuzimanja</string>
   <string name="notification_ticker_text">Završeno preuzimanje Izvanmrežnog videozapisa</string>
   <string name="notification_title">\"%1$s\" preuzimanja završeno</string>

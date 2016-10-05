@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="call_barring_incoming_display_values">
-        <item>Isključeno</item>
-        <item>Roaming</item>
-        <item>Sve</item>
-     </string-array>
-     <string-array name="call_barring_outgoing_display_values">
-        <item>Isključeno</item>
-        <item>Međunarodni roaming poziv</item>
-        <item>Međunarodni poziv</item>
-        <item>Odlazni poziv</item>
-     </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA i EvDo</item>
@@ -56,11 +45,6 @@
     <string-array name="cdma_system_select_choices">
         <item>Samo matično</item>
         <item>Automatski</item>
-    </string-array>
-	<string-array name="clir_display_values">
-        <item>Zadana postavka mreže</item>
-        <item>Sakrij broj</item>
-        <item>Prikaži broj</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Normalno</item>

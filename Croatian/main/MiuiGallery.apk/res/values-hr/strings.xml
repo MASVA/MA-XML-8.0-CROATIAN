@@ -654,7 +654,6 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="share">Podijeli</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne mogu isključiti Sig. kopiju za dijeljene albume"</string>
-  <string name="share_app_is_launching">Pokretanje aplikacije…</string>
   <string name="share_by_email_start">Podijeli %1$s u pozadini</string>
   <string name="share_by_email_successfully">Podijeljeno %1$s</string>
   <string name="share_public_url_text">Podijelio sam %1$s album s tobom. Pregledaj ga na %2$s</string>

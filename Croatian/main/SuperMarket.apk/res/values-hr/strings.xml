@@ -4,7 +4,6 @@
   <string name="abs__action_bar_up_description">Gore</string>
   <string name="abs__action_menu_overflow_description">Više opcija</string>
   <string name="abs__action_mode_done">Gotovo</string>
-  <string name="abs__activity_chooser_view_dialog_title_default">Odaberi aktivnost</string>
   <string name="abs__activity_chooser_view_see_all">Pogledaj sve</string>
   <string name="abs__activitychooserview_choose_application">Odaberi aplikaciju</string>
   <string name="abs__share_action_provider_share_with">Podijeli s…</string>
@@ -50,7 +49,6 @@
   <string name="comment_cannot_comment">"Možete samo komentirati nakon što ste koristili aplikaciju"</string>
   <string name="comment_description">%1$s komentar na %2$s:%3$s:%4$s</string>
   <string name="comment_invalid">Molimo dodirnite zvijezdu da date ocjenu</string>
-  <string name="comment_name_default">Korisnik %1$s</string>
   <string name="comment_publish">Pošalji</string>
   <string name="comment_score_count">%1$s korisnika</string>
   <string name="comment_sending">Slanje komentara…</string>
@@ -117,7 +115,6 @@
   <string name="downloading_list">Preuzimanje</string>
   <string name="edit_comment">Dodaj komentare</string>
   <string name="edit_comment_title">Uređivanje komentara: %1$s</string>
-  <string name="edit_text_default">Napiši komentar</string>
   <string name="enable_updata_local_app">Ažuriranja dostupna %1$s</string>
   <string name="error_device_id">"Ne mogu dobiti IMEI"</string>
   <string name="error_dup_email">E-mail adresa je već u uporabi</string>
@@ -135,16 +132,16 @@
   <string name="favorite_account_need_activitied">Vaš račun još nije aktiviran, aktivirati ga sada?</string>
   <string name="favorite_account_need_login">Prijaviti se sada i označiti ovu aplikaciju?</string>
   <string name="favorite_cancel_acount_need_login">Prijaviti se sada i odznačiti ovu aplikaciju??</string>
-  <string name="favorite_cancel_no_network">"Ne mogu se spojiti na mrežu."</string>
+  <string name="favorite_cancel_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="favorite_delete_fail">Nije uspjelo odznačavanje aplikacije</string>
   <string name="favorite_delete_success">Aplikacija odznačena</string>
   <string name="favorite_fail">"Ne mogu označiti aplikaciju"</string>
   <string name="favorite_fail_other_market">"Nije moguće označavanje aplikacija s drugih marketa"</string>
   <string name="favorite_login_hint">Prijavite se na svoj račun Mi Račun za upravljanje vaših omiljenih aplikacija</string>
-  <string name="favorite_no_network">"Ne mogu se spojiti na mrežu."</string>
+  <string name="favorite_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="favorite_success">Aplikacija označena</string>
   <string name="file_not_exist">Datoteka ne postoji</string>
-  <string name="file_not_exists">Preuzeta datoteka je oštećena ili ne postoji. Preuzmite je ponovo.</string>
+  <string name="file_not_exists">Preuzeta datoteka je oštećena ili ne postoji. Preuzmite je ponovno.</string>
   <string name="first_recommend_download">Instaliraj sve</string>
   <string name="first_recommend_enter">Pokreni Market aplikaciju</string>
   <string name="forget_password">Zaboravljena zaporka</string>
@@ -253,7 +250,7 @@ slijedite povenicu u aktivacijskoj poruci"</string>
   <string name="no_favorites">"Niste označili nijednu aplikaciju"</string>
   <string name="no_fitness">"Ne mogu pronaći ništa"</string>
   <string name="no_local_apps">Nema instaliranih aplikacija</string>
-  <string name="no_network">"Ne mogu se spojiti na mrežu. Provjerite podešenja i pokušajte ponovno."</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu. Provjerite podešenja i pokušajte ponovno."</string>
   <string name="no_search">Aplikacija se ne može pronaći</string>
   <string name="no_update">Sve vaše aplikacije su u toku</string>
   <string name="no_update_records">Nema povijesti ažuriranja</string>
@@ -264,7 +261,6 @@ slijedite povenicu u aktivacijskoj poruci"</string>
   <string name="notif_description_from_market">sa Marketa</string>
   <string name="notif_install_failed">Neuspjelo Instaliranje %1$s</string>
   <string name="notif_install_successful">Instalirano</string>
-  <string name="notif_install_successful_default">Instalirano</string>
   <string name="notif_installing">Instaliranje “%1$s”…</string>
   <string name="notif_summary_auto_update_failed">Auto. ažuriranje neuspjelo</string>
   <string name="notif_title_update">%1$s ažuriranja</string>
