@@ -8,8 +8,9 @@
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
   <string name="activate_feature_default_name">Mi Usluga</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
+  <string name="activate_feature_live_talk">Paket nadoplate</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
-  <string name="activate_feature_mx">Mi Poruke</string>
+  <string name="activate_feature_mx">Mi Poruka</string>
   <string name="activate_feature_mx_and_voip">Mi Poruka i Glas</string>
   <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
   <string name="activate_feature_remote_assist">Pomoćnik na dajinu</string>
@@ -46,7 +47,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_failed_receive_sms">Provjerite je li broj telefona koji ste unijeli ispravan i da je vaša SIM kartica aktivirana.</string>
   <string name="activate_popup_desc_failed_send_sms">"Ne mogu poslati SMS aktivacije. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_server">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
-  <string name="activate_popup_desc_find_device_postfix">SMS aktivacije će biti poslan nakon promjenite SIM kartice.</string>
+  <string name="activate_popup_desc_find_device_postfix">SMS aktivacije će biti poslan nakon što promjenite SIM kartice.</string>
   <string name="activate_popup_desc_intl_sim_card">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za aktiviranje %s.</string>
   <string name="activate_popup_desc_mixed_sim_cards">Vaš operater može vam naplatiti 1 domaću i 1 međunarodnu SMS poruku korištenu za aktiviranje %s.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Moguće dodatne naknade od strane vašeg davatelja usluga."</string>
@@ -101,15 +102,9 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_wait_for_sms_success">Primljen SMS aktivacije s poslužitelja</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice…</string>
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
-  <string name="app_name">Xiaomi service framework</string>
-  <string name="error_device_id_message">"Neispravan ID Uređaja: %s
-ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Mi Računi i Mi Cloud značajke neće biti dostupne."</string>
-  <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
-  <string name="explain_send_sms_permission_button">Potvrdi</string>
+  <string name="app_name">Aktivacija SIM kartice</string>
+  <string name="explain_send_sms_permission_button">Provjeri</string>
   <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Moguće redovne naknade od strane vašeg davatelja usluga.</string>
   <string name="explain_send_sms_permission_title">Potvrdite vaš broj telefona</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica nije aktivirana"</string>
-  <string name="sync_notification_title_format">Sink.: %1$s</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmsf_activate_info">XMSF detalji aktivacije</string>
 </resources>

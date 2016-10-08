@@ -806,6 +806,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="optimize_result_button_operators_diagnose">Dijagnostika operatera</string>
   <string name="optimize_result_button_purchase">Kupi</string>
   <string name="optimize_result_button_purchase_flow">Prikaži sve</string>
+  <string name="optimize_result_button_realname_now">Provjeri</string>
   <string name="optimize_result_button_see_detaills">Detalji</string>
   <string name="optimize_result_button_to_open">Uključi</string>
   <string name="optimize_result_button_to_set">Postavi</string>
@@ -1313,6 +1314,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_back_title_text_zero">Osiguraj</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
+  <string name="sp_network_privacy_dialog_message">"Aplikacija Sigurnost ne može provjeriti plaćanja jer ste joj ograničili povezivanje s internetom. Dopustiti aplikaciji Sigurnost povezivanje s internetom?"</string>
+  <string name="sp_network_privacy_dialog_title">"Ne mogu provjeriti plaćanjas"</string>
   <string name="sp_safe_score_text">Plaćanje je sigurno</string>
   <string name="sp_scan_item_monitor">Nadziranje plaćanja</string>
   <string name="sp_scan_item_url_antispam">Zaštita od zlonamjernih poveznica</string>
@@ -1364,6 +1367,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_permission">Izbjegnite neželjena plaćanja i zaštitite osobne podatke</string>
   <string name="summary_permission_root">Izgleda da ovaj uređaj ima ROOT pristup. To može oštetiti sigurnost vašeg uređaja.</string>
   <string name="summary_power_optimizer">"Smanjite performanse vašeg uređaja kada je baterija slaba"</string>
+  <string name="summary_realname_verify">Potvrdite svoj identitet kako bi vaša plaćanja bila što sigurnija.</string>
   <string name="summary_saving_switch">Ograničite aplikacije od korištenja vaše mobilne podatkovne veze za prijenos podataka.</string>
   <string name="summary_show_notification">"Izbriši predmemoriju, prikaži status baterije i blokirane stavke u panelu obavijesti."</string>
   <string name="summary_telecom_operator">Nabavite statistiku vaše mjesečne uporabe podataka od vašeg operatera.</string>
@@ -1506,6 +1510,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_permission_root">ROOT pristupa</string>
   <string name="title_permission_yes">Upravitelj dopuštenja uključen</string>
   <string name="title_power_optimizer">Štednja baterije</string>
+  <string name="title_realname_verify">ID provjera</string>
   <string name="title_saving_switch">Ušteda podataka</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
   <string name="title_telecom_operator">Automatski podesi</string>
