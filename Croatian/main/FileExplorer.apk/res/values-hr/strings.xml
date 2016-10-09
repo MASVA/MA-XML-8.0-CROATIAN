@@ -59,7 +59,7 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne mogu odjednom poslati toliko puno stavaka"</string>
   <string name="cancel">Odustani</string>
-  <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovo"</string>
+  <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovno"</string>
   <string name="cancel_operation">Otkaži radnju</string>
   <string name="cancel_success">Uspješno uklonjeno, sve datoteke premještene u %s</string>
   <string name="cancelled_by_user">Radnja otkazana</string>
@@ -126,7 +126,7 @@
   <string name="cution">Savjeti</string>
   <string name="data_capacity">Podaci %1$s</string>
   <string name="data_consumption_cancel">Izlaz</string>
-  <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovo"</string>
+  <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovno"</string>
   <string name="data_consumption_confirm">U redu</string>
   <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem WLAN-a za normalan rad.</string>
   <string name="data_consumption_message1">Uređaj bi trebao biti povezan na internet za pregled popularnih naljepnica i videozapisa.</string>
@@ -147,7 +147,7 @@
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Dešifriranje…</string>
   <string name="delete_dialog_button">Izbriši</string>
-  <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovo"</string>
+  <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovno"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
   <string name="delete_failed_retry">"Ne mogu izbrisati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
@@ -195,7 +195,7 @@
   <string name="enable_documentsui">Uključite prvo %s u Postavke &gt; Instalirane aplikacije</string>
   <string name="enable_sd_card">Umetnite SD karticu ili onemogućite USB masovnu pohranu.</string>
   <string name="enable_usb">Povežite USB uređaj</string>
-  <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovo"</string>
+  <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovno"</string>
   <string name="encrypt_prefix">SKRIVENO</string>
   <string name="encrypt_success">Uspješno skriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
@@ -430,7 +430,7 @@
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
-  <string name="network_dialog_checkbox_tip">"Ne prikazuj ponovo"</string>
+  <string name="network_dialog_checkbox_tip">"Ne prikazuj ponovno"</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_spent_reminding">"Koristiti vašu mobilnu podatkovnu vezu za pregled ove stranice? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
   <string name="network_spent_reminding_title">Obavijest uporabe podataka</string>
@@ -457,9 +457,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_login_tip">Dijelite videozapise s popularnih tema za osvajanje nagrada</string>
   <string name="no_message">Nema poruka</string>
   <string name="no_more_space">Nema dovoljno prostora za pohranu.</string>
-  <string name="no_network_retry">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
-  <string name="no_network_str">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
-  <string name="no_network_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
+  <string name="no_network_retry">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
+  <string name="no_network_str">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
+  <string name="no_network_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="no_new_content_tip">Sve stavke su ažurne</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
   <string name="no_tasks">Nema zadataka.</string>
@@ -553,8 +553,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="other_user_video_tab">Videozapisi</string>
   <string name="pan_settting">KuaiPan postavke</string>
   <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
-  <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke, pokušajte ponovo"</string>
-  <string name="partial_encrypt_success">"Ne mogu sakriti neke datoteke, pokušajte ponovo"</string>
+  <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke, pokušajte ponovno"</string>
+  <string name="partial_encrypt_success">"Ne mogu sakriti neke datoteke, pokušajte ponovno"</string>
   <string name="partial_repair_done">Neke datoteke uspješno obnovljene</string>
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
@@ -572,7 +572,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="phone_num_et_hint">Unesite broj telefona</string>
   <string name="phone_num_format_tip">Broj telefona nije točan</string>
   <string name="phone_send_code">Nabavite kôd</string>
-  <string name="phone_send_code_again">Nabavite kôd ponovo</string>
+  <string name="phone_send_code_again">Nabavite kôd ponovno</string>
   <string name="phone_send_code_tip">Pošalji ponovno za %1$ds</string>
   <string name="phone_storage">Pohrana</string>
   <string name="phone_storage_apk_title">APK: </string>
@@ -591,6 +591,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="phone_valid_code_tip">Kôd je danas unesen previše puta, pokušajte dobiti novi</string>
   <string name="pick_file">Odaberite datoteke</string>
   <string name="pick_folder">Odaberite mapu</string>
+  <string name="popup_msg_qq">Podijelite ovaj videozapis s vašim QQ prijateljima.</string>
+  <string name="popup_msg_wx">Podijelite ovaj videozapis s vašim WeChat prijateljima.</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skriveno</string>
@@ -715,6 +717,10 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="share_now">Podijeli</string>
   <string name="share_title_1">Pronađen cool paket naljepnica!</string>
   <string name="share_to">Podijeli sa…</string>
+  <string name="share_youliao1">Nadogradite da biste pogledali više epizoda.</string>
+  <string name="share_youliao2">Nadogradite da biste pogledali više epizoda.</string>
+  <string name="share_youliao3">Nadogradite da biste pogledali više epizoda.</string>
+  <string name="share_youliao4">Nadogradite da biste pogledali više epizoda.</string>
   <string name="shared_sticker_network_permission_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="shared_sticker_page_no_file">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="shared_sticker_str">Nedavno</string>
@@ -799,7 +805,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
 oslobodite prostor.</string>
   <string name="trash_box_message2">Ispraznite smeće kako bi
 oslobodili prostor.</string>
-  <string name="type_not_support">"Ovaj format datoteke nije podržan. Raspakirajte ovu datoteku i pokušajte ponovo."</string>
+  <string name="type_not_support">"Ovaj format datoteke nije podržan. Raspakirajte ovu datoteku i pokušajte ponovno."</string>
   <string name="ui_filechange_btn_download">Preuzeti datoteku?</string>
   <string name="ui_filechange_btn_upload">Učitati datoteke</string>
   <string name="ui_main_menu_option_sign_in">Prijavite se</string>
@@ -817,10 +823,11 @@ oslobodili prostor.</string>
   <string name="unlogin">Prijavite se prvo</string>
   <string name="unmount_inform_text">Isključiti USB pohranu?</string>
   <string name="unreviewed_video_cannot_share">Videozapisi trebaju biti pregledani prije dijeljenja	</string>
-  <string name="update_failed">"Ne mogu spremiti, pokušajte ponovo"</string>
+  <string name="update">Ažuriraj</string>
+  <string name="update_failed">"Ne mogu spremiti, pokušajte ponovno"</string>
   <string name="update_loading">Spremanje…</string>
   <string name="upload_avatar_camera">Kamera</string>
-  <string name="upload_avatar_failed">"Ne mogu učitati, pokušajte ponovo"</string>
+  <string name="upload_avatar_failed">"Ne mogu učitati, pokušajte ponovno"</string>
   <string name="upload_avatar_loading">Učitavanje…</string>
   <string name="upload_avatar_local">Galerija</string>
   <string name="upload_external_action_hint">Zalijepi poveznicu</string>
@@ -833,16 +840,21 @@ oslobodili prostor.</string>
   <string name="upload_notification_compress_progress">Sažimanje %1$s%%</string>
   <string name="upload_notification_compress_title">Sažimanje videozapisa</string>
   <string name="upload_notification_failed">"Ne mogu poslati"</string>
-  <string name="upload_notification_failed_content">Pokušajte ponovo</string>
+  <string name="upload_notification_failed_content">Pokušajte ponovno</string>
   <string name="upload_notification_progress">Učitavanje %1$s%%</string>
   <string name="upload_notification_success">Uspješno poslano</string>
   <string name="upload_notification_success_content">"Vaš videozapis treba biti biti pregledan prije nego se podijeli drugim osobama"</string>
   <string name="upload_notification_title">Učitavanje videozapisa</string>
   <string name="upload_user_photo">Učitaj</string>
+  <string name="upload_video_failed">"Ne mogu učitati"</string>
+  <string name="upload_video_failed_external_progress">"Ne mogu učitati, pokušajte neki drugi"</string>
+  <string name="upload_video_failed_progress">"Ne mogu učitati, pokušajte ponovno"</string>
   <string name="upload_video">Podijeli videozapis</string>
+  <string name="upload_video_success">Uploaded successfully</string>
+  <string name="upload_video_success_progress">Uploaded successfully</string>
   <string name="upload_video_dialog_message">"Vaš videozapis će biti istaknut nakon provjere."</string>
   <string name="upload_video_dialog_title">Videozapis uspješno podijeljen</string>
-  <string name="upload_video_failed">"Dijeljenje videozapisa nije uspjelo, pokušajte ponovo."</string>
+  <string name="upload_video_failed">"Dijeljenje videozapisa nije uspjelo, pokušajte ponovno."</string>
   <string name="upload_video_forbidden">"Ne učitavaj slične videozapise"</string>
   <string name="upload_video_success">Provjeravam videozapis…</string>
   <string name="upload_video_tip">"Ne mogu podijeliti više od 1 videozapisa odjednom"</string>
@@ -880,7 +892,7 @@ oslobodili prostor.</string>
   <string name="user_no_follow_user">"Još nikog ne pratite."</string>
   <string name="user_no_liked_video_tip">Video prilozi koji vam se sviđaju će se prikazati ovdje.</string>
   <string name="user_msg_text">Poruka</string>
-  <string name="user_no_net_video_tip">Loša mrežna veza, provjerite postavke i pokušajte ponovo</string>
+  <string name="user_no_net_video_tip">Loša mrežna veza, provjerite postavke i pokušajte ponovno</string>
   <string name="user_no_upload">Nema videozapisa</string>
   <string name="user_no_video_tip">"Nema poslanih videozapisa"</string>
   <string name="user_not_login">Prvo se prijavite</string>
@@ -916,15 +928,18 @@ oslobodili prostor.</string>
   <string name="video_data_consumption_confirm">U redu</string>
   <string name="video_data_consumption_dialog_message">Učitavanje će trebati %1$s mob. podataka</string>
   <string name="video_data_consumption_dialog_title">Upozorenje mob. podataka</string>
+  <string name="video_description">Opis videozapisa</string>
    <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne učitavaj slične videozapise"</string>
   <string name="video_parse_error_unknown">"Ova video usluga nije podržana, pokušajte s drugom"</string>
   <string name="video_parse_hint">Podržani videozapisi: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Uspješno pregledano</string>
-  <string name="video_parse_timeout">Nešto je pošlo po krivu, pokušajte ponovo</string>
+  <string name="video_parse_timeout">Nešto je pošlo po krivu, pokušajte ponovno</string>
   <string name="video_parsing_btn">Pregled…</string>
   <string name="video_play_failed">Nepoznata pogreška</string>
   <string name="video_publish_hint">Dobar opis će pomoći drugim osobama da pronađu vaš videozapis</string>
+  <string name="video_publish_hint2">Opis</string>
+  <string name="video_recommend_upload">Preporučeno</string>
   <string name="video_releasing">Učitavanje…</string>
   <string name="video_replay">Reproduciraj ponovno</string>
   <string name="video_status_reject">Odbijeno</string>
@@ -936,14 +951,18 @@ oslobodili prostor.</string>
   <string name="video_topic_hint">Traži temu</string>
   <string name="video_upload_btn">Dalje</string>
   <string name="video_upload_btn_hint">MP4 videozapisi trebaju biti 3s~10 min dugački</string>
+  <string name="video_upload_hint">Učitajte promovirane videozapise da zaradite više bodova.</string>
   <string name="video_upload_btn_hint_span">"Ne možete pronaći svoj videozapis?"</string>
   <string name="video_upload_item_more">Još (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">Učitajte KuaiShou videozapise da biste dobili više obožavatelja.</string>
   <string name="video_upload_retry_confirm">Pokušajte ponovno</string>
   <string name="video_upload_retry_message">"Ne mogu učitati, pokušati ponovno?"</string>
   <string name="video_upload_retry_title">Pokušajte ponovno</string>
-  <string name="video_upload_title">Odaberite video</string>
-  <string name="videos">Videozapisa</string>
+  <string name="video_upload_title">Odaberite videozapis</string>
+  <string name="video_upload_wechat_hint">Učitajte WeChat videozapise da biste dobili više obožavatelja.</string>
+  <string name="video_uploaded">Učitano</string>
+  <string name="videos">Videozapisi</string>
   <string name="view_more_sticker">Prikaži još naljepnica</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
@@ -968,6 +987,13 @@ oslobodili prostor.</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="youliao_ad_msg">"Aplikacija je nadograđena na punu verziju, uživajte!
+Gledajte zajedno sa 170 milijuna Mi fanova."</string>
+  <string name="youliao_ad_title">Popularni videozapisi sada su nadograđeni na punu verziju!</string>
+  <string name="youliao_ad_update">Ažuriraj</string>
+  <string name="youliao_dialog_msg">"Popularni videozapisi su nadograđeni na \"Youliao\", 
+sada nadogradite aplikaciju na punu verziju, gledajte više more."</string>
+  <string name="youliao_dialog_title">Nema zanimljivih videozapisa?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Nema komentara</string>
 </resources>

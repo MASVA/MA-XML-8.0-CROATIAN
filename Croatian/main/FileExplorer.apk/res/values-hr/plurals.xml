@@ -303,5 +303,13 @@
      <plurals name="user_sign_limt">
          <item quantity="other">Možete upisati %d znakova</item>
          <item quantity="one">Možete upisati %d znak</item>
+	</plurals>
+    <plurals name="video_items">
+        <item quantity="other"> stavki: %d</item>
+        <item quantity="zero"> stavki: %d</item>
+        <item quantity="one"> stavki: %d</item>
+        <item quantity="two"> stavki: %d</item>
+        <item quantity="few"> stavki: %d</item>
+        <item quantity="many"> stavki: %d</item>
      </plurals>
 </resources> 
