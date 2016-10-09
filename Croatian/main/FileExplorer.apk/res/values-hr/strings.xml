@@ -850,13 +850,11 @@ oslobodili prostor.</string>
   <string name="upload_video_failed_external_progress">"Ne mogu učitati, pokušajte neki drugi"</string>
   <string name="upload_video_failed_progress">"Ne mogu učitati, pokušajte ponovno"</string>
   <string name="upload_video">Podijeli videozapis</string>
-  <string name="upload_video_success">Uploaded successfully</string>
-  <string name="upload_video_success_progress">Uploaded successfully</string>
+  <string name="upload_video_success">Uspješno učitano</string>
+  <string name="upload_video_success_progress">Uspješno učitano</string>
   <string name="upload_video_dialog_message">"Vaš videozapis će biti istaknut nakon provjere."</string>
   <string name="upload_video_dialog_title">Videozapis uspješno podijeljen</string>
-  <string name="upload_video_failed">"Dijeljenje videozapisa nije uspjelo, pokušajte ponovno."</string>
   <string name="upload_video_forbidden">"Ne učitavaj slične videozapise"</string>
-  <string name="upload_video_success">Provjeravam videozapis…</string>
   <string name="upload_video_tip">"Ne mogu podijeliti više od 1 videozapisa odjednom"</string>
   <string name="uploading">Učitavanje…</string>
   <string name="uploading_video">Učitavanje…</string>
