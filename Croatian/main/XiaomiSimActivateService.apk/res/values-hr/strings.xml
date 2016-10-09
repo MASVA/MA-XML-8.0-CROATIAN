@@ -6,14 +6,13 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS poruka poslana sa SIM kartice %s za aktiviranje \"Pronađi uređaj\"</string>
   <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinkr. povijest poziva</string>
-  <string name="activate_feature_default_name">Mi Usluga</string>
   <string name="activate_feature_find_device">Pronađi uređaj</string>
   <string name="activate_feature_live_talk">Paket nadoplate</string>
   <string name="activate_feature_mms_sync">Sinkr. SMS poruka</string>
   <string name="activate_feature_mx">Mi Poruka</string>
   <string name="activate_feature_mx_and_voip">Mi Poruka i Glas</string>
   <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
-  <string name="activate_feature_remote_assist">Pomoćnik na dajinu</string>
+  <string name="activate_feature_remote_assist">Pomoćnik na daljinu</string>
   <string name="activate_feature_verify_mx_token">Provjera Mi Računa</string>
   <string name="activate_history_cancelled">Otkazano</string>
   <string name="activate_history_multisim_overview">Aktiviranje za SIM karticu %3$d %1$s. Aktivirano značajkom \"%2$s\".</string>
