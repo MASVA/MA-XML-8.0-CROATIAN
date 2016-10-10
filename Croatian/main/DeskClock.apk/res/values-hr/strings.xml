@@ -130,6 +130,8 @@
   <string name="tomorrow">Sutra</string>
   <string name="turn_off_a_repeat_alarm">Isključi ponavljajući alarm</string>
   <string name="turn_off_this_repeat_alarm">Isključi ovaj ponavljajući alarm</string>
+  <string name="upcoming_alarm"> Nadolazeći alarm</string>
+  <string name="upcoming_alarm_hint">Možete zatvoriti ovaj alarm unaprijed</string>
   <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
   <string name="volume_button_setting_summary">Postavi funkciju tipaka glasnoće tijekom alarma</string>

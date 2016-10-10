@@ -8,9 +8,11 @@
   <string name="alert_message_delete">Izbrisati %1$s?</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
+  <string name="alert_message_restore">"Ne mogu otvoriti ovu bilješku. Obnovite je da možete urediti njen sadržaj."</string>
   <string name="alert_title_delete">Izbrisati bilješku?</string>
   <string name="alert_title_edit_anyway">Ova bilješka sadrži nepodržani sadržaj</string>
   <string name="alert_title_hidden_note">Primljen podsjetnik skrivene bilješke</string>
+  <string name="alert_title_restore">Obnovi bilješku</string>
   <string name="all_folder_name">Sve bilješke</string>
   <string name="all_terms">%1$s i %2$s</string>
   <string name="app_name">Bilješke</string>
@@ -29,13 +31,13 @@
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi neće zvoniti kada je ton zvona utišan.</string>
   <string name="dlg_hide_message">Skrivanje…</string>
   <string name="dlg_info_creating_message">Izrada poruke…</string>
-  <string name="dlg_message_password_reset">"Zaporka skrivenih bilješki biti će zamijenjena s Zaporkom zaštite privatnosti koja funkcionira za aplikacije, fotografije, bilješke i skrivene mape"</string>
-  <string name="dlg_message_set_password">Zaporka zaštite privatnosti funkcionira za aplikacije, fotografije, bilješke i skrivene mape</string>
-  <string name="dlg_message_use_privacy_password">Upotrijebi Zaporku zaštite privatnosti. Funkcionira za aplikacije, fotografije, bilješke i skrivene mape</string>
+  <string name="dlg_message_password_reset">"Zaporka skrivenih bilješki biti će zamijenjena s Zaporkom zaštite privatnosti koja funkcionira za fotografije, bilješke i skrivene mape"</string>
+  <string name="dlg_message_set_password">Zaporka zaštite privatnosti funkcionira za fotografije, bilješke i skrivene mape</string>
+  <string name="dlg_message_use_privacy_password">Upotrijebi Zaporku zaštite privatnosti. Funkcionira za fotografije, bilješke i skrivene mape</string>
   <string name="dlg_move_message">Premještanje…</string>
   <string name="dlg_privacy_message">Skrivanje…</string>
   <string name="dlg_quick_delete_title">Brzo brisanje</string>
-  <string name="dlg_restore_message">Vraćanje…</string>
+  <string name="dlg_restore_message">Obnavljanje…</string>
   <string name="dlg_stick_message">Prikvačivanje…</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
   <string name="dlg_title_password_reset">Nadogradite vašu zaporku</string>
@@ -99,7 +101,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
-  <string name="notelist_string_info">...</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
@@ -110,6 +112,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi bilješke</string>
+  <string name="pref_title_show_root_folder_in_homepage">Prikaži brze bilješke na početnoj stranici</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Brzo brisanje</string>
   <string name="privacy_hint">Privatnost</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>

@@ -686,6 +686,7 @@
     </string-array>
 	<string-array name="common_password_business_names">
         <item>Zaklj. zaslona</item>
+		<item>Zaporka privatnosti</item>
         <item>Dječji način</item>
 		<item>Datoteke</item>
 		<item>Zaklj. aplikacija</item>

@@ -982,7 +982,7 @@ oslobodili prostor.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>
-  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
   <string name="youliao_ad_msg">"Aplikacija je nadograđena na punu verziju, uživajte!
@@ -990,7 +990,7 @@ Gledajte zajedno sa 170 milijuna Mi fanova."</string>
   <string name="youliao_ad_title">Popularni videozapisi sada su nadograđeni na punu verziju!</string>
   <string name="youliao_ad_update">Ažuriraj</string>
   <string name="youliao_dialog_msg">"Popularni videozapisi su nadograđeni na \"Youliao\", 
-sada nadogradite aplikaciju na punu verziju, gledajte više more."</string>
+sada nadogradite aplikaciju na punu verziju, gledajte više."</string>
   <string name="youliao_dialog_title">Nema zanimljivih videozapisa?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Nema komentara</string>

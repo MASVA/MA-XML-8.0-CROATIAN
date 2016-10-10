@@ -252,6 +252,7 @@
   <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfu_title">Uvijek proslijedi pozive</string>
   <string name="change">Postavi</string>
+  <string name="change_data_preference_4g_only_prompt">Izgleda da imate samo 4G SIM karticu. Postaviti ovu karticu kao zadanu za mobilnu podatkovnu vezu?</string>
   <string name="change_default_data_card">Zadani mobilni podaci SIM</string>
   <string name="change_default_data_card_summary">Izgleda da ste promijenili SIM kartice. Postaviti ovu karticu kao zadani SIM za mobilnu podatkovnu vezu?</string>
   <string name="change_num">Ažuriraj</string>
@@ -777,6 +778,7 @@ to start using Top-up package"</string>
   <string name="msim_disable_sim_card_btn_text">U redu</string>
   <string name="msim_disable_sim_card_summary_default_card">"Ova kartica je trenutno postavljena kao zadana SIM kartica. Ako je prestanete koristiti, nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Možete zaustaviti ovu SIM karticu nakon postavljanja druge SIM kartice kao zadane."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Prestati koristiti %s SIM karticu?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Nemojte ograničiti vašu sekundarnu SIM karticu u načinu hitnog poziva."</string>
   <string name="msim_disable_sim_card_title">Prestani s korištenjem SIM kartice</string>
   <string name="msim_enable_sim">Uključi</string>
   <string name="msim_general_setting">Postavke</string>

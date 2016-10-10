@@ -853,7 +853,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte otisak prsta ili unesite Zaporku zaštite privatnosti</string>
-  <string name="confirm_privacy_password_instruction">Ova zaporka štiti aplikacije, poruke, fotografije i kontakte.</string>
+  <string name="confirm_privacy_password_instruction">Ova zaporka štiti poruke, fotografije i kontakte.</string>
   <string name="confirm_reset_aaid">U redu</string>
   <string name="connect_to_internet">Poveži se na internet</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
@@ -2820,7 +2820,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Stavite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj otisak prsta</string>
   <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
-  <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, bilješke i aplikacije.</string>
+  <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, i bilješke.</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži uzorak</string>
@@ -3384,6 +3384,7 @@ Za prikvačivanje zaslona:
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogućio administrator</string>
   <string name="security_enable_widgets_title">Omogući widgete</string>
+  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_alert_dialog_info_first">"Postavite zaporku zaključavanja zaslona za uključivanje te značajke. Morati ćete unijeti zaporku zaključavanja zaslona nakon svakog ponovnog pokretanja za dešifriranje i normalno korištenje uređaja."</string>
   <string name="security_encryption_alert_dialog_title_first">Postavite prvo zaključavanje zaslona</string>
   <string name="security_encryption_attention_1">"Nećete biti u mogućnosti koristiti alarm dok je uređaj isključen."</string>
