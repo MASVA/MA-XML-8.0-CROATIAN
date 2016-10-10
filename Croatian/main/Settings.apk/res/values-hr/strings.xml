@@ -3399,7 +3399,6 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_diaglog_continue">Dalje</string>
   <string name="security_encryption_is_used">Uključeno</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
-  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
