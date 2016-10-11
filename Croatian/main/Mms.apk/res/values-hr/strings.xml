@@ -393,7 +393,7 @@
   <string name="pref_other_title">Dodatne postavke</string>
   <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
   <string name="pref_show_sms_template_in_summary">Automatski otkrij OTP u SMS porukama</string>
-  <string name="pref_show_sms_template_summary">Automatski kopiraj i ispuni kodove za provjeru</string>
+  <string name="pref_show_sms_template_summary">Uključite da koristite pametne značajke Mi Poruka, poput kopiranja kodova, provjera stanja računa, itd.</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
