@@ -156,6 +156,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_manager_group_title">Moji autom. zadaci</string>
   <string name="auto_task_notify_do_task_title">Autom. zadatak je započeo</string>
   <string name="auto_task_notify_exit_task_title">Autom. zadatak je završio</string>
+  <string name="auto_task_notify_task_cancel_count_down">Autom. radnja će biti otkazana za 5 sekundi</string>
+  <string name="auto_task_notify_task_cancel_do">Otkaži radnju</string>
+  <string name="auto_task_notify_task_canceled_summary">Možete upućivati i primati pozive</string>
+  <string name="auto_task_notify_task_canceled_title">Radnja je otkazana</string>
+  <string name="auto_task_notify_task_continue_do">Pokreni radnju</string>
+  <string name="auto_task_notify_task_count_down">Autom. radnja će započeti za 5 sekundi</string>
   <string name="auto_task_operation_airplane_mode">Zrakoplovni način</string>
   <string name="auto_task_operation_auto_brightness">Autom. svjetlina</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1736,8 +1742,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
-  <string name="usb_adb_input_apply_step_1">Vaše računalo će biti u mogućnosti promjeniti postavke i odobriti dopuštenja bez vašeg znanja kada je vaš uređaj priključen putem USB-a</string>
-  <string name="usb_adb_input_apply_step_2">To može dovesti do curenja privatnih informacija, kao što su računi ili poruke</string>
+  <string name="usb_adb_input_apply_step_1">Vaše računalo će biti u mogućnosti promjeniti postavke i dopustiti dopuštenja bez vašeg znanja kada je vaš uređaj priključen putem USB-a</string>
+  <string name="usb_adb_input_apply_step_2">To može dovesti do otkrivanja privatnih informacija, kao što su računi ili poruke</string>
   <string name="usb_adb_input_apply_step_3">Pobrinite se da razumijete moguće rizike prije nego što dopustite. Dopustiti sada?</string>
   <string name="usb_install_desc">Instalirati ovu aplikaciju putem USB-a?</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>

@@ -39,8 +39,11 @@
   <string name="attach_take_photo">Snimi sliku</string>
   <string name="attach_video">Videozapisi</string>
   <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
+  <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
+  <string name="audio_message_mx_offline">"Ne mogu preuzeti zvuk. Mi poruka je offline ili nije dostupna."</string>
   <string name="audio_playing_seconds">%d\"</string>
-  <string name="back_to_message_list">natrag na popis poruka</string>
+  <string name="audio_sim_card_mismatching">Nema mrežne veze ili je umetnuta pogrešna SIM kartica. Umetnite SIM karticu s koje je poslana poruka i povežite se na mrežu.</string>
+  <string name="back_to_message_list">Natrag na popis poruka</string>
   <string name="batch_adding_progress_message">Dodavanje…</string>
   <string name="batch_delete_confirm_dialog_message">Jeste li sigurni da želite obrisati odabranu %1$s poruku(e)?</string>
   <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>

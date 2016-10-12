@@ -102,8 +102,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_reading_status">Učitavanje statusa…</string>
   <string name="find_device_reading_status_failure">"Ne mogu učitati status."</string>
   <string name="find_device_send_sms_alert">"Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za ponovno aktiviranje ove značajke."</string>
-  <string name="find_device_service_summary">"Locirajte vaš uređaj i zaključajte ga na daljinu u slučaju da je izgubljen."</string>
-  <string name="find_device_service_summary_international">"Locirajte vaš uređaj i zaključajte ga na daljinu u slučaju da je izgubljen."</string>
+  <string name="find_device_service_summary">"Posjetite i.mi.com da locirate vaš uređaj i zaključajte ga na daljinu."</string>
+  <string name="find_device_service_summary_international">"Posjetite i.mi.com da locirate vaš uređaj i zaključajte ga na daljinu."</string>
   <string name="find_device_service_title">Pronađi uređaj</string>
   <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
   <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>

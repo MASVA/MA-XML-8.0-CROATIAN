@@ -35,6 +35,7 @@
   <string name="device_settings_category_title">Izbriši prečace</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">Otvaranje pretraživanje</string>
   <string name="google_app_label">Google pretraživanje</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -70,6 +71,8 @@
   <string name="settings_description">Nazivi instaliranih aplikacija</string>
   <string name="show_more">Više</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
+  <string name="swipe_up_summary">Povucite gore za otvaranje globalnog pretraživanja</string>
+  <string name="swipe_up_title">Povucite gore</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
