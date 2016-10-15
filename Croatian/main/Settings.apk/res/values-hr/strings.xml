@@ -3647,7 +3647,7 @@ Možda je PIN netočan."</string>
   <string name="smallwindow_smartcover_title">Prozirni prozor</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
-  <string name="sms_change_default_dialog_text">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Koristiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
