@@ -184,9 +184,9 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_download_syncing">Preuzimanje %s</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
-  <string name="micloud_detail_lastest">micloud_detail_not_synced</string>
-  <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
+  <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
+  <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_not_synced">nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>
   <string name="micloud_detail_pending">Na čekanju</string>
@@ -251,12 +251,12 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
   <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u Cloudu."</string>
   <string name="micloud_main_memory_low_title">Unutarnja memorija telefona je skoro puna</string>
+  <string name="micloud_main_message_not_synced">%s podataka nije sinkr.</string>
   <string name="micloud_main_multi_user_error_message">"Prijavili ste se s istim računom kao u Prvom prostoru što je prouzročilo pogrešku Mi Clouda. Ako želite pohraniti podatke:
  
  1. Koristite drugi račun.
  2. Premjestite podatke u Prvi prostor."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud pogreška</string>  
-  <string name="micloud_main_message_not_synced">%s podataka nije sinkr.</string>
   <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
   <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
   <string name="micloud_main_not_sync">Stavki čeka na sinkr.: %d</string>
