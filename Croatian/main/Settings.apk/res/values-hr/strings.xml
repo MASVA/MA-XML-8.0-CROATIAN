@@ -14,7 +14,7 @@
   <string name="ac_set_apps_title">Odaberite aplikacije za zaključavanje</string>
   <string name="accelerometer_summary_off">Promijeni orijentaciju automatski kod rotacije telefona</string>
   <string name="accelerometer_summary_on">Promijeni orijentaciju automatski kod rotacije telefona</string>
-  <string name="accelerometer_title">Automatski zakreni zaslon</string>
+  <string name="accelerometer_title">Autom. rotiraj zaslon</string>
   <string name="access_control_app_entry_multiple">Otvori %s</string>
   <string name="access_control_app_entry_single">Otvori aplikaciju</string>
   <string name="access_control_need_password">"%s je zaštićeno    "</string>
@@ -104,7 +104,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="add_device_admin_msg">Aktivirati administratora uređaja?</string>
   <string name="add_fingerprint_done_msg">Sada možete otključati uređaj s otiskom prsta.</string>
   <string name="add_fingerprint_done_title">Gotovo!</string>
-  <string name="add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta, pokušajte ponovo"</string>
+  <string name="add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta, pokušajte ponovno"</string>
   <string name="add_fingerprint_finished_button_text">U redu</string>
   <string name="add_fingerprint_instruction_dialog_msg">Da dodate otisak prsta, stavite prst na senzor i podignite ga nakon što osjetite vibraciju.</string>
   <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta.</string>
@@ -407,7 +407,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_power_wireless">Bežično povezivanje</string>
   <string name="battery_info_scale_label">Baterijska skala:</string>
-  <string name="battery_info_screen_on">Zaslonsko vrijeme uključenosti:</string>
+  <string name="battery_info_screen_on">Vrijeme uključenosti zaslona:</string>
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
   <string name="battery_info_status_charging_usb">Punjenje putem USB-a</string>
@@ -509,9 +509,9 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_device_context_disconnect">Isključi</string>
   <string name="bluetooth_device_context_disconnect_unpair">Isključi &amp; razdvoji par</string>
   <string name="bluetooth_device_context_pair_connect">Upari &amp; poveži</string>
-  <string name="bluetooth_device_context_unpair">Razdvoji par</string>
+  <string name="bluetooth_device_context_unpair">Raspari</string>
   <string name="bluetooth_device_details">Postavke uređaja</string>
-  <string name="bluetooth_device_name">Naziv uređaja</string>
+  <string name="bluetooth_device_name">Naziv:</string>
   <string name="bluetooth_device_searchable">Vidljiv drugim uređajima</string>
   <string name="bluetooth_devices">Bluetooth uređaji</string>
   <string name="bluetooth_disable_profile_message">To će onemogućiti:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na uređaju:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -548,7 +548,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
   <string name="bluetooth_incoming_pairing_msg">Od:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Upariti se s ovim uređajem?</string>
-  <string name="bluetooth_is_disconnect_question">Želite li prekinuti vezu s uređajem %1$s?</string>
+  <string name="bluetooth_is_disconnect_question">Prekinuti vezu s uređajem %1$s?</string>
   <string name="bluetooth_is_discoverable">Vidljivo svim Bluetooth uređajima u blizini (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Vidljivo svim Bluetooth uređajima u blizini</string>
   <string name="bluetooth_is_visible_message">Uređaj %1$s vidljiv je uređajima u blizini dok su postavke Bluetootha otvorene.</string>
@@ -678,7 +678,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bootloader_device_bind_fail">"Ne mogu provjeriti, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprema za dodavanje računa i uređaja…</string>
   <string name="bootloader_device_bind_no_account">Prijavite se prvo na svoj Mi Račun</string>
-  <string name="bootloader_device_bind_no_network">Povežite se s mrežom i pokušajte ponovo</string>
+  <string name="bootloader_device_bind_no_network">Povežite se s mrežom i pokušajte ponovno</string>
   <string name="bootloader_locked_answer_1">"Zaključavamo uređaje kako bi bili sigurni da su osigurani ta da vaši osobni podaci ne budu otkriveni trećim osobama. Ako trebate ući u Fastboot način rada i flashati uređaj, možete ga otključati."</string>
   <string name="bootloader_locked_answer_1_warning">"Zapamtite: Nećete biti u mogućnosti koristiti \"Pronađi uređaj\" nakon što je telefon otključan."</string>
   <string name="bootloader_locked_answer_2">"Dodirnite tipku ispod za povezivanje Mi Računa s ovim uređajem. Zatim idite na MIUI web stranicu za preuzimanje alata za otključavanje i instalirajte ga na računalo. Ovdje je adresa:"</string>
@@ -869,7 +869,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_erase">U redu</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
-  <string name="confirm_new_backup_pw_prompt">Ovdje ponovo unesite novu zaporku za potpunu sigurnosnu kopiju</string>
+  <string name="confirm_new_backup_pw_prompt">Ovdje ponovno unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte otisak prsta ili unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_instruction">Ova zaporka štiti poruke, fotografije i kontakte.</string>
@@ -917,7 +917,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="crypt_keeper_confirm_title">Šifrirati?</string>
   <string name="crypt_keeper_content">Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatke, medije i ostale datoteke.</string>
   <string name="crypt_keeper_content_title">Šifriraj uređaj</string>
-  <string name="crypt_keeper_cooldown">Pokušajte ponovo za ^1 s.</string>
+  <string name="crypt_keeper_cooldown">Pokušajte ponovno za ^1 s.</string>
   <string name="crypt_keeper_data_corrupt_summary">"Unijeli ste točnu zaporku, ali su vaši podaci nažalost oštećeni. Za daljnju upotrebu telefona morate ga vratiti na tvorničke postavke. Nakon što vratite telefon na zadano, imat ćete priliku oporaviti podatke koje ste sigurnosno kopirali na svoj Google račun."</string>
   <string name="crypt_keeper_data_corrupt_title">Dešifriranje nije uspjelo</string>
   <string name="crypt_keeper_decrypt_methods">Nakon šifriranja telefona, pod pretpostavkom da ste postavili zaključavanje zaslona (to jest obrazac, brojčani PIN ili zaporku), morat ćete otključati zaslon kako biste dešifrirali telefon svaki put kada ga uključite. Jedini drugi način za dešifriranje je vraćanje na tvorničko stanje brisanjem svih vaših podataka.</string>
@@ -932,15 +932,15 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="crypt_keeper_enter_password">Unesite svoju zaporku</string>
   <string name="crypt_keeper_failed_summary">"Šifriranje je prekinuto i ne može se dovršiti. Stoga podaci na vašem telefonu više nisu dostupni. Da biste nastavili upotrebljavati ​​telefon, morate vratiti tvorničke postavke. Kada nakon toga postavite svoj telefon, imat ćete priliku vratiti sve podatke čije su sigurnosne kopije stvorene na vašem Google računu."</string>
   <string name="crypt_keeper_failed_title">Šifriranje neuspješno</string>
-  <string name="crypt_keeper_final_desc">Postupak šifriranja nepovratan je i ako ga prekinete, izgubit ćete podatke. Šifriranje traje najmanje sat vremena, a za to vrijeme telefon će se nekoliko puta ponovo pokrenuti.</string>
-  <string name="crypt_keeper_force_power_cycle">Da otključate telefon, isključite ga i ponovo uključite.</string>
-  <string name="crypt_keeper_low_charge_text">Napunite bateriju i pokušajte ponovo.</string>
+  <string name="crypt_keeper_final_desc">Postupak šifriranja nepovratan je i ako ga prekinete, izgubit ćete podatke. Šifriranje traje najmanje sat vremena, a za to vrijeme telefon će se nekoliko puta ponovno pokrenuti.</string>
+  <string name="crypt_keeper_force_power_cycle">Da otključate telefon, isključite ga i ponovno uključite.</string>
+  <string name="crypt_keeper_low_charge_text">Napunite bateriju i pokušajte ponovno.</string>
   <string name="crypt_keeper_settings_title">Šifriranje</string>
   <string name="crypt_keeper_setup_description">Pričekajte dok ne završi šifriranje telefona. ^1% dovršeno.</string>
   <string name="crypt_keeper_setup_time_remaining">Pričekajte dok se vaš telefon šifrira. Preostalo vrijeme: ^1</string>
   <string name="crypt_keeper_setup_title">Šifriranje</string>
   <string name="crypt_keeper_switch_input_method">Promjena načina unosa</string>
-  <string name="crypt_keeper_unplugged_text">Uključite punjač i pokušajte ponovo.</string>
+  <string name="crypt_keeper_unplugged_text">Uključite punjač i pokušajte ponovno.</string>
   <string name="crypt_keeper_warn_wipe">Upozorenje: možete pokušati otključati uređaj još ^1 puta. Ako ne uspijete, izbrisat će se podaci na uređaju!</string>
   <string name="cryptkeeper_emergency_call">"Hitan poziv"</string>
   <string name="cryptkeeper_return_to_call">Vrati se na poziv</string>
@@ -954,11 +954,11 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="current_use_ese_wallet">"Vi koristite Mi Novčanik. On vam omogućuje da koristite Mi Pay i NFC tranzitnu karticu."</string>
   <string name="current_use_hce_wallet">"Vi koristite HCE Novčanik"</string>
   <string name="current_use_uicc_se">Korištenje sigurnosnog elementa na SIM kartici</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno–zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
-  <string name="daltonizer_mode_protanomaly">Protanomalija (crveno – zeleno)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo – žuto)</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalija (crveno–zeleno)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo–žuto)</string>
   <string name="daltonizer_type">Način ispravljanja</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
   <string name="dashboard_title">Postavke</string>
@@ -1152,7 +1152,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_status_summary">Broj telefona, signal itd.</string>
   <string name="dial_application_title">Biraj</string>
   <string name="dial_pad_tones_title">Tonovi brojčanika</string>
-  <string name="dialog_content_login">Potreban je Mi Račun za ažuriranja, sigurno se želite prijaviti?</string>
+  <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_font_size">Veličina fonta</string>
@@ -1178,16 +1178,16 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disable_service_title">Želite li zaustaviti %1$s?</string>
   <string name="disable_text">Onemogući</string>
   <string name="disabled">Onemogućeno</string>
-  <string name="disabled_because_no_backup_security">Za upotrebu prvo postavite zaključavanje zaslona</string>
+  <string name="disabled_because_no_backup_security">Za upotrebu, prvo postavite zaključavanje zaslona</string>
   <string name="disconnect">prekini vezu</string>
   <string name="display_auto_rotate_rotate">Zakreni sadržaj zaslona</string>
-  <string name="display_auto_rotate_stay_in_current">Ostani u trenutačnom usmjerenju</string>
+  <string name="display_auto_rotate_stay_in_current">Isključeno</string>
   <string name="display_auto_rotate_stay_in_landscape">Ostani u vodoravnom prikazu</string>
   <string name="display_auto_rotate_stay_in_portrait">Ostani u okomitom prikazu</string>
-  <string name="display_auto_rotate_title">Kada se uređaj zakrene</string>
+  <string name="display_auto_rotate_title">Rotiraj sadržaj ekrana</string>
   <string name="display_font_size_label">Veličina fonta:</string>
   <string name="display_label">Zaslon</string>
-  <string name="display_order_text">Poredati prema:</string>
+  <string name="display_order_text">Poredaj po:</string>
   <string name="display_preview_label">Pregled:</string>
   <string name="display_settings">Zaslon</string>
   <string name="display_settings_title">Zaslon</string>
@@ -1195,14 +1195,14 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dlg_close">Zatvori</string>
   <string name="dlg_confirm_uicc_unmount_text">Ako isključite UICC pohranu, neke aplikacije koje koristite zaustavit će se i može neće biti dostupne sve dok ponovno ne uključite UICC pohranu.</string>
   <string name="dlg_confirm_uicc_unmount_title">Isključiti UICC pohranu?</string>
-  <string name="dlg_confirm_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovo ne uključite USB pohranu.</string>
+  <string name="dlg_confirm_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovno ne uključite USB pohranu.</string>
   <string name="dlg_confirm_unmount_title">Isključiti USB pohranu?</string>
-  <string name="dlg_confirm_usb_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovo ne uključite USB pohranu.</string>
+  <string name="dlg_confirm_usb_unmount_text">Ako isključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i mogu biti nedostupne dok ponovno ne uključite USB pohranu.</string>
   <string name="dlg_confirm_usb_unmount_title">Isključiti USB pohranu?</string>
-  <string name="dlg_error_uicc_unmount_text">"UICC pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
-  <string name="dlg_error_unmount_text">USB pohrana ne može se isključiti. Pokušajte ponovo kasnije.</string>
+  <string name="dlg_error_uicc_unmount_text">"UICC pohrana ne može se isključiti. Pokušajte ponovno kasnije."</string>
+  <string name="dlg_error_unmount_text">Ne mogu isključiti USB pohranu. Pokušajte ponovno kasnije.</string>
   <string name="dlg_error_unmount_title"/>
-  <string name="dlg_error_usb_unmount_text">"USB pohrana ne može se isključiti. Pokušajte ponovo kasnije."</string>
+  <string name="dlg_error_usb_unmount_text">"Ne mogu isključiti USB pohranu. Pokušajte ponovno kasnije."</string>
   <string name="dlg_ok">"U redu"</string>
   <string name="dlg_switch">Promijeni</string>
   <string name="dndm_alarm_content">Zvuk</string>
@@ -1229,7 +1229,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dndm_notification">\"Ne ometaj“\ omogućeno</string>
   <string name="dndm_open">Ne ometaj</string>
   <string name="dndm_repeated_call_setting_title">Ponovite pozivatelje</string>
-  <string name="dndm_repeated_call_summary_3min">Ako vas isti pozivatelj nazove ponovo unutar 3 minute, telefon će zazvoniti</string>
+  <string name="dndm_repeated_call_summary_3min">Ako vas isti pozivatelj nazove ponovno unutar 3 minute, telefon će zazvoniti</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive od istog broja</string>
   <string name="dndm_special_call_setting_group">Iznimke</string>
   <string name="dndm_summary">Kada je omogućeno \"Ne ometaj“\, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
@@ -1420,8 +1420,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="every_day">Svaki dan</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
-  <string name="external_code_size_label">USB aplikacija za pohranu</string>
-  <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
+  <string name="external_code_size_label">Aplikacija za USB pohranu</string>
+  <string name="external_data_size_label">Aplikacija za USB pohranu podataka</string>
   <string name="external_storage_turn_off">Vanjska pohrana je isključena</string>
   <string name="external_storage_turn_on">Vanjska pohrana je uključena</string>
   <string name="extreme_threats_summary">Primanje upozorenja za ekstremne prijetnje po život/imovinu</string>
@@ -1463,7 +1463,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
   <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
-  <string name="fingerprint_identify_try_again_msg">"Ne mogu skenirati, pokušajte ponovo"</string>
+  <string name="fingerprint_identify_try_again_msg">"Ne mogu skenirati, pokušajte ponovno"</string>
   <string name="fingerprint_last_delete_confirm">Da, ukloni</string>
   <string name="fingerprint_last_delete_message">Nećete moći upotrebljavati otiske prstiju za otključavanje telefona, autorizaciju kupovina ili prijavljivanje na aplikacije.</string>
   <string name="fingerprint_last_delete_title">Želite ukloniti sve otiske prstiju?</string>
@@ -1723,8 +1723,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="internal_format">Izbriši unutarnju pohranu</string>
   <string name="internal_format_summary">"Izbriši sve podatke s unutarnje pohrane uređaja"</string>
   <string name="internal_media_format_button_text">Izbriši unutarnju pohranu</string>
-  <string name="internal_media_format_desc">Izbrisati unutarnju pohranu? Svi vaši podaci će biti izbrisani. Uređaj će se ponovo pokrenuti nakon brisanja unutarnje pohrane.</string>
-  <string name="internal_media_format_final_desc">Izbrisati unutarnju pohranu? Radnja se ne može poništiti! Uređaj će se ponovo pokrenuti nakon brisanja unutarnje pohrane.</string>
+  <string name="internal_media_format_desc">Izbrisati unutarnju pohranu? Svi vaši podaci će biti izbrisani. Uređaj će se ponovno pokrenuti nakon brisanja unutarnje pohrane.</string>
+  <string name="internal_media_format_final_desc">Izbrisati unutarnju pohranu? Radnja se ne može poništiti! Uređaj će se ponovno pokrenuti nakon brisanja unutarnje pohrane.</string>
   <string name="internal_media_format_title">Izbriši unutarnju pohranu</string>
   <string name="internal_memory">Unutarnja pohrana</string>
   <string name="internal_storage">Unutarnja pohrana</string>
@@ -2006,7 +2006,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanje:</string>
   <string name="lockpattern_recording_intro_header_second_space">Iscrtajte uzorak za otključavanje Drugog prostora:</string>
   <string name="lockpattern_restart_button_text">Iscrtajte ponovno</string>
-  <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
+  <string name="lockpattern_retry_button_text">Pokušaj ponovno</string>
   <string name="lockpattern_settings_change_lock_pattern">Izmijeni uzorak za otključavanje</string>
   <string name="lockpattern_settings_choose_lock_pattern">Postavi uzorak za otključavanje</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Tipka napaj. zaključ. tel.</string>
@@ -2017,8 +2017,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak za otključavanje</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Osim kad ga %1$s drži otključanim</string>
   <string name="lockpattern_settings_title">Uzorak za otključavanje</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts">Previše netočnih pokušaja. Pokušajte ponovo za %d s.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Previše netočnih pokušaja. Pokušajte ponovno za %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovno za %d s.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
@@ -2191,7 +2191,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mobile_connect_to_internet">Povežite se s internetom</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
-  <string name="mobile_insert_sim_card">Umetnite SIM karticu i pokrenite ponovo</string>
+  <string name="mobile_insert_sim_card">Umetnite SIM karticu i pokrenite ponovno</string>
   <string name="mobile_no_provisioning_url">%1$s nema poznatu web-lokaciju za niz usluga</string>
   <string name="mobile_unknown_sim_operator">Nepoznati operater SIM kartice</string>
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
@@ -2427,7 +2427,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
   <string name="open_anr_debug">Uključi ANR otklanjanje grešaka</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
-  <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovo pokrenuti radi primjene ove promjene</string>
+  <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
@@ -2459,8 +2459,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="page_layout_19">Kontakti</string>
   <string name="page_layout_2">Kamera</string>
   <string name="page_layout_20">Imenik</string>
-  <string name="page_layout_21">816 kontakata</string>
-  <string name="page_layout_22">Podesi moj profil</string>
+  <string name="page_layout_21">182 kontakata</string>
+  <string name="page_layout_22">Moj profil</string>
   <string name="page_layout_23">Moje grupe</string>
   <string name="page_layout_24">FAVORITI</string>
   <string name="page_layout_25">Hugo Barra</string>
@@ -2749,7 +2749,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_unaccounted">Razno</string>
   <string name="power_usage_history">Potrošnja baterije</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
-  <string name="power_usage_list_summary">Upotreba od posljednje napunjenosti</string>
+  <string name="power_usage_list_summary">Upotreba od posljednjeg punjenja</string>
   <string name="power_usage_not_available">Podaci o upotrebi baterije nedostupni.</string>
   <string name="power_usage_summary">Što troši bateriju</string>
   <string name="power_usage_summary_title">Baterija &amp; performanse</string>
@@ -2795,7 +2795,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="print_failed_state_title_template">Pogreška pisača %1$s</string>
   <string name="print_feature_state_off">Isključeno</string>
   <string name="print_feature_state_on">Uključeno</string>
-  <string name="print_job_summary">"%1$s %2$s"</string>
+  <string name="print_job_summary">"%1$s
+%2$s"</string>
   <string name="print_menu_item_add_printer">Dodaj pisač</string>
   <string name="print_menu_item_add_printers">Dodavanje pisača</string>
   <string name="print_menu_item_add_service">Dodaj</string>
@@ -3055,7 +3056,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="restriction_settings_title">Ograničenja</string>
   <string name="restriction_wifi_config_summary">Dopusti izmjenu postavki za WLAN i mobilne mreže</string>
   <string name="restriction_wifi_config_title">WLAN i mobilne mreže</string>
-  <string name="retry">"Pokušajte ponovo"</string>
+  <string name="retry">"Pokušajte ponovno"</string>
   <string name="ring_volume_option_title">Glasnoća zvona</string>
   <string name="ring_volume_title">Glasnoća zvona</string>
   <string name="ringtone_mute">Utišano</string>
@@ -3091,7 +3092,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runningservicedetails_processes_title">Procesi</string>
   <string name="runningservicedetails_services_title">Usluge</string>
   <string name="runningservicedetails_settings_title">Pokrenuta aplikacija</string>
-  <string name="runningservicedetails_stop_dlg_text">Ako zaustavite ovu uslugu, neke značajke vašeg uređaja mogu prestati raditi ispravno dok ga ne isključite i ponovo ne uključite.</string>
+  <string name="runningservicedetails_stop_dlg_text">Ako zaustavite ovu uslugu, neke značajke vašeg uređaja mogu prestati raditi ispravno dok ga ne isključite i ponovno ne uključite.</string>
   <string name="runningservicedetails_stop_dlg_title">Zaustaviti sistemsku uslugu?</string>
   <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute usluge</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
@@ -3140,7 +3141,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_title">Način čitanja</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Ne prikazuj ponovo"</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Ne prikazuj ponovno"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Dopusti</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da ažurirate popis aplikacija koje koriste način čitanja, potrebno je povezivanje s internetom.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezivanje s internetom</string>
@@ -3163,7 +3164,7 @@ Za prikvačivanje zaslona:
   <string name="screen_pinning_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pin">Traži PIN radi otkvačivanja</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
-  <string name="screen_resolution_summary">"Smanjivanje rezolucije zaslona može povećati trajanje baterije i brzinu sustava, međutim slike na zaslonu mogu biti manje jasne. Morate ponovo pokrenuti vaš uređaj za primjenu ove promjene.".</string>
+  <string name="screen_resolution_summary">"Smanjivanje rezolucije zaslona može povećati trajanje baterije i brzinu sustava, međutim slike na zaslonu mogu biti manje jasne. Morate ponovno pokrenuti vaš uređaj za primjenu ove promjene.".</string>
   <string name="screen_resolution_switch">Promjeni rezoluciju</string>
   <string name="screen_resolution_title">Rezolucija zaslona</string>
   <string name="screen_saturation">Zasićenje</string>
@@ -3403,7 +3404,6 @@ Za prikvačivanje zaslona:
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogućio administrator</string>
   <string name="security_enable_widgets_title">Omogući widgete</string>
-  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_alert_dialog_info_first">"Postavite zaporku zaključavanja zaslona za uključivanje te značajke. Morati ćete unijeti zaporku zaključavanja zaslona nakon svakog ponovnog pokretanja za dešifriranje i normalno korištenje uređaja."</string>
   <string name="security_encryption_alert_dialog_title_first">Postavite prvo zaključavanje zaslona</string>
   <string name="security_encryption_attention_1">"Nećete biti u mogućnosti koristiti alarm dok je uređaj isključen."</string>
@@ -3418,6 +3418,7 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_diaglog_continue">Dalje</string>
   <string name="security_encryption_is_used">Uključeno</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
+  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku zaklj. zaslona</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
@@ -3445,7 +3446,7 @@ Za prikvačivanje zaslona:
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Napomena: otisak prsta može biti manje siguran od snažnog uzorka ili PIN-a.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Saznajte više</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Otključavanje otiskom</string>
-  <string name="security_settings_fingerprint_enroll_lift_touch_again">Podignite prst, a zatim ponovo dodirnite senzor</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Podignite prst, a zatim ponovno dodirnite senzor</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Da biste mogli upotrebljavati otisak prsta za otključavanje zaslona ili potvrđivanje kupnje, morat ćete učiniti sljedeće:</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_1">Postavite pričuvni način zaključavanja zaslona</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Dodajte vaš otisak prsta.</string>
@@ -3561,7 +3562,8 @@ Za prikvačivanje zaslona:
   <string name="sim_cellular_data_unavailable_summary">Dodirnite za odabir podatkovnog SIM-a</string>
   <string name="sim_change_data_message">Želite li upotrijebiti %1$s umjesto %2$s za mobilne podatke?</string>
   <string name="sim_change_data_title">Promijeniti podatkovni SIM?</string>
-  <string name="sim_change_failed">"Nije moguće promijeniti PIN. Možda je PIN netočan."</string>
+  <string name="sim_change_failed">"Nije moguće promijeniti PIN. 
+Možda je PIN netočan."</string>
   <string name="sim_change_failed_enable_sim_lock">Uključi sada zaključavanje SIM kartice</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">Uspješno je promijenjen PIN SIM-a</string>
@@ -3592,7 +3594,8 @@ Za prikvačivanje zaslona:
   <string name="sim_enter_old">Stari SIM PIN</string>
   <string name="sim_enter_pin">SIM PIN</string>
   <string name="sim_lock_change_not_supported">"Ne mogu promijeniti SIM zaključavanje."</string>
-  <string name="sim_lock_failed">"Nije moguće promijeniti stanje zaključanosti SIM kartice. Možda je PIN netočan."</string>
+  <string name="sim_lock_failed">"Ne mogu promijeniti stanje zaključanosti SIM kartice. 
+Možda je PIN netočan."</string>
   <string name="sim_lock_off">Potreban PIN je za upotrebu uređaja</string>
   <string name="sim_lock_on">Potreban PIN je za upotrebu uređaja</string>
   <string name="sim_lock_settings">Postavke zaklj. SIM kartice</string>
@@ -3617,7 +3620,7 @@ Za prikvačivanje zaslona:
   <string name="sim_pin_enabled">PIN1 omogućen!</string>
   <string name="sim_pin_toggle">Zaključaj SIM karticu</string>
   <string name="sim_pins_dont_match">PIN-ovi se ne podudaraju</string>
-  <string name="sim_pref_divider">Željeni SIM za</string>
+  <string name="sim_pref_divider">Preferirani SIM za</string>
   <string name="sim_preferred_message">%1$s predstavlja jedini SIM u vašem uređaju. Želite li upotrebljavati taj SIM za mobilne podatke, pozive i SMS poruke?</string>
   <string name="sim_preferred_title">Ažurirati preferirani SIM?</string>
   <string name="sim_radio_off">Isključeno</string>
@@ -3644,7 +3647,7 @@ Za prikvačivanje zaslona:
   <string name="smallwindow_smartcover_title">Prozirni prozor</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
-  <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
+  <string name="sms_change_default_dialog_text">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Koristiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
@@ -3655,9 +3658,9 @@ Za prikvačivanje zaslona:
   <string name="sms_received_sound_dialog_title">Odaberite zvuk za primljene SMS poruke</string>
   <string name="sms_received_sound_title">Primljena poruka</string>
   <string name="sometimes_running">Ponekad se izvodi (%s)</string>
-  <string name="sort_avg_use">Razvrstaj po prosječnoj upotrebi</string>
-  <string name="sort_max_use">Razvrstaj po maksimalnoj upotrebi</string>
-  <string name="sort_order_alpha">Poredaj prema nazivu</string>
+  <string name="sort_avg_use">Poredaj po prosječnoj upotrebi</string>
+  <string name="sort_max_use">Poredaj po maksimalnoj upotrebi</string>
+  <string name="sort_order_alpha">Poredaj po nazivu</string>
   <string name="sort_order_size">Poredaj po veličini</string>
   <string name="sound_category_call_ringtone_vibrate_title">"Melodija zvona &amp; vibracija"</string>
   <string name="sound_category_calls_and_notification_title">Melodija zvona &amp; vibracija</string>
@@ -3753,7 +3756,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">"IMEI"</string>
   <string name="status_imei_sv">IMEI SV</string>
-  <string name="status_invalid_password">Nevažeća zaporka, pokušajte ponovo.</string>
+  <string name="status_invalid_password">Nevažeća zaporka, pokušajte ponovno.</string>
   <string name="status_latest_area_info">Informacije o operateru</string>
   <string name="status_meid_number">"MEID"</string>
   <string name="status_min_number">MIN</string>
@@ -3805,13 +3808,13 @@ Za upotrebu SD kartice ^1 s tim uređajem prvo je trebate postaviti."</string>
   <string name="storage_format_success">Formatirano: %1$s</string>
   <string name="storage_internal_forget_confirm">Sve aplikacije, fotografije i podaci pohranjeni na SD kartici ^1 trajno će se izbrisati.</string>
   <string name="storage_internal_forget_confirm_title">Zaboraviti medij za pohranu ^1?</string>
-  <string name="storage_internal_forget_details">"Da biste pristupili aplikacijama, fotografijama ili podacima koje sadrži uređaj ^1, umetnite ga ponovo. 
+  <string name="storage_internal_forget_details">"Da biste pristupili aplikacijama, fotografijama ili podacima koje sadrži uređaj ^1, umetnite ga ponovno. 
 
 Možete i zaboraviti tu pohranu ako uređaj nije dostupan. 
 
 Ako se odlučite za opciju zaborava, svi podaci koje uređaj sadrži zauvijek će se izgubiti. 
 
-Kasnije možete ponovo instalirati aplikacije, ali će njihovi podaci pohranjeni na tom uređaju biti izgubljeni."</string>
+Kasnije možete ponovno instalirati aplikacije, ali će njihovi podaci pohranjeni na tom uređaju biti izgubljeni."</string>
   <string name="storage_internal_format_details">"Nakon formatiranja možete upotrebljavati uređaj ^1 na drugim uređajima. 
 
 Svi podaci na uređaju ^1 izbrisat će se. Preporučujemo vam da prvo napravite Sig. kopiju. 
@@ -3822,7 +3825,7 @@ Premjestite medijske datoteke u neku drugu pohranu na ovom uređaju ili na raču
 "&lt;b&gt;Izrada Sig. kopije aplikacija&lt;/b&gt;" 
 Sve aplikacije pohranjene na uređaju ^1 deinstalirati će se i njihovi će se podaci izbrisati. Da biste zadržali aplikacije, premjestite ih u neku drugu pohranu na ovom uređaju."</string>
   <string name="storage_internal_title">Pohrana na uređaju</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Kada izbacite uređaj ^1, aplikacije koje su pohranjene na njemu prestat će funkcionirati, a medijske datoteke pohranjene na njemu neće biti dostupne dok ga ponovo ne umetnete.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Kada izbacite uređaj ^1, aplikacije koje su pohranjene na njemu prestat će funkcionirati, a medijske datoteke pohranjene na njemu neće biti dostupne dok ga ponovno ne umetnete.&lt;/b&gt;" 
 
 Uređaj ^1 formatiran je tako da funkcionira samo na ovom uređaju. Neće funkcionirati na drugim uređajima."</string>
   <string name="storage_label">Prostor za pohranu</string>
@@ -3856,10 +3859,10 @@ Uređaj ^1 formatiran je tako da funkcionira samo na ovom uređaju. Neće funkci
   <string name="storage_unmount_success">%1$s je sigurno izbačen</string>
   <string name="storage_usb">USB memorija</string>
   <string name="storage_usb_settings">Pohrana &amp; USB</string>
-  <string name="storage_used">Upotrijebljena pohrana</string>
+  <string name="storage_used">Iskorištena pohrana</string>
   <string name="storage_volume_summary">Upotrijebljeno %1$s od %2$s</string>
-  <string name="storage_volume_used">Upotrijebljeno od %1$s</string>
-  <string name="storage_volume_used_total">Ukupno upotrijebljeno od %1$s</string>
+  <string name="storage_volume_used">Iskorišteno od %1$s</string>
+  <string name="storage_volume_used_total">Ukupno iskorišteno od %1$s</string>
   <string name="storage_wizard_format_confirm_body">"Potrebno je formatirati uređaj ^1 radi zaštite. 
 
 Nakon formatiranja ^1 funkcionirat će samo na ovom uređaju. 
@@ -4005,7 +4008,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="title_font_current">Font sustava</string>
   <string name="title_font_current2">Font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
-  <string name="title_hdmi_color_calibration">Pohranjene postavke korekcije boje</string>
+  <string name="title_hdmi_color_calibration">Postavke korekcije boje</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
   <string name="title_local_resource">Lokalni resursi</string>
@@ -4042,7 +4045,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="trusted_credentials_summary">Prikaz pouzdanih CA certifikata</string>
   <string name="trusted_credentials_system_tab">Sustav</string>
   <string name="trusted_credentials_user_tab">Korisnik</string>
-  <string name="try_again">Pokušajte ponovo.</string>
+  <string name="try_again">Pokušajte ponovno.</string>
   <string name="tts_data_installed_summary">Glasovi potrebni za sintezu govora već su ispravno instalirani</string>
   <string name="tts_default_lang_summary">Postavlja jezik govora</string>
   <string name="tts_default_lang_title">Jezik</string>
@@ -4222,7 +4225,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="usb_mtp_summary">Omogućuje prijenos medijskih datoteka u OS Windows ili Androidovim prijenosom datoteka na Mac (pogledajte www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Uređaj za medije (MTP)</string>
   <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera Kamere i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
-  <string name="usb_ptp_title">Fotoaparat (PTP)</string>
+  <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_sdcard_summary">Omogućuje prijenos medijskih datoteka sa SD kartice na računalo</string>
   <string name="usb_sdcard_title">Učitaj SD karticu</string>
   <string name="usb_tethering_active_subtext">Povezano za dijeljenje veze</string>
@@ -4371,7 +4374,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="virus_scan_app_scan_finish">Skeniranje je završeno</string>
   <string name="virus_scan_app_scanning">Skeniranje…</string>
   <string name="virus_scan_app_stop_scan">Zaustavi skeniranje</string>
-  <string name="virus_scan_app_uninstall">Ukloni (%d)</string>
+  <string name="virus_scan_app_uninstall">Ukloni %d</string>
   <string name="virus_scan_app_waiting">Čekanje…</string>
   <string name="virus_scanner_auto_update">Ažuriraj automatski</string>
   <string name="virus_scanner_date_formater">dd.MM.yyyy</string>
@@ -4445,7 +4448,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="vpn_mppe">PPP enkripcija (MPPE)</string>
   <string name="vpn_name">Naziv</string>
   <string name="vpn_no_ca_cert">(ne potvrđuj poslužitelja)</string>
-  <string name="vpn_no_network">Nema mrežne veze. Pokušajte ponovo kasnije.</string>
+  <string name="vpn_no_network">Nema mrežne veze. Pokušajte ponovno kasnije.</string>
   <string name="vpn_no_selected">Odaberi VPN</string>
   <string name="vpn_no_server_cert">(primljen od poslužitelja)</string>
   <string name="vpn_not_used">(ne koristi se)</string>
@@ -4541,7 +4544,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Odustani</string>
   <string name="wifi_connect_cmcc_dialog_confirm">U redu</string>
   <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC mrežne podatkovne usluge.</string>
-  <string name="wifi_connect_cmcc_dialog_not_remind">"Ne prikazuj ponovo"</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Ne prikazuj ponovno"</string>
   <string name="wifi_connect_cmcc_dialog_title">Obavijesti uporabe podataka</string>
   <string name="wifi_connect_failed_message">Telefon se nije mogao povezati s ovom WLAN mrežom.</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
@@ -4549,7 +4552,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_context_menu_change_wapi_certificate">Promijeni WAPI certifikat</string>
   <string name="wifi_context_menu_connect">Poveži</string>
   <string name="wifi_context_menu_forget">Zaboravi</string>
-  <string name="wifi_datanetwork_switch_not_remind">"Ne prikazuj ponovo"</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Ne prikazuj ponovno"</string>
   <string name="wifi_dialog_remind_type_title">Mobilni podaci</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_help">WLAN veza je prekinuta zbog slabog signala</string>
@@ -4648,7 +4651,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_off_airplane_on_cancel">Odustani</string>
   <string name="wifi_off_airplane_on_confirm">U redu</string>
   <string name="wifi_off_airplane_on_content">Možete uključiti WLAN ručno kada je Zrakoplovni način uključen.</string>
-  <string name="wifi_off_airplane_on_not_remind">"Ne prikazuj ponovo"</string>
+  <string name="wifi_off_airplane_on_not_remind">"Ne prikazuj ponovno"</string>
   <string name="wifi_off_airplane_on_title">WLAN u Zrakoplovnom načinu</string>
   <string name="wifi_on_time">WLAN na vrijeme</string>
   <string name="wifi_other_network">Ostale mreže…</string>
@@ -4852,22 +4855,22 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Unesi naziv korisničkog certifikata</string>
   <string name="wifi_wapi_cert_uninstall">Deinstaliraj WAPI Certifikat</string>
   <string name="wifi_wapi_cert_uninstall_button">"Deinstaliraj"</string>
-  <string name="wifi_wapi_certification_dont_exist">Unesena zaporka mreže je neispravna. Pokušajte ponovo.</string>
+  <string name="wifi_wapi_certification_dont_exist">Unesena zaporka mreže je neispravna. Pokušajte ponovno.</string>
   <string name="wifi_wapi_user_cert">Korisnički certifikat</string>
   <string name="wifi_wps_available_first_item">WPS je dostupan</string>
   <string name="wifi_wps_available_second_item">" (WPS dostupan)"</string>
   <string name="wifi_wps_complete">WPS uspio. Povezivanje s mrežom…</string>
   <string name="wifi_wps_connected">Povezano s WLAN mrežom %s</string>
-  <string name="wifi_wps_failed_auth">Neuspješna autentifikacija. Pokušajte ponovo.</string>
-  <string name="wifi_wps_failed_generic">WPS nije uspio. Pokušajte ponovo za nekoliko minuta.</string>
-  <string name="wifi_wps_failed_overlap">Otkrivena je još jedna WPS sesija. Pokušajte ponovo za nekoliko minuta.</string>
+  <string name="wifi_wps_failed_auth">Neuspješna autentifikacija. Pokušajte ponovno.</string>
+  <string name="wifi_wps_failed_generic">WPS nije uspio. Pokušajte ponovno za nekoliko minuta.</string>
+  <string name="wifi_wps_failed_overlap">Otkrivena je još jedna WPS sesija. Pokušajte ponovno za nekoliko minuta.</string>
   <string name="wifi_wps_failed_tkip">Sigurnosna postavka bežičnog usmjerivača (TKIP) nije podržana</string>
   <string name="wifi_wps_failed_wep">Sigurnosna postavka (WEP) bežičnog usmjerivača nije podržana</string>
   <string name="wifi_wps_in_progress">WPS je već u tijeku, a do završetka može proteći do dvije minute</string>
   <string name="wifi_wps_nfc_enter_password">Unesite mrežnu zaporku</string>
   <string name="wifi_wps_onstart_pbc">Pritisnite tipku za zaštićeno postavljanje WLAN mreže na svom usmjerivaču. Može se zvati \"WPS\" ili sadržavati ovaj simbol:</string>
   <string name="wifi_wps_onstart_pin">Unesite PIN %1$s sa vašeg WLAN usmjerivača. Postavljanje može potrajati do dvije minute.</string>
-  <string name="wifi_wps_overlap_error">Otkrivena je još jedna WLAN sesija. Pokušajte ponovo za nekoliko minuta.</string>
+  <string name="wifi_wps_overlap_error">Otkrivena je još jedna WLAN sesija. Pokušajte ponovno za nekoliko minuta.</string>
   <string name="wifi_wps_setup_msg">Pokretanje WPS-a…</string>
   <string name="wifi_wps_setup_title">Zaštićeno postavljanje WLAN mreže</string>
   <string name="wimax_settings">4G</string>
