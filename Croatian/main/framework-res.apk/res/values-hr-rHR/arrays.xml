@@ -99,4 +99,25 @@
         <item>Lokacija</item>
         <item>Pokreni kod pokretanja</item>
 	</string-array>
+	<string-array name="fingerprint_acquired_vendor">
+        <item>Pokušajte ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>"Prebrzo! Ne mogu prepoznati otisak prsta"</item>
+        <item>Pomaknite malo prst i pokušajte ponovno</item>
+        <item>Podignite prst i ponovno ga stavite natrag na skener</item>
+        <item>Držite prst malo duže na skeneru</item>
+        <item></item>
+        <item></item>
+    </string-array>	
 </resources>

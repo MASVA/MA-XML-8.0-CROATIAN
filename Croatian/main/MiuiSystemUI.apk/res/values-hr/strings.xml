@@ -197,6 +197,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">"Da"</string>
+  <string name="nav_guide_cancel">Ignoriraj</string>
+  <string name="nav_guide_message">Možete koristiti geste da se sakrijete/prikažete tipke zaslona nakon postavljanja.</string>
+  <string name="nav_guide_ok">Postavke</string>
+  <string name="nav_guide_title">Sakrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
   <string name="no_weather_description">Dobivanje informacije o vremenu &gt;</string>

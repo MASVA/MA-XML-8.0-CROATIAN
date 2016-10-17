@@ -278,7 +278,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Izradi</string>
   <string name="eq_preset_format">Podešenja korisnika %d</string>
-  <string name="eq_preset_hint">Naziv podešenja</string>
+  <string name="eq_preset_hint">Naziv efekta</string>
   <string name="eq_preset_rename">Preimenuj</string>
   <string name="eq_preset_select">Odaberi podešenje</string>
   <string name="eq_rock">Rock</string>
@@ -429,6 +429,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="monthly_price">Mi Kredita</string>
   <string name="more">Više</string>
   <string name="more_about_artist">Više o %s</string>
+  <string name="more_add_song_list">Dodaj na popis pjesama</string>
   <string name="more_online_artist">Više</string>
   <string name="more_online_billboard">Više</string>
   <string name="more_online_fm">Više</string>
@@ -439,6 +440,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="more_settings">Napredne postavke</string>
   <string name="more_settings_summary">Postavke preuzimanja, sleep timer, upravljanje mobilnim podacima, filteri datoteka itd.</string>
   <string name="multichoice">Odaberi</string>
+  <string name="more_share">Podijeli</string>
   <string name="music_browser_label">Glazba</string>
   <string name="music_filter">Filtriraj audio datoteke</string>
   <string name="music_service">Glazbena usluga</string>
