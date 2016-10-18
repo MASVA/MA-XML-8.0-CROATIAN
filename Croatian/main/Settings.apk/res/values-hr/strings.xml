@@ -2785,7 +2785,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="preferred_network_type_title">Željena vrsta mreže</string>
   <string name="preferred_sms_settings">Ova aplikacija će biti postavljena kao zadana aplikacija za čitanje i pisanje SMS poruka.</string>
   <string name="preferred_sms_title">Zadana aplikacija SMS-a</string>
-  <string name="preferred_sms_warning_message">Korištenje \"%1$s\" kao zadane aplikacija za razmjenu poruka može povećati mobilnu uporabu podataka ili ugroziti sigurnost vaših podataka.</string>
+  <string name="preferred_sms_warning_message">Korištenje \"%1$s\" kao zadane aplikacija za razmjenu poruka može povećati mobilnu uporabu podataka ili ugroziti sigurnost vaših podataka i ne može koristiti RCS.</string>
   <string name="preferred_sms_warning_use_system">"Nemoj koristiti"</string>
   <string name="primary_sub_select_title">Zadana 4G/3G Pretplata</string>
   <string name="print_blocked_state_title_template">Pisač je blokirao %1$s</string>
