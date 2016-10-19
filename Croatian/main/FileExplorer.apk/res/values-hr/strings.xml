@@ -742,6 +742,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
 Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="slashes">/</string>
   <string name="smb_loading">Samo trenutak…</string>
+  <string name="sort_size_asc">Manje prema većem</string>
+  <string name="sort_size_desc">Veće prema manjem</string>
   <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>

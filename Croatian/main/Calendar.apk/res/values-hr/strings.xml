@@ -496,6 +496,7 @@
   <string name="when_label">Kad</string>
   <string name="where_label">Gdje</string>
   <string name="widget_events">Nadolazeći događaj</string>
+  <string name="widget_get_weather_info">Dobivanje informacija o vremenu &gt;</string>
   <string name="widget_no_events">Nema događaja</string>
   <string name="widget_select_style">Odaberite stil</string>
   <string name="work_day_indication"/>

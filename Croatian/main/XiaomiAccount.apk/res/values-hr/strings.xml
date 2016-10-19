@@ -143,6 +143,7 @@
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovo.</string>
   <string name="ignore">Ne sada</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
+  <string name="io_error_title">Potvrdite vašu mrežu</string>
   <string name="just_a_second">Samo trenutak…</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
   <string name="local_device">(ovaj uređaj)</string>

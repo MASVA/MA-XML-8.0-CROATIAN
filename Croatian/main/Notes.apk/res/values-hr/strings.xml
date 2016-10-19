@@ -112,7 +112,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi bilješke</string>
-  <string name="pref_title_show_root_folder_in_homepage">Prikaži brze bilješke na početnoj stranici</string>
+  <string name="pref_title_show_root_folder_in_homepage">Prikaži samo brze bilješke na početnoj stranici</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Brzo brisanje</string>
   <string name="privacy_hint">Privatnost</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
