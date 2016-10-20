@@ -23,6 +23,6 @@
   <string name="sent_label">"Poslano: "</string>
   <string name="sms_card_partner_label">"SMS kartica partnera: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-  <string name="text_message">Tekstualna poruk</string>
+  <string name="text_message">Tekstualna poruka</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
 </resources>

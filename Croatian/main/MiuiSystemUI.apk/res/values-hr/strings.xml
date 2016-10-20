@@ -170,12 +170,13 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="float_incall_message">Poruka</string>
   <string name="gps_notification_found_text">Lokaciju postavio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
-  <string name="headset_settings">Slušalice su spojene</string>
+  <string name="headset_settings">Slušalice su priključene</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">USB punjenje nije podržano.
  Koristite isključivo originalni punjač.</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Prikaži</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
   <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podržava pomicanje snimke zaslona."</string>
@@ -242,7 +243,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="recent_task_lock_text">Zaključaj</string>
   <string name="recent_task_unlock_text">Otključaj</string>
   <string name="reject_call">Poziv odbijen</string>
-  <string name="return_to_incall_screen">Povratak na poziv</string>
+  <string name="return_to_incall_screen">Natrag na poziv</string>
   <string name="save_mode_btn_ok">U redu</string>
   <string name="saved_network">Spremljeno od %1$s</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
@@ -273,7 +274,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="settings_toggle_position_divider_page">Broj aktivnih prečaca iznad ove trake: %1$d</string>
   <string name="settings_toggle_position_reset">Poništi prečace</string>
   <string name="share">Podijeli</string>
-  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+  <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
   <string name="status_bar_date_format">"EEEE
  d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
@@ -310,8 +311,8 @@ Povucite dolje za zaključavanje"</string>
   <string name="title_usb_accessory">USB dodatak</string>
   <string name="torch_activity_hint">Drži [ikonu] za uključivanje svjetiljke na zaklj. zaslonu</string>
   <string name="torch_activity_name">Svjetiljka</string>
-  <string name="torch_closed">Svjetiljka ugašena</string>
-  <string name="torch_opened">Svjetiljka upaljena</string>
+  <string name="torch_closed">Svjetiljka isključena</string>
+  <string name="torch_opened">Svjetiljka uključena</string>
   <string name="usb_accessory_confirm_prompt">Otvoriti %1$s kada je uključen ovaj USB dodatak?</string>
   <string name="usb_accessory_permission_prompt">Dopustiti aplikaciji %1$s pristup USB dodatku?</string>
   <string name="usb_accessory_uri_prompt">Niti jedna od instaliranih aplikacija ne radi s ovim USB dodatkom. Saznajte više o ovom dodatku na %1$s</string>
@@ -358,7 +359,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="wifi_disabled_password_failure">Problem u autentikaciji</string>
   <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
   <string name="wifi_fail_to_scan">"Ne mogu skenirati mreže"</string>
-  <string name="wifi_no_internet">"Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja.."</string>
+  <string name="wifi_no_internet">"Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja."</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_none">Ništa</string>
