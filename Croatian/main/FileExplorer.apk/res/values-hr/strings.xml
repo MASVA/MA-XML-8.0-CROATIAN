@@ -907,22 +907,22 @@ oslobodili prostor.</string>
   <string name="user_not_video_btn_text">Pošaljite prvo videozapis</string>
   <string name="user_recommend_follow">Preporučeni profili</string>
   <string name="user_setting_follow_new_msg">Obavijesti od osoba koje pratite</string>
-  <string name="user_setting_follow_new_msg_tip">Primaj obavijesti novih videozapisa</string>
+  <string name="user_setting_follow_new_msg_tip">Biti ćete obaviješteni o novim videozapisima</string>
   <string name="user_setting_followed_msg">Obavijesti o pratiteljima</string>
   <string name="user_setting_followed_msg_tip">Biti će te obaviješteni kad vas ljudi počnu pratiti</string>
   <string name="user_setting_hot_comment">Obavijesti istaknutih komentara</string>
-  <string name="user_setting_hot_comment_tip">Primaj obavijesti kada su vaši komentari istaknuti</string>
+  <string name="user_setting_hot_comment_tip">Biti ćete obaviješteni kada su vaši komentari istaknuti</string>
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obavijest novog komentara</string>
   <string name="user_setting_new_comment_tip">Dobit će te obavijest o odgovorima na vaše komentare i videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obavijest o novoj poruci</string>
-  <string name="user_setting_new_liked_tip">Dobiti će te obavijest kada se nekome svidi vaš videozapis ili komentar</string>
+  <string name="user_setting_new_liked_tip">Biti ćete obaviješteni kada se nekome svidi vaš videozapis ili komentar</string>
   <string name="user_setting_play_num">Obavijesti o pregledima</string>
   <string name="user_setting_play_num_tip">Primaj obavijesti o broju pregleda vaših videozapisa</string>
   <string name="user_setting_topic_new_msg">Dojava novih vrućih tema</string>
-  <string name="user_setting_topic_new_msg_tip">Dobiti će te obavijest o novim videozapisima u temama koje pratite</string>
+  <string name="user_setting_topic_new_msg_tip">Biti ćete obaviješteni o novim videozapisima u temama koje pratite</string>
   <string name="user_setting_video_has_hot_comment">Obavijesti popuarnih komentara</string>
-  <string name="user_setting_video_has_hot_comment_tip">Primaj obavijesti kada vaši videozapisi dobiju popularne komentare</string>
+  <string name="user_setting_video_has_hot_comment_tip">Biti ćete obaviješteni kada vaši videozapisi dobiju popularne komentare</string>
   <string name="user_sex">Spol</string>
   <string name="user_sign">Potpis</string>
   <string name="user_topic_btn_text">Pogledaj više tema</string>
@@ -1004,12 +1004,12 @@ oslobodili prostor.</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
-  <string name="youliao_ad_msg">"Aplikacija je nadograđena na punu verziju, uživajte!
-Gledajte zajedno sa 170 milijuna Mi fanova."</string>
-  <string name="youliao_ad_title">Popularni videozapisi sada su nadograđeni na punu verziju!</string>
+  <string name="youliao_ad_msg">"Zabavite se s "Youliao"!
+Pridružite se 170 milijuna Mi Obožavatelja!"</string>
+  <string name="youliao_ad_title">Popularni videozapisi su unaprijeđeni!</string>
   <string name="youliao_ad_update">Ažuriraj</string>
-  <string name="youliao_dialog_msg">"Popularni videozapisi su nadograđeni na \"Youliao\", 
-sada nadogradite aplikaciju na punu verziju, gledajte više."</string>
+  <string name="youliao_dialog_msg">"Popularni videozapisi su zamijenjeni sa "Youliao",
+a to je aplikacija namijenjena da vam donese još više zabave!"</string>
   <string name="youliao_dialog_title">Nema zanimljivih videozapisa?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Nema komentara</string>

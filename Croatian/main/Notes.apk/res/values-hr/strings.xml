@@ -98,6 +98,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_link_select">"Odaberi tekst"</string>
   <string name="note_link_tel">"Nazovi"</string>
   <string name="note_link_web">Pregledaj u Pregledniku</string>
+  <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>

@@ -136,7 +136,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_condition_restore_task_when_charged">Promjeni na prethodni način rada nakon punjenja</string>
   <string name="auto_task_condition_time_duration_text">Od %1$s do %2$s</string>
   <string name="auto_task_condition_time_pick_title">Postavi timer</string>
-  <string name="auto_task_condition_time_text">Na %s</string>
+  <string name="auto_task_condition_time_text">U %s</string>
   <string name="auto_task_dialog_button_close">Dovršeno</string>
   <string name="auto_task_edit_abandon_change">Odbaciti promjene?</string>
   <string name="auto_task_edit_activity_title">Moji autom. zadaci</string>
@@ -149,7 +149,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_edit_my_custom_task">Naziv</string>
   <string name="auto_task_edit_operation_summary">Na primjer, \"Uključi Zrakoplovni način\"</string>
   <string name="auto_task_edit_task_name">Naziv</string>
-  <string name="auto_task_main_summary">Promijeni postavke sustava za određeno vremensko razdoblje ili razini baterije</string>
+  <string name="auto_task_main_summary">Promijeni postavke sustava prema određenom vremenskom razdoblju ili razini baterije</string>
   <string name="auto_task_main_title">Automatizirani zadaci</string>
   <string name="auto_task_mamange_activity_title">Postavke</string>
   <string name="auto_task_manage_delete_prompt">Izbrisati odabrane zadatke?</string>
@@ -314,6 +314,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="card_main_netcheck_action">Test</string>
   <string name="card_main_netcheck_summary">Testiraj vezu za probleme s mrežom</string>
   <string name="card_main_netcheck_title">Testiraj mrežu</string>
+  <string name="card_main_overscroll_tips">Sigurnost u najboljem izdanju</string>
   <string name="card_main_paysafe_action">Uključi</string>
   <string name="card_main_paysafe_summary">Skeniraj okolinu plaćanja za potencijalne rizike</string>
   <string name="card_main_paysafe_title">Sigurnost plaćanja</string>
@@ -525,6 +526,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gateway_exception_title">Testiraj router</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
+  <string name="handle_bar_summary_wifi_unknown">Nepoznato</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Poruke</string>
   <string name="handle_bar_title_system">Sustav</string>
@@ -1375,6 +1377,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sorted_button">Poredaj po</string>
   <string name="sorted_dialog_title">Poredaj po</string>
   <string name="sp_back_title_text_zero">Osiguraj</string>
+  <string name="sp_button_text_ignore_alert_title">Ignorirati ovu označenu stavku?</string>
+  <string name="sp_empty_title_sign_exception">Pritisnite i držite aplikaciju na stranici s rezultatima za dodavanje na popis iznimki</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
   <string name="sp_network_privacy_dialog_message">"Aplikacija Sigurnost ne može provjeriti plaćanja jer ste joj ograničili povezivanje s internetom. Dopustiti aplikaciji Sigurnost povezivanje s internetom?"</string>
@@ -1382,8 +1386,16 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_safe_score_text">Plaćanje je sigurno</string>
   <string name="sp_scan_item_monitor">Nadziranje plaćanja</string>
   <string name="sp_scan_item_url_antispam">Zaštita od zlonamjernih poveznica</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Upravljaj iznimkama prijava</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Upravljaj iznimkama virusa</string>
+  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_title_sign_exception">Iznimke prijava</string>
+  <string name="sp_settings_check_item_title_update">Ažuriranje sustava</string>
+  <string name="sp_settings_check_item_title_virus_exception">Iznimke Virusa</string>
+  <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_group_title_check_item">Provjeri stavke Postavke</string>
   <string name="sp_settings_group_title_ime">Osiguraj IME postavke</string>
-  <string name="sp_settings_group_title_omit">Omitted stavke</string>
+  <string name="sp_settings_group_title_omit">Izostavljene stavke</string>
   <string name="sp_settings_info_input_method">Korištenje načina unosa sustava u aplikacijama za plaćanje</string>
   <string name="sp_settings_info_monitor">Nadziri sustav okruženja kada su aplikacije za plaćanje pokrenute</string>
   <string name="sp_settings_plugin_monitor_summary">Skeniraj kada se dodaci plaćanja pokrenuti u aplikacijama</string>
@@ -1587,6 +1599,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_virus_update_yes">Autom. ažuriranje definicija virusa uključeno</string>
   <string name="title_virus_yes">Nema otkrivenih virusa</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Iznimka virusa već postoji!</string>
   <string name="toast_auto_traffic_correct">Uporaba podataka podešena je automatski</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
@@ -1723,6 +1736,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_step_num">Postavke uporabe</string>
   <string name="traffic_warning_purchase_title">Upozorenje uporabe podataka</string>
   <string name="unable_connect_internet">"Ne mogu se povezati na mrežu"</string>
+  <string name="uninstall_app_dialog_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
+  <string name="uninstall_app_dialog_title">Deinstalirati sada?</string>
+  <string name="uninstall_app_done">Deinstaliranje završeno</string>
    <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
