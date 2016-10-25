@@ -806,7 +806,6 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
 
  3. Signal mreže mobilnog operatera može biti slab na vašoj trenutnoj lokaciji."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
-  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežu."</string>
