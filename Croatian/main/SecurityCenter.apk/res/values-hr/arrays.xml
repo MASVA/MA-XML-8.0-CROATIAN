@@ -102,4 +102,7 @@
         <item>Vikendom</item>
         <item>Prilagođeno</item>
     </string-array>
+	<string-array name="long_add_menu">
+         <item>Dodaj u iznimke</item>
+    </string-array>
 </resources>

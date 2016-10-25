@@ -1349,7 +1349,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_service_password_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi zaporku.</string>
   <string name="enable_service_pattern_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi uzorak.</string>
   <string name="enable_service_pin_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi PIN.</string>
-  <string name="enable_service_title">Želite li upotrijebiti uslugu %1$s?</string>
+  <string name="enable_service_title">Ova usluga će obavljati ove akcije:</string>
   <string name="enable_snapshot_screenlock">Dugi pritisnite tipku Natrag da snimite fotografiju</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>

@@ -57,6 +57,7 @@
   <string name="adblock_websites_settings_title">Blokirane stranice</string>
   <string name="add_bookmark_group">Dodaj grupu</string>
   <string name="add_bookshelf_popup_text">Dodano na policu</string>
+  <string name="add_favorites_to">Dodaj favorite u</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
@@ -336,6 +337,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="homepage_top_card_menu">Na vrh</string>
   <string name="in_incognito">Anoniman mod je aktivan, neće ostati povijest preglednika.</string>
   <string name="in_secureaccess">Preglednik u sigurnom načinu rada</string>
+  <string name="isReplacePage">Datoteka već postoji, zamijeniti je?</string>
   <string name="is_first_history_item">Ovo je prva stranica u povijesti Preglednika</string>
   <string name="is_first_tab">Ovo je prva kartica</string>
   <string name="is_last_history_item">Ovo je zadnja stranica u povijesti Preglednika</string>

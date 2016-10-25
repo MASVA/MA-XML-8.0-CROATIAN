@@ -101,6 +101,10 @@
   <string name="lockscreen_wallpaper">Zaklj. zaslon</string>
   <string name="lockstyle_personal_settings">Prilagođeno</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvona se istovremeno primjenjuje na SIM karticu 1 i SIM karticu 2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Shvaćam</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne prikazuj ponovno"</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Problemi s kompatibilnošću</string>
   <string name="my_gifts">Pokloni</string>
   <string name="my_gifts_purchased">Kupljeni</string>
   <string name="my_gifts_received">Primljeni</string>

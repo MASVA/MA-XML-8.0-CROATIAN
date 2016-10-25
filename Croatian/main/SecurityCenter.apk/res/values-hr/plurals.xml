@@ -16,6 +16,23 @@
         <item quantity="other">Ovoliko aplikacija (%d) može biti optimizirano</item>
         <item quantity="one">%d aplikacija može biti optimizirana</item>
     </plurals>
+	<plurals name="people">
+         <item quantity="other">Preuzelo %1$d osoba</item>
+     </plurals>
+     <plurals name="people_million">
+         <item quantity="other">Preuzelo %1$d osoba</item>
+     </plurals>
+     <plurals name="million">
+         <item quantity="other">Preuzelo %1$d osoba</item>
+    </plurals>
+    <plurals name="view_num">
+         <item quantity="other">%1$d pregleda</item>
+         <item quantity="zero">%1$d pregleda</item>
+         <item quantity="one">%1$d pregled</item>
+         <item quantity="two">%1$d pregleda</item>
+         <item quantity="few">%1$d pregleda</item>
+         <item quantity="many">%1$d pregleda</item>
+    </plurals>
 	<plurals name="system_check_content">
          <item quantity="other">%1$d stavki osigurano</item>
          <item quantity="one">%1$d stavka osigurana</item>
@@ -111,6 +128,22 @@
 	<plurals name="summary_app_update">
         <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
         <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
+    </plurals>
+	<plurals name="hints_handle_item_text_risk_number">
+         <item quantity="other">%d rizika,</item>
+         <item quantity="one">%d rizik,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+         <item quantity="other">%d trojanaca,</item>
+         <item quantity="one">%d trojanac,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+         <item quantity="other">%d rizika</item>
+         <item quantity="one">%d rizik</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+         <item quantity="other">%d​ pronađenih rizika, popravi sada</item>
+         <item quantity="one">%d pronađen rizik, popravi sada</item>
     </plurals>
 	<plurals name="notification_apps">
         <item quantity="other">%d aplik. sadrži rizik privatnosti</item>

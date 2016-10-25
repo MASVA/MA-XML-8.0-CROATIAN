@@ -30,6 +30,7 @@
   <string name="button_exit">Izlaz</string>
   <string name="button_not_allow">Odustani</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
+  <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
   <string name="common_loading_text">Samo trenutak…</string>

@@ -29,6 +29,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_apps_manager">Aplik.</string>
   <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
   <string name="activity_title_create_shortcut">Prečac</string>
+  <string name="activity_title_deep_clean">Dubinsko čišćenje</string>
   <string name="activity_title_default_apps_manager">Zadane aplik.</string>
   <string name="activity_title_garbage_cleanup">Čistač</string>
   <string name="activity_title_license_manager">Dopuštenja</string>
@@ -53,7 +54,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Detalji virusa</string>
   <string name="activity_title_virus_settings">Postavke</string>
-  <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovo</string>
+  <string name="activity_title_white_list">Iznimke</string>
+  <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
   <string name="adb_install_open">Dopuštanje…</string>
   <string name="adb_install_open_error">"Ne mogu dopustiti, provjerite mrežnu vezu"</string>
   <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
@@ -100,6 +102,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_check_sub_title_text">Optimizirajte aplikacija da biste riješili probleme baterije</string>
   <string name="app_detail">Detalji</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
+  <string name="app_install_tips_go_to">Otvori</string>
+  <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Zaklj. aplikacije</string>
   <string name="app_name_na">Uporaba podataka</string>
@@ -234,6 +238,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
   <string name="bind_xiaomi_account_summary">Koristite Mi Račun za poništavanje zaporke</string>
   <string name="bind_xiaomi_account_title">Dodaj Mi Račun</string>
+  <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_time">Uključivanje: %1$s</string>
   <string name="boot_time_day">Uključivanje: %2$s %1$dd</string>
@@ -257,6 +262,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="btn_text_optimize_now">Optimiziraj</string>
   <string name="btn_text_power_cleanup">Super Čistač</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimiziraj</string>
+  <string name="btn_text_quick_antivirus">Popravi</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
   <string name="btn_text_quick_optimize">Optimiziraj</string>
   <string name="btn_text_quick_save_power">Optimiziraj</string>
@@ -272,6 +278,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_text_cleanup">Očisti</string>
   <string name="button_text_clear">Očisti</string>
   <string name="button_text_create_shortcut">Napravi prečac na Početnom zaslonu</string>
+  <string name="button_text_delete_from_virus_white_list">Ukloni</string>
   <string name="button_text_deny">Odbij</string>
   <string name="button_text_disconnect_now">Prekini vezu</string>
   <string name="button_text_fix">Popravi</string>
@@ -279,6 +286,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Zanemariti ovo upozorenje?</string>
   <string name="button_text_known">U redu</string>
+  <string name="button_text_let_me_select">Shvaćam</string>
   <string name="button_text_next_step">Dalje</string>
   <string name="button_text_next_step_timer">Dalje (%d)</string>
   <string name="button_text_open_now">Otvori</string>
@@ -291,6 +299,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_text_update_now">Ažuriraj</string>
   <string name="button_text_view">Optimiziraj</string>
   <string name="button_text_view_power">Prikaži</string>
+  <string name="buy_immediately">Kupi</string>
+  <string name="buy_traffic_pack">Kupite još podataka</string>
   <string name="byteShort">B</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
   <string name="call_and_contact">Pozivi i Kontakti</string>
@@ -339,6 +349,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="choose">Odaberite</string>
   <string name="clean_immediately">Očisti</string>
   <string name="cleaned">Očišćeno</string>
+  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
+  <string name="clear_garbage">Izbrišite Smeće da oslobodite prostor</string>
+  <string name="clear_immediately">Očisti sada</string>
+  <string name="close">Zatvori</string>
   <string name="cmcc_app_check_dialog_message">Ponovno pokrenite uređaj za dovršetak popravka.</string>
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
@@ -354,11 +368,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="continue_install">Instaliraj</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">"Ne zahtijeva zaporku nakon što je 1 aplikacija je otključana"</string>
-  <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovo.</string>
+  <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovno.</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
-  <string name="cta_checkbox_title">"Ne prikazuj ponovo"</string>
-  <string name="cta_dialog_msg">Centar za sigurnost možda treba za povezivanje s internetom za preuzimanje ažuriranja.</string>
+  <string name="cta_checkbox_title">"Ne prikazuj ponovno"</string>
+  <string name="cta_dialog_msg">Aplikacija Sigurnost zahtijeva internetsku vezu za preuzimanje ažuriranja, kao i pristup do lokacije da radi normalno.</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_settings">Dopusti povezivanje s internetom</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
@@ -467,6 +481,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">Nema aplikacija</string>
   <string name="empty_title_auto_start_list">Nema aplik. s autom. pokretanjem</string>
+  <string name="empty_title_garbage_virus_white_list">Čuvajte rezultate na popisu da ih preskočite tijekom idućeg skeniranja</string>
   <string name="empty_title_manual_item_white_list">Nema iznimaka</string>
   <string name="empty_title_perm_apps">Nema aplik. s ovim dopuštenjem</string>
   <string name="empty_title_permission_apps_list">Nema aplikacija.</string>
@@ -494,7 +509,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="fingerprint_verification_message">Skenirajte svoj otisak prsta za korištenje ove značajke.</string>
   <string name="fingerprint_verify_failed">"Ne mogu potvrditi otisak"</string>
   <string name="fingerprint_verify_succeed">Otisak prsta potvrđen</string>
-  <string name="fingerprint_verify_try_agin">"Ne mogu skenirati otisak prsta, pokušajte ponovo"</string>
+  <string name="fingerprint_verify_try_agin">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
   <string name="firewall_activity_lable">Ograničite uporabu podataka aplikacija</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -511,6 +526,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
+  <string name="flow_rank_title">Uporaba podataka</string>
   <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
   <string name="foreground_traffic">Prednja strana %s</string>
@@ -521,11 +537,14 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="garbage_clean_detail">Detalji</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
   <string name="gigabyteShort">GB</string>
+  <string name="go_to">Nastavi</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
+  <string name="goto_set">Postavi</string>
   <string name="handle_bar_summary_wifi_unknown">Nepoznato</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Poruke</string>
@@ -540,6 +559,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za uštedu baterije"</string>
   <string name="hide_mode_title_text">Skriveni način</string>
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacija i usluge neće moći primati obavijesti."</string>
+  <string name="hints_cleanning_done">Uspješno skenirano</string>
   <string name="hints_cleanning_text">Čišćenje…</string>
   <string name="hints_handle_item_text_risk">Rizika: %d</string>
   <string name="hints_handle_item_text_safe">Sigurno</string>
@@ -567,9 +587,12 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_risk_app_list_item_summary">Rizik (app)</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Rizik:</string>
+  <string name="hints_scan_progress">Završeno: %d</string>
+  <string name="hints_scan_result_phone_safe">Sve izgleda dobro</string>
   <string name="hints_scan_result_risk">Otkriven rizik</string>
   <string name="hints_scan_result_safe">Sigurno</string>
   <string name="hints_scan_result_virus">Otkriven virus</string>
+  <string name="hints_scanning">Skeniranje…</string>
   <string name="hints_scanning_text">Skeniranje…</string>
   <string name="hints_scanning_virus_by_cloud">Cloud skeniranje…</string>
   <string name="hints_unknown_virus_name">Nepoznato</string>
@@ -582,6 +605,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ova je aplikacija opasna za sigurnost vašeg uređaja</string>
   <string name="history_details_title">Detalji povijesti</string>
+  <string name="hot">Popularno</string>
+  <string name="hot_today">Popularno danas</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="information_setting">Postavke Novosti</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
@@ -655,9 +680,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="lockpattern_recording_incorrect_too_short">Povežite najmanje %d točke</string>
   <string name="lockpattern_recording_inprogress">"Podignite prst kad ste završili"</string>
   <string name="lockpattern_recording_intro_header">Povežite najmanje 4 točke za izradu uzorka</string>
-  <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
+  <string name="lockpattern_retry_button_text">Pokušaj ponovno</string>
   <string name="lockpattern_settings_help_how_to_record">Iscrtajte uzorak za otključavanje</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Pokušajte ponovo za %d s."</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Pokušajte ponovno za %d s."</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
   <string name="lockpattern_tutorial_cancel_label">Odustani</string>
   <string name="lockpattern_tutorial_continue_label">Dalje</string>
@@ -668,6 +693,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="long_click_dialog_summary">Ćuvajte rezultate na popisu da biste ih dodali Iznimke</string>
+  <string name="long_click_dialog_title">Attention</string>
   <string name="main_activity_content_summary_root">ROOT pristup</string>
   <string name="main_activity_content_summary_update">Ažuriranje sustava</string>
   <string name="main_activity_content_title_scanning">Skeniranje…</string>
@@ -779,6 +806,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
 
  3. Signal mreže mobilnog operatera može biti slab na vašoj trenutnoj lokaciji."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežu."</string>
@@ -816,10 +844,13 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="network_speed_for_apps_others">Ostalo</string>
   <string name="network_speed_for_apps_title">Veza</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
-  <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovo.</string>
+  <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
-  <string name="never">jedanput</string>
+  <string name="never">Jedanput</string>
+  <string name="news_change">Promjeni</string>
   <string name="next_step_button">Dalje</string>
+  <string name="no_network">"Ne mogu se povezati s mrežom, pokušajte ponovno kasnije"</string>
+  <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_battery_consume_abnormal_summary">Ispražnjeno %2$s baterije tijekom zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
@@ -848,6 +879,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
   <string name="open">Otvori</string>
+  <string name="open_app">Otvori</string>
+  <string name="open_browser">Otvori u pregledniku</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
   <string name="online_songs">Glazba</string>
@@ -937,6 +970,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="permit_running_network">Pozadinski podaci</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="pkg_traffic">Postavite ograničenje uporabe podataka</string>
+  <string name="please_continue_keep">Zadrži</string>
   <string name="pm_auto_start_by_other">Aktivirano pokretanje</string>
   <string name="pm_auto_start_by_other_app">Dopustiti aplikaciji da bude pokrenuta od strane druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zaključaj</string>
@@ -1132,11 +1166,13 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_category_title_reference_settings">Dodatne postavke</string>
   <string name="pref_category_title_securitycenter_settings">Općenito</string>
   <string name="pref_category_title_virus_lib_auto_update">Automatski ažuriraj Definicije</string>
+  <string name="pref_category_title_virus_white_list">Iznimke</string>
   <string name="pref_check_network_diagnostics">"Testiranje internetske veze uređaja"</string>
   <string name="pref_connect_settings_enable_background">Dopusti podatke u pozadini</string>
   <string name="pref_connect_settings_enable_background_hint">"Dopusti Aplikacijama korištenje mobilnih podataka kada ih ne koristite"</string>
   <string name="pref_connect_settings_exceed_limit">Ograniči uporabu podataka</string>
   <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dostigne ograničenje</string>
+  <string name="pref_content_virus_white_list_none">Nema stavki</string>
   <string name="pref_daily_adjust">Postavite ograničenje uporabe podataka</string>
   <string name="pref_daily_traffic">Ograničenje uporabe podataka</string>
   <string name="pref_data_usage_ignore_settings">Ignoriraj uporabu podataka</string>
@@ -1170,6 +1206,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_specified_adjust">Postavljanje prilagođenog ograničenja podataka</string>
   <string name="pref_specified_traffic_settings">Postavke ograničenja podataka</string>
   <string name="pref_summary_lock_screen_memory_clean">Očisti automatski kad je uređaj zaključan</string>
+  <string name="pref_summary_virus_white_list">Spriječi odabrane aplikacije od čišćenja</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti kod zaklj. zaslona</string>
@@ -1179,6 +1216,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
+  <string name="pref_title_virus_white_list">Iznimke</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski dodaj aplikacije s mogućnošću uštede podataka u iznimke</string>
   <string name="pref_traffic_saving_compressed">Smanjeno</string>
@@ -1243,10 +1281,11 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>
   <string name="recommend_app">Preporučene aplikacije</string>
   <string name="recommend_news">Preporučeni izvori</string>
+  <string name="recommended">Istaknuto</string>
   <string name="reject_all">Ograniči svima</string>
   <string name="reject_countdown">Odbij (%d)</string>
   <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
-  <string name="renew_ip">Pokušaj ponovo</string>
+  <string name="renew_ip">Pokušaj ponovno</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Učitavanje…</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
@@ -1342,8 +1381,11 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="security_scan_card_clean_now">Skeniraj</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="see_detail">Detalji</string>
+  <string name="see_more">Više</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="set_applock_password">Postavite zaporku</string>
+  <string name="set_immediately">Postavi</string>
+  <string name="seton_immediately">Uključi</string>
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
   <string name="setting_traffic_pkg">Postavite paket podataka</string>
   <string name="settings">Postavke uporabe podataka</string>
@@ -1357,6 +1399,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="settings_power_save_ontime_title">Raspored</string>
   <string name="settings_title_payment_security">Postavke Sigurnosti plaćanja</string>
   <string name="settings_title_permission">Postavke Dopuštenja</string>
+  <string name="share">Podijeli</string>
   <string name="show_traffic_dialog_message">Detalji vaše uporabe podataka će biti prikazani u panelu obavijesti. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Uporaba podataka &gt; Postavke</string>
   <string name="show_traffic_dialog_title">Prikaži uporabu u panelu obavijesti</string>
   <string name="showpattern">Postavke Dopuštenja</string>
@@ -1403,8 +1446,10 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_settings_root_title_omit">Provjeri ROOT pristup</string>
   <string name="sp_settings_title_input_method">Osiguraj IME</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
+  <string name="sponsored">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Odaberite profil</string>
   <string name="start_diagnostic_botton">Start</string>
+  <string name="start_downloading_app">Započinje preuzimanje: %1$s</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="stop_app_button">Zaustavi</string>
   <string name="suffix_pay_risk_count_bottom">rizika</string>
@@ -1541,6 +1586,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="text_button">U redu</string>
   <string name="text_day"/>
   <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
+  <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
   <string name="third_application">Instalirane aplikacije</string>
   <string name="three_percent_total_pkg">%s (3%% od mjes. podataka)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -1551,6 +1597,12 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="timeshow_s">%dsek</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje"</string>
   <string name="tips_message">"Za prikaz detalja vašeg ograničenja, birajte %2$s (%1$s) (Samo Kina)"</string>
+  <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije da uštedite prostor za pohranu</string>
+  <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od automatskog pokretanja</string>
+  <string name="tips_of_operators_set">Prilagodite statistiku uporabe podataka automatski</string>
+  <string name="tips_of_package_set">Postavite svoj plan podataka i kontrolirajte količinu prometa koju koristite</string>
+  <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
+  <string name="tips_of_virus_scan">Skenirajte redovito svoj uređaj za virusima da ga zadržite sigurnim</string>
   <string name="title_app_lock_disable">Zaklj. aplikacija</string>
   <string name="title_app_update">Dostupna ažuriranja</string>
   <string name="title_auto_update">Ažuriraj automatski</string>
@@ -1582,12 +1634,17 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>
   <string name="title_network_switch">Povezivanje s mrežom</string>
+  <string name="title_of_app_manage">Aplikacije</string>
+  <string name="title_of_auto_launch_manage">Autom. pokretanja</string>
+  <string name="title_of_operators_set">Postavke davatelja usluge</string>
+  <string name="title_of_package_set">Postavke plana podataka</string>
   <string name="title_payment_risk">Pronađeni rizici plaćanja</string>
   <string name="title_permission_no">Upravitelj dopuštenja isključen</string>
   <string name="title_permission_root">ROOT pristupa</string>
   <string name="title_permission_yes">Upravitelj dopuštenja uključen</string>
   <string name="title_power_optimizer">Štednja baterije</string>
   <string name="title_realname_verify">ID provjera</string>
+  <string name="title_share_link">Podijeli URL</string>
   <string name="title_saving_switch">Ušteda podataka</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
   <string name="title_telecom_operator">Automatski podesi</string>
@@ -1600,6 +1657,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_virus_yes">Nema otkrivenih virusa</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_add_virus_white_list_no_need_repeat">Iznimka virusa već postoji!</string>
+  <string name="toast_add_virus_white_list_success">Dodano u Iznimke. Pregledajte stavke u postavkama.</string>
   <string name="toast_auto_traffic_correct">Uporaba podataka podešena je automatski</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
@@ -1609,8 +1667,10 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
   <string name="toast_reject_sms_read_permission_success">Uspješno postavljeno</string>
+  <string name="toast_removed_from_virus_white_list">Uklonjeno iz Iznimaka. Stavka će se skenirati sljedeći put.</string>
   <string name="toast_root_apply_accept">ROOT pristup odobren za %s</string>
   <string name="toast_root_apply_reject">ROOT pristup odbijen za %s</string>
+  <string name="toast_select_virus_white_need_remove">Odaberite stavke</string>
   <string name="toast_set_success">Uspješno uključeno</string>
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
@@ -1721,7 +1781,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovo"</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovno"</string>
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalja mreže…</string>
   <string name="traffic_setting_fragment_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
@@ -1739,7 +1799,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="uninstall_app_dialog_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Deinstalirati sada?</string>
   <string name="uninstall_app_done">Deinstaliranje završeno</string>
-   <string name="unlike">Ne hvala</string>
+  <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
@@ -1766,10 +1826,14 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
-  <string name="use_immediately">Koristi</string>
+  <string name="use_immediately">Upotrijebi</string>
+  <string name="virus_scan">Skeniranje virusa</string>
+  <string name="virus_scan_process_pre">%</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>
   <string name="warning_open_mi_sim">Uključi Mi SIM</string>
+  <string name="white_list_risk_app_header">Opasne aplik.: %d</string>
+  <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="wifi_exception_summary">Testiraj dostupne WLAN mreže</string>
   <string name="wifi_exception_title">Testiraj WLAN mrežu</string>
   <string name="wifi_item_status_connection_no">Nije povezano</string>
