@@ -360,7 +360,8 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="band_mode_succeeded">Uspješno</string>
   <string name="band_mode_title">Postavi mrežu GSM/UMTS</string>
   <string name="baseband_version">Osnovna verzija</string>
-  <string name="batch_delete_saved_network">Izbrisati spremljenu mrežu: %s?</string>
+  <string name="batch_delete_saved_network">Izbrisati odabranu mrežu: %s?</string>
+  <string name="batch_delete_saved_networks">Izbriši sve odabrane mreže</string>
   <string name="battery_action_app_details">Informacije o aplikaciji</string>
   <string name="battery_action_app_settings">Postavke aplikacije</string>
   <string name="battery_action_bluetooth">Bluetooth postavke</string>
@@ -2241,6 +2242,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_HiFi_title">Hi-Fi audio</string>
   <string name="music_audio_effect_optimize">Postavke zvuka</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalice i ostale postavke zvuka</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvuk, slušalice i ostale postavke zvuka</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, slušalice i ostale postavke zvuka</string>
   <string name="music_audio_effect_settings">Postavke efekata</string>
   <string name="music_dirac_control">Optimiziranje kvalitete zvuka</string>
@@ -2276,6 +2278,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_dolby_volume_leveler">Izjednačitelj glasnoće</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Prilagodite individualne razine za različite vrste glazbe</string>
+  <string name="music_hd_title">HD Zvuk</string>
   <string name="music_headphone_settings">Odaberite vrstu slušalica</string>
   <string name="music_headset_button_settings">Podešavanje tipki</string>
   <string name="music_headset_calibrate">Podešavanje tipki</string>
@@ -3123,8 +3126,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_key_press_action">Funkcije pritiska</string>
   <string name="screen_locking_sounds_title">Zvuk zaključavanja zaslona</string>
   <string name="screen_never_timeout_title">Nikada ne miruj</string>
-  <string name="screen_on_proximity_sensor_summary">Automatski zaključaj kada se stavi u džep</string>
-  <string name="screen_on_proximity_sensor_title">Spriječi slučajno biranje u džepu</string>
+  <string name="screen_on_proximity_sensor_summary">Zaključaj geste dodira kada je stavljen u džep</string>
+  <string name="screen_on_proximity_sensor_title">Džepni način</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
@@ -4024,7 +4027,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="touch_sensitive_title">Način rada u rukavicama</string>
   <string name="touch_sensitive_turn_off_cancel">Odustani</string>
   <string name="touch_sensitive_turn_off_confirm">"U redu"</string>
-  <string name="touch_sensitive_turn_off_summary">Isključiti također i sprječavanje slučajnog biranja u džepu?</string>
+  <string name="touch_sensitive_turn_off_summary">Isključiti džepni način također?</string>
   <string name="touch_sensitive_turn_off_title">Način rada u rukavicama je isključen</string>
   <string name="touch_sounds_title">Zvukovi dodirivanja</string>
   <string name="touch_title">Dodir</string>

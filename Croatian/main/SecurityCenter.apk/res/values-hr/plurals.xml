@@ -194,6 +194,10 @@
         <item quantity="other">Traži %d aplik.</item>
         <item quantity="one">Traži %d aplik.</item>
 		</plurals>
+    <plurals name="sp_settings_exception_count">
+         <item quantity="other">%d stavki</item>
+         <item quantity="one">1 stavka</item>
+    </plurals>
 	<plurals name="sp_back_title_text">
         <item quantity="other">%s rizičnih plaćanja</item>
         <item quantity="one">%s rizično plaćanje</item>

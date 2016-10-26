@@ -1435,6 +1435,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_settings_check_item_title_update">Ažuriranje sustava</string>
   <string name="sp_settings_check_item_title_virus_exception">Iznimke Virusa</string>
   <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_exception_count_zero">Nema stavki</string>
   <string name="sp_settings_group_title_check_item">Provjeri stavke Postavke</string>
   <string name="sp_settings_group_title_ime">Osiguraj IME postavke</string>
   <string name="sp_settings_group_title_omit">Izostavljene stavke</string>
@@ -1444,6 +1445,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_settings_plugin_monitor_title">Dodaci nadzora plaćanja</string>
   <string name="sp_settings_root_title_omit">Provjeri ROOT pristup</string>
   <string name="sp_settings_title_input_method">Osiguraj IME</string>
+  <string name="sp_toast_removed_from_sign_white_list">Uklonjeno iz Iznimaka. Stavka će se skenirati sljedeći put.</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Odaberite profil</string>
