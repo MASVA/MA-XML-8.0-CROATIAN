@@ -162,7 +162,7 @@
   <string name="micloud_space_info">%s dostupno</string>
   <string name="mili_center">Mi Krediti</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Ovaj uređaj je povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
+  <string name="miui_provision_find_status_text">"Ovaj je uređaj povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
 (Br. otključavanja: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Mi Računa."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>

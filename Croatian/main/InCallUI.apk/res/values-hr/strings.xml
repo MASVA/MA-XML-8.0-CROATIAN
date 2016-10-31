@@ -190,7 +190,9 @@
   <string name="notification_action_answer_video">Videozapis</string>
   <string name="notification_action_answer_voice">Glasovno</string>
   <string name="notification_action_dismiss">Odbaci</string>
+  <string name="notification_action_earpiece">Slušalica</string>
   <string name="notification_action_end_call">Prekini vezu</string>
+  <string name="notification_action_speaker">Zvučnik</string>
   <string name="notification_dialing">Biranje broja</string>
   <string name="notification_incoming_call">Dolazni poziv</string>
   <string name="notification_incoming_video_call">Dolazni videopoziv</string>

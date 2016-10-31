@@ -120,6 +120,14 @@
         <item quantity="other">Nema dovoljno prostora za pohranu. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
         <item quantity="one">Nema dovoljno prostora za pohranu. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
     </plurals>
+	<plurals name="number_of_images_synced">
+         <item quantity="other">%1$d fotografija</item>
+         <item quantity="one">1 fotografija</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+         <item quantity="other">%1$d videozapisa</item>
+         <item quantity="one">1 videozapis</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">Fotografija (%1$d) čeka na izradu Sig. kopije</item>
         <item quantity="one">1 fotografija čeka na izradu Sig. kopije</item>

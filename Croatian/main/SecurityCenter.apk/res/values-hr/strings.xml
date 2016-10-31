@@ -152,6 +152,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_edit_condition_title">Dodaj stanje</string>
   <string name="auto_task_edit_my_custom_task">Naziv</string>
   <string name="auto_task_edit_operation_summary">Na primjer, \"Uključi Zrakoplovni način\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Naziv</string>
   <string name="auto_task_main_summary">Promijeni postavke sustava prema određenom vremenskom razdoblju ili razini baterije</string>
   <string name="auto_task_main_title">Automatizirani zadaci</string>
@@ -701,6 +703,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="main_alert_message_month_limit_error">Ograničenje podataka nije točno</string>
   <string name="main_alert_message_no_imsi">Nema SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Postavite Ograničenje podataka"</string>
+  <string name="main_alert_message_open_traffic_ctrl">Preporučujemo vam da ograničite uporabu podataka</string>
   <string name="main_alert_message_slot_no_data_connection">"Utor SIM kartice ne podržava
 podatkovnu vezu"</string>
   <string name="main_button_idel_traffic">Ograničenje</string>
@@ -710,6 +713,7 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
   <string name="main_message_no_package_by_dual">Postavite ograničenje podataka za %s</string>
+  <string name="main_open_traffic_ctrl_button">Ograniči uporabu podataka</string>
   <string name="main_primary_message_traffic_cur_leisure">Isključivanje maks. uporabe podataka</string>
   <string name="main_primary_message_traffic_cur_normal">Ispod vrha ograničenja podataka</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Ograničenja podataka prekoračeno</string>
@@ -1216,6 +1220,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
   <string name="pref_title_virus_white_list">Iznimke</string>
+  <string name="pref_traffic_manage_title">Uporaba podataka</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski dodaj aplikacije s mogućnošću uštede podataka u iznimke</string>
   <string name="pref_traffic_saving_compressed">Smanjeno</string>

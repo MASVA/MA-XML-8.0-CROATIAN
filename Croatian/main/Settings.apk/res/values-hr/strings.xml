@@ -308,6 +308,8 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="auto_disable_screenbuttons_auto">Uvijek onemogući</string>
   <string name="auto_disable_screenbuttons_cancel">Odustani</string>
   <string name="auto_disable_screenbuttons_no">Nikad ne onemogućuj</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Kada je vaš uređaj u vodoravnom položaju, navigacijske tipke biti će blokirane</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke u vodoravnom položaju</string>
   <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske tipke prilikom korištenja odabrane aplikacije. Dvaput dodirnite bilo koju navigacijsku tipku da ih ponovno omogućite.</string>
   <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
   <string name="auto_launch_disable_text">Nema zadanih postavki.</string>
@@ -3876,6 +3878,7 @@ Nakon formatiranja ^1 funkcionirat će samo na ovom uređaju.
 
 "&lt;b&gt;Formatiranjem će se izbrisati svi podaci koje ^1 sadrži.&lt;/b&gt; Da ne biste izgubili podatke, napravite sigurnosnu kopiju.</string>
   <string name="storage_wizard_format_confirm_public_title">Formatiraj kao prijenosnu pohranu</string>
+  <string name="storage_wizard_format_confirm_third_body">^1 se formatira</string>
   <string name="storage_wizard_format_confirm_title">Formatiraj kao internu pohranu</string>
   <string name="storage_wizard_format_progress_body">Za vrijeme formatiranja ^1 ne smije se vaditi.</string>
   <string name="storage_wizard_format_progress_title">Formatira se ^1…</string>
