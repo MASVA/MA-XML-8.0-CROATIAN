@@ -303,13 +303,29 @@
      <plurals name="user_sign_limt">
          <item quantity="other">Možete upisati %d znakova</item>
          <item quantity="one">Možete upisati %d znak</item>
-	</plurals>
-    <plurals name="video_items">
+	 </plurals>
+     <plurals name="video_items">
         <item quantity="other"> stavki: %d</item>
         <item quantity="zero"> stavki: %d</item>
         <item quantity="one"> stavki: %d</item>
         <item quantity="two"> stavki: %d</item>
         <item quantity="few"> stavki: %d</item>
         <item quantity="many"> stavki: %d</item>
+     </plurals>
+	 <plurals name="original_user_days">
+         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dana</item>
+         <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dan</item>
+     </plurals>
+     <plurals name="original_user_play_1">
+         <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videozapisa,</item>
+         <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videozapis,</item>
+     </plurals>
+     <plurals name="original_user_play_2">
+         <item quantity="other">Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osoba!</item>
+         <item quantity="one">Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osobu!</item>
+     </plurals>
+     <plurals name="original_user_fans">
+         <item quantity="other">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sljedbenika!</item>
+         <item quantity="one">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sljedbenika!</item>
      </plurals>
 </resources> 

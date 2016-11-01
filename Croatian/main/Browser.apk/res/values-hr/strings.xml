@@ -361,6 +361,7 @@ Napustiti ovu stranicu?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Ne mogu se prijaviti, osvježite i pokušajte ponovno.</string>
   <string name="low_memory_error">Nema dovoljno memorije za dovršenje tog zadatka</string>
+  <string name="low_memory_toast">"Ne mogu koristiti Preglednik zbog premalo memorije"</string>
   <string name="max_tabs_warning">"Ne mogu otvoriti više kartica"</string>
   <string name="maximum_input_alert">"Ne mogu unijeti više od 2048 znakova"</string>
   <string name="media_error_action_refresh">Osvježi</string>

@@ -5,6 +5,7 @@
  Identifikator oglašavanja je stalni ID jedinstven za vaš uređaj. Dobavljači ga koriste za odabir reklamnog sadržaja koji će vam biti koristan.
  
  Ako ne želite koristiti prilagođene oglase, količina oglašavanja neće biti smanjena, ali količina oglasa korisna za vas će se značajno smanjiti."</string>
+  <string name="about_phone_enter_xiaomi_net">Saznajte više</string>
   <string name="about_settings">O uređaju</string>
   <string name="about_settings_summary">Prikaži pravne informacije, status, verziju softvera</string>
   <string name="ac_enable_summary">Postavite zaporku za pojedine aplikacije</string>
@@ -828,6 +829,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="close_dialog">U redu</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
   <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
+  <string name="cmcc_hardware_version">Hardware verzija</string>
   <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
   <string name="cloud_restore_section_summary">Vrati aplikacije, izgled Poč. zaslona i postavke sustava</string>
@@ -854,6 +856,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="color_white">Bijela</string>
   <string name="color_yellow">Žuta</string>
   <string name="common_settings">Brze postavke</string>
+  <string name="complete_parameters">Sve specifikacije</string>
   <string name="complete_settings">Opće postavke</string>
   <string name="computing_size">Izračun…</string>
   <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu Ne ometaj.</string>
@@ -1120,6 +1123,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
+  <string name="device_actionbar_title">Mi 5</string>
   <string name="device_additional_status">Dodatne informacije statusa</string>
   <string name="device_additional_status_summary">Broj telefona, Signal, IMEI, itd.</string>
   <string name="device_admin_add_title">Administrator uređaja</string>
@@ -1127,12 +1131,14 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_admin_status">Taj je administrator aktivan i aplikaciji %1$s dopušta sljedeće:</string>
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
+  <string name="device_complete_parameters">Dovršeno</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">"10-jezgreni "</string>
   <string name="device_cpu2_info">"2-jezgreni "</string>
   <string name="device_cpu4_info">"4-jezgreni "</string>
   <string name="device_cpu6_info">"6-jezgreni "</string>
   <string name="device_cpu8_info">"8-jezgreni "</string>
+  <string name="device_display_layout_title">Mi 5 značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
   <string name="device_info_default">Nepoznato</string>
@@ -1141,7 +1147,9 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_info_settings">Status uređaja</string>
   <string name="device_internal_memory">Unutarnja memorija</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Prikaži više</string>
   <string name="device_miui_version">MIUI verzija</string>
+  <string name="device_miui_version_update">Dostupno je MIUI ažuriranje</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
   <string name="device_name_input_hint">Unesi naziv</string>
@@ -1149,6 +1157,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_picker">Odaberite Bluetooth uređaj</string>
   <string name="device_reset_title">Vrati uređaj na zadano</string>
   <string name="device_sd_memory">SD kartica</string>
+  <string name="device_share_loading">Izrada slike</string>
   <string name="device_security_settings_title">Sigurnost</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
@@ -2148,6 +2157,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="menu_cancel">"Odbaci"</string>
+  <string name="menu_check">Iskustvo</string>
   <string name="menu_delete">Izbriši APN</string>
   <string name="menu_duration_12h">"12 sati"</string>
   <string name="menu_duration_1d">1 dan</string>
@@ -2164,6 +2174,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="menu_proc_stats_type_foreground">Prednji plan</string>
   <string name="menu_restore">Vrati na zadano</string>
   <string name="menu_save">"Spremi"</string>
+  <string name="menu_share">Podijeli</string>
   <string name="menu_show_percentage">Prikaži postotke</string>
   <string name="menu_show_system">Prikaži sustav</string>
   <string name="menu_stats_last_unplugged">Kod posljednjeg isključivanja za %1$s</string>
@@ -2308,6 +2319,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
+  <string name="my_device">Moj uređaj</string>
   <string name="nearby_wifi">"Dostupne mreže"</string>
   <string name="need_reboot_now">Ponovo pokretnite uređaj za instaliranje ažuriranja.</string>
   <string name="network_assistant">Uporaba podataka</string>
@@ -2990,6 +3002,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="radio_info_smsc_refresh_label">"Osvježi"</string>
   <string name="radio_info_smsc_update_label">Ažuriraj</string>
   <string name="radio_info_toggle_dns_check_label">Sažmi DNS provjeru</string>
+  <string name="rank_title">Poredak</string>
   <string name="rarely_running">Rijetko se izvodi (%s)</string>
   <string name="really_remove_account_message">Uklanjanjem ovog računa izbrisat će se sve njegove poruke, kontakti i ostali podaci s uređaja!</string>
   <string name="really_remove_account_title">Ukloniti račun?</string>

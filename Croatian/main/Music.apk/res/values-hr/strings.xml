@@ -466,6 +466,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="network_request_error">"Ne mogu se povezati na mrežu"</string>
   <string name="network_settings_error">"Ne mogu se povezati na mrežu"</string>
   <string name="network_traffic">Uporaba podataka</string>
+  <string name="news_mark">NOVOSTI</string>
   <string name="next_time">Ne sada</string>
   <string name="no_album_info">Nema detalja o albumu</string>
   <string name="no_artist_info">Nema detalja o izvođaču</string>
@@ -525,7 +526,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="order_pending">Čekanje potvrde</string>
   <string name="order_process_fail">"Nije bilo moguće autorizirati vaš račun. Pričekajte nekoliko minuta i pokušajte ponovno."</string>
   <string name="other_filter">Ostalo</string>
-  <string name="othor_song_in_album">Ostale pjesme iz tog albuma.</string>
+  <string name="other_song_in_album">Ostale pjesme iz tog albuma.</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pauzirano</string>
