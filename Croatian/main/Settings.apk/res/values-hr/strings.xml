@@ -74,7 +74,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Autom. ažuriranje uvećanja zaslona</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
-  <string name="accessibility_wifi_off">Wifi isklj.</string>
+  <string name="accessibility_wifi_off">WLAN isklj.</string>
   <string name="accessibility_wifi_one_bar">WLAN jedna linija.</string>
   <string name="accessibility_wifi_signal_full">WLAN puni signal.</string>
   <string name="accessibility_wifi_three_bars">WLAN tri linije.</string>
@@ -85,8 +85,8 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="account_list">Ostali računi</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Automat. sinkroniziraj podatke</string>
-  <string name="account_settings_menu_auto_sync_personal">Aut. sinkroniz. osobne podatke</string>
-  <string name="account_settings_menu_auto_sync_work">Aut. sinkroniz. radne podatke</string>
+  <string name="account_settings_menu_auto_sync_personal">Autom. sinkroniz. osobne podatke</string>
+  <string name="account_settings_menu_auto_sync_work">Autom. sinkroniz. radne podatke</string>
   <string name="account_settings_title">Računi</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="activate_miui_screensaver">Čuvar zaslona tijekom mirovanja</string>
@@ -111,7 +111,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="add_fingerprint_instruction_msg">Otključajte uređaj ili potvrdite plaćanje s vašim otiskom prsta.</string>
   <string name="add_fingerprint_instruction_title">Dodajte svoj otisak prsta</string>
   <string name="add_fingerprint_put_finger_edge_msg">Stavite i maknite prst nekoliko puta sve dok vaš otisak prsta nije potpuno zabilježen.</string>
-  <string name="add_fingerprint_put_finger_msg">Stavite prst na senzor i podignite nakon što osjetite vibraciju.</string>
+  <string name="add_fingerprint_put_finger_msg">Stavite prst na senzor i podignite ga nakon što osjetite vibraciju.</string>
   <string name="add_fingerprint_put_finger_title">Dodajte otisak prsta</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Stavite i maknite prst nekoliko puta sve dok vaš otisak prsta nije potpuno zabilježen.</string>
   <string name="add_fingerprint_text">Dodaj otisak prsta</string>
@@ -200,7 +200,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="apn_type">Vrsta APN-a</string>
   <string name="apn_user">Korisničko ime</string>
   <string name="app_backup">Sig. kopija</string>
-  <string name="app_data_usage">Upotreba podataka za apl.</string>
+  <string name="app_data_usage">Uporaba podataka za apl.</string>
   <string name="app_disable_dlg_positive">Onemogući aplikaciju</string>
   <string name="app_disable_dlg_text">Ako onemogućite ovu aplikaciju, druge aplikacije možda više neće funkcionirati pravilno.</string>
   <string name="app_disable_dlg_title">Onemogućiti ugrađenu aplikaciju?</string>
@@ -227,7 +227,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="app_list_memory_use">Potrošnja aplikacije</string>
   <string name="app_list_preference_none">Ništa</string>
   <string name="app_lock_role_instruction">Zaštitite svoje privatne aplikacije</string>
-  <string name="app_memory_use">Upotreba memorije</string>
+  <string name="app_memory_use">Uporaba memorije</string>
   <string name="app_name_label">Aplikacija</string>
   <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu instaliranih aplikacija."</string>
   <string name="app_not_found_dlg_title"/>
@@ -342,7 +342,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="background_location_control_summary">"Dopusti ili spriječi aplikacije od dobivanja informacija o lokaciji vašeg uređaja u pozadini"</string>
   <string name="background_location_control_title">Pristup pozadinskom lociranju</string>
   <string name="background_location_deselect_apps">Poništi odabir</string>
-  <string name="background_location_requests_summary">"Dopusti Aplikacijama korištenje usluge lociranja kada ih ne koristite"</string>
+  <string name="background_location_requests_summary">"Dopusti aplikacijama korištenje usluge lociranja kada ih ne koristite"</string>
   <string name="background_location_requests_title">Dopusti pozadinsko lociranje</string>
   <string name="background_location_select_apps">Odaberi sve</string>
   <string name="background_process_stop_description">"Ovo je proces stare aplikacije koja se još uvijek izvršava u slučaju da opet bude potrebna. Obično je nema potrebe zaustavljati."</string>
@@ -430,15 +430,15 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="battery_level_title">Razina baterije</string>
   <string name="battery_light_summary">Svjetlo obavijesti uključeno prilikom punjenja uređaja</string>
   <string name="battery_light_title">LED svjetli prilikom punjenja</string>
-  <string name="battery_msg_unaccounted">Upotreba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
+  <string name="battery_msg_unaccounted">Uporaba baterije procjena je potrošnje energije i ne uključuje sve izvore potrošnje baterije. Vrijednost \"razno\" odnosi se na razliku između obračunate procijenjene potrošnje energije i stvarne potrošnje izmjerene na bateriji.</string>
   <string name="battery_saver">Štednja baterije</string>
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
   <string name="battery_saver_turn_on_automatically_pct">Na %1$s baterije</string>
   <string name="battery_saver_turn_on_automatically_title">Uključi automatski</string>
   <string name="battery_settings">Baterija</string>
   <string name="battery_settings_title">Baterija</string>
-  <string name="battery_since_reset">Upotreba baterije od poništavanja</string>
-  <string name="battery_since_unplugged">Upotreba baterije nakon isključivanja</string>
+  <string name="battery_since_reset">Uporaba baterije od poništavanja</string>
+  <string name="battery_since_unplugged">Uporaba baterije nakon isključivanja</string>
   <string name="battery_stats_camera_on_label">Kamera uključena</string>
   <string name="battery_stats_charging_label">Punjenje</string>
   <string name="battery_stats_duration">%1$s od isključivanja</string>
@@ -560,7 +560,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_lock_voice_dialing_summary">Spriječite upotrebu Bluetooth birača ako je zaslon zaključan</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s želi pristupiti vašim porukama. Dati pristup korisniku %2$s?</string>
   <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
-  <string name="bluetooth_map_profile_summary_use_for">Upotreba za kartu</string>
+  <string name="bluetooth_map_profile_summary_use_for">Uporaba za kartu</string>
   <string name="bluetooth_map_request">Zahtjev za pristup porukama</string>
   <string name="bluetooth_menu_advanced">Napredno</string>
   <string name="bluetooth_name_not_set">Bez postavke imena, koristi naziv računa</string>
@@ -983,7 +983,7 @@ U postavkama koje su dostupne u aplikaciji možete naći prikladnije kontrole pr
   <string name="data_usage_app_restrict_dialog_title">Ograničenje pozadinskih podataka?</string>
   <string name="data_usage_app_restricted">Ograničeno</string>
   <string name="data_usage_app_settings">Postavke aplikacije</string>
-  <string name="data_usage_app_summary_title">Upotreba podataka za apl.</string>
+  <string name="data_usage_app_summary_title">Uporaba podataka za apl.</string>
   <string name="data_usage_auto_sync_off_dialog">Time će se uštedjeti promet podataka i potrošnja baterije, ali svaki ćete račun morati ručno sinkronizirati kako biste dobili najnovije informacije. Nećete primati obavijesti o ažuriranjima.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Isključiti auto. sinkronizaciju?</string>
   <string name="data_usage_auto_sync_on_dialog">"Promjene računa koje unesete na webu automatski će se kopirati na telefon.
@@ -1122,7 +1122,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
-  <string name="device_actionbar_title">Mi 5</string>
+  <string name="device_actionbar_title">Sve specifikacije</string>
   <string name="device_additional_status">Dodatne informacije statusa</string>
   <string name="device_additional_status_summary">Broj telefona, Signal, IMEI, itd.</string>
   <string name="device_admin_add_title">Administrator uređaja</string>
@@ -1137,7 +1137,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_cpu4_info">"4-jezgreni "</string>
   <string name="device_cpu6_info">"6-jezgreni "</string>
   <string name="device_cpu8_info">"8-jezgreni "</string>
-  <string name="device_display_layout_title">Mi 5 značajke</string>
+  <string name="device_display_layout_title">Značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
   <string name="device_info_default">Nepoznato</string>
@@ -1404,7 +1404,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enforce_read_external_confirm_title">Zaštititi USB pohranu?</string>
   <string name="enforce_read_external_summary">Aplikacije moraju tražiti dopuštenje za čitanje USB pohrane</string>
   <string name="enforce_read_external_title">Zaštiti USB pohranu</string>
-  <string name="enhanced_4g_lte_mode_summary">Upotreba LTE podataka radi poboljšanja glasovnih značajki i komunikacije (preporučeno)</string>
+  <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podataka radi poboljšanja glasovnih značajki i komunikacije (preporučeno)</string>
   <string name="enhanced_4g_lte_mode_title">Poboljšan 4G LTE način</string>
   <string name="enter_password">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
   <string name="enter_pattern">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
@@ -1485,7 +1485,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta. Unesite svoju zaporku"</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
-  <string name="fingerprint_usage_category_title">Upotreba otiska prsta za</string>
+  <string name="fingerprint_usage_category_title">Uporaba otiska prsta za</string>
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button_label">Završeno</string>
   <string name="firmware_version">Android verzija</string>
@@ -1912,7 +1912,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="location_mode_high_accuracy_title">Visoka preciznost</string>
   <string name="location_mode_location_off_title">Lokacija je isključena</string>
   <string name="location_mode_screen_title">Način lokacije</string>
-  <string name="location_mode_sensors_only_description">Upotreba GPS-a za utvrđivanje lokacije</string>
+  <string name="location_mode_sensors_only_description">Uporaba GPS-a za utvrđivanje lokacije</string>
   <string name="location_mode_sensors_only_title">Samo uređaj</string>
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Omogućite aplik. da upotrebljavaju Googleovu uslugu lokacije za brže lociranje. Anonimni podaci prikupljat će se i slati Googleu.</string>
@@ -2124,7 +2124,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mem_use_kernel_cache_type">Predmemorije jezgre sustava</string>
   <string name="mem_use_kernel_type">Jezgra sustava</string>
   <string name="mem_use_native_type">Nativni procesi</string>
-  <string name="mem_use_subtitle">Upotreba memorije</string>
+  <string name="mem_use_subtitle">Uporaba memorije</string>
   <string name="mem_use_total">Ukupno</string>
   <string name="mem_use_zram_type">Prijelaz na ZRam</string>
   <string name="memory">RAM</string>
@@ -2151,7 +2151,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_settings_title">Memorija</string>
   <string name="memory_size">Ukupan prostor</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
-  <string name="memory_usage">Upotreba memorije</string>
+  <string name="memory_usage">Uporaba memorije</string>
   <string name="memory_usage_apps">Memorija korištena od strane aplikacija</string>
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
@@ -2765,7 +2765,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_unaccounted">Razno</string>
   <string name="power_usage_history">Potrošnja baterije</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
-  <string name="power_usage_list_summary">Upotreba od posljednjeg punjenja</string>
+  <string name="power_usage_list_summary">Uporaba od posljednjeg punjenja</string>
   <string name="power_usage_not_available">Podaci o upotrebi baterije nedostupni.</string>
   <string name="power_usage_summary">Što troši bateriju</string>
   <string name="power_usage_summary_title">Baterija &amp; performanse</string>
@@ -3096,7 +3096,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
   <string name="running_processes_header_apps_prefix">Aplikacije</string>
   <string name="running_processes_header_cached_prefix">U predmemoriji</string>
-  <string name="running_processes_header_footer">Upotreba RAM-a za aplikacije</string>
+  <string name="running_processes_header_footer">Uporaba RAM-a za aplikacije</string>
   <string name="running_processes_header_free_prefix">Dostupno</string>
   <string name="running_processes_header_ram">%1$s RAM-a</string>
   <string name="running_processes_header_system_prefix">Sustav</string>
@@ -3933,7 +3933,7 @@ Možete nastaviti, no aplikacije premještene na tu lokaciju mogu zastajkivati, 
 
 Brža ^1 mogla bi poboljšati rad."</string>
   <string name="storageuse_settings_summary">Prikaz pohrane koju upotrebljavaju aplikacije</string>
-  <string name="storageuse_settings_title">Upotreba pohrane</string>
+  <string name="storageuse_settings_title">Uporaba pohrane</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="sub_activate_failed">Aktivacija nije uspjela.</string>

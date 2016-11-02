@@ -317,12 +317,12 @@
          <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dan</item>
      </plurals>
      <plurals name="original_user_play_1">
-         <item quantity="other">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videozapisa,</item>
-         <item quantity="one">• You uploaded &lt;font color=#fc7050>%1$s&lt;/font> videozapis,</item>
+         <item quantity="other">• Učitali ste &lt;font color=#fc7050>%1$s&lt;/font> videozapisa,</item>
+         <item quantity="one">• Učitali ste &lt;font color=#fc7050>%1$s&lt;/font> videozapis,</item>
      </plurals>
      <plurals name="original_user_play_2">
-         <item quantity="other">Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osoba!</item>
-         <item quantity="one">Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osobu!</item>
+         <item quantity="other">• Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osoba!</item>
+         <item quantity="one">• Usrećili ste &lt;font color=#fc7050>%1$s&lt;/font> osobu!</item>
      </plurals>
      <plurals name="original_user_fans">
          <item quantity="other">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sljedbenika!</item>

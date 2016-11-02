@@ -272,7 +272,7 @@ Kartice kontakata su isključene"</string>
   <string name="custom_list_filter">"Definiranje prilagođenog prikaza"</string>
   <string name="custom_nickname_hint">Unesite nadimak</string>
   <string name="data_already_used">Iskorišteni podaci</string>
-  <string name="data_charge">Nadoplata mob. podataka</string>
+  <string name="data_charge">Nadoplata podataka</string>
   <string name="data_left">Preostali podaci</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
@@ -1280,6 +1280,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
+  <string name="yellowpage_mi_family">Mi Obitelj</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Stanje i podaci ne mogu biti provjereni, pokušajte ponovno kasnije."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Stanje i podaci su provjereni</string>
