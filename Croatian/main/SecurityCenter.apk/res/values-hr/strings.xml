@@ -81,7 +81,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši rizične aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbriši ovoliko stavki: %s</string>
-  <string name="antivirus_monitor_risk_advice">"Ova aplikacija nije sigurna, izbrišite je"</string>je
+  <string name="antivirus_monitor_risk_advice">"Ova aplikacija nije sigurna, izbrišite je"</string>
   <string name="antivirus_monitor_virus_advice">Ova aplikacija može sadržavati virus, izbrišite je</string>
   <string name="antivirus_more_engine_dialog_summary">Korištenje višestrukih setova definicija za skeniranje može potrajati više vremena.</string>
   <string name="antivirus_more_engine_dialog_title">Pažnja</string>
