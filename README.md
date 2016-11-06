@@ -1,4 +1,4 @@
-https://cloud.githubusercontent.com/assets/6840794/20038305/8b7ff366-a431-11e6-9786-4ad3c3785ef8.png
+https://cloud.githubusercontent.com/assets/6840794/20038428/edf06740-a433-11e6-829b-8746e1118554.png
 
 MA-XML-8.0-CROATIAN-master
 ==========================
