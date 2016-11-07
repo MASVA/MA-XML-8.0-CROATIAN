@@ -93,7 +93,7 @@
   <string name="clean_content_three">3 stavke</string>
   <string name="clean_content_two">2 stavke</string>
   <string name="clean_content_zero">Ništa</string>
-  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
+  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Sigurnosna traka obavijesti</string>
   <string name="clip_board_history_desc">Kopiran/izrezan sadržaj</string>
@@ -168,12 +168,13 @@
   <string name="empty_content_no_ignore_image">Prazno</string>
   <string name="empty_content_no_privacy">Prazno</string>
   <string name="empty_content_no_similar_image">Nema fotografija</string>
-  <string name="empty_title_ad">Nema pronađenih reklama</string>
+  <string name="empty_title_ad">Nema pronađenih zastarjelih datoteka</string>
   <string name="empty_title_apk">Nema instaliranih paketa</string>
   <string name="empty_title_garbage_cache">Nema ništa za čistiti</string>
   <string name="empty_title_garbage_white_list">Držite stavke da ih dodate u iznimke</string>
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>
+  <string name="empty_title_photos">Nema pronađenih fotografija</string>
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
   <string name="flow_rank_title">Uporaba podataka</string>
@@ -189,7 +190,7 @@
   <string name="header_optimizer">Korištenjem ove značajke, pristajete na %s.</string>
   <string name="hint_clean_select_items">Brisanje duplikata…</string>
   <string name="hint_clean_select_similar_image">Brisanje duplikata…</string>
-  <string name="hints_ad_header_left">Reklame</string>
+  <string name="hints_ad_header_left">Stare datoteke</string>
   <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>
   <string name="hints_app_uninstall_residual">Očistiti ostatke deinstaliranih datoteka?</string>
@@ -440,12 +441,12 @@
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd. MMM. yyyy</string>
   <string name="virus_scan">Skeniranje</string>
-  <string name="white_list_ad_header">Reklama: %d</string>
+  <string name="white_list_ad_header">Starih datoteka: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predmorija: %d</string>
-  <string name="white_list_large_file_header">Vel.datoteka i videozapisa: %d</string>
+  <string name="white_list_large_file_header">Vel. datoteka i videozapisa: %d</string>
   <string name="white_list_residual_header">Ostataka: %d</string>
   <string name="white_list_title">Iznimke</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Jučer</string>
 </resources>

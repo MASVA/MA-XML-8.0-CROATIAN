@@ -19,6 +19,7 @@
   <string name="activity_main_update_time_right_now">Upravo sada</string>
   <string name="activity_weathermain_locationg">Lociranje…</string>
   <string name="activity_weathermain_locationg_error">"Ne mogu locirati"</string>
+  <string name="activity_main_update_time_expire">Podaci istekli</string>
   <string name="add_city">Dodaj</string>
   <string name="alert_warning">Upozorenja vremena</string>
   <string name="app_name">Vrijeme</string>

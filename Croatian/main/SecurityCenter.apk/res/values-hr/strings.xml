@@ -645,6 +645,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="keywords_networkassistant_4">Veza;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
+  <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">Potrošnja baterije;Dopuštenja;Lista blokiranih;Uporaba podataka:Kalibriraj plan podataka;Test mreže;Zaklj. aplikacija;Štednja baterije;Grijanje;Uključi;Isključi;Baterija;Potrošnja;Autom. pokretanje;ROOT;Lokacija;Pristup kontaktima;Blokiraj;Lista blokiranih;Lista dopuštenih;Prevarant;Trgovac;Agenti;Podaci;Promet;Kalibriraj;Povezanost;Internet;Test;Zaporka;Privatnost;Pristup;Zaštita</string>
   <string name="kilobyteShort">KB</string>
@@ -886,6 +887,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj tjedan</string>
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
+  <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>
   <string name="open">Otvori</string>
   <string name="open_app">Otvori</string>
   <string name="open_browser">Otvori u pregledniku</string>
@@ -954,6 +956,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="path_networkassistant_4">Aplikacije sustava/Sigurnost/Uporaba podataka/Test mreže</string>
   <string name="path_permcenter">Aplikacije sustava/Sigurnost/Dopuštenja</string>
   <string name="path_powercenter">Aplikacije sustava/Sigurnost/Potrošnja baterije</string>
+  <string name="path_powercenter_powerrank">Baterija &amp; performanse/Korištenje baterije</string>
   <string name="path_securitycenter">Aplikacije sustava/Sigurnost</string>
   <string name="path_securitycenter_settings">Aplikacije sustava/Sigurnost</string>
   <string name="pay_charge">Nadoplata dodatnih podataka</string>
@@ -1308,6 +1311,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="resource_networkassistant_4">Testiraj mrežu</string>
   <string name="resource_permcenter">Dopuštenja</string>
   <string name="resource_powercenter">Potrošnja baterije</string>
+  <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Sigurnost</string>
   <string name="resource_securitycenter_settings">Sigurnost</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Isključiti Uštedu podataka i ograničiti podatke u pozadini?"</string>
@@ -1829,9 +1833,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
   <string name="usage_type_wifi_running">WLAN uključen</string>
-  <string name="usb_adb_input_apply_step_1">Vaše računalo će biti u mogućnosti promjeniti postavke i dopustiti dopuštenja bez vašeg znanja kada je vaš uređaj priključen putem USB-a</string>
-  <string name="usb_adb_input_apply_step_2">To može dovesti do otkrivanja privatnih informacija, kao što su računi ili poruke</string>
-  <string name="usb_adb_input_apply_step_3">Pobrinite se da razumijete moguće rizike prije nego što dopustite. Dopustiti sada?</string>
+  <string name="usb_adb_input_apply_step_1">"To može dovesti do otkrivanja privatnih informacija i gubitka osobnih podataka. Ne preporučujemo da to napravite osim ako ste razvojni programer."</string>
+  <string name="usb_adb_input_apply_step_2">"Razvojni programeri mogu koristiti poseban softver za oponašanje gesta, mijenjati postavke i odobravati dopuštenja putem USB-a."</string>
+  <string name="usb_adb_input_apply_step_3">"Dopustiti sada?"</string>
   <string name="usb_install_desc">Instalirati ovu aplikaciju putem USB-a?</string>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>

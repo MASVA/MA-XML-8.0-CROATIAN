@@ -1,5 +1,6 @@
 <resources>
-    <string name="label_airplane_mode">Zrakoplov</string>
+    <string name="label_emergency_call">Hitan poziv</string>
+	<string name="label_airplane_mode">Zrakoplov</string>
     <string name="label_silent_mode">Bešumno</string>
     <string name="label_reboot">Ponovno pokreni</string>
     <string name="label_shutdown">Isključi</string>

@@ -77,6 +77,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
 "</string>
   <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+  <string name="cit_battery_check_summary">Statistika baterije uređaja</string>
+  <string name="cit_battery_check_title">Podaci o bateriji</string>
   <string name="cit_battery_temp_fail">Temperatura baterije nije normalna (vrijednost=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura baterije je normalna</string>
   <string name="cit_batterylight_blue">Plava</string>
