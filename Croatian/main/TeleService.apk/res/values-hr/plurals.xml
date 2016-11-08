@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="remove_numbers_confirm">
+         <item quantity="other">%d brojeva će biti izbrisano.</item>
+         <item quantity="one">%d broj će biti izbrisan.</item>
+    </plurals>
     <plurals name="phone_in_ecm_notification_time">
         <item quantity="other">Podatkovne veze neće biti %s minuta</item>
         <item quantity="one">Podatkovne veze neće biti %s minutu</item>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakti SIM kartice</string>
+  <string name="account_changed_title">Račun je promijenjen</string>
   <string name="accessibility_settings_activity_title">Pristupačnost</string>
   <string name="active_phone_fail_nochoice">"Ne mogu provjeriti SIM karticu"</string>
   <string name="active_phone_fail_toast">"Ne mogu provjeriti SIM karticu %1$s"</string>
@@ -93,6 +94,7 @@
   <string name="autoip_prefix_summary">"IP prefiks davatelja usluga je %s"</string>
   <string name="autoip_setting">Automatske IP postavke</string>
   <string name="autoip_summary">Dodaj IP prefiks za međunarodne brojeve</string>
+  <string name="autoip_summary_more">, %d ukupno</string>
   <string name="autoip_support_local_numbers">Uvijek koristi IP prefiks</string>
   <string name="back">Natrag</string>
   <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovo.</string>
@@ -278,6 +280,7 @@
   <string name="config_default_data_sim">Postavke</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_world_mode"/>
+  <string name="confirm">Potvrdi</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
   <string name="confirm_password_label">Potvrdi novu zaporku</string>
@@ -340,8 +343,8 @@
   <string name="dial_pad_autocomplete">Samodovršavanje biranja brojeva</string>
   <string name="dial_related_setting_catory">Biranje</string>
   <string name="dialerKeyboardHintText">Birajte pomoću tipkovnice</string>
-  <string name="dialog_activate_livetalk">Potvrdi</string>
-  <string name="dialog_call_ordinary_telephone">Koristi SIM karticu</string>
+  <string name="dialog_activate_livetalk">Potvrdi broj</string>
+  <string name="dialog_call_ordinary_telephone">Redoviti poziv (%ds)</string>
   <string name="dialog_hang_up">Prekid poziva</string>
   <string name="dialog_network_priority_title">Prioritetna mreža</string>
   <string name="dialog_no">Ne</string>
@@ -534,6 +537,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutačnih postavki broja za preusmjeravanje nije uspjelo.
 Želite li se ipak prebaciti na novog davatelja usluge?"</string>
   <string name="general_news_settings">Opće vijesti</string>
+  <string name="general_remove">Ukloni</string>
   <string name="general_setting">Postavke</string>
   <string name="get_pin2">Upišite PIN2</string>
   <string name="get_product_list_failed">"Ne mogu učitati popis"</string>
@@ -630,6 +634,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Postavke plana podataka</string>
   <string name="ivr_type_settings_hint">Unesite kod plana podataka</string>
+  <string name="keep_wait_call_back">Nastavi s čekanjem</string>
   <string name="labelCDMAMore">Postavke CDMA poziva</string>
   <string name="labelCF">Preusmjeravanje poziva</string>
   <string name="labelCFB">Kad je broj zauzet</string>
@@ -761,6 +766,7 @@ to start using Top-up package"</string>
   <string name="managed_roaming_title_sub2">Upravljani Roaming (SUB2)</string>
   <string name="managed_roaming_title_sub3">Upravljani Roaming (SUB3)</string>
   <string name="menu_add">Dodaj kontakt</string>
+  <string name="menu_add_numbers">Dodaj broj</string>
   <string name="menu_delete">Izbriši kontakt</string>
   <string name="menu_edit">Uredi kontakt</string>
   <string name="messageCFB">Broj u slučaju zauzeća</string>
@@ -880,7 +886,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_more">Ne više</string>
   <string name="no_number">Nema broja telefona</string>
   <string name="no_product_list">Prazno</string>
-  <string name="no_sim_card">Umetnite SIM karticu</string>
+  <string name="no_sim_card">Nema SIM kartice</string>
   <string name="no_sip_account_found">Na ovom telefonu nema računa za internetske pozive. Želite li ga dodati odmah?</string>
   <string name="no_sip_account_found_title">Nema računa za internetske pozive</string>
   <string name="no_vm_number">Nedostaje broj govorne pošte</string>
@@ -955,6 +961,9 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="operator_remain_mins">Paket minuta Operatora</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
   <string name="optional_summary">Izborno</string>
+  <string name="order_error_network">Ne mogu učitati, mreža nedostupna.</string>
+  <string name="order_error_retry">Pokušaj ponovno</string>
+  <string name="order_error_unknown">Ne mogu učitati, nepoznata pogreška.</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Često korišteno</string>
   <string name="order_id">ID narudžbe:%1$s</string>
@@ -1142,6 +1151,11 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="product_reflash_button">Osvježi…</string>
   <string name="proceed">Nastavi</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
+  <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
+  <string name="propmpt_dialog_network_failed_title">Isteklo vrijeme poziva</string>
+  <string name="propmpt_dialog_no_call_back_content">Predugo traje pokušaj povezivanja. Mijenjam na redoviti poziv, koji može biti naplaćen od strane vašeg davatelja usluga.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Potvrdite svoj broj telefona da počnete koristiti paket nadoplate. Još uvijek možete uputiti redoviti poziv, koji će biti naplaćen od strane vašeg davatelja usluga.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">Broj telefona nije provjeren</string>
   <string name="provision_content">Ova značajka treba povezivanje s internetom za normalan rad.</string>
   <string name="provision_title">Povezivanje s internetom</string>
   <string name="proxy_address_title">Odlazna proxy adresa</string>
@@ -1168,7 +1182,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="purchase_list">Povijest kupovine</string>
   <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
   <string name="purchase_primary">Purchase</string>
-  <string name="purchase_summary">Save up to 70% on your calling charges</string>
+  <string name="purchase_summary">Uštedite do 70%</string>
   <string name="purchase_notification">"Gore navedene cijene su za domaće pozive. Za međunarodne pozive pogledajte "</string>
   <string name="purchase_notification_title">Provjerite podržane regije</string>
   <string name="purchase_title">Kupovina</string>
@@ -1465,6 +1479,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
   <string name="undefined">Ništa</string>
+  <string name="undefined_setting">Ništa</string>
   <string name="unknown">Nepoznato</string>
   <string name="unlock_failed">Neuspješan zahtjev za otključavanje mreže.</string>
   <string name="unlock_success">Mrežno otključavanje bilo je uspješno.</string>
@@ -1474,9 +1489,8 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="uplmn_list_setting_add_plmn">Novi PLMN</string>
   <string name="uplmn_list_setting_title">Poželjne mreže</string>
   <string name="uplmn_numeric_is_empty">Unesite ID mreže</string>
-  <string name="use_current_account_creat_livetalk">"Prijavljeni ste s ovim Mi Računom: %1$s.
-Koristiti ga za nadoplatu paketa?"</string>
-  <string name="use_current_account_creat_livetalk_button">Koristi</string>
+  <string name="use_current_account_creat_livetalk">Dalje</string>
+  <string name="use_current_account_creat_livetalk_info">Možete koristiti paket nadoplate Mi Računom: %1$s</string>
   <string name="use_history">Aktivnost</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Značajke</string>
@@ -1484,7 +1498,7 @@ Koristiti ga za nadoplatu paketa?"</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Provjereno</string>
-  <string name="verify_fialed">"Ne mogu provjeriti"</string>
+  <string name="verify_failed">"Ne mogu provjeriti"</string>
   <string name="verifying">Provjera…</string>
   <string name="vibrate_after_connected_summary">Vibracija nakon javljanja</string>
   <string name="vibrate_after_connected_title">Vibracija nakon povezivanja</string>

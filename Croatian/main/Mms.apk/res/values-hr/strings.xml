@@ -202,6 +202,7 @@
   <string name="found_wild_messages_guide_sync_not_started">Sinkronizacija nije još započela</string>
   <string name="found_wild_messages_title">Sinkronizacija poruka s Mi Clouda</string>
   <string name="from_label">"Šalje: "</string>
+  <string name="from_pkg_name">Iz aplik: </string>
   <string name="group_message">Grupne poruke</string>
   <string name="group_message_failed_title">"Ne mogu poslati %d kontaktima"</string>
   <string name="group_resend_message">Ponovno slanje (%d)</string>

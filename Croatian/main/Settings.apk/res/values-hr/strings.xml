@@ -280,6 +280,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="apply_now_button_text">Ažuriraj</string>
   <string name="apply_password_to_category_title">Zahtijeva otključavanje</string>
   <string name="apply_update_fail">"Ne mogu ažurirati"</string>
+  <string name="approve_title">Provjera</string>
   <string name="apps_storage">Pohrana aplikacija</string>
   <string name="apps_with_restrictions_header">Aplikacije s ograničenjima</string>
   <string name="apps_with_restrictions_settings_button">Proširi postavke za aplikaciju</string>
