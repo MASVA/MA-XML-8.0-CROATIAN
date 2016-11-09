@@ -28,6 +28,7 @@
   <string name="call_record_sample_prefix_miui">Poziv</string>
   <string name="caller_info_name_delimiter">" ili "</string>
   <string name="cancel_action">Odustani</string>
+  <string name="configure_input_methods">Odaberite tipkovnicu</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="default_name">Zadano</string>

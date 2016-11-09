@@ -173,8 +173,6 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="apn_auth_type_none">Ništa</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP ili CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="apn_edit">Uredi pristupnu točku</string>
   <string name="apn_general">Općenito</string>
   <string name="apn_http_port">Priključak</string>
@@ -189,7 +187,6 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="apn_new">Nova pristupna točka</string>
   <string name="apn_not_set">Nije postavljeno</string>
   <string name="apn_password">Zaporka</string>
-  <string name="apn_ppp_number">APN PPP broj telefona</string>
   <string name="apn_protocol">APN protokol</string>
   <string name="apn_roaming_protocol">Protokol APN-a za roaming</string>
   <string name="apn_save">Spremiti promjene?</string>
@@ -792,7 +789,6 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="cell_broadcast_settings_summary">Odaberite vrstu hitnih emitiranja za prikaz</string>
   <string name="cellular_data_summary">Dopusti mobilni prijenos podataka</string>
   <string name="cellular_data_title">Mobilni podaci</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Promijeni</string>
   <string name="change_password">Promijenite zaklj. zaslona</string>
   <string name="change_security_lock">Probaj ostale načine otključavanja</string>
@@ -842,7 +838,6 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="color_blue">Plava</string>
   <string name="color_calibration_none">Prirodno</string>
   <string name="color_calibration_srgb">sRGB</string>
-  <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">Cijan</string>
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
@@ -1044,10 +1039,8 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="data_usage_restrict_background_title">Ograničiti podatke u pozadini?</string>
   <string name="data_usage_restrict_denied_dialog">Ograničavanje podataka u pozadini moguće je samo ako ste postavili ograničenje mobilnih podataka.</string>
   <string name="data_usage_summary_title">Uporaba podataka</string>
-  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;limit&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;Upozorenje&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit">"limit: ^1 ^2"</string>
+  <string name="data_usage_sweep_warning">"^1 ^2 upozorenje"</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1100,6 +1093,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_assist_title">Aplikacija-pomoćnik</string>
   <string name="default_browser_title">Aplikacija preglednika</string>
   <string name="default_browser_title_none">Nema zadanog preglednika</string>
+  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_emergency_app">Aplikacija za hitne slučajeve</string>
   <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
@@ -1182,6 +1176,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dirac_mode_piston_100">Mi In-Ear</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_data_string">Onemogući podatkovnu vezu</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
@@ -1285,7 +1280,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="dolby_bassboost_high">Jaki</string>
   <string name="dolby_bassboost_low">Mekan</string>
   <string name="dolby_bassboost_normal">Normalan</string>
-  <string name="dolby_bassboost_title">Bass:</string>
+  <string name="dolby_bassboost_title">Bass Boost:\u0020</string>
   <string name="dolby_effects">Dolby Efekt</string>
   <string name="dolby_eq_enter_alert_msg">Uključiti Dolby music za korištenje EQ?</string>
   <string name="dolby_eq_enter_alert_title">Uključi Dolby music</string>
@@ -1512,7 +1507,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
 
 "</string>
   <string name="font_size_summary1">"Ako je tekst vašeg sustava je još uvijek premalen, pokušajte "</string>
-  <string name="font_size_summary2">Lite mode</string>
+  <string name="font_size_summary2"/>
   <string name="forbidden_switch_apn_string">"Odabrane APN postavke ne odgovaraju trenutnoj vrsti mreže"</string>
   <string name="force_hw_ui">Nametni GPU renderiranje</string>
   <string name="force_hw_ui_summary">Nametni upotrebu GPU-a za 2D crteže</string>
@@ -1585,6 +1580,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gallery_privacy_password_role_instruction">Vaše privatne fotografije će biti pohranjene ovdje.</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
+  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
+  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
   <string name="global_font_change_title">Promjena veličine fonta</string>
   <string name="global_locale_change_title">Promjena jezika</string>
@@ -2187,7 +2184,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
   <string name="miui_allow_alarm">Alarmi</string>
   <string name="miui_allow_light">Svjetlo obavijesti</string>
-  <string name="miui_allow_music">Medija</string>
+  <string name="miui_allow_music">Glazba</string>
   <string name="miui_allow_vibrate">Vibracija</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">Ne ometaj</string>
@@ -2480,14 +2477,14 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="page_layout_22">Moj profil</string>
   <string name="page_layout_23">Moje grupe</string>
   <string name="page_layout_24">FAVORITI</string>
-  <string name="page_layout_25">Hugo Barra</string>
-  <string name="page_layout_26">Manvendra Gupta</string>
-  <string name="page_layout_27">Manu Jain</string>
-  <string name="page_layout_28">Clinton Jeff</string>
-  <string name="page_layout_29">Santi Kuan</string>
+  <string name="page_layout_25">Bill Gates</string>
+  <string name="page_layout_26">Steve Wozniak</string>
+  <string name="page_layout_27">Homer Simpson</string>
+  <string name="page_layout_28">Peter Parker</string>
+  <string name="page_layout_29">Bruce Wayne</string>
   <string name="page_layout_3">Galerija</string>
-  <string name="page_layout_30">Jai Mani</string>
-  <string name="page_layout_31">Jack Tang</string>
+  <string name="page_layout_30">Tim Cook</string>
+  <string name="page_layout_31">Clark Kent</string>
   <string name="page_layout_32">Trg. Play</string>
   <string name="page_layout_33">Google</string>
   <string name="page_layout_4">Glazba</string>
@@ -2553,7 +2550,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_bluetooth_settings">Postavke/Bluetooth</string>
   <string name="path_brightness_settings">Postavke/Zaslon/Jačina svjetline</string>
   <string name="path_button_light_timeout">Postavke/Dodatne postavke/Tipke/Osvjetljenje tipaka</string>
-  <string name="path_calendar_sound_title">Postavke/Zvuk &amp; vibracija/Zvuka kalendara</string>
+  <string name="path_calendar_sound_title">Postavke/Zvuk &amp; vibracija/Zvuk kalendara</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Postavke/Dodatne postavke/Snimka zaslona</string>
   <string name="path_children_mode_settings">Postavke/Dodatne postavke/Dječji način</string>
   <string name="path_choose_timezone">Postavke/Dodatne postavke/Datum &amp; vrijeme/Odabir vremenske zone</string>
   <string name="path_cloud_backup_settings_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Postavke Sig. kopije</string>
@@ -2576,6 +2574,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_do_not_disturb_settings">Postavke/Ne ometaj</string>
   <string name="path_dtmf_tone_enable_title">Postavke/Zvuk &amp; vibracija/Tonovi biranja</string>
   <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
+  <string name="path_enable_adb">Postavke/Dodatne postavk/Developer opcije/USB ispravljanje grešaka</string>
   <string name="path_equalizer">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Equalizer</string>
   <string name="path_fluency_mode">Postavke/Baterija &amp; performanse/Animacije sustava</string>
   <string name="path_font_settings">Postavke/Zaslon/Font sustava</string>
@@ -2615,6 +2614,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_other_advanced_settings">Postavke/Dodatne postavke</string>
   <string name="path_owner_info_settings">Postavke/Zaklj. zaslon &amp; zaporka/Informacije o vlasniku</string>
   <string name="path_page_layout_settings">Postavke/Zaslon/Veličina teksta</string>
+  <string name="path_permission_settings_title">Postavke/Dopuštenja/Dopuštenja aplikacija</string>
   <string name="path_pointer_speed">Postavke/Dodatne postavke/Jezik &amp; unos/Brzina pokazivača</string>
   <string name="path_power_checker">Postavke/Dodatne postavke/Beta značajke/Provjera Energije</string>
   <string name="path_power_hide_mode_title">Postavke/Baterija &amp; performanse/Upravljanje korištenjem baterije aplikacija</string>
@@ -2700,6 +2700,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_xiaomi_money_service">Aplikacije</string>
   <string name="path_xspace">Postavke/Dvojne aplikacije</string>
   <string name="path_zen_mode_option_miui_silent">Postavke/Zvuk &amp; vibracija/Bešumni način</string>
+  <string name="percentage">%d%%</string>
   <string name="performance_category">Performanse</string>
   <string name="permission_detail_info">Detalji</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
@@ -2847,6 +2848,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, fotografije, postavke i dolazne pozive</string>
   <string name="privacy_mode_enable_title">Gost način rada</string>
+  <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
+  <string name="privacy_mode_enable_title">Gost način rada</string>
   <string name="privacy_notes">Bilješke</string>
   <string name="privacy_password">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
@@ -2861,7 +2864,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži uzorak</string>
-  <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
   <string name="privacy_mode_title">Postavke privatnosti</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
@@ -2874,7 +2876,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacija</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
@@ -3048,7 +3049,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="reset_network_confirm_title">Poništiti?</string>
   <string name="reset_network_desc">"Sve postavke mreže vratit će se na zadano, uključujući:
 
-"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
+"&lt;li&gt;WLAN&lt;/li&gt;"
 "&lt;li&gt;podatkovnu vezu mobilnog uređaja&lt;/li&gt;"
 "&lt;li&gt;Bluetooth.&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Poništi postavke</string>
@@ -3262,6 +3263,7 @@ Za prikvačivanje zaslona:
   <string name="search_brightness">Jačina svjetline;Jačina svjetline;Osvjetljenje zaslona</string>
   <string name="search_button_light_timeout">Zadrži osvjetjenje tipaka uključenim;Osvjetljenje tipaka</string>
   <string name="search_calendar_sound_title">Zvuk kalendara;Zvuk kalendara;Kalendar</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Snimka zaslona</string>
   <string name="search_children_mode_settings">Dječji način;Zaklj. sms;Roditeljski nadzor;Dijete roditelja;Ograniči SMS</string>
   <string name="search_children_mode_title">Dječji način;Dijete;Roditeljski nadzor</string>
   <string name="search_choose_timezone">Odaberi vremensku zonu;Vremensku zona;Vremenske zone</string>
@@ -3271,7 +3273,7 @@ Za prikvačivanje zaslona:
   <string name="search_credentials_install">Instaliraj iz pohrane;Izravna instalacija;Instaliraj APK</string>
   <string name="search_date_time">Datum &amp; vrijeme;Datum i vrijeme;Datum;Vrijeme</string>
   <string name="search_description">"Postavke pretraživanja"</string>
-  <string name="search_development_settings">Developer opcije</string>
+  <string name="search_development_settings">Developer opcije;Assist</string>
   <string name="search_device_name">Naziv uređaja</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Zaslon;Zaslon;Ambijentalno svjetlo;Džepno biranje</string>
@@ -3286,6 +3288,7 @@ Za prikvačivanje zaslona:
   <string name="search_dtmf_tone_enable_title">Uključi Tonove biranja;Tonovi biranja;tonovi dodira;tonovi dodira;Tonovi biranja;Tonovi biranja</string>
   <string name="search_edge_handgrip">Kontrole ruba</string>
   <string name="search_empty">Nema pronađenih rezultata</string>
+  <string name="search_enable_adb">USB ispravljanje grešaka</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">Animacije sustava</string>
   <string name="search_font">Font sustava;Font;Fontovi;Veličine fonta;Veličina fonta</string>
@@ -3327,6 +3330,7 @@ Za prikvačivanje zaslona:
   <string name="search_other_advanced_settings">Dodatne postavke;Više postavki</string>
   <string name="search_owner_info_settings">Informacije o vlasniku</string>
   <string name="search_page_layout_settings">Veličina teksta;Veličina fonta;Mali font;Veliki font;Srednji font;XXL font;Ogroman font;Veličine fontova</string>
+  <string name="search_permission_settings_title">Dopuštenja aplikacija</string>
   <string name="search_pointer_speed">Brzina pokazivača</string>
   <string name="search_power_checker">Provjera Energije</string>
   <string name="search_power_hide_mode_title">Upravljanje korištenjem baterije aplikacija;Korištenje baterije aplikacija;Korištenje baterije;Statistika baterije</string>
@@ -3498,7 +3502,6 @@ Za prikvačivanje zaslona:
   <string name="selinux_status_enforcing">Provođenje</string>
   <string name="selinux_status_permissive">Omogućeno</string>
   <string name="service_background_processes">%1$s slobodno</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s up.</string>
   <string name="service_manage">Postavi</string>
   <string name="service_manage_description">%1$s: trenutno u upotrebi. Dodirnite Postavke za upravljanje.</string>
@@ -3648,7 +3651,6 @@ Možda je PIN netočan."</string>
   <string name="sim_settings_summary">%1$s – %2$s</string>
   <string name="sim_settings_title">SIM kartice</string>
   <string name="sim_setup_wizard_title">SIM kartice</string>
-  <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIM je prazan</string>
   <string name="sim_status_summary">Informacije povezane sa SIM-om</string>
   <string name="sim_status_title">Status SIM-a</string>
@@ -3741,6 +3743,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_priority">Prioritet</string>
   <string name="status_bar_settings_notification_priority_summary">Prikaži obavijesti na vrhu popisa</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
@@ -3946,8 +3949,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="subs_settings">SUBS Status</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>
@@ -4396,7 +4397,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="virus_scan_app_uninstall">Ukloni %d</string>
   <string name="virus_scan_app_waiting">Čekanje…</string>
   <string name="virus_scanner_auto_update">Ažuriraj automatski</string>
-  <string name="virus_scanner_date_formater">dd.MM.yyyy</string>
+  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Definicije su već ažurne</string>
   <string name="virus_scanner_lib_update_failed">"Ne mogu ažurirati"</string>
   <string name="virus_scanner_lib_updating">Ažuriranje definicija…</string>
@@ -4841,6 +4842,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni hotspot</string>
   <string name="wifi_tether_enabled_subtext">Aktivan je prijenosni hotspot %1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>
