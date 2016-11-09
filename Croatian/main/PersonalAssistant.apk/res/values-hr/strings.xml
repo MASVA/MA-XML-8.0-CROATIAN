@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Asistent (Kina)</string>
+    <string name="accessibility_title">Smart asistent (Kina)</string>
+    <string name="help_quick_start_wechat_video">Ova značajka je samo za korisnike u Kini</string>
+</resources>

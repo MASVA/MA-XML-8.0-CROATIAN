@@ -2849,7 +2849,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, fotografije, postavke i dolazne pozive</string>
   <string name="privacy_mode_enable_title">Gost način rada</string>
   <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
-  <string name="privacy_mode_enable_title">Gost način rada</string>
   <string name="privacy_notes">Bilješke</string>
   <string name="privacy_password">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
