@@ -101,7 +101,6 @@
   <string name="auto_upload_disable_tip">Sinkronizacija s Mi Cloudom je isključena</string>
   <string name="auto_upload_disable_toast_long_press_menu">Sinkronizacija s Mi Cloudom je isključena, idite na druge albume za pregled</string>
   <string name="auto_upload_enable_toast_long_press_menu">Sinkronizacija s Mi Cloudom je uključena, idite na Albumi za pregled</string>
-  <string name="autofix">Auto-fix</string>
   <string name="baby_album">Dječji album</string>
   <string name="baby_album_change_background">Promjeni fotografiju pozadine</string>
   <string name="baby_album_needs_auto_backup_tip">"Ne mogu isključiti Sig. kopiju za Dječji album"</string>
@@ -278,7 +277,7 @@
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
   <string name="enable_auto_upload_tip">Ovaj album će biti uklonjen iz drugih albuma nakon što uključite.</string>
   <string name="enable_auto_upload_title">Uključi sinkr. s Mi Cloud</string>
-  <string name="enable_cloud_for_sharing">Uključite Mi Cloud albume za prikaz dijeljenih fotografija.</string>
+  <string name="enable_cloud_for_sharing">Uključi albume Mi Clouda za prikaz dijeljenih fotografija.</string>
   <string name="enable_face_album_summary">Automatski poredaj fotografije osoba koje su na njima</string>
   <string name="enable_face_album_title">Poredaj po osobama</string>
   <string name="enable_slim_title">Optimiziraj</string>
@@ -369,7 +368,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grayscale">Tonovi sive</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
-  <string name="have_known">Znam</string>
+  <string name="have_known">Shvaćam</string>
   <string name="hidden_album_display_name">Skriveni album</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
