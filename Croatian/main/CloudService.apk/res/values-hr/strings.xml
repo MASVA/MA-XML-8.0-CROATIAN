@@ -199,8 +199,6 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_syncing">Sinkroniziram</string>
   <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
   <string name="micloud_detail_wlan">Stavki čeka na sinkr.: %d</string>
-  <string name="micloud_detail_wlan_contact">Slika kontakata čeka na sinkr.: %d</string>
-  <string name="micloud_detail_wlan_mms">MMS-a čeka na sinkr.: %d</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_find_device_finish">Gotovo</string>
@@ -246,7 +244,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
   <string name="micloud_main_battery_message">"Priključite svoj uređaj na punjenje za sinkronizaciju"</string>
   <string name="micloud_main_clear_now">Izbriši</string>
-  <string name="micloud_main_data_unsynced">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
   <string name="micloud_main_memory_low_message">"Da sinkronizirate, izbrišite neke stavke koje ste pohranili u Cloudu."</string>
@@ -259,7 +256,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_multi_user_error_title">Mi Cloud pogreška</string>  
   <string name="micloud_main_network_abnormal">"Ne mogu se povezati na mrežu"</string>
   <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
-  <string name="micloud_main_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_main_query_error_message">"Ne mogu potvrditi da je sinkronizacija dovršena za neke usluge"</string>
   <string name="micloud_main_query_error_title">"Ne mogu dobiti informacije o tijeku sinkronizacije"</string>
   <string name="micloud_main_set_internet">Mreža</string>
@@ -315,7 +311,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_sync_with_off">Dodirnite da sada sinkr. vaš uređaj.</string>
   <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Sadržaj kopiran u međuspremnik</string>
-  <string name="micloud_notif_title_depend_wifi">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_notif_title_master_depend_wifi">"Ne mogu sinkr. s Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Ne mogu sinkr. s Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Ne mogu sinkr. s Mi Cloud"</string>
@@ -409,7 +404,6 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>
-  <string name="one_sync_item_close">%d je isključen</string>
   <string name="open_micloud_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="other_sync_item">Ostale stavke sinkr.</string>
@@ -454,7 +448,6 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sina_token_expired_warning">Weibo račun je istekao: Povežite ponovo</string>
   <string name="sina_token_invalid_warning">Weibo račun nije valjan: Povežite ponovo</string>
   <string name="sms">SMS</string>
-  <string name="some_sync_item_close">%d su isključeni</string>
   <string name="soundrecorder_sync_only_in_wifi">Koristi samo WLAN za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>

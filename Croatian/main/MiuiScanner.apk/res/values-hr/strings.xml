@@ -66,7 +66,7 @@
   <string name="flash_lable">Flash</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Uvezi kontakt</string>
-  <string name="impunity_declaration_content">Ova aplikacija treba povezivanje s internetom da radi normalno.</string>
+  <string name="impunity_declaration_content">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="impunity_declaration_negative_text">Izlaz</string>
   <string name="impunity_declaration_positive_text">Dopusti</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>

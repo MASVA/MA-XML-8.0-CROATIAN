@@ -1555,6 +1555,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="free_xiaomi_wifi_connect_summary">Dodirnite za povezivanje s %1$s.</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
+  <string name="full_transparent_smarrcover_title">Prozirni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinski pokrenite automatsku izradu sigurnosne kopije podataka uređaja (kao što su zaporke WLAN-a i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
 
 Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikacija periodično se daljinski spremaju. Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije."</string>
@@ -1814,7 +1815,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="large_font">Veliko</string>
   <string name="last_synced">Zadnja sinkronizacija: %1$s</string>
   <string name="last_time_used_label">Posljednja upotreba</string>
-  <string name="lattice_smartcover_title">Rešetkasti prednji poklopac</string>
+  <string name="lattice_smartcover_title">Rešetkasti prednji pokrov</string>
   <string name="later">Kasnije</string>
   <string name="launch_by_default">Otvori prema zadanim postavkama</string>
   <string name="launch_count_label">Broj</string>
@@ -3663,7 +3664,9 @@ Možda je PIN netočan."</string>
   <string name="slot_number">(Utor %1$d)</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Mali</string>
-  <string name="smallwindow_smartcover_title">Prozirni prozor</string>
+  <string name="smallwindow_smartcover_title">Prozirni prednji pokrov</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover zaključava/otključava zaslon</string>
+  <string name="smartcover_sensitive_summary">jednostavno zaključajte/otključajte vaš telefon sa smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
