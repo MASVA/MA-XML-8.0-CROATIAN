@@ -252,8 +252,6 @@
   <string name="follow_fail">"Ne mogu pratiti, pokušajte ponovno kasnije"</string>
   <string name="follow_tip_1">Pratite me da gledate više videozapisa</string>
   <string name="follow_tip_2">Pratite me da gledate više videozapisa</string>
-  <string name="force_touch_clean">Očisti</string>
-  <string name="force_touch_search">Traži datoteke</string>
   <string name="folder_name_invalid">"Nazivi mapa ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="force_touch_clean">Očisti</string>
   <string name="force_touch_search">Traži datoteke</string>
