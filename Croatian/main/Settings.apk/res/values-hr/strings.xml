@@ -651,6 +651,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Stari uređaj će biti zamijenjen s trenutnim uređajem.</string>
   <string name="bluetooth_unlock_change_matched_device">Odaberite drugi uređaj</string>
   <string name="bluetooth_unlock_confirm_device_text">Dodirnite Bluetooth uređaj za potvrdu.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Dodirnite tipku na satu za otključavanje.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dodirnite tipku na uređaju za otključavanje.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Dodirnite tipku na uređaju za otključavanje.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši ovaj uređaj</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrisati ovaj uređaj?</string>
