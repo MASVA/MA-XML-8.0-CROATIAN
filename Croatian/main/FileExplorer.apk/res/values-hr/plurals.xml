@@ -328,4 +328,8 @@
          <item quantity="other">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sljedbenika!</item>
          <item quantity="one">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sljedbenika!</item>
      </plurals>
+	 <plurals name="video_publish_watchable_hint">
+         <item quantity="other">Dobijte %1$d više sljedbenika da nadogradite svoj status​</item>
+         <item quantity="one">Dobijte %1$d više sljedbenika da nadogradite svoj status</item>
+     </plurals>
 </resources> 

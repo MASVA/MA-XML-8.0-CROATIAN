@@ -51,7 +51,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
-  <string name="cloud_storage_full">Cloud pohrana</string>
+  <string name="cloud_storage_full">Cloud pohrana je puna</string>
   <string name="cloud_storage_is_full">Puno</string>
   <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
@@ -187,7 +187,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
   <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
-  <string name="micloud_detail_not_synced">nije sinkronizirano</string>
+  <string name="micloud_detail_not_synced">Nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>
   <string name="micloud_detail_pending">Na čekanju</string>
   <string name="micloud_detail_preference_sync_items">Stavke</string>
@@ -400,7 +400,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="mx_sub_dspt_provision">Mi Poruka</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetski pozivi</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="network_unconnected">Niste povezani na mrežu</string>
+  <string name="network_unconnected">"Ne mogu se povezati na mrežu"</string>
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Nema SIM kartice"</string>

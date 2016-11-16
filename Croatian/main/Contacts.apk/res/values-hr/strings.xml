@@ -405,7 +405,7 @@ Kartice kontakata su isključene"</string>
   <string name="editContactNameExpandOpenDescription">Proširi ime</string>
   <string name="editGroupDescription">Uredi skupinu</string>
   <string name="edit_contact">"Uredi kontakt"</string>
-  <string name="edit_contact_card_title">Uredi karticu kontakta</string>
+  <string name="edit_contact_card_title">Odaberite stavke za dijeljenje</string>
   <string name="edit_contact_photo">Uredi sliku kontakta</string>
   <string name="email">"E-pošta"</string>
   <string name="emailLabelsGroup">"E-pošta"</string>
@@ -1282,8 +1282,8 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
   <string name="yellowpage_mi_family">Mi Obitelj</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Stanje i podaci ne mogu biti provjereni, pokušajte ponovno kasnije."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Stanje i podaci su provjereni</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Stanje i mobilni podaci ne mogu biti provjereni, pokušajte ponovno kasnije."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Stanje i mobilni podaci su provjereni</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši povijest</string>
   <string name="yellowpage_navigation_more_items">Više</string>
   <string name="yellowpage_navigation_more_items_title">Više usluga</string>

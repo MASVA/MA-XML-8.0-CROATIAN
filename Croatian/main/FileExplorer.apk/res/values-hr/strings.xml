@@ -34,6 +34,8 @@
   <string name="auto_play">Reproduciraj automatski kada je povezano na WLAN</string>
   <string name="auto_play_later">Kasnije</string>
   <string name="auto_play_now">Uključi</string>
+  <string name="auto_play_recommend">Reproduciraj automatski</string>
+  <string name="auto_play_recommend_tips">Pokreni reprodukciju videozapisa automatski</string>
   <string name="auto_play_toast">Videozapisi će se automatski reproducirati. Možete to promijeniti u postavkama.</string>
   <string name="archive_send_to">Pošalji…</string>
   <string name="background">Sakrij</string>
@@ -76,6 +78,7 @@
   <string name="category_favorite">Favoriti</string>
   <string name="category_file">Datoteke</string>
   <string name="category_files">Datoteke</string>
+  <string name="category_installed_app">Instalirane aplikacije</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Glazba</string>
@@ -137,6 +140,7 @@
   <string name="copy_file_to_midrive">Kopiraj datoteku na Mi Drive</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_to">Kopiraj u…</string>
+  <string name="create_shortcut_success">Prečac uspješno dodan</string>
   <string name="create_kuaipan_shortcut_pref">Izradi prečac na Početnom zaslonu</string>
   <string name="create_new_folder_desctiption">Izrada mape…</string>
   <string name="create_new_folder_failed">"Ne mogu napraviti mapu"</string>
@@ -179,6 +183,7 @@
   <string name="delete_video_dialog_tip">"Nećete moći vratiti ovaj videozapis nakon što ga izbrišete."</string>
   <string name="delete_video_dialog_title">Izbriši videozapis</string>
   <string name="delete_video_success">Uspješno izbrisano</string>
+  <string name="deleted_video_msg">"Malo si zakasnio. Ovaj videozapis je izbrisan."</string>
   <string name="des_running_trans">Ovoliko datoteka (%1$d) nije premješteno</string>
   <string name="dialog_logout_message">Odjaviti se?</string>
   <string name="dialog_logout_title">Odjava</string>
@@ -295,6 +300,7 @@
   <string name="instruction">Unesite adresu u FTP klijent: </string>
   <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
   <string name="interest_recommend">Preporučeni videozapisi</string>
+  <string name="is_playing">Reprodukcija…</string>
   <string name="join_activity">Sudjeluj</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
@@ -334,9 +340,11 @@
   <string name="local_video">Videozapisi</string>
   <string name="local_video_empty">Nema video isječaka na vašem uređaju. Provjerite one popularne.</string>
   <string name="login">Prijavite se</string>
+  <string name="login_account_bind_qq">QQ račun</string>
   <string name="login_account_bind_skip">Preskoči</string>
   <string name="login_account_bind_tip">Dobar nadimak i avatar učinit će vaš video popularnijim</string>
   <string name="login_account_bind_title">Dodaj drugi račun</string>
+  <string name="login_account_bind_wb">Weibo račun</string>
   <string name="login_account_bind_wx">Upotrijebi WeChat</string>
   <string name="login_account_bind_xm">Upotrijebi Mi Račun</string>
   <string name="login_expired">Sesija je istekla, prijavite se ponovno</string>
@@ -367,6 +375,7 @@
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Izbornik</string>
   <string name="message_comment_prefix">"Komentar: "</string>
+  <string name="message_my_received_notification">Nova poruka</string>
   <string name="message_my_received_praise">Moji lajkovi</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" lajkao ovaj komentar"</string>
@@ -592,6 +601,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="phone_code_et_hint">Unesite kôd za provjeru</string>
   <string name="phone_get_code_tip">Previše pokušaja traženja koda danas</string>
   <string name="phone_has_used_tip">Ovaj telefon je povezan s postojećim korisničkim računom, pokušajte s drugim.</string>
+  <string name="phone_login_btn_str">Broj telefona</string>
   <string name="phone_login_title">Telefon</string>
   <string name="phone_num">Broj telefona</string>
   <string name="phone_num_et_hint">Unesite broj telefona</string>
@@ -617,6 +627,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="pick_file">Odaberite datoteke</string>
   <string name="pick_folder">Odaberite mapu</string>
   <string name="popup_msg_qq">Podijelite ovaj videozapis s vašim QQ prijateljima.</string>
+  <string name="popup_msg_wb">Cool videozapis? Podijelite ga s vašim Weibo prijateljima!</string>
   <string name="popup_msg_wx">Podijelite ovaj videozapis s vašim WeChat prijateljima.</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
   <string name="private_files">Skriveno</string>
@@ -627,6 +638,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
   <string name="private_toast_hint3">Povucite prema dolje za prikaz skrivenih mapa</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="qq_not_installed">"QQ nije instaliran"</string>
   <string name="qq_platform">QQ</string>
@@ -735,9 +748,20 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="setting">Postavke</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obavijesti</string>
+  <string name="setting_shortcut">Dodaj prečac na početni zaslon</string>
+  <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_tip_1">Hvala za dijeljenje, pratite me da gledate više videozapisa</string>
   <string name="share_tip_2">Hvala za dijeljenje, pratite me da gledate više videozapisa</string>
+  <string name="share_title_01">"%1$s Evo super videozapisa! %2$s"</string>
+  <string name="share_title_02">"%1$s Evo super videozapisa!"</string>
+  <string name="share_title_03">"%1$s Evo super videozapisa! %2$s"</string>
+  <string name="share_title_04">%1$s Podijelio sam videozapis, pogledajte! %2$s</string>
+  <string name="share_title_05">%1$s Podijelio sam videozapis, pogledajte! %2$s</string>
+  <string name="share_title_06">%1$s Podijelio sam videozapis, pogledajte! %2$s</string>
+  <string name="share_title_07">%1$s Podijelio sam videozapis, pogledajte!</string>
+  <string name="share_title_08">%1$s Podijelio sam videozapis, pogledajte!</string>
+  <string name="share_title_09">%1$s Podijelio sam videozapis, pogledajte!</string>
   <string name="share_box">Podijeljeno</string>
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
@@ -759,6 +783,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
 (GIF-ovi mogu biti dodani u Vlastito u WeChat Naljepnicama)."</string>
   <string name="shared_sticker_use_tip_title">Kako koristiti naljepnice</string>
   <string name="shared_str">Podijelio %s</string>
+  <string name="shortcut_exists">Prečac već postoji</string>
+  <string name="shortcut_hotvideos">Popularni videozapisi</string>
+  <string name="shortcut_msg">Dodaj prečac na početni zaslon za popularne videozapise</string>
   <string name="show_message">Morate preuzeti ovu datoteku prije nego što je možete otvoriti.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežnu vezu."</string>
@@ -906,6 +933,7 @@ oslobodili prostor.</string>
   <string name="user_follow_title">Osobe koje pratim</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>
   <string name="user_guide_continue_use">U redu</string>
+  <string name="user_guide_more_login">Drugi načini za prijavu</string>
   <string name="user_guide_download_other_version">Učitajte datoteke s računala</string>
   <string name="user_guide_kuaipan_copy">Kopirajte datoteke s vašeg telefona, zatim ih zalijepite na KuaiPan</string>
   <string name="user_guide_kuaipan_lable">Praktična i sigurna cloud pohrana</string>
@@ -989,6 +1017,8 @@ oslobodili prostor.</string>
   <string name="video_play_failed">Nepoznata pogreška</string>
   <string name="video_publish_hint">Dobar opis će pomoći drugim osobama da pronađu vaš videozapis</string>
   <string name="video_publish_hint2">Opis</string>
+  <string name="video_publish_origin_tag">Originalna oznaka</string>
+  <string name="video_publish_watchable_tag">Pratite me da gledate ovaj videozapis</string>
   <string name="video_recommend_upload">Preporučeno</string>
   <string name="video_releasing">Učitavanje…</string>
   <string name="video_replay">Reproduciraj ponovno</string>
@@ -1014,6 +1044,7 @@ oslobodili prostor.</string>
   <string name="video_uploaded">Učitano</string>
   <string name="videos">Videozapisi</string>
   <string name="view_more_sticker">Prikaži još naljepnica</string>
+  <string name="wb_btn_bind">Weibo</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje SD kartice…</string>
@@ -1022,21 +1053,23 @@ oslobodili prostor.</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
+  <string name="wechat_login_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video na %s</string>
+  <string name="weibo_login_btn_str">Weibo</string>
+  <string name="weibo_share_success">Uspješno podijeljeno</string>
+  <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat nije instaliran"</string>
   <string name="weixin_sticker_tag_str">WeChat Naljepnice</string>
   <string name="welcome_to_my_page">Dobro došli na moju početnu stranicu</string>
   <string name="welcome_to_my_page_1">Pratite me!</string>
   <string name="welcome_to_my_page_2">Pratite me!</string>
   <string name="wifi_state">WLAN mreža</string>
-  <string name="wx_title1">"Ovo je cool videozapis!"</string>
-  <string name="wx_title2">Podijelio sam videozapis, pogledajte!</string>
-  <string name="wx_title3">Pogledajte viralne videozapise iz cijelog svijeta!</string>
   <string name="wxcircle_platform">Trenuci</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>
+  <string name="xiaomi_login_btn_str">Mi Račun</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>

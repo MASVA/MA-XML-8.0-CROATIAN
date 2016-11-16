@@ -113,8 +113,8 @@
         <item quantity="one">Sinkronizacija je isključena. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud je pun. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
-        <item quantity="one">Mi Cloud je pun. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
+        <item quantity="other">"Ne mogu izraditi Sig. kopiju za %1$d stavki"</item>
+        <item quantity="one">"Ne mogu izraditi Sig. kopiju za %1$d stavku"</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Nema dovoljno prostora za pohranu. Ovoliko stavki (%1$d) čeka na izradu Sig. kopije</item>
