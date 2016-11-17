@@ -42,7 +42,7 @@
         <item>"Alarm je postavljen od ovog trenutka za sljedeći broj minuta: %3$s."</item>
         <item>"Alarm je od ovog trenutka postavljen za %1$s i %3$s."</item>
         <item>"Alarm je od ovog trenutka postavljen za %2$s i %3$s."</item>
-        <item>"Alarm je postavljen za %1$s, %2$s i %3$s.</item>
+        <item>"Alarm je postavljen za %1$s %2$s i %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuta</item>

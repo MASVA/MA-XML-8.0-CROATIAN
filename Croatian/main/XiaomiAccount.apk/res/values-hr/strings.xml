@@ -399,7 +399,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
   <string name="unlock_help_notice">"Pomoć:
 · Ako ste zaboravili svoju zaporku, idite na id.mi.com da je resetirate.
-· Ako ne možete otključati uređaj, idite na i.mi.com da isključite Pronađi uređaj
+· Ako ne možete otključati uređaj, idite na i.mi.com da isključite Pronađi uređaj.
 · Recite ovaj broj otključavanja službi za korisnike: %s"</string>
   <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="update_contacts">Ažuriraj kontakte</string>

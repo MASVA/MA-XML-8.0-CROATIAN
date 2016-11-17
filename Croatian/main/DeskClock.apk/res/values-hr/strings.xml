@@ -93,7 +93,7 @@
   <string name="shutdown_alarm_enable_summary">Alarm će se oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>
   <string name="silent_alarm_summary">Bešumno</string>
-  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="slider_text">Povucite gore za isklj. alarma</string>
   <string name="snooze_confirm_cancel">Otkaži odgodu</string>

@@ -84,7 +84,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="find_other_qrcode">Pronađite QR kod</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="message_snap_double_confirm">Trenutni Dugo pritisnite tipku glasnoće je NFC način, potvrditi zamjenu?</string>
+  <string name="message_snap_double_confirm">Dugi pritisak na tipku za glasnoću sada aktivira NFC. Zamijeniti ovu značajku?</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
   <string name="not_enough_space">Unutarnja pohrana je puna.</string>
   <string name="object_track_enable_toast">Za odabir objekta, istodobno pritisnite dvije dijagonalne točke oko njenih granica.</string>
@@ -135,7 +135,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japan</string>
   <string name="pref_camera_coloreffect_entry_long_face">Rastegnuto</string>
   <string name="pref_camera_coloreffect_entry_mirror">Ogledalo</string>
-  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mono">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mozaik</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_negative"/>
@@ -188,7 +188,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_focusmode_entry_normal">Normalno</string>
   <string name="pref_camera_focusmode_title">Način izoštravanja</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Grupni selfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Uživo</string>
@@ -219,7 +219,7 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite tipku okidača za zaključavanje AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ručno</string>
-  <string name="pref_camera_mono_mode_title">Mono</string>
+  <string name="pref_camera_mono_mode_title">B&amp;W</string>
   <string name="pref_camera_movie_solid_title">Stabilizacija slike</string>
   <string name="pref_camera_multilevel_entry_high">Visoki</string>
   <string name="pref_camera_multilevel_entry_higher">Viši</string>
@@ -330,7 +330,7 @@ Otpustite za zaustavljanje.</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_entry_on">Uklj.</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
-  <string name="pref_groupshot_with_primitive_title">Spremi primitivnu sliku u groupshot načinu rada</string>
+  <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
   <string name="pref_priority_storage_title">Spremi na SD karticu</string>
   <string name="pref_qc_focus_position_title">Izoštravanje</string>
@@ -389,11 +389,11 @@ Otpustite za zaustavljanje.</string>
   <string name="simple_mode_button_text_fast_video">Isključi slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Isključi Riblje oko</string>
   <string name="simple_mode_button_text_gradienter">Isključi</string>
-  <string name="simple_mode_button_text_groupshot">Isključi GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Isključi Grupni selfie</string>
   <string name="simple_mode_button_text_hand_night">Isključi HHT</string>
   <string name="simple_mode_button_text_hdr">Isključi HDR</string>
   <string name="simple_mode_button_text_magic_mirror">Isključi Magic mirror</string>
-  <string name="simple_mode_button_text_manual">Isključi Ručno</string>
+  <string name="simple_mode_button_text_manual">Isključi B&amp;W</string>
   <string name="simple_mode_button_text_opti_zoom">Isključi</string>
   <string name="simple_mode_button_text_panorama">Isključi panoramu</string>
   <string name="simple_mode_button_text_raw">Isključi RAW</string>
@@ -404,7 +404,7 @@ Otpustite za zaustavljanje.</string>
   <string name="simple_mode_button_text_tilt_shift">Isključi Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Isključi</string>
   <string name="snap_cancel">Odustani</string>
-  <string name="snap_confirmed">Potvrdi</string>
+  <string name="snap_confirmed">Zamijeni</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshotsize_low_powermode">Razlučivost slika u Niskom načinu energije nije podržan. Veličina snimka videa će se koristiti.</string>
   <string name="spaceIsLow_content">Dochádza voľné miesto na SD karte. Znížte kvalitu alebo vymažte niektoré snímky alebo iné súbory.</string>

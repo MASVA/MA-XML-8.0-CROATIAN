@@ -361,7 +361,7 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="band_mode_succeeded">Uspješno</string>
   <string name="band_mode_title">Postavi mrežu GSM/UMTS</string>
   <string name="baseband_version">Osnovna verzija</string>
-  <string name="batch_delete_saved_network">Izbrisati odabranu mrežu: %s?</string>
+  <string name="batch_delete_saved_network">Izbrisati odabrane mreže: %s?</string>
   <string name="batch_delete_saved_networks">Izbriši sve odabrane mreže</string>
   <string name="battery_action_app_details">Informacije o aplikaciji</string>
   <string name="battery_action_app_settings">Postavke aplikacije</string>
@@ -1106,7 +1106,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="delete_fingerprint_text">Ukloni</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati ovaj otisak prsta?</string>
-  <string name="delete_saved_network">Izbriši spremljenu mrežu</string>
+  <string name="delete_saved_network">Izbriši spremljene mreže</string>
   <string name="deny">Odbij</string>
   <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>

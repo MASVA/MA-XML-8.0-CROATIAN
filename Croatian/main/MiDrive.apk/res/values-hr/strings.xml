@@ -60,7 +60,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Ne mogu izrezati"</string>
   <string name="move_failed_retry">"Ne mogu izrezati, pričekajte %1$s pa pokušajte ponovno"</string>
-  <string name="need_get_accounts_permission">Aplikaciji Mi Drive potrebno je dopuštenje za pristup računu da radi normalno.</string>
+  <string name="need_get_accounts_permission">Aplikaciji Mi Drive treba pristup vašem računu da radi normalno.</string>
   <string name="never_notify">"Ne prikazuj ponovo"</string>
   <string name="no_app_found_to_open_file">Nema aplikacije za obradu ove radnje.</string>
   <string name="no_more_space">Nema dovoljno prostor.</string>

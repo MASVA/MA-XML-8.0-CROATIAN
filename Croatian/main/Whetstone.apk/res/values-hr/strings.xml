@@ -3,4 +3,6 @@
   <string name="app_name">Whetstone</string>
   <string name="permstep_description">"Dopusti aplikaciji čitanje podataka o koracima vašeg telefona"</string>
   <string name="permstep_label">Čitanje koraka</string>
+  <string name="whetstone_accessibility_desc">Whetstone funkcija pomoći</string>
+  <string name="whetstone_accessibility_label">Whetstone Usluga pomoći</string>
 </resources>
