@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">Dodaj česte izraze</string>
-  <string name="android_ringtone_default_with_actual">Zadani zvuk zvona (%1$s)</string>
+  <string name="android_ringtone_default_with_actual">Zadana melodija zvona (%1$s)</string>
   <string name="android_ringtone_silent">Ništa</string>
-  <string name="android_ringtone_unknown">Nepoznati zvuk zvona</string>
+  <string name="android_ringtone_unknown">Nepoznata melodija zvona</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="arbor_day"/>
@@ -27,7 +27,7 @@
   <string name="cta_permission_and"> i </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Uvjeti korištenja</string>
-  <string name="daydream">Dvevno sanjarenje</string>
+  <string name="daydream">Dnevno sanjarenje</string>
   <string name="day_following_good_friday"/>
   <string name="delete_frequent_phrases">Izbriši česte izraze</string>
   <string name="delete_frequent_phrases_confirm">Izbrisati odabrane česte izraze?</string>

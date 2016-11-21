@@ -48,9 +48,10 @@
         <item>Sumaglica</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Razvrstaj</item>
+        <item>Teme</item>
         <item>Widgeti</item>
         <item>Pozadina</item>
         <item>Efekti</item>
+		<item>Ćelije zaslona</item>
     </string-array>
 </resources> 

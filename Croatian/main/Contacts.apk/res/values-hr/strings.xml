@@ -51,10 +51,10 @@
   <string name="button_cancel_scan">"Zaustavi"</string>
   <string name="button_join_service_number">Dodaj broj usluge</string>
   <string name="button_my_center">Profil</string>
-  <string name="button_scan">Ponovo skeniraj</string>
+  <string name="button_scan">Ponovno skeniraj</string>
   <string name="caching_vcard_message">Spremanje vCard datoteka u predmemoriju za lokalnu privremenu pohranu. Stvarni uvoz uskoro će početi.</string>
   <string name="caching_vcard_title">Spremanje u predmemoriju</string>
-  <string name="callAgain">Zovi ponovo</string>
+  <string name="callAgain">Zovi ponovno</string>
   <string name="callBack">"Povratni poziv"</string>
   <string name="callDetailTitle">"Pojedinosti poziva"</string>
   <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
@@ -561,7 +561,7 @@ Razlog: \"%s\""</string>
   <string name="in_call_show_filter_mono">Mono</string>
   <string name="in_call_show_filter_nashvile">Indigo</string>
   <string name="in_call_show_filter_none">Normalno</string>
-  <string name="in_call_show_filter_process_error">Došlo je do pogreške, pokušajte ponovo.</string>
+  <string name="in_call_show_filter_process_error">Došlo je do pogreške, pokušajte ponovno.</string>
   <string name="in_call_show_filter_processing">Obrada…</string>
   <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Snimite videozapis profila 
@@ -571,9 +571,9 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="in_call_show_long_press_to_record">Pritisni &amp; drži za snimanje</string>
   <string name="in_call_show_pick_video">Odaberi videozapis</string>
   <string name="in_call_show_preview">Pregled</string>
-  <string name="in_call_show_preview_reshoot">Pokušaj ponovo</string>
+  <string name="in_call_show_preview_reshoot">Pokušaj ponovno</string>
   <string name="in_call_show_recording">Snimanje…</string>
-  <string name="in_call_show_reshoot">Snimi ponovo</string>
+  <string name="in_call_show_reshoot">Snimi ponovno</string>
   <string name="in_call_show_save_completed">Videozapis profila je spremljen</string>
   <string name="in_call_show_save_failed">"Ne mogu spremiti videozapis"</string>
   <string name="in_call_show_tap_to_show_demo">Dodirnite zaslon za pregled</string>
@@ -677,7 +677,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="menu_select_none">Poništi odabir</string>
   <string name="menu_sendSMS">"Pošalji SMS kontaktu"</string>
   <string name="menu_sendTextMessage">"Pošalji tekstualnu poruku"</string>
-  <string name="menu_set_ring_tone">Postavi zvuk zvona</string>
+  <string name="menu_set_ring_tone">Postavi melodiju zvona</string>
   <string name="menu_settings">Postavke</string>
   <string name="menu_share">"Podijeli"</string>
   <string name="menu_show_all_calls">Prikaz svih poziva</string>
@@ -842,7 +842,7 @@ Za dodavanje kontakta na listu favorita :
 • Stvorite sigurnosnu kopiju svojih kontakata.</string>
   <string name="no_contact_details">Nema dodatnih informacija o ovom kontaktu.</string>
   <string name="no_contact_in_other_phone">"Nema kontakata"</string>
-  <string name="no_contacts_dialog_message">Vaši kontakti mogu biti pohranjeni na SIM kartici. Pokušajte uvoz kontakata sa vaše SIM kartice u unutarnju pohranu uređaja te zatim pokušajte ponovo.</string>
+  <string name="no_contacts_dialog_message">Vaši kontakti mogu biti pohranjeni na SIM kartici. Pokušajte uvoz kontakata sa vaše SIM kartice u unutarnju pohranu uređaja te zatim pokušajte ponovno.</string>
   <string name="no_contacts_dialog_title">Pronalaženje kontakata nije uspjelo</string>
   <string name="no_contacts_selected">Nije odabran nijedan kontakt.</string>
   <string name="no_sdcard_message">"Pohrana nije pronađena."</string>
@@ -937,8 +937,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="pref_key_photo">"Fotografija"</string>
   <string name="pref_key_photo_word_summary">Automatski dodijeli sliku kontaktima koji je nemaju</string>
   <string name="pref_key_photo_word_title">Fotografije za sve</string>
-  <string name="pref_key_rebuild_t9_index_message">Ponovo izgradi indeks da se uklone problemi pretrage</string>
-  <string name="pref_key_rebuild_t9_index_title">Ponovo izgradi podatke indeksa</string>
+  <string name="pref_key_rebuild_t9_index_message">Ponovno izgradi indeks da se uklone problemi pretrage</string>
+  <string name="pref_key_rebuild_t9_index_title">Ponovno izgradi podatke indeksa</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
   <string name="pref_key_sim_manage1">Postavljanje SIM kartice 1</string>
   <string name="pref_key_sim_manage2">Postavljanje SIM kartice 2</string>
@@ -1051,7 +1051,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="ret_sign">"
 "</string>
   <string name="returnCall">Povratni poziv</string>
-  <string name="ringLabelsGroup">"Zvuk zvona"</string>
+  <string name="ringLabelsGroup">"Melodija zvona"</string>
   <string name="save_photo_progress">Spremanje fotografije…</string>
   <string name="savingContact">Spremanje kontakta…</string>
   <string name="savingDisplayGroups">Spremanje opcija prikaza…</string>
@@ -1215,6 +1215,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_making_personal_copy">Stvaranje osobne kopije…</string>
   <string name="toast_text_copied">"Tekst kopiran"</string>
   <string name="today">Danas</string>
+  <string name="tomorrow">Sutra</string>
   <string name="transfer_accounts">Prijenos kontakata</string>
   <string name="type_incoming">Dolazni poziv</string>
   <string name="type_missed">Propušteni poziv</string>
@@ -1229,19 +1230,19 @@ Za dodavanje kontakta na listu favorita :
   <string name="upgrade_in_progress">Popis kontakata se ažurira.</string>
   <string name="upgrade_out_of_memory">Kontakti se trenutno nadograđuju. 
 
-Za proces nadogradnje potrebno je približno %s MB interne pohrane.
+Za proces nadogradnje potrebno je približno %s MB unutarnje pohrane.
 
 Odaberite jednu od sljedećih opcija:</string>
-  <string name="upgrade_out_of_memory_retry">Pokušaj ponovo nadogradnju</string>
+  <string name="upgrade_out_of_memory_retry">Pokušaj ponovno nadogradnju</string>
   <string name="upgrade_out_of_memory_uninstall">Deinstaliraj neke aplikacije</string>
   <string name="use_photo_as_primary">Upotrijebi ovu fotografiju</string>
   <string name="use_photo_as_primary2">Upotrijebi fotografiju kontakta %1$s</string>
   <string name="useful_numbers">Korisni brojevi</string>
   <string name="user_profile_contacts_list_header">"Ja"</string>
-  <string name="vcard_export_request_rejected_message">"Zahtjev za izvoz formata vCard je odbijen. Pokušajte ponovo kasnije."</string>
+  <string name="vcard_export_request_rejected_message">"Zahtjev za izvoz formata vCard je odbijen. Pokušajte ponovno kasnije."</string>
   <string name="vcard_export_will_start_message">"Datoteka %s će uskoro biti izvezena."</string>
   <string name="vcard_import_failed">"Ne mogu uvesti vCard %s."</string>
-  <string name="vcard_import_request_rejected_message">"Zahtjev za uvoz formata vCard je odbijen. Pokušajte ponovo kasnije."</string>
+  <string name="vcard_import_request_rejected_message">"Zahtjev za uvoz formata vCard je odbijen. Pokušajte ponovno kasnije."</string>
   <string name="vcard_import_will_start_message">"Datoteka %s će uskoro biti uvezena."</string>
   <string name="vcard_import_will_start_message_with_default_name">"Datoteka će uskoro biti uvezena."</string>
   <string name="vcard_info_send_error">"Ne mogu poslati zbog vCard pogreške"</string>
@@ -1302,5 +1303,6 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
   <string name="yellowpage_search_the_yellowpage">Pretraži imenik</string>
   <string name="yellowpage_user_profile">Profil</string>
+  <string name="yesterday">Jučer</string>
   <string name="zero_items_selected">"Odaberite stavke"</string>
 </resources>

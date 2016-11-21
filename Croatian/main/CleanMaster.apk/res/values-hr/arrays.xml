@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Prikaži</item>
-        <item>Ne prikazuj</item>
-        <item>Prikaži kasnije</item>
+        <item>Samo obavijesti</item>
+        <item>Očisti automatski</item>
+        <item>Očisti i obavijesti</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Očisti ovu datoteku</item>

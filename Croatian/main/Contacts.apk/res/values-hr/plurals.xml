@@ -143,4 +143,30 @@
         <item quantity="other">"Ovoliko kontakata/fotografija (%d) nije sinkr."</item>
         <item quantity="one">"1 kontakt/fotografija nije sinkroniziran"</item>
     </plurals>
+	<plurals name="abbrev_a_hour_ago">
+         <item quantity="other">prije 1 sat</item>
+     </plurals>
+     <plurals name="abbrev_half_hour_ago">
+         <item quantity="other">Prije pola sata</item>
+     </plurals>
+     <plurals name="abbrev_less_than_one_minute_ago">
+         <item quantity="other">Upravo sad</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+         <item quantity="other">prije %d min</item>
+         <item quantity="one">prije 1 min</item>
+     </plurals>
+     <plurals name="abbrev_in_a_hour">
+         <item quantity="other">Za 1 sat</item>
+     </plurals>
+     <plurals name="abbrev_in_half_hour">
+         <item quantity="other">Za pola sata</item>
+     </plurals>
+     <plurals name="abbrev_in_less_than_one_minute">
+         <item quantity="other">Odmah</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+         <item quantity="other">za %d min</item>
+         <item quantity="one">za 1 min</item>
+     </plurals>
 </resources> 

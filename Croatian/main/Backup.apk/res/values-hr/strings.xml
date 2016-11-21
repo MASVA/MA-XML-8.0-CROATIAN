@@ -332,7 +332,7 @@ Oslobodite najmanje %s."</string>
   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
 Čeka se prijenos…"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
-I Mi Mover uključen"</string>
+i Mi Mover uključen"</string>
   <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
@@ -343,8 +343,8 @@ I Mi Mover uključen"</string>
   <string name="wifi_title">Postavke WLAN-a</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"Ne mogu se povezati s Upraviteljem preuzimanja, provjerite status Upravitelja preuzimanja u Upravljanje aplikacijama.</string>
-  <string name="xiaomi_external_storage_unavailable">Prostor za pohranu nije dostupan, provjerite SD karticu.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
+  <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

@@ -28,7 +28,7 @@
   <string name="app_name_midrop">Mi Drop</string>
   <string name="app_name_miui">MIUI</string>
   <string name="app_name_miuimusic">Glazba</string>
-  <string name="app_name_miuiringtone">Zvuk zvona</string>
+  <string name="app_name_miuiringtone">Melodija zvona</string>
   <string name="app_name_miuiwallpaper">Slike pozadine</string>
   <string name="app_name_screenshot">Snimke zaslona</string>
   <string name="auto_play">Reproduciraj automatski kada je povezano na WLAN</string>

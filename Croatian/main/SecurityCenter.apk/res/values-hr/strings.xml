@@ -80,7 +80,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_choose_engine_title">Definicije</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši rizične aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
-  <string name="antivirus_monitor_clean_tips">Izbriši ovoliko stavki: %s</string>
+  <string name="antivirus_monitor_clean_tips">Izbrisane stavke: %s</string>
   <string name="antivirus_monitor_risk_advice">"Ova aplikacija nije sigurna, izbrišite je"</string>
   <string name="antivirus_monitor_virus_advice">Ova aplikacija može sadržavati virus, izbrišite je</string>
   <string name="antivirus_more_engine_dialog_summary">Korištenje višestrukih setova definicija za skeniranje može potrajati više vremena.</string>
@@ -590,8 +590,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_need_regular_scan">Skenirajte redovito svoj uređaj</string>
   <string name="hints_power_percent_title">baterije</string>
   <string name="hints_remember_choice">Zapamti prednosti</string>
-  <string name="hints_risk_apk_list_item_summary">Rizik (apk)</string>
-  <string name="hints_risk_app_list_item_summary">Rizik (app)</string>
+  <string name="hints_risk_apk_list_item_summary">apk</string>
+  <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Rizik:</string>
   <string name="hints_scan_progress">Završeno: %d</string>
@@ -603,9 +603,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_scanning_text">Skeniranje…</string>
   <string name="hints_scanning_virus_by_cloud">Cloud skeniranje…</string>
   <string name="hints_unknown_virus_name">Nepoznato</string>
-  <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
-  <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+  <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Opis:</string>
   <string name="hints_virus_lib_update_default_summary">Vrijeme zadnjeg ažuriranja nije poznato</string>
@@ -650,6 +650,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="keywords_securitycenter_settings">Potrošnja baterije;Dopuštenja;Lista blokiranih;Uporaba podataka:Kalibriraj plan podataka;Test mreže;Zaklj. aplikacija;Štednja baterije;Grijanje;Uključi;Isključi;Baterija;Potrošnja;Autom. pokretanje;ROOT;Lokacija;Pristup kontaktima;Blokiraj;Lista blokiranih;Lista dopuštenih;Prevarant;Trgovac;Agenti;Podaci;Promet;Kalibriraj;Povezanost;Internet;Test;Zaporka;Privatnost;Pristup;Zaštita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
+  <string name="label_mi_stats">Mi analitika</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
   <string name="last_check_date_today">"Skenirano danas "</string>
   <string name="last_check_date_yesterday">"Skenirano jučer "</string>
@@ -1433,13 +1434,13 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sorted_button">Poredaj po</string>
   <string name="sorted_dialog_title">Poredaj po</string>
   <string name="sp_back_title_text_zero">Osiguraj</string>
-  <string name="sp_background_risk_dialog_summary">, detaljno provjerite i popravite rizična plaćanja</string>
-  <string name="sp_background_risk_dialog_title">Opasno</string>
+  <string name="sp_background_risk_dialog_summary">, provjeri i popravi probleme s plaćanjem.</string>
+  <string name="sp_background_risk_dialog_title">Pažnja</string>
   <string name="sp_background_risk_type_messaging">Aplikacija sustava za razmjenu poruka je zamijenjena</string>
   <string name="sp_background_risk_type_root">Sustav je ROOT-an</string>
   <string name="sp_background_risk_type_sign">Neslužbena aplikacija je pokrenuta</string>
-  <string name="sp_background_risk_type_virus">Virus apl. je pokrenuta</string>
-  <string name="sp_background_risk_type_wifi">WLAN povezivanje je opasno</string>
+  <string name="sp_background_risk_type_virus">Virus pokrenut u pozadini</string>
+  <string name="sp_background_risk_type_wifi">Ova WLAN mreža je opasna</string>
   <string name="sp_button_text_ignore_alert_title">Ignorirati ovu stavku?</string>
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
@@ -1820,7 +1821,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="unable_connect_internet">"Ne mogu se povezati na mrežu"</string>
   <string name="uninstall_app_dialog_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Deinstalirati sada?</string>
-  <string name="uninstall_app_done">Deinstaliranje završeno</string>
+  <string name="uninstall_app_done">Uspješno deinstalirano</string>
   <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>

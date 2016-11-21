@@ -29,6 +29,7 @@
   <string name="alert_dialog_download_btn_hide">Sakrij</string>
   <string name="alert_dialog_download_dup_task">Preuzimanje u tijeku, pričekajte…</string>
   <string name="alert_dialog_download_error">Pogreška preuzimanja</string>
+  <string name="alert_dialog_download_install_task">Čeka se instaliranje dodatka do kraja…</string>
   <string name="alertdialog_downapp_btn_back">Natrag</string>
   <string name="all">Sve</string>
   <string name="all_ep">Sve ep</string>
