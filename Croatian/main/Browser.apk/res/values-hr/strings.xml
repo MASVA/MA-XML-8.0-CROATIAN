@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Dodaj prečac</string>
   <string name="action_menu_useful_page_added">Dodano na početnu stranicu</string>
   <string name="actionbar_share">Podijeli</string>
+  <string name="actionbar_textselection_title">Odabir teksta</string>
   <string name="actionbar_web_search">Pretraživanje weba</string>
   <string name="adblock_force_updating_rules_toast">Ažuriranje Ad blockera</string>
   <string name="adblock_notification">Blokirano reklama %d</string>
@@ -57,7 +58,7 @@
   <string name="adblock_websites_settings_title">Blokirane stranice</string>
   <string name="add_bookmark_group">Dodaj grupu</string>
   <string name="add_bookshelf_popup_text">Dodano na policu</string>
-  <string name="add_favorites_to">Dodaj favorite u</string>
+  <string name="add_favorites_to">Dodaj u favorite</string>
   <string name="add_new_bookmark">Dodaj oznaku</string>
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
@@ -84,6 +85,7 @@
   <string name="aqi_quality_index_moderate">Umjeren</string>
   <string name="aqi_quality_index_pure">Odličan</string>
   <string name="aqi_quality_index_unhealthy">Nezdrav</string>
+  <string name="autofill_keyboard_accessory_content_description">Prijedlozi dostupni</string>
   <string name="autofill_popup_content_description">Prikazivanje automatskog popunjavanja</string>
   <string name="autologin_bar_error">"Ne mogu se prijaviti."</string>
   <string name="autologin_bar_hide_text">Sakrij</string>
@@ -489,7 +491,9 @@ Napustiti ovu stranicu?"</string>
   <string name="paused_waiting_to_retry">Ponovni pokušaj…</string>
   <string name="pay_failed_toast">"Ne mogu dovršiti plaćanje"</string>
   <string name="pay_success_toast">Uspješno plaćeno</string>
-  <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih prozora?</string>
+  <string name="permission_alert_window">Za korištenje značajke, otvorite opciju sustava "Prikaz skočnih obavijesti".</string>
+  <string name="permission_unknown">Nepoznata opcija</string>
+  <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih obavijesti?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accessibility">Pristupačnost</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
@@ -749,6 +753,7 @@ Napustiti ovu stranicu?"</string>
   <string name="unsecurity_url_toast">"Ova web stranica nije sigurna"</string>
   <string name="up_to_loading_tips">Otpusti za osvježiti</string>
   <string name="update_no_network_toast">"Ne mogu se povezati na mrežu"</string>
+  <string name="updating_chrome">Ažuriranje Chrome-a...</string>
   <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="url_copy_done">Poveznica kopirana u međuspremnik</string>
   <string name="url_find_on_page_result">Prikaži u Pregledniku</string>
