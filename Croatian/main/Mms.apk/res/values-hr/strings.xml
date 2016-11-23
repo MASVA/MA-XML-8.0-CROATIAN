@@ -140,7 +140,7 @@
   <string name="dl_failure_notification">Preuzimanje poruke od %1$s za %2$s nije bilo moguće.</string>
   <string name="done">Gotovo</string>
   <string name="download">Preuzmi</string>
-  <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovo kasnije.""</string>
+  <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovno kasnije.""</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_file_can_not_play">Pričekajte dok se ne završi preuzimanje</string>
   <string name="duration_not_a_number">Trajanje mora biti broj</string>
@@ -180,7 +180,7 @@
   <string name="festival_continue">U redu</string>
   <string name="festival_networking_desc">Ova značajka treba povezivanje s internetom za normalan rad.</string>
   <string name="festival_networking_title">Obavijest</string>
-  <string name="festival_never_remind">"Ne prikazuj ponovo."</string>
+  <string name="festival_never_remind">"Ne prikazuj ponovno."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -216,6 +216,16 @@
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
   <string name="hold_to_talk">Zadrži za razgovor</string>
+  <string name="hybrid_check_network">Postavke mreže</string>
+  <string name="hybrid_data_error">Došlo je do pogreške</string>
+  <string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
+  <string name="hybrid_network_access_denied">Mrežni pristup odbijen</string>
+  <string name="hybrid_network_unavaliable">"Ne mogu se povezati na mrežu"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Povuci za osvježiti…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutak…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Otpusti za osvježiti…</string>
+  <string name="hybrid_service_unavailiable">"Usluga nije dostupna"</string>
+  <string name="hybrid_try_again">Pokušajte ponovno</string>
   <string name="i_know">Shvaćam</string>
   <string name="importing_progress_private_message">Uvoz…</string>
   <string name="in_sms">Poruka</string>
@@ -257,7 +267,7 @@
   <string name="message_download_failed_title">Poruka nije preuzeta</string>
   <string name="message_expired">Isteklo</string>
   <string name="message_failed">Nije uspjelo</string>
-  <string name="message_failed_body">Dodirnite za pregled poruke i pokušajte ponovo.</string>
+  <string name="message_failed_body">Dodirnite za pregled poruke i pokušajte ponovno.</string>
   <string name="message_number">Tel. broj:</string>
   <string name="message_pending">Slanje</string>
   <string name="message_queued">Trenutačno nismo u mogućnosti poslati vašu poruku. Poruka će biti poslana kad usluga postane dostupna.</string>
@@ -315,7 +325,7 @@
   <string name="mx_and_voip_enable">Mi Poruka &amp; Voice</string>
   <string name="mx_and_voip_enable_popup_msg">"Šaljite poruke i upućivajte pozive drugim MIUI uređajima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_and_voip_enable_popup_msg2">Pravila o Privatnosti</string>
-  <string name="mx_auto_resend_mms">Automatski ponovo pošalji MMS</string>
+  <string name="mx_auto_resend_mms">Automatski ponovno pošalji MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
   <string name="mx_auto_resend_sms_summary">Pošalji poruke kao SMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Snosite redovite troškove vašeg davatelja usluga.</string>
@@ -393,6 +403,7 @@
   <string name="pref_message_recovery_introduction_title">Obnova poruka</string>
   <string name="pref_messages_to_save">Podesi broj poruka za spremanje</string>
   <string name="pref_mms_settings_title">Postavke MMS-a</string>
+  <string name="pref_msg_trash_bin_title">Nedavno izbrisane poruke</string>
   <string name="pref_notification_settings_title">Postavke obavijesti</string>
   <string name="pref_other_title">Dodatne postavke</string>
   <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
@@ -536,7 +547,7 @@
   <string name="select_top_text">Tekst pri vrhu</string>
   <string name="send">Pošalji</string>
   <string name="send_hms_editor_hints">Mi Poruke</string>
-  <string name="send_message_dlg_check_hint">"Ne prikazuj ponovo"</string>
+  <string name="send_message_dlg_check_hint">"Ne prikazuj ponovno"</string>
   <string name="send_message_dlg_mgs">CMCC napomena: Moramo registrirati vaš uređaj za upravljanje uređajem platforme za pružanje besplatne Post-usluge (Post-usluga je CMCC platforma koja može upravljati terminalom uređaja. Ono vam pruža uslugu postavki iz daljine i nadogradnju aplikacije.).Besplatna SMS poruka s informacijama uređaja će biti poslana za registraciju.SMS će biti poslan samo jednom i nisu potrebni vaši osobni podaci (Ne slati u Hong Kong, Makao, Tajvan i međunarodni roaming). Odaberite "U redu" na pristanak registracije i korištenje usluge. Odaberite "Odustani" da odustajete i neće biti osigurana usluga iz CMCC.</string>
   <string name="send_message_dlg_title">Upravljanje uređaja</string>
   <string name="send_message_notification_msg">Dodirnite da biste vidjeli zahtjev pojedinosti</string>
