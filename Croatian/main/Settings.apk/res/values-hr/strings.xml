@@ -2424,7 +2424,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notes_privacy_password_role_instruction">Vaše privatne bilješke će biti pohranjene ovdje.</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_breathing_light_color_title">Boja LED-a kod obavijesti</string>
-  <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a kod obavijest</string>
+  <string name="notification_breathing_light_freq_title">Frekvencija treperenja LED-a kod obavijesti</string>
   <string name="notification_listener_security_warning_summary">%1$s moći će čitati sve obavijesti koje objavi sustav ili bilo koja instalirana aplikacija, a obavijesti mogu uključivati osobne podatke, primjerice, imena kontakata i tekstove poruka koje su vam poslane. Također će moći odbaciti te obavijesti ili dodirnuti u njima sadržane tipke radnji.</string>
   <string name="notification_listener_security_warning_title">Želite li dopustiti usluzi %1$s pristup obavijestima?</string>
   <string name="notification_log_title">Zapisnik obavijesti</string>
@@ -4673,7 +4673,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
   <string name="wifi_hotspot_message">%1$s zahtijeva prijavu na webu za povezivanje s mrežom.</string>
   <string name="wifi_hotspot_title">Želite li se prijaviti radi povezivanja?</string>
-  <string name="wifi_in_airplane_mode">U Zrakoplovnm načinu</string>
+  <string name="wifi_in_airplane_mode">U Zrakoplovnom načinu</string>
   <string name="wifi_install_credentials">Instaliranje certifikata</string>
   <string name="wifi_ip_address">IP adresa</string>
   <string name="wifi_ip_settings">IP postavke</string>
