@@ -281,12 +281,8 @@
          <item quantity="many">%1$s komentara</item>
      </plurals>
      <plurals name="video_count">
-         <item quantity="other">%1$s videozapisa</item>
-         <item quantity="zero">%1$s videozapisa</item>
-         <item quantity="one">%1$s videozapis</item>
-         <item quantity="two">%1$s videozapisa</item>
-         <item quantity="few">%1$s videozapisa</item>
-         <item quantity="many">%1$s videozapisa</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videozapisa</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> videozapis</item>
      </plurals>
 	  <plurals name="follow_count">
          <item quantity="other">%1$s sljedbenika</item>
@@ -331,5 +327,9 @@
 	 <plurals name="video_publish_watchable_hint">
          <item quantity="other">Dobijte %1$d više sljedbenika da nadogradite svoj status​</item>
          <item quantity="one">Dobijte %1$d više sljedbenika da nadogradite svoj status</item>
+     </plurals>
+	 <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> sljedbenika</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> sljedbenik</item>
      </plurals>
 </resources> 

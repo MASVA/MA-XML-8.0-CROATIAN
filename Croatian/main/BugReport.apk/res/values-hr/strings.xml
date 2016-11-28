@@ -91,6 +91,7 @@
   <string name="feedback_submit_failed_notification_desc">Prikaži detalje</string>
   <string name="feedback_submit_failed_notification_retry">Pošalji ponovno</string>
   <string name="feedback_submit_failed_notification_title">"Ne mogu poslati izvješće"</string>
+  <string name="feedback_submit_hint">Prijavite bugove svaki put naiđete na probleme kako bi nam pomogli riješiti ih što brže.</string>
   <string name="feedback_submit_hint1">"Obavijestiti ćemo vas o napretku vašeg izvješća"</string>
   <string name="feedback_submit_hint2">Idite u \"Moja izvješća\" za prikaz detalja</string>
   <string name="feedback_submit_succ">Uspješno poslano</string>
@@ -274,6 +275,7 @@
   <string name="toast_module_required">Odaberi stavku</string>
   <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
+  <string name="toast_post_deleted">"Ova tema ne postoji, izbrisana je ili uređena."</string>
   <string name="toast_problem_class_required">Odaberite kategoriju</string>
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
   <string name="toast_report_sent_failed">"Ne mogu poslati izvješće"</string>

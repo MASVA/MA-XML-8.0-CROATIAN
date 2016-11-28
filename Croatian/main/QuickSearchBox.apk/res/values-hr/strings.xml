@@ -54,11 +54,25 @@
   <string name="permission_prompt_started_info">"Dopuštena vam je globalna potraga"</string>
   <string name="permission_prompt_title">Želite još?</string>
   <string name="recent_apps">Nedavne aplikacije</string>
+  <string name="recent_apps_filter">"Sakrijte aplikacije koje ne koristite"</string>
+  <string name="recent_close_content">"Isključiti sada ovu značajku?
+ Možete to promijeniti u Postavke &gt; Instalirane aplikacije &gt; Traži"</string>
+  <string name="recent_close_title">Isključi značajke</string>
+  <string name="recent_delete_content">"Sakriti sada ove aplikacije?
+  Možete to promijeniti u Postavke &gt; Instalirane aplikacije &gt; Traži"</string>
+  <string name="recent_delete_negative">Odustani</string>
+  <string name="recent_delete_positive">U redu</string>
+  <string name="recent_delete_title">Sakrij aplikacije</string>
+  <string name="recent_edit">Uredi</string>
+  <string name="recent_edit_done">Gotovo</string>
+  <string name="recent_filter_functions">Značajke isključene</string>
+  <string name="recent_function">Značajke</string>
   <string name="recently_shortcut_label">Nedavni prečaci</string>
   <string name="remove_from_history">Uklanjanje stavke iz povijesti</string>
   <string name="remove_from_history_failed">"Ne mogu ukloniti stavku iz povijesti"</string>
   <string name="search_apps">Traži aplikacije</string>
   <string name="search_group_fold">Sakrij</string>
+  <string name="search_button">Traži</string>
   <string name="search_group_unfold">Više</string>
   <string name="search_history">Povijest</string>
   <string name="search_in_app_store">Pretraži na Google Play</string>
@@ -90,6 +104,13 @@
   <string name="switch_setting">Postavke</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="top_clicked">Česte stavke</string>
+  <string name="update_check">Provjeri za ažuriranja</string>
+  <string name="update_right_now">Ažuriraj</string>
+  <string name="update_title">Ažuriranje je dostupno</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Stabilno</string>
+  <string name="updated_title">MIUI je ažuran</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Pokušajte reći: "</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="a_week_share_rank">Tjedni poredak</string>
   <string name="account_bind_prompt">Premještam korisničke podatke… 
  To može potrajati nekoliko minuta</string>
   <string name="account_login_title">Račun</string>
@@ -113,6 +114,7 @@
   <string name="choose_send_type">Pošalji sa…</string>
   <string name="choose_upload_location">Pošalji na KuaiPan</string>
   <string name="clean_hint">Dodirnite da oslobodite prostor</string>
+  <string name="click_to_refresh">Dodirnite ovdje za osvježiti</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
   <string name="clean_title">Brisanje datoteka starije preko 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
@@ -289,8 +291,10 @@
   <string name="hot_app">Popularne aplik.</string>
   <string name="hot_comments">Aktualno</string>
   <string name="hot_sticker">Naljepnice</string>
+  <string name="hot_topic_str">Popularne teme</string>
   <string name="hot_video">Videozapisi</string>
   <string name="hot_video_load_more">Više &gt;</string>
+  <string name="hot_video_title">Popularni videozapisi</string>
   <string name="hottest_sticker_str">Popularno</string>
   <string name="if_cancel">Otkazati ovu radnju?</string>
   <string name="image_loading_error">"Ne mogu učitati sliku"</string>
@@ -475,6 +479,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_apk">Dodirnite za dobivanje aplikacija.</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Nema komentara</string>
+  <string name="no_content">Ponovno otvorite aplik. Datoteke da biste vidjeli popularne videozapise</string>
+  <string name="no_daren_tip">Nothing here yet</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
@@ -750,6 +756,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="setting_message_notify">Obavijesti</string>
   <string name="setting_shortcut">Dodaj prečac na početni zaslon</string>
   <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
+  <string name="share_rank_card_tip">Poredak dijeljenja</string>
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_tip_1">Hvala za dijeljenje, pratite me da gledate više videozapisa</string>
   <string name="share_tip_2">Hvala za dijeljenje, pratite me da gledate više videozapisa</string>
@@ -801,7 +808,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>
   <string name="start_use_xiaomi_account">Počnite koristiti KuaiPan</string>
   <string name="stay_awake_summary">Zaslon se neće isključiti tijekom FTP prijenosa</string>
-  <string name="stay_awake_title">Držite zaslon uključenim</string>
+  <string name="stay_awake_title">Drži zaslon uključenim</string>
+  <string name="sticker_btn_str_explore_tab">Istražite masu zabavnih stvari!</string>
   <string name="stop_server">Zaustavi FTP poslužitelj</string>
   <string name="storage_cloned_app">Prostor za pohranu za dvojne aplikacije</string>
   <string name="storage_info">%1$s dostupno</string>
@@ -826,6 +834,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_claim">Zahtjev</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
   <string name="tab_discover">Otkrij</string>
+  <string name="tab_explore">Otkrij</string>
   <string name="tab_expand">Proširi</string>
   <string name="tab_follow">Pratim</string>
   <string name="tab_homepage">Na početnu</string>
@@ -855,6 +864,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="title_upload_video">Podijelite video isječke</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="tools">ALATI</string>
+  <string name="top_mark">TOP</string>
+  <string name="top_videos">Podijeli poredak</string>
   <string name="topic_follow">Prati</string>
   <string name="topic_followed">Pratim</string>
   <string name="topic_message">%1$s: %2$s</string>
@@ -910,6 +921,7 @@ oslobodili prostor.</string>
   <string name="upload_notification_success">Uspješno poslano</string>
   <string name="upload_notification_success_content">"Vaš videozapis treba biti biti pregledan prije nego se podijeli drugim osobama"</string>
   <string name="upload_notification_title">Učitavanje videozapisa</string>
+  <string name="upload_popup">Učitajte videozapise da osvojite nagrade</string>
   <string name="upload_user_photo">Učitaj</string>
   <string name="upload_video_failed">"Ne mogu učitati"</string>
   <string name="upload_video_failed_external_progress">"Ne mogu učitati, pokušajte neki drugi"</string>
@@ -1042,7 +1054,9 @@ oslobodili prostor.</string>
   <string name="video_upload_title">Odaberite videozapis</string>
   <string name="video_upload_wechat_hint">Učitajte WeChat videozapise da biste dobili više obožavatelja.</string>
   <string name="video_uploaded">Učitano</string>
+  <string name="view_master_rank">Prikaži Youliao top</string>
   <string name="videos">Videozapisi</string>
+  <string name="view_top_rank">Prikaži poredak</string>
   <string name="view_more_sticker">Prikaži još naljepnica</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="vip_info">VIP: %1$s</string>
@@ -1081,5 +1095,6 @@ Pridružite se 170 milijuna Mi Obožavatelja!"</string>
 a to je aplikacija namijenjena da vam donese još više zabave!"</string>
   <string name="youliao_dialog_title">Nema zanimljivih videozapisa?</string>
   <string name="zero">0</string>
+  <string name="youliao_master_rank">Youliao top</string>
   <string name="zero_comment">Nema komentara</string>
 </resources>

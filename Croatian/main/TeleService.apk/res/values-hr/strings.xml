@@ -90,6 +90,7 @@
   <string name="autoip_exception_summary">%d ukupno</string>
   <string name="autoip_exception_summary_more">, %d ukupno</string>
   <string name="autoip_no_exceptions">"Dodaj brojeve koje ne zahtijevaju IP prefiks"</string>
+  <string name="autoip_phone">Autom. IP biranje</string>
   <string name="autoip_prefix">IP prefiks</string>
   <string name="autoip_prefix_summary">"IP prefiks davatelja usluga je %s"</string>
   <string name="autoip_setting">Automatske IP postavke</string>

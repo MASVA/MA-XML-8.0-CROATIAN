@@ -1835,7 +1835,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
-  <string name="launcher_title">Pokretač</string>
+  <string name="launcher_title">Poč. zaslon</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
   <string name="launching_cit">Pokrećem CIT, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke o uređaju…</string>
@@ -1947,7 +1947,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_after_timeout_summary_with_exception">%1$s nakon mirovanja, osim kada ga %2$s drži otključanim</string>
   <string name="lock_immediately_summary_with_exception">Odmah nakon mirovanja, osim kada ga %1$s drži otključanim</string>
   <string name="lock_intro_message">"Možete zaštititi svoj telefon od neovlaštene uporabe s osobnom gestom za otključavanje zaslona. Povežite na sljedećem zaslonu prstom u bilo kojem redoslijedu. Povežite najmanje četiri točke. Kada ste spremni za početak, dodirnite Dalje."</string>
-  <string name="lock_screen_cells_title">Ćelije Zaklj. zaslona</string>
+  <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
   <string name="lock_screen_notifications_interstitial_message">Kada je uređaj zaključan, kako želite da se obavijesti prikazuju?</string>
   <string name="lock_screen_notifications_interstitial_title">Obavijesti</string>
   <string name="lock_screen_notifications_summary_disable">Uopće ne prikazuj obavijesti</string>
@@ -2212,7 +2212,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
-  <string name="miui_screen_config_title">Konfig. zaslona MIUI Pokretača</string>
+  <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
   <string name="miui_screensaver_state_off">Isključeno</string>
@@ -3084,6 +3084,11 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="reset_network_final_button_text">Poništi postavke</string>
   <string name="reset_network_final_desc">Želite li vratiti sve postavke mreže na zadano? Tu radnju nije moguće poništiti!</string>
   <string name="reset_network_title">Poništ. post. mreže</string>
+  <string name="reset_second_space_passwd">Resetiraj zaporku Drugog prostora</string>
+  <string name="reset_second_space_passwd_cancel">Odustani</string>
+  <string name="reset_second_space_passwd_confirm">Nastavi</string>
+  <string name="reset_second_space_passwd_detail">Unesite zaporku Mi Računa koji se koristi u Prvom prostoru</string>
+  <string name="resetting_second_space_passwd">Resetiranje zaporke Drugog prostora</string>
   <string name="resolver_settings_label">Sortiraj</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
@@ -3156,7 +3161,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Kliznite dolje da biste sakrili tipke zaslona</string>
-  <string name="screen_cells_config_title">Konfig. ćelija zaslona</string>
+  <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_color_and_optimize">Boje &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne mogu podesiti temperaturu boje u načinu čitanja"</string>
   <string name="screen_color_temperature">Boje</string>

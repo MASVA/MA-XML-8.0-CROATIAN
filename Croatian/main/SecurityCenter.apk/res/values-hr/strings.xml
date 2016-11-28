@@ -265,6 +265,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="btn_text_goto_setup">Dodirni za Postavke</string>
   <string name="btn_text_network_speed_detail">Povezanost</string>
   <string name="btn_text_open_now">Uključi</string>
+  <string name="btn_text_optimize_extend_battery_time">Dodaj %s</string>
   <string name="btn_text_optimize_manually">Optimiziraj ručno</string>
   <string name="btn_text_optimize_now">Optimiziraj</string>
   <string name="btn_text_power_cleanup">Super Čistač</string>
@@ -1285,6 +1286,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="quick_optimize_no_issue_subtitle">Sve izgleda dobro</string>
   <string name="quick_optimize_no_issue_title">"Ne mogu pronaći probleme baterije"</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s vijeku trajanja baterije</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prebrzo prazni bateriju, popravite to</string>
+  <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregrijava, popravite to</string>
   <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Dodirnite za uključivanje Uštede podataka.</string>
   <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>

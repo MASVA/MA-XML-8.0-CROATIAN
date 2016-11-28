@@ -121,7 +121,6 @@
   <string name="could_not_start_unknown_intent">Nije moguće pokrenuti Cloud Print: radnja nije prepoznata</string>
   <string name="currently_offline">Trenutačno izvan mreže</string>
   <string name="decline">Odbij</string>
-  <string name="default_document_title">Bez naslova</string>
   <string name="delete">Brisanje</string>
   <string name="delete_item">Izbriši</string>
   <string name="delete_printer_msg">Jeste li sigurni da želite ukloniti taj pisač?</string>
