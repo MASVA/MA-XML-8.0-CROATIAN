@@ -78,6 +78,7 @@
   <string name="alert_secret_album_enter">U redu</string>
   <string name="alert_secret_album_message">Povucite prema dolje sa vrha stranice vaših Albuma za prikaz skrivenih albuma.</string>
   <string name="alert_secret_album_title">Kako vidjeti skriveni album</string>
+  <string name="all_faces">Sve fotografije sa osobama</string>
   <string name="all_items_synced">Svi albumi imaju izrađenu Sig. kopiju na Mi Cloudu</string>
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
@@ -181,6 +182,9 @@
   <string name="confirm_download_video_message">Morate završiti s preuzimanjem ovog videozapisa prije nego što ga možete pogledati. Preuzimanje će se nastaviti kada je WLAN dostupan.</string>
   <string name="confirm_download_video_title">Preuzmi videozapis</string>
   <string name="confirm_face">Podudaranje</string>
+  <string name="confirm_hidden_recommend_group">U redu</string>
+  <string name="confirm_hidden_recommend_group_message">Kada su preporuke isključene, i dalje možete koristiti opciju \"Više osoba koje izgledaju podjednako\"</string>
+  <string name="confirm_hidden_recommend_group_title">"Ne prikazuj preporuke"</string>
   <string name="confirm_merge_face_albums">" "Spojiti ovaj album s %s" "</string>
   <string name="confirm_merge_many_face_albums">" "Spojiti ove albume s %s?" "</string>
   <string name="confirm_not_face">Nema podudaranja</string>
@@ -275,6 +279,8 @@
   <string name="edited_photo_bucket_name">Uređeno</string>
   <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
+  <string name="empty_recommend_button_view">Natrag</string>
+  <string name="empty_recommend_face_page_view">Nema više preporuka</string>
   <string name="enable_auto_upload_tip">Ovaj album će biti uklonjen iz drugih albuma nakon što uključite.</string>
   <string name="enable_auto_upload_title">Uključi sinkr. s Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Uključi albume Mi Clouda za prikaz dijeljenih fotografija.</string>
@@ -313,10 +319,16 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="face_album_not_named">Bez naziva</string>
   <string name="face_album_pending_enable_tip">Fotografije će biti poredane kada je uređaj povezan na WLAN</string>
   <string name="face_album_rename_hint">Unesite naziv</string>
+  <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">"Automatski poredaj fotografije po osobama koje su na njima."</string>
   <string name="face_albumset_loading_data">Učitavanje podataka…</string>
   <string name="face_choose_tip">Odaberite iz postojećeg albuma</string>
+  <string name="face_confirm">Ovo je ista osoba</string>
   <string name="face_move_dialog_title">Odaberite album</string>
+  <string name="face_name_edit">Uredi</string>
+  <string name="face_name_input">Unesite ime</string>
+  <string name="face_recommend">Preporuke</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="facelift">Sjaj lica</string>
   <string name="facetan">Preplanulo lice</string>
   <string name="fail_hint">"Ne mogu dovršiti radnju"</string>
@@ -454,6 +466,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="micloud_introduce">Izradi Sig. kopiju kamere i videozapisa automatski (potreban Mi Račun)</string>
   <string name="more_album_hint">,itd</string>
+  <string name="more_face">Više osoba koje izgledaju podjednako</string>
   <string name="more_face_album_name">Više osoba</string>
   <string name="move_to_other_albums_tip">Sinkronizacija s Mi Cloudom će biti isključena ako premjestite ovaj album u druge albume. Premjestiti sada?</string>
   <string name="must_pick_file">Odaberite fotografiju</string>
@@ -591,6 +604,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Odaberite odnos</string>
   <string name="release_space_finish_format">Oslobođeno %s unutarnje pohrane</string>
+  <string name="remind_face_recommend_confirm">Potvrdi</string>
   <string name="remove_from_other_albums_tip">Uključite sinkronizaciju s Mi Cloudom da premjestite stavke iz drugih albuma. Premjestiti sada?</string>
   <string name="remove_from_secret_fail">"Ne mogu ukloniti iz skrivenog albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne mogu ukloniti iz skrivenog albuma. %1$s."</string>

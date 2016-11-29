@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvarite vrtuljak slika pozadine</string>
+  <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvorite vrtuljak slika pozadine</string>
   <string name="click_to_enter_text">Dodirnite za pregled</string>
   <string name="confirm_pin_msg">Unesite PIN ponovno</string>
   <string name="custom_lock_wallpaper_enter">Uđi</string>
@@ -16,7 +16,7 @@
   <string name="experimental_validate_username">Korisničko ime</string>
   <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
   <string name="find_device_turn_off_flight_mode">Isključite Zrakoplovni način</string>
-  <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno</string>
+  <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>
   <string name="fingerprint_add_title">Dodajte otisak prsta</string>
   <string name="fingerprint_enter_second_psw_msg">Unesite zaporku Drugog prostora nakon ponovnog pokretanja uređaja da biste mogli koristiti prepoznavanje otiska prsta</string>
   <string name="fingerprint_enter_second_psw_title">Unesite zaporku Drugog prostora</string>

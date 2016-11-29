@@ -239,7 +239,7 @@
   <string name="status_pending">Na čekanju</string>
   <string name="title_select_live_folder">Odaberite mapu</string>
   <string name="title_select_shortcut">Odaberite prečac</string>
-  <string name="toast_screen_icons_misplaced">Obnovljeno iz druge baze podataka, neke ikone mogu biti zagubljene</string>
+  <string name="toast_screen_icons_misplaced">Obnovljeno iz drugih izvora, neke ikone mogu biti zagubljene</string>
   <string name="toggle_select_title">Odaberite prečac</string>
   <string name="toggle_title">Prečaci</string>
   <string name="transformation_type_classic">Klasično</string>

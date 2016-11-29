@@ -375,7 +375,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="connecting">Povezivanje…</string>
   <string name="continue_install">Instaliraj</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
-  <string name="convenient_summary">"Ne zahtijeva zaporku nakon što je 1 aplikacija je otključana"</string>
+  <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
   <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovno.</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>

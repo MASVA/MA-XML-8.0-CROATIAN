@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Partner Smart poruka</string>
   <string name="action_firewall_setting">Lista blokiranih</string>
   <string name="activity_not_found">Nijedna aplikacija ne može podržati ovu radnju</string>
   <string name="activity_not_found_uri">Nijedna aplikacija ne može podržati ovu radnju</string>
@@ -385,6 +386,7 @@
   <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
   <string name="over_max_mms_size">MMS poruka je prevelika.</string>
   <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
   <string name="phrase_empty">Nema izraza</string>
   <string name="phrase_from">Šalje %1s</string>
@@ -430,6 +432,7 @@
   <string name="pref_time_auto_group_disabled_summary">"Nije podržano u trenutnoj veličini fonta"</string>
   <string name="pref_time_auto_group_summary">Grupne poruke po vremenu</string>
   <string name="pref_time_auto_group_title">Grupne poruke</string>
+  <string name="pref_title_about_smart_sms">O partneru Smart poruka</string>
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push poruke (SI/SL)</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
