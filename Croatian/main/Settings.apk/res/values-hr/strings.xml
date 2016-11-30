@@ -1364,7 +1364,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_service_password_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi zaporku.</string>
   <string name="enable_service_pattern_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi uzorak.</string>
   <string name="enable_service_pin_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi PIN.</string>
-  <string name="enable_service_title">Ova usluga će obavljati ove akcije:</string>
+  <string name="enable_service_title">Upotrijebiti %1$s?</string>
   <string name="enable_snapshot_screenlock">Dugi pritisnite tipku Natrag da snimite fotografiju</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
@@ -2210,6 +2210,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_allow_music">Glazba</string>
   <string name="miui_allow_vibrate">Vibracija</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
+  <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
@@ -2881,13 +2882,20 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
   <string name="privacy_notes">Bilješke</string>
   <string name="privacy_password">Zaporka zaštite privatnosti</string>
+  <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
+  <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
   <string name="privacy_password_confirm_use_finger">Otključajte pomoću otiska prsta</string>
+  <string name="privacy_password_enter_privacy">Unesite Zaporku zaštite privatnosti</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Ne mogu potvrditi otisak"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Otisak prsta potvrđen</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
   <string name="privacy_password_fingerprint_dialog_message">Stavite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj otisak prsta</string>
+  <string name="privacy_password_never_remind">"Ne pitaj ponovno"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
   <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, i bilješke.</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>

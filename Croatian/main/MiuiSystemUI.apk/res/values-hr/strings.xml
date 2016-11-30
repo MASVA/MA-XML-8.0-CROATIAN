@@ -61,7 +61,7 @@
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_profiles">Koristi profile baterije</string>
-  <string name="block_notification_content_text">"%1$s obavijesti neće ponovno biti prikazano. To možete promijeniti u Postavkama."</string>
+  <string name="block_notification_content_text">"Obavijesti %1$s neće ponovno biti prikazane. To možete promijeniti u Postavkama."</string>
   <string name="block_notification_text">Sakrij</string>
   <string name="block_record_notification_more_text">Skrivanje obavijesti od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obavijesti od %1$s</string>
@@ -184,6 +184,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="long_screenshot_processing">Obrada…</string>
   <string name="long_screenshot_stop">Gotovo</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
+  <string name="long_screenshot_top_msg_manual">Obrežite snimku zaslona i dodirnite tipku da biste završili</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="mdb_entering">Pokretanje…</string>
   <string name="mdb_restore_cancel">Odustani</string>

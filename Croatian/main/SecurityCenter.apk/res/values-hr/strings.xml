@@ -78,6 +78,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antivirus_choose_engine_disable_toast">"Ne mogu promjeniti definicije tijekom skeniranja"</string>
   <string name="antivirus_choose_engine_settings">Postavke definicije Virusa</string>
   <string name="antivirus_choose_engine_title">Definicije</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"Ne mogu promjeniti definicije tijekom skeniranja"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši rizične aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisane stavke: %s</string>
@@ -802,6 +803,8 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="modifypassword">Promjenite zaporku</string>
   <string name="monitor_requests_from_pc">Upravljanje instalacijom aplikacija putem USB-a</string>
   <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
+  <string name="msg_update_error_code_success">Gotovo</string>
+  <string name="msg_update_up">Sakrij</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
@@ -1223,6 +1226,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti kod zaklj. zaslona</string>
+  <string name="pref_title_manual_check_virus_db_update">Provjeri za ažuriranja</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke korištenja dok je uređaj bio zaključan</string>
   <string name="pref_title_network_diagnostics">Testiranje mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
@@ -1473,6 +1477,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sp_toast_removed_from_sign_white_list">Uklonjeno iz Iznimaka. Stavka će se skenirati sljedeći put.</string>
   <string name="spinner_title">%1$s - Mobilni podaci: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
+  <string name="sponsored_sec_fb">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Odaberite profil</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_downloading_app">Započinje preuzimanje: %1$s</string>
@@ -1853,8 +1858,14 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
   <string name="use_immediately">Upotrijebi</string>
+  <string name="virus_already_update">Definicije su ažurne</string>
+  <string name="virus_dp_update_title">Ažuriranja definicija</string>
   <string name="virus_scan">Skeniranje virusa</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"Ne mogu ažurirati"</string>
+  <string name="virus_update_success">Uspješno ažurirano</string>
+  <string name="virus_update_tips_title">Poveži se na WLAN</string>
+  <string name="virus_wait_network_dialog_message">Ažuriranja su velika. Povežite se WLAN da ih preuzmete</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>
   <string name="warning_open_mi_sim">Uključi Mi SIM</string>
