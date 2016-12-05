@@ -241,7 +241,7 @@
   <string name="delete_in_home_page">Kada izbrišete fotografiju ili videozapis iz Galerije, ono će također biti izbrisano iz:</string>
   <string name="delete_in_process">Brisanje…</string>
   <string name="delete_origin">Izbriši stavke iz izvornog albuma</string>
-  <string name="delete_other_shared_images">"Ne mogu brisati fotografije podijeljenje od drugih"</string>
+  <string name="delete_other_shared_images">"Ne mogu izbrisati fotografije podijeljenje od drugih"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d sačuvano</string>
   <string name="delete_third_party_photo">Izbrisati ovu fotografiju?</string>
   <string name="delete_third_party_video">Izbrisati ovaj videozapis?</string>
@@ -266,8 +266,8 @@
   <string name="doodle_tooltip">Dodirni za crtariju</string>
   <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download">Preuzimanje</string>
-  <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovo"</string>
-  <string name="download_retry_text">Pokušajte ponovo</string>
+  <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovno"</string>
+  <string name="download_retry_text">Pokušajte ponovno</string>
   <string name="download_retry_title">"Ne mogu preuzeti datoteke"</string>
   <string name="download_tip">Preuzmi</string>
   <string name="download_title">Priprema datoteka…</string>
@@ -348,7 +348,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="filter_hudson_blues">Ledeno</string>
   <string name="filter_japan_style_cool">Cool</string>
   <string name="filter_loft_twilight">Sumrak</string>
-  <string name="filter_original">Nište</string>
+  <string name="filter_original">Ništa</string>
   <string name="filter_profoto_cloud">Toplo</string>
   <string name="filter_rise_lomo">Lomo</string>
   <string name="filter_skin_aki">Blijed</string>
@@ -396,8 +396,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Povuci za osvježiti…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutak…</string>
   <string name="hybrid_pull_to_refresh_release_label">Pusti za osvježiti…</string>
-  <string name="hybrid_service_unavailiable">Usluga nedostupna</string>
-  <string name="hybrid_try_again">Pokušaj ponovo</string>
+  <string name="hybrid_service_unavailiable">Usluga nije dostupna</string>
+  <string name="hybrid_try_again">Pokušaj ponovno</string>
   <string name="ignore_album">"Ne prikazuj"</string>
   <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
@@ -418,7 +418,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
   <string name="invite_send_sms_tip">Vaš operater može vam naplatiti SMS poruku korištenu za slanje ove pozivnice.</string>
-  <string name="invite_sharer_again_confirm_button_text">Pozovite ponovo</string>
+  <string name="invite_sharer_again_confirm_button_text">Pozovite ponovno</string>
   <string name="invite_sharer_confirm_button_text">Pozovite</string>
   <string name="invite_sharer_phone_number_tip">Unesite broj telefona</string>
   <string name="invite_sharer_relation_tip">"%1$s rođak"</string>
@@ -485,7 +485,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="no">Ne</string>
   <string name="no_map_app">Nije pronađena nijedna aplikacija za radnju</string>
   <string name="no_network_connected">Nema otkrivenih mreža</string>
-  <string name="not_ask_any_more">"Ne pitaj ponovo za \"%s\" odgovore"</string>
+  <string name="not_ask_any_more">"Ne pitaj ponovno za \"%s\" odgovore"</string>
   <string name="not_is">Ne</string>
   <string name="not_remind_again">"Ne prikazuj ponovno"</string>
   <string name="not_remind_any_more">"Ne prikazuj ponovno"</string>
@@ -627,7 +627,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="rotate">Rotiraj</string>
   <string name="rotate_tooltip">Povucite fotografiju da je rotirate</string>
   <string name="runtime_permission_ungranted">Aplikacija Galerija zatvorena jer nema dobivenog dopuštenja</string>
-  <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je napravljen '%s."</string>
+  <string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je napravljen '%s'."</string>
   <string name="saturation">Saturacija</string>
   <string name="saturation_abbr">S</string>
   <string name="save">Spremi</string>
@@ -786,7 +786,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takve video datoteke nisu podržane"</string>
   <string name="video_editor_ok">U redu</string>
-  <string name="video_editor_res_download_failed_tips">"Ne mogu preuzeti, provjerite mrežne postavke i pokušajte ponovo"</string>
+  <string name="video_editor_res_download_failed_tips">"Ne mogu preuzeti, provjerite mrežne postavke i pokušajte ponovno"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Preuzeti glazbene podloge putem mobilnih podataka?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Koristi mobilne podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Preuzmite glazbene podloge za korištenje ove značajke (više od 20MB).</string>

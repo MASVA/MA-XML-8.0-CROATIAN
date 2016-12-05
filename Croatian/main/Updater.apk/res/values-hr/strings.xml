@@ -253,7 +253,8 @@ Ali možete sudjelovati sljedeći ponedjeljak."</string>
      <string name="upgrade_kernel">Kernel sustava zahtjeva ažuriranje</string>
      <string name="upgrade_kernel_msg">"Verzija kernela koju koristite ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>
-     <string name="user_begin">Preuzimanje</string>
+     <string name="url_down">https://basketbuild.com/uploads/devs/Acid/%1$s/xiaomi.eu_multi_%2$s_%1$s_v8-%3$s.zip</string>
+	 <string name="user_begin">Preuzimanje</string>
      <string name="user_intertup_download_msg">Preuzimanja su pauzirana. Možete nastaviti s preuzimanjem u bilo koje vrijeme u aplikaciji Ažuriranje.</string>
      <string name="user_intertup_download_title">Preuzimanje je pauzirano</string>
      <string name="validate_pkg_failed_msg">Ne mogu provjeriti izvor ovog ažuriranja. Pokušajte preuzeti ponovo.</string>

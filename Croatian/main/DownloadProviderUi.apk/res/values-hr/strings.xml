@@ -34,7 +34,7 @@
   <string name="button_sort_by_date">Poredaj po datumu</string>
   <string name="button_sort_by_size">Poredaj po veličini</string>
   <string name="cancel">Odustani</string>
-  <string name="choose_open_picture">Opcije</string>
+  <string name="choose_open_picture">Odaberi radnju</string>
   <string name="cancel_running_download">Odustani</string>
   <string name="cancle">Odustani</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
@@ -151,6 +151,7 @@
   <string name="expire_notification_msg">Članstvo Xunlei uskoro istječe</string>
   <string name="expire_today_notification_msg">Članstvo Xunlei danas ističe</string>
   <string name="extend">Više</string>
+  <string name="extra_ad_title">Moglo bi vam se svidjeti</string>
   <string name="extract_file">Raspakiranje datoteke…</string>
   <string name="file_exist_hint">Ova datoteka već postoji</string>
   <string name="file_picker">Odaberite lokaciju</string>
@@ -242,9 +243,9 @@
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
   <string name="percent_title">%1$s osoba preuzelo</string>
   <string name="period_of_validity">"Valjanost: "</string>
-  <string name="pref_download_revert_default">Zadano</string>
-  <string name="pref_download_settings_title">Ograničenje veličine preuzimanja</string>
-  <string name="pref_download_storage_path">Izradi novu mapu za preuzimanja</string>
+  <string name="pref_download_revert_default">Spremi na zadanu lokaciju</string>
+  <string name="pref_download_settings_title">Preuzimanje pomoću mob. podataka je ograničeno</string>
+  <string name="pref_download_storage_path">Spremi na moju lokaciju</string>
   <string name="pref_sniff_shortcut">Izradi Prečac Poč. zaslona za pretraživanje weba</string>
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>
   <string name="pref_summary_enable_max_bytes_popup">"Prikaži skočnu obavijesti kada se koristi mobilna podatkovna veza za preuzimanje sadržaja"</string>
@@ -395,6 +396,7 @@ i pokušajte ponovno."</string>
   <string name="title_tips">Pažnja</string>
   <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
   <string name="toast_only_wifi_download">Povežite se na WLAN za preuzimanje ove stavke</string>
+  <string name="toast_update_data_limit_fail">"Ne mogu postaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>
   <string name="torrent_file_error">"Ne mogu analizirati ovu torrent datoteku"</string>
