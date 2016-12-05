@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+<resources> 
+  <string name="accessbility_suggestion_dropdown_closed">Nema dostupnih prijedloga</string>
   <string name="accessbility_suggestion_dropdown_opened">Prijedlozi kontakata otvoreni</string>
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
   <string name="accessibility_add_reminder">Dodaj podsjetnik</string>
@@ -94,6 +95,9 @@
   <string name="card_manager">卡片管理</string>
   <string name="card_title_change">换一换</string>
   <string name="change_response_title">Promijenite odgovor</string>
+  <string name="chips_action_cancel">Odustani</string>
+  <string name="chips_action_copy">Kopiraj</string>
+  <string name="chips_permission_text">Dopusti prijedloge kontakata</string>
   <string name="check_reminded_text">查看提醒</string>
   <string name="chinese_leap">闰</string>
   <string name="chongsha"/>

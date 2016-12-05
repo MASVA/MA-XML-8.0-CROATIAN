@@ -176,7 +176,7 @@
   <string name="permission_summary_enforced_by_policy">Nametnuto od strane Privatnosti</string>
   <string name="permission_title">Dopuštenja – %1$s</string>
   <string name="permission_warning_template">Dopustiti aplikaciji %1$s izvršavanje radnje %2$s?</string>
-  <string name="permlab_togglePermissions">dopuštešnje prečaca</string>
+  <string name="permlab_togglePermissions">dopuštenja prečaca</string>
   <string name="privacyPerms">Privatnost</string>
   <string name="privacy_relative">Privatnost</string>
   <string name="reboot_time">Priprema za ponovno pokretanje…(%1$s)</string>

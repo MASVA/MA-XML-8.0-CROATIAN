@@ -81,6 +81,7 @@
   <string name="inbound_history_title">Dolazni prijenosi</string>
   <string name="inbound_noti_title">Dijeljenje Bluetoothom: Primljene datoteke</string>
   <string name="incoming_file_confirm_Notification_caption">Želite li primiti ovu datoteku?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s može poslati datoteku %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Dijeljenje Bluetoothom: Dolazna datoteka</string>
   <string name="incoming_file_confirm_cancel">"Odbaci"</string>
   <string name="incoming_file_confirm_content">"Prihvatiti dolaznu datoteku?"</string>

@@ -85,6 +85,7 @@
   <string name="download_complete">ZAVRŠENO</string>
   <string name="download_detail">Pojedinosti</string>
   <string name="download_error">Neuspješno</string>
+  <string name="download_error_download_file_not_exists">"Datoteka ne postoji"</string>
   <string name="download_error_insufficient_space">Nedovoljno prostora za pohranu</string>
   <string name="download_filesize_unknown">Nepoznato</string>
   <string name="download_from">Izvor:</string>

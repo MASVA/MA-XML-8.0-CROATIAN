@@ -22,6 +22,8 @@
   <string name="button_cancel">Odustani</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Dalje</string>
+  <string name="can_not_backup_in_lite_mode">"Ne mogu izraditi Sig. kopiju u Lite načinu"</string>
+  <string name="can_not_restore_in_lite_mode">"Ne mogu vratiti Sig. kopiju u Lite načinu"</string>
   <string name="cancel_recover_settings">Odustani</string>
   <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
   <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>

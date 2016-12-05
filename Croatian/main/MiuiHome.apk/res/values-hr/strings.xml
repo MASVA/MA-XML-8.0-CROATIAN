@@ -149,6 +149,7 @@
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
+  <string name="launcher_not_exist">Pokretač je zaustavljen, vratite se natrag i pokušajte ponovno.</string>
   <string name="like">Sviđa mi se</string>
   <string name="liked">Svidjelo mi se</string>
   <string name="loading_desktop">Samo trenutak…</string>
