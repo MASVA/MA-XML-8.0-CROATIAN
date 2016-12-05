@@ -376,7 +376,6 @@ koristeći %s"</string>
   <string name="granularity_label_line">redak</string>
   <string name="granularity_label_link">veza</string>
   <string name="granularity_label_word">riječ</string>
-  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Prikaži virtualnu tipkovnicu</string>
   <string name="heavy_weight_notification">Izvodi se %1$s</string>
   <string name="heavy_weight_notification_detail">Dodirnite da biste prešli na aplikaciju</string>
@@ -1400,8 +1399,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="whichViewApplication">Otvaranje pomoću aplikacije</string>
   <string name="whichViewApplicationLabel">Otvori</string>
   <string name="whichViewApplicationNamed">Otvaranje pomoću aplikacije %1$s</string>
-  <string name="widget_default_class_name"/>
-  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Prijava na WLAN mrežu</string>
   <string name="wifi_calling_off_summary">Isključeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s traži povezivanje s WLAN mrežom %2$s</string>

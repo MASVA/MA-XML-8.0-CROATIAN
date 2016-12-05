@@ -150,7 +150,6 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_more">Više</string>
   <string name="translation_query_error">"Ne mogu pronaći rezultate"</string>
   <string name="translation_query_error_network">"Ne mogu se povezati na mrežu. Provjerite postavke i pokušajte ponovo"</string>

@@ -280,8 +280,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
    <string name="kilobyte_per_second">KB/s</string>
    <string name="label_view">Prikaži</string>
-   <string name="launch_defaults_none">Nema zadanih postavki</string>
-   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
    <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
    <string name="list_delimeter">", "</string>
    <string name="lland">L Land</string>
@@ -404,7 +402,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="screen_pinning_positive">Razumijem</string>
    <string name="screen_pinning_title">Zaslon je prikvačen</string>
    <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
-   <string name="screen_zoom_summary_default">Zadano</string>
    <string name="screen_zoom_summary_extremely_large">Najveće</string>
    <string name="screen_zoom_summary_large">Veliko</string>
    <string name="screen_zoom_summary_small">Malo</string>
@@ -502,13 +499,6 @@ Povucite dolje za zaključavanje"</string>
    <string name="torch_opened">Svjetiljka uključena</string>
    <string name="track_frame_time">Profil GPU prikazivanja</string>
    <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
-   <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-   <string name="tts_default_lang_title">Jezik</string>
-   <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-   <string name="tts_default_pitch_title">Visina glasa</string>
-   <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-   <string name="tts_default_rate_title">Brzina govora</string>
-   <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
    <string name="tts_engine_network_required">Da bi se dobili izlazni podaci pretvaranja teksta u govor za taj jezik, potrebna je aktivna veza s mrežom.</string>
    <string name="tts_engine_preference_section_title">Željeni alat</string>
    <string name="tts_engine_security_warning">Alat za sintezu govora može prikupljati izgovoreni sadržaj, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. To omogućuje alat %s. Želite li omogućiti alat za sintezu govora?</string>

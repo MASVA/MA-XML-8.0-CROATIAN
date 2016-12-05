@@ -21,11 +21,6 @@
         <item>Samo matično</item>
         <item>Automatski</item>
      </string-array>
-     <string-array name="clir_display_values">
-        <item>Zadana postavka mreže</item>
-        <item>Sakrij broj</item>
-        <item>Prikaži broj</item>
-     </string-array>
      <string-array name="color_mode_descriptions">
         <item>Poboljšane boje</item>
         <item>Prirodan doživljaj boje</item>
@@ -212,7 +207,7 @@
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Skeniranje...</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje…</item>
         <item>Autentikacija…</item>
         <item>Dohvaćanje IP adrese…</item>
@@ -226,7 +221,7 @@
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje...</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje na mrežu %1$s…</item>
         <item>Autentikacija s mrežom %1$s…</item>
         <item>Dohvaćanje IP adrese s mreže %1$s…</item>
@@ -246,4 +241,5 @@
         <item>Brzina animacije 2x</item>
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
+	</string-array>
 </resources>

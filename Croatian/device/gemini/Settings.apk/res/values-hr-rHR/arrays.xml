@@ -761,7 +761,6 @@
        <item>Srednje</item>
        <item>Visoko</item>
     </string-array>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Kućna mreža</item>
         <item>Sve mreže</item>

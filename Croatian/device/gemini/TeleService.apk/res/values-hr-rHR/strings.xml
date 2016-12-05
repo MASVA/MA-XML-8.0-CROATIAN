@@ -953,8 +953,6 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="lable_network_not_supported">"Mreža nije podržana"</string>
   <string name="lafs_disable">Raspored letova za lokalnu zrakoplovnu luku je isključen</string>
   <string name="lafs_enable">Raspored letova za lokalnu zrakoplovnu luku je uključen</string>
-  <string name="launch_defaults_none">Nema zadanih postavki</string>
-  <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
   <string name="list_language_dtitle">Jezici</string>
   <string name="list_language_summary">Odaberite jezik vijesti</string>
@@ -1116,7 +1114,6 @@ to start using Top-up package"</string>
   <string name="msim_not_set_summary">Nije postavljeno</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Biranje</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Pogreška ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Ne mogu podesiti tijekom poziva"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
@@ -1365,7 +1362,6 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="phone_accounts_ask_every_time">Najprije pitaj</string>
   <string name="phone_accounts_choose_accounts">Odaberite račune</string>
   <string name="phone_accounts_configure_account_settings">Konfiguriranje postavki računa</string>
-  <string name="phone_accounts_default_account_label">Nema dostupne mreže</string>
   <string name="phone_accounts_make_calls_with">Nazovite putem računa</string>
   <string name="phone_accounts_make_sip_calls_with">Uputite SIP poziv putem računa</string>
   <string name="phone_accounts_selection_header">Telefonski računi</string>
@@ -1659,7 +1655,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="saved_network">Spremljeno: %1$s</string>
   <string name="saving_account">Spremanje računa…</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
-  <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
@@ -1892,13 +1887,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
   <string name="transport_title">Vrsta transporta</string>
-  <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-  <string name="tts_default_lang_title">Jezik</string>
-  <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-  <string name="tts_default_pitch_title">Visina glasa</string>
-  <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-  <string name="tts_default_rate_title">Brzina govora</string>
-  <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
   <string name="tts_engine_network_required">Da bi se dobili izlazni podaci pretvaranja teksta u govor za taj jezik, potrebna je aktivna veza s mrežom.</string>
   <string name="tts_engine_preference_section_title">Željeni alat</string>
   <string name="tts_engine_security_warning">Alat za sintezu govora može prikupljati izgovoreni sadržaj, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. To omogućuje alat %s. Želite li omogućiti alat za sintezu govora?</string>

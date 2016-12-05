@@ -226,8 +226,6 @@ Još je želite zamijeniti? Svi postojeći podaci aplikacije će biti spremljeni
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="launch">Otvori</string>
-  <string name="launch_defaults_none">Nema zadanih postavki</string>
-  <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
   <string name="lb_control_display_rewind_multiplier">%1$dX</string>
   <string name="lb_date_separator">/</string>
@@ -345,7 +343,6 @@ Još je želite zamijeniti? Svi postojeći podaci aplikacije će biti spremljeni
   <string name="screen_overlay_message">Da biste promijenili tu postavku dopuštenja, prvo morate isključiti preklapanje na zaslonu u Postavkama &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno je preklapanje na zaslonu</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
-  <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
@@ -389,13 +386,6 @@ Još je želite zamijeniti? Svi postojeći podaci aplikacije će biti spremljeni
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
-  <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-  <string name="tts_default_lang_title">Jezik</string>
-  <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-  <string name="tts_default_pitch_title">Visina glasa</string>
-  <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-  <string name="tts_default_rate_title">Brzina govora</string>
-  <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
   <string name="tts_engine_network_required">Da bi se dobili izlazni podaci pretvaranja teksta u govor za taj jezik, potrebna je aktivna veza s mrežom.</string>
   <string name="tts_engine_preference_section_title">Željeni alat</string>
   <string name="tts_engine_security_warning">Alat za sintezu govora može prikupljati izgovoreni sadržaj, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. To omogućuje alat %s. Želite li omogućiti alat za sintezu govora?</string>

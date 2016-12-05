@@ -80,8 +80,6 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
   <string name="accessibility_service_default_description">Nije dan opis.</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trg. Play?</string>
-  <string name="accessibility_screen_magnification_title">Magnification gesture</string>
-  <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_services_title">Usluge</string>
   <string name="accessibility_settings">Pristupačnost</string>
   <string name="accessibility_settings_title">Postavke dostupnosti</string>
@@ -1561,7 +1559,6 @@ Na taj se način štite podaci na izgubljenim ili ukradenim uređajima."</string
   <string name="fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta. Unesite svoju zaporku"</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
-  <string name="fingerprint_usage_category_title">Koristi otisak prsta za</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Otisak prsta i uzorak</string>
   <string name="fingerprint_unlock_set_unlock_pin">Otisak prsta i PIN</string>
   <string name="fingerprint_usage_category_title">Upotreba otiska prsta</string>
@@ -1720,7 +1717,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -3337,8 +3333,6 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="saved_network">Spremljeno: %1$s</string>
   <string name="saved_wifi">Spremljena mreža</string>
   <string name="saved_wifi_delete">Izbriši</string>
-  <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
-  <string name="uninstall_dlg_title">Deinstalirati sada?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
@@ -4129,7 +4123,6 @@ Uređaj ^1 formatiran je tako da funkcionira samo na ovom uređaju. Neće funkci
   <string name="storage_settings_title">Postavke pohrane</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%2$s - iskorišteno %1$s</string>
-  <string name="storage_summary_format">%1$s used in %2$s</string>
   <string name="storage_title_usb">Povezivanje USB-a i računala</string>
   <string name="storage_type_external">Vanjska pohrana</string>
   <string name="storage_type_internal">Unutarnja pohrana</string>
@@ -4746,7 +4739,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="vpn_create">Dodavanje VPN profila</string>
   <string name="vpn_disconnect">Prekini vezu</string>
   <string name="vpn_disconnect_confirm">Prekini vezu s VPN-om.</string>
-  <string name="vpn_dns_servers">DNS poslužitelji</string>
   <string name="vpn_dns_servers">DNS poslužitelji (npr. 8.8.8.8)</string>
   <string name="vpn_done">Odbaci</string>
   <string name="vpn_edit">Uređivanje VPN profila</string>
@@ -4880,7 +4872,6 @@ WLAN Assistant"</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configure_titlebar">Konfiguriranje WLAN-a</string>
   <string name="wifi_configured_ap_list">Prethodno konfigurirane pristupne točke</string>
-  <string name="wifi_connect_cmcc_dialog_cancel">Odustani</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Odustani</string>
   <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
   <string name="wifi_connect_cmcc_dialog_content">"Povezano na CMCC mrežne podatkovne usluge."</string>

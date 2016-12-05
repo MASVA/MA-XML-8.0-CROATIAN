@@ -12,7 +12,6 @@
   <string name="collapse_handle">Ručica za sažimanje</string>
   <string name="could_not_create_file">Izrada datoteke nije uspjela</string>
   <string name="current_page_template">%1$d/%2$d</string>
-  <string name="destination_default_text">Odaberite pisač</string>
   <string name="disabled_services_title">Onemogućene usluge</string>
   <string name="enable_print_service">Odaberite za omogućavanje</string>
   <string name="enabled_services_title">Omogućene usluge</string>
