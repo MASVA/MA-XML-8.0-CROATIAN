@@ -13,8 +13,8 @@
   <string name="backup_now">Izradi Sig. kopiju sada</string>
   <string name="backup_size">Veličina: %s</string>
   <string name="backup_size_summary">Veličina: %1$s</string>
-  <string name="backup_success">Sig. kopija uspješno napravljena</string>
-  <string name="backup_successfully">Sig. kopija uspješno napravljena</string>
+  <string name="backup_success">Sig. kopija uspješno izrađena</string>
+  <string name="backup_successfully">Sig. kopija uspješno izrađena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
   <string name="btn_back">Natrag</string>
   <string name="btn_continue">Nastavi</string>
@@ -118,7 +118,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="retry">Pokušaj ponovo</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
-  <string name="start_backup_to_micloud">Napravi Sig. kopiju aplikacija na Mi Cloudu</string>
+  <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>

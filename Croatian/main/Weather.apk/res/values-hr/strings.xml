@@ -41,9 +41,10 @@
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>
   <string name="daily_forcast_whirl_wind">Vihor</string>
+  <string name="daily_forecast_detail">Pojedinosti prognoze</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
-  <string name="edit_city">Uredi</string>
+  <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
   <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
@@ -73,7 +74,7 @@
   <string name="install">Instaliraj</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>
-  <string name="international_details_real_feel_title">STVARNI OSJEĆAJ</string>
+  <string name="international_details_real_feel_title">STVAR. OSJEĆAJ</string>
   <string name="international_details_title">Detalji</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>

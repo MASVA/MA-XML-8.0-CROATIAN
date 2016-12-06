@@ -469,6 +469,16 @@ Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje
   <string name="biometric_weak_liveliness_summary">Prilikom otključavanja potrebno je trepnuti</string>
   <string name="biometric_weak_liveliness_title">Provjera živosti</string>
   <string name="ble_scan_notify_text">Radi poboljšanja preciznosti lokacije aplikacije i usluge sustava i dalje mogu otkriti Bluetooth uređaje. To možete promijeniti u LINK_BEGINpostavkama traženjaLINK_END.</string>
+  <string name="block_list_connected_devices">Povezani uređaji</string>
+  <string name="block_list_diaglog_cancle">Odustani</string>
+  <string name="block_list_diaglog_ok">U redu</string>
+  <string name="block_list_dialog_content">Ova radnja će prekinuti vezu “%s” s ovog uređaja i dodati ga Listu blokiranih</string>
+  <string name="block_list_dialog_title">Prekinuti vezu?</string>
+  <string name="block_list_no_device">No connected devices in blocklist</string>
+  <string name="block_list_remove_dialog_content">Uređaj “%s” će se moći povezati na ovaj hotspot</string>
+  <string name="block_list_remove_dialog_title">Ukloni “%s” s Liste blokiranih</string>
+  <string name="block_list_summary">Prikaži uređaje koji ne smiju povezati na ovaj hotspot</string>
+  <string name="block_list_title">Lista blokiranih</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano s medijskim zvukom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Koristi za medijski zvuk</string>
@@ -4053,6 +4063,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="testing_wifi_info">WLAN informacije</string>
   <string name="tether_and_hotspot_title">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljaj uređajima</string>
+  <string name="tether_devices_max_number">Ograničenje povezanih uređaja</string>
   <string name="tether_settings_disabled">Osobni Hotspot je isključen</string>
   <string name="tether_settings_title_all">Dijeljenje veze &amp; prijenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Dijeljenje veze Bluetoothom</string>
