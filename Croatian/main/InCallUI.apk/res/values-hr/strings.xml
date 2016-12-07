@@ -135,6 +135,7 @@
   <string name="incall_call_type_label_sip">Internetski poziv</string>
   <string name="incall_error_supp_service_conference">"Ne mogu koristiti konferencijski poziv."</string>
   <string name="incall_error_supp_service_hangup">"Ne mogu prekinuti poziv."</string>
+  <string name="incall_error_supp_service_hold">"Ne mogu zadržati pozive."</string>
   <string name="incall_error_supp_service_reject">"Ne mogu odbiti poziv."</string>
   <string name="incall_error_supp_service_separate">"Ne mogu odvojiti pozive."</string>
   <string name="incall_error_supp_service_switch">"Ne mogu promijeniti pozive."</string>

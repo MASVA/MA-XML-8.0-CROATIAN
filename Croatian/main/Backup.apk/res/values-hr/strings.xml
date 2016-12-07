@@ -8,15 +8,15 @@
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="app_name">Sig. kopija</string>
   <string name="apps_and_data_item_desc">Aplik. i podaci</string>
-  <string name="auto_backup">Zakažite rutinsku Sig. kopija</string>
+  <string name="auto_backup">Zakažite rutinsku Sig. kopiju</string>
   <string name="auto_backup_all_user_apps">Sve aplikacije</string>
   <string name="auto_backup_choose">Stavke Sig. kopije</string>
   <string name="auto_backup_choose_empty">Nema Sig. kopija.</string>
   <string name="auto_backup_choose_title">Odaberite stavke Sig. kopije</string>
   <string name="auto_backup_date">Dana</string>
-  <string name="auto_backup_only_wifi">Samo kada je spojeno na WLAN</string>
+  <string name="auto_backup_only_wifi">Samo kada je povezano na WLAN</string>
   <string name="auto_backup_open">Automatski napravi Sig. kopiju</string>
-  <string name="auto_backup_progress">Izvođenje Sig. kopije…</string>
+  <string name="auto_backup_progress">Izrada Sig. kopije…</string>
   <string name="auto_backup_select_user_apps">Odaberite aplikacije</string>
   <string name="auto_backup_selected_user_apps">Odabrane aplikacije</string>
   <string name="auto_backup_setting">Zakažite rutinsku Sig. kopiju</string>
@@ -142,7 +142,7 @@
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
-  <string name="multi_user_mode_backup_message">"Ne mogu koristiti Si. kopiju u Multi-korisnik načinu. Isključite Multi-korisnik način za nastavak."</string>
+  <string name="multi_user_mode_backup_message">"Ne mogu koristiti Sig. kopiju u Multi-korisnik načinu. Isključite Multi-korisnik način za nastavak."</string>
   <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste u Multi-korisnik načinu rada"</string>
   <string name="never">Nikad</string>
@@ -151,7 +151,7 @@
   <string name="no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="note_title">Bilješke</string>
   <string name="nothing_searched">Nema rezultata</string>
-  <string name="notif_backup_complete_title">Sig. kopija uspješno napravljena</string>
+  <string name="notif_backup_complete_title">Sig. kopija uspješno izrađena</string>
   <string name="notif_backup_content">Izrada Sig. kopije kor. podataka</string>
   <string name="notif_backup_title">Izradi Sig. kopiju podataka</string>
   <string name="notif_restore_complete_title">Uspješno vraćeno</string>
@@ -162,7 +162,7 @@
   <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
   <string name="notif_trans_sending_failed">Slanje podataka nije uspjelo</string>
   <string name="page_loading">Samo trenutak…</string>
-  <string name="progress_backup_hint">Stvaranje Sig. kopije…</string>
+  <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="prompt_reading">Čitanje…</string>
   <string name="prompt_sending">Šaljem…</string>
@@ -184,7 +184,7 @@
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
-  <string name="retry">Pokušaj ponovo</string>
+  <string name="retry">Pokušaj ponovno</string>
   <string name="reverse_all">Poništiti odabir</string>
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="sc_bad_request">Nevažeći zahtjev</string>
@@ -195,7 +195,7 @@
   <string name="sc_request_timeout">Zahtjev je istekao</string>
   <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
   <string name="sc_unaccess_password_file">"Ne mogu naći zaporku WLAN mreže"</string>
-  <string name="sc_unauthorized">Prijavite se ponovo</string>
+  <string name="sc_unauthorized">Prijavite se ponovno</string>
   <string name="sd_not_available">Umetnite sada SD karticu</string>
   <string name="sdcard_no_enough_space">Nedovoljno prostora</string>
   <string name="sdcard_no_enough_space_message">"Nema dovoljno prostora za pohranu na SD kartici."</string>
@@ -212,11 +212,11 @@
   <string name="size_mega_byte">MB</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Podaci aplikacije</string>
-  <string name="start_backup">Započni stvaranje Sig. kopije</string>
+  <string name="start_backup">Započni izradu Sig. kopije</string>
   <string name="start_restore">Vrati</string>
   <string name="state_mounting">Pristup prostoru za pohranu routera…</string>
   <string name="state_waiting">Samo trenutak…</string>
-  <string name="succeed">Završeno</string>
+  <string name="succeed">Dovršeno</string>
   <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>
   <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
@@ -224,7 +224,7 @@
   <string name="system_backup">Sig. kopija</string>
   <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
   <string name="task_backup_cancel_progress">Otkazivanje…</string>
-  <string name="task_backup_finished_local">"Završeno "</string>
+  <string name="task_backup_finished_local">"Dovršeno "</string>
   <string name="task_canceled">Otkazano</string>
   <string name="task_canceled_all_local">Otkazano</string>
   <string name="task_canceled_local">Sig. kopija nepotpuna (%s)</string>

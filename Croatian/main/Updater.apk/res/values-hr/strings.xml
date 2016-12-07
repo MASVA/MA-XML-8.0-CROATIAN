@@ -127,7 +127,7 @@
 	 <string name="notification_delay_update_button">Ažuriraj za 2 sata</string>
      <string name="notification_delay_update_cancel">"Ne ažuriraj noćas"</string>
      <string name="notification_delay_update_low_power">Izgleda da je baterija bila previše slaba noću</string>
-     <string name="notification_delay_update_msg">Uređaj će se ponovo pokrenuti &amp; ažurirati za​ %ssek</string>
+     <string name="notification_delay_update_msg">Uređaj će se ponovno pokrenuti &amp; ažurirati za​ %ssek</string>
      <string name="notification_delay_update_no_update">"Ažuriranja nisu primijenjena"</string>
      <string name="notification_delay_update_shutdown">Izgleda da je uređaj bio isključen noću</string>
      <string name="notification_downloading">Preuzimanje ažuriranja…</string>
@@ -139,12 +139,12 @@
      <string name="notification_reboot_btn">Ponovno pokreni</string>
      <string name="notification_reboot_seccess_des">Dodirnite za prikaz detalja ažuriranja</string>
      <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
-     <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
+     <string name="notification_reboot_summary_hm">Dodirnite da ponovno pokrenete vaš uređaj.</string>
      <string name="notification_reboot_title">Ponovno pokrenite da primjenite ažuriranje</string>
      <string name="notification_reboot_title_hm">Ponovno pokrenite da primjenite ažuriranje</string>
-     <string name="notification_restart">Ažuriraj ponovo</string>
+     <string name="notification_restart">Ažuriraj ponovno</string>
      <string name="notification_share">Podijeli</string>
-	 <string name="notification_uncrypt_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
+	 <string name="notification_uncrypt_summary_hm">Dodirnite da ponovno pokrenete vaš uređaj.</string>
      <string name="notification_uncrypt_title_hm">Ponovno pokreni za primjenu ažuriranja</string>
      <string name="notification_uncrypting">Dešifriranje ažuriranja…</string>
      <string name="notification_update_new_version">Dostupno je ažuriranje</string>
@@ -158,9 +158,9 @@
      <string name="pm_root_acquired_notification_title">Dobivanje ROOT pristupa</string>
      <string name="pm_root_acquired_rooting">Dobivanje ROOT pristupa %s</string>
      <string name="pm_root_checking">Provjera informacija sustava…</string>
-     <string name="pm_root_fail_button_retry">Pokušaj ponovo</string>
-     <string name="pm_root_fail_msg">Ova aplikacija ne može dobiti ROOT pristup. Pokušajte ponovo.</string>
-     <string name="pm_root_fail_service_busy">Pričekajte dok vaš uređaj ne završi sa ažuriranjem i pokušajte ponovo.</string>
+     <string name="pm_root_fail_button_retry">Pokušaj ponovno</string>
+     <string name="pm_root_fail_msg">Ova aplikacija ne može dobiti ROOT pristup. Pokušajte ponovno.</string>
+     <string name="pm_root_fail_service_busy">Pričekajte dok vaš uređaj ne završi sa ažuriranjem i pokušajte ponovno.</string>
      <string name="pm_root_fail_title">Ne mogu dobiti ROOT pristup</string>
      <string name="pm_root_notification_download_title">Preuzimanje…</string>
      <string name="pm_root_success_msg">Ponovno pokrenite uređaj kako biste dovršili posljednji korak.</string>
@@ -176,7 +176,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="recovery_power_not_enough_msg">Priključite punjač da napravite ažuriranje ako je baterija na manje od 30%</string>
      <string name="recovery_power_not_enough_msg_plugged">Baterija mora biti iznad 30% prije ažuriranja uređaja</string>
      <string name="recovery_power_not_enough_title">Slaba baterija</string>
-     <string name="repeat">Pokušaj ponovo</string>
+     <string name="repeat">Pokušaj ponovno</string>
      <string name="root_acquired">Dopusti ROOT pristup</string>
      <string name="root_agree_check_box_title">Razumijem rizik od ROOT pristupa</string>
      <string name="root_dangerous_msg">Dopuštanje ROOT pristupa je vrlo rizično i može izložiti vaš uređaj i osobne podatke napadima zlonamjernih aplikacija. Suglasni ste da ste isključivo sami odgovorni za gubitak podataka ili bilo kakvu štetu nastalu na vašem uređaju koji mogu proizaći dopuštajući ROOT pristup.</string>
@@ -253,18 +253,17 @@ Ali možete sudjelovati sljedeći ponedjeljak."</string>
      <string name="upgrade_kernel">Kernel sustava zahtjeva ažuriranje</string>
      <string name="upgrade_kernel_msg">"Verzija kernela koju koristite ne odgovara MIUI ROM-u. Morate nadograditi kernel ručno. Pogledajte Xiaomi postupak nadogradnje: 
 "</string>
-     <string name="url_down">https://basketbuild.com/uploads/devs/Acid/%1$s/xiaomi.eu_multi_%2$s_%1$s_v8-%3$s.zip</string>
 	 <string name="user_begin">Preuzimanje</string>
      <string name="user_intertup_download_msg">Preuzimanja su pauzirana. Možete nastaviti s preuzimanjem u bilo koje vrijeme u aplikaciji Ažuriranje.</string>
      <string name="user_intertup_download_title">Preuzimanje je pauzirano</string>
-     <string name="validate_pkg_failed_msg">Ne mogu provjeriti izvor ovog ažuriranja. Pokušajte preuzeti ponovo.</string>
+     <string name="validate_pkg_failed_msg">Ne mogu provjeriti izvor ovog ažuriranja. Pokušajte preuzeti ponovno.</string>
      <string name="validate_pkg_failed_title">Ne mogu provjeriti ažuriranje</string>
      <string name="view_upgrade_tutorial">Prikaži</string>
      <string name="vote_beta">Beta Program Povr. informacija</string>
      <string name="vote_error1">"Izgleda da vi niste član
 Beta Programa Povr. informacija"</string>
      <string name="vote_error2">"Ne mogu poslati Povr. informacije.
-Ažurirajte svoj uređaj i pokušajte ponovo"</string>
+Ažurirajte svoj uređaj i pokušajte ponovno"</string>
      <string name="vote_error3">"Ne mogu se prijaviti.
 Pokušajte se prijaviti na vaš Mi Račun ponovno."</string>
      <string name="vote_error4">Već ste poslali Povratnu informaciju</string>

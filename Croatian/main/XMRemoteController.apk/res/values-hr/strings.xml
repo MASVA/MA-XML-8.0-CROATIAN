@@ -734,7 +734,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="press_to_continue_match">Dodirnite za nastavak</string>
   <string name="press_to_match">Dodirni za uparivanje</string>
   <string name="prev_remote">Prethodni daljinski</string>
-  <string name="privacy_content">"Pročitajte Xiaomi "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Pravila o Privatnosti&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Korisnički Sporazum&lt;/a&gt; prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluzi lociranja da radi normalno.</string>
+  <string name="privacy_content">"Pročitajte Xiaomi Pravila o Privatnosti i Korisnički Sporazum prije korištenja Mi Remote. Aplikaciji je potreban pristup Internetu i usluzi lociranja da radi normalno.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovo"</string>
   <string name="privacy_title">Uvjeti i Odredbe</string>
   <string name="program_booking_book_filter_book_status">Status rezervacija</string>

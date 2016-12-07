@@ -115,7 +115,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_home_screen_apps">Vrati iz Sig. kopije na Mi Cloudu</string>
   <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restoreing_file_tile">Vraćanje datoteka (%d)</string>
-  <string name="retry">Pokušaj ponovo</string>
+  <string name="retry">Pokušaj ponovno</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="settings_backup">Postavke sustava</string>
   <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloudu</string>

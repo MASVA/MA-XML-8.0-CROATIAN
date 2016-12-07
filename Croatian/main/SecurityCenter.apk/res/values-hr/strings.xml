@@ -965,6 +965,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="path_securitycenter">Aplikacije sustava/Sigurnost</string>
   <string name="path_securitycenter_settings">Aplikacije sustava/Sigurnost</string>
   <string name="pay_charge">Nadoplata dodatnih podataka</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instaliranje putem USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>

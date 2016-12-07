@@ -617,6 +617,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="local_search_label">Svi kontakti</string>
   <string name="locale_change_in_progress">Popis kontakata ažurira se da bi se pokazala promjena jezika.</string>
   <string name="login_ok">Prijava</string>
+  <string name="low_memory_toast">"Ne mogu nastaviti koristiti jer prostoru za pohranu nedostaje mjesta."</string>
   <string name="lunarBirthdayLabelsGroup">Mjesečev rođendan</string>
   <string name="lunar_calendar">Lunarna Nova godina</string>
   <string name="lunar_leap">Pokreni</string>
@@ -1281,6 +1282,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
+  <string name="yellowpage_fc_toast">"Ne mogu nastaviti koristiti jer je Direktorij prestao raditi."</string>
   <string name="yellowpage_mi_family">Mi Obitelj</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Stanje i mobilni podaci ne mogu biti provjereni, pokušajte ponovno kasnije."</string>

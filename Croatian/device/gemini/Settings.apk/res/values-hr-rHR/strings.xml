@@ -2650,7 +2650,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="owner_info_settings_edit_text_hint">Na primjer  MASVIN Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
-  <string name="owner_info_settings_title">Poruka na zaklj. zaslonu</string>
+  <string name="owner_info_settings_title">Potpis na zaklj. zaslonu</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="page_layout_1">Nedjelja, 16 Kolovoz</string>
   <string name="page_layout_10">Postavke</string>
