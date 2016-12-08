@@ -161,7 +161,7 @@ Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
   <string name="clearDefaultHintMsg">Izbrisati zadano u Postavkama sustava &gt; Aplikacije &gt; Preuzimanja.</string>
   <string name="close_button_text">Zatvori</string>
   <string name="common_name">Zajednički naziv:</string>
-  <string name="condition_provider_service_binding_label">Davatalj uvjeta</string>
+  <string name="condition_provider_service_binding_label">Davatelj uvjeta</string>
   <string name="configure_input_methods">Odaberi tipkovnice</string>
   <string name="contentServiceSync">Sinkronizacija</string>
   <string name="contentServiceSyncNotificationTitle">Sinkronizacija</string>
@@ -1179,7 +1179,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="screen_compat_mode_show">Uvijek prikaži</string>
   <string name="screen_lock">Zaključavanje zaslona</string>
   <string name="search_go">Pretraži</string>
-  <string name="search_hint">Pretraživanje...</string>
+  <string name="search_hint">Pretraživanje…</string>
   <string name="search_language_hint">Unesite naziv jezika</string>
   <string name="searchview_description_clear">Izbriši upit</string>
   <string name="searchview_description_query">Upit za pretraživanje</string>

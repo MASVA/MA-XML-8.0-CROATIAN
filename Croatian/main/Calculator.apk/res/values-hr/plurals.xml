@@ -2,6 +2,6 @@
 <resources>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d godina (%2$d mjeseci)</item>
-        <item quantity="one">%1$d godina (%2$d mjeseci)</item>
+        <item quantity="one">%1$d godina (%2$d mjesec)</item>
     </plurals>
 </resources>

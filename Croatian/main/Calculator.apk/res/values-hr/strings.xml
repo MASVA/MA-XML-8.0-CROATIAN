@@ -24,7 +24,7 @@
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="error">Pogreška</string>
-  <string name="error_fomrat">Format pogreške</string>
+  <string name="error_fomrat">Pogreška formata</string>
   <string name="from_unit_en">kilometara na sat</string>
   <string name="item_title_aa_payment">Podijeli račun</string>
   <string name="item_title_area_conversion">Površina</string>
@@ -50,7 +50,6 @@
   <string name="loan_pay_years">Razdoblje kredita</string>
   <string name="loan_payback_way">Otplata</string>
   <string name="loan_unit">×10K</string>
-  <string name="home_title_calculator">Kalkulator</string>
   <string name="mortgage_amount">Ukupno</string>
   <string name="mortgage_average_repayment_first_month">Prvi mjesec otplate</string>
   <string name="mortgage_average_repayment_monthly">Mjesečna otplata</string>
@@ -227,7 +226,7 @@
   <string name="unit_data_short_velocity_mach">Mach</string>
   <string name="unit_data_short_velocity_mileph">mile/h</string>
   <string name="unit_data_short_velocity_nmiph">Knot</string>
-  <string name="unit_myriads">Myriads</string>
+  <string name="unit_myriads">×10K</string>
   <string name="unit_year">G</string>
   <string name="unit_year_format">Godina %s</string>
   <string name="wf_word_figure">Financijski znakovi</string>
