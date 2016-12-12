@@ -324,4 +324,16 @@
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> sljedbenika</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> sljedbenik</item>
      </plurals>
+	 <plurals name="video_like_num">
+         <item quantity="other">%1$s likes</item>
+         <item quantity="one">%1$s like</item>
+     </plurals>
+     <plurals name="gems">
+         <item quantity="other">%1$s gems</item>
+         <item quantity="one">%1$s gem</item>
+     </plurals>
+     <plurals name="more_gems">
+         <item quantity="other">Prikupite još %d dragulja da sudjelujete u izvlačenju</item>
+         <item quantity="one">Prikupite još %d dragulj da sudjelujete u izvlačenju</item>
+    </plurals>
 </resources> 

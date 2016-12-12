@@ -158,9 +158,9 @@
   <string name="notif_restore_content">Vraćanje kor. podataka</string>
   <string name="notif_restore_title">Vrati kor. podatke</string>
   <string name="notif_trans_receiving_completed">Podaci uspješno primljeni</string>
-  <string name="notif_trans_receiving_failed">Primanje podataka nije uspjelo</string>
+  <string name="notif_trans_receiving_failed">"Ne mogu primiti podatke"</string>
   <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
-  <string name="notif_trans_sending_failed">Slanje podataka nije uspjelo</string>
+  <string name="notif_trans_sending_failed">"Ne mogu poslati podatke"</string>
   <string name="page_loading">Samo trenutak…</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>

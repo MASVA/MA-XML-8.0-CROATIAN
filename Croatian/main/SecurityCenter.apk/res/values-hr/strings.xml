@@ -1437,6 +1437,8 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="sim_location_error_notify_message">Dodirnite za promjenu lokacije SIM-a.</string>
   <string name="sim_location_error_notify_title">Pogreška SIM kartice</string>
   <string name="sim_state_exception_summary">Stanje SIM kartice pokazuje da nešto nije u redu s vašom SIM karticom.</string>
+  <string name="skin_change_close_btn_text">Postavi kao zadanu pozadinu</string>
+  <string name="skin_change_close_toast">Promjene će biti primijenjene kada sljedeći put pokrenete aplik. Sigurnost</string>
   <string name="songs_number">18 pjesama</string>
   <string name="songs_unit">" pjesama"</string>
   <string name="sorted_button">Poredaj po</string>

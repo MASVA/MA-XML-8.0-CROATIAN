@@ -142,6 +142,7 @@
   <string name="copy_file_to_midrive">Kopiraj datoteku na Mi Drive</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_to">Kopiraj u…</string>
+  <string name="count_down">Odbrojavanje: %1$s</string>
   <string name="create_shortcut_success">Prečac uspješno dodan</string>
   <string name="create_kuaipan_shortcut_pref">Izradi prečac na Početnom zaslonu</string>
   <string name="create_new_folder_desctiption">Izrada mape…</string>
@@ -170,6 +171,7 @@
   <string name="decrypt_error">"Ne mogu dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Dešifriranje…</string>
+  <string name="default_prize_text">To ide ravno u moju riznicu!</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovno"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -274,6 +276,7 @@
   <string name="ftp_transfer_secure">Sigurnost</string>
   <string name="ftp_username_and_passworld">Prijavi se</string>
   <string name="ftp_username_hint">Korisničko ime</string>
+  <string name="full_gems">Razmijenite svoje dragulje</string>
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Ne mogu dobiti iformacije o korisniku"</string>
@@ -527,6 +530,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku u ovom trenutku."</string>
   <string name="only_wifi">Preuzmi kad je povezano na WLAN</string>
   <string name="open_app">Otvori</string>
+  <string name="open_chest">Otvorite da biste dobili dar</string>
+  <string name="open_chest_failed">"Ne mogu otvoriti, provjerite mrežne postavke i pokušajte ponovo"</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete:
 1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
@@ -643,6 +648,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u skrivene mape</string>
   <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
   <string name="private_toast_hint3">Povucite prema dolje za prikaz skrivenih mapa</string>
+  <string name="prize_result_tip">Razmjeni</string>
+  <string name="prize_result_tip2">Dragulji idu u vašu riznicu</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>

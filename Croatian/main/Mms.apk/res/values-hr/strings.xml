@@ -696,6 +696,6 @@ Provedeni pokušaj: %s."</string>
   <string name="wild_msg_processing">Obrada…</string>
   <string name="wild_msg_title">Odaberite brojeve telefona za sinkr.</string>
   <string name="xiaomi_service_number">Broj usluge</string>
-  <string name="yellowpage_recommend_msg">"Isprobajte značajke MIUI SMS poruke"</string>
+  <string name="yellowpage_recommend_msg">"Provjerite MIUI značajku za slanje poruka"</string>
   <string name="yes">U redu</string>
 </resources>

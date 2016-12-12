@@ -149,7 +149,7 @@
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
-  <string name="launcher_not_exist">Pokretač je zaustavljen, vratite se natrag i pokušajte ponovno.</string>
+  <string name="launcher_not_exist">Došlo je do pogreške, vratite se na Početni zaslon i pokušajte ponovno.</string>
   <string name="like">Sviđa mi se</string>
   <string name="liked">Svidjelo mi se</string>
   <string name="loading_desktop">Samo trenutak…</string>
@@ -216,6 +216,7 @@
   <string name="recommend_apps_notice_nodata">Promovirane aplik. (Nema podataka)</string>
   <string name="recommend_apps_switch_title">Promovirane aplik.</string>
   <string name="recommend_apps_tips">"Ova značajka treba povezivanje na internet da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
+  <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan</string>
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>

@@ -14,11 +14,12 @@
   <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
   <string name="activate_feature_remote_assist">Pomoćnik na daljinu</string>
   <string name="activate_feature_verify_mx_token">Provjera Mi Računa</string>
-  <string name="activate_history_cancelled">Otkazano</string>
-  <string name="activate_history_multisim_overview">Aktiviranje za SIM karticu %3$d %1$s. Aktivirano značajkom \"%2$s\".</string>
-  <string name="activate_history_overview">Aktiviranje za SIM karticu %1$s. Aktivirano značajkom \"%2$s\".</string>
-  <string name="activate_history_sms">SMS poruka poslana tijekom aktivacije.</string>
   <string name="activate_history_success">Uspješno</string>
+  <string name="activate_history_canceled_overview">Aktivacija SIM kartice je otkazana. Aktivirano značajkom \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">Aktivacija SIM kartice %2$d je otkazana. Aktivirano značajkom \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspješno aktivirana. Aktivirano značajkom \"%1$s\".</string>
+  <string name="activate_history_sms">SMS poruka je poslana tijekom aktivacije.</string>
+  <string name="activate_history_success_overview">SIM kartica uspješno aktivirana. Aktivirano značajkom \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice otkazano</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s otkazano</string>
