@@ -42,11 +42,11 @@
   <string name="background">Sakrij</string>
   <string name="backup_cancel">"Ne radi Sig. kopiju"</string>
   <string name="backup_checkbox_msg">Autom. napravi Sig. kopiju</string>
-  <string name="backup_confirm">Izradi Sig. kopiju sada</string>
+  <string name="backup_confirm">Izradi sada Sig. kopiju</string>
   <string name="backup_success_cancel">U redu</string>
   <string name="backup_success_confirm">Prikaži</string>
   <string name="backup_success_message">Pohranjeno na %1$s</string>
-  <string name="backup_success_title">Sig. kopija napravljena</string>
+  <string name="backup_success_title">Sig. kopija izrađena</string>
   <string name="backup_title">Napraviti Sig. kopije WeChat videzapisa?</string>
   <string name="big5_summary">Zadani format za Windowse s tradicionalnim kineskim</string>
   <string name="big5_title">BIG5</string>
@@ -89,7 +89,7 @@
   <string name="category_recent">Nedavno</string>
   <string name="category_theme">Teme</string>
   <string name="category_type_document">Dokumenti</string>
-  <string name="category_type_meida">Medija</string>
+  <string name="category_type_meida">Mediji</string>
   <string name="category_type_other">Ostalo</string>
   <string name="category_video">Videozapisi</string>
   <string name="category_zip">Arhive</string>
@@ -116,7 +116,7 @@
   <string name="clean_hint">Dodirnite da oslobodite prostor</string>
   <string name="click_to_refresh">Dodirnite ovdje za osvježiti</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
-  <string name="clean_title">Brisanje datoteka starije preko 30 dana.</string>
+  <string name="clean_title">Izbriši datoteke starije više od 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="click_to_switch_volume">Dodirnite za promjenu između unutarnje memorije i SD kartice</string>
   <string name="click_to_switch_volume_pad">Dodirnite za promjenu između unutarnje memorije i SD kartice</string>
@@ -171,7 +171,6 @@
   <string name="decrypt_error">"Ne mogu dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Dešifriranje…</string>
-  <string name="default_prize_text">To ide ravno u moju riznicu!</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovno"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -227,7 +226,7 @@
   <string name="encrypt_success">Uspješno skriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
-  <string name="error_contains_sharer_path">"Ne mogu dešifrirati datoteke u mapi /MIUI/Gallery/cloud/sharer. Premjestite datoteke na drugo mjesto i pokušajte ponovno.."</string>
+  <string name="error_contains_sharer_path">"Ne mogu dešifrirati datoteke u mapi /MIUI/Gallery/cloud/sharer. Premjestite datoteke na drugo mjesto i pokušajte ponovno."</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija za izvršenje ove radnje.</string>
@@ -483,7 +482,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Nema komentara</string>
   <string name="no_content">Ponovno otvorite aplik. Datoteke da biste vidjeli popularne videozapise</string>
-  <string name="no_daren_tip">Nothing here yet</string>
+  <string name="no_daren_tip">Nema još ničeg ovdje</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
