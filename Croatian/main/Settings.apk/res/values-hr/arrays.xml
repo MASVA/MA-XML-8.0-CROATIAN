@@ -811,7 +811,8 @@
      </string-array>
     <string-array name="long_press_volume_down_action">
          <item>Ništa</item>
-         <item>Brza fotografija (odaberite način u kameri)</item>
+         <item>Quick snap način (snimi fotografiju)</item>
+         <item>Quick snap način (snimi videozapis)</item>
          <item>Gradski prijevoz</item>
     </string-array>
     <string-array name="screen_button_style">

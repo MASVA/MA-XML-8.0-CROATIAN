@@ -78,7 +78,7 @@
   <string name="alert_secret_album_enter">U redu</string>
   <string name="alert_secret_album_message">Povucite prema dolje sa vrha stranice vaših Albuma za prikaz skrivenih albuma.</string>
   <string name="alert_secret_album_title">Kako vidjeti skriveni album</string>
-  <string name="all_faces">Sve fotografije sa osobama</string>
+  <string name="all_faces">Fotografije s tom osobom</string>
   <string name="all_items_synced">Svi albumi imaju izrađenu Sig. kopiju na Mi Cloudu</string>
   <string name="all_video_album_display_name">Svi videozapisi</string>
   <string name="already_create_baby_album">Dječji album već postoji u Mi Cloudu.</string>
@@ -150,7 +150,7 @@
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
-  <string name="change_to_face_mode">Poredaj po osobama</string>
+  <string name="change_to_face_mode">Prikaži samo lice</string>
   <string name="change_to_photo_mode">Poredaj po albumima</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Odnos</string>

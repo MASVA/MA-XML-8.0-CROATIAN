@@ -46,10 +46,10 @@
   <string name="cant_remove_retained_app">Ne mogu ukloniti ovu aplikaciju</string>
   <string name="cant_remove_system_app">"Ne mogu ukloniti aplikaciju sustava"</string>
   <string name="change_wallpaper">Promjeni</string>
-  <string name="children_folder_title">Djeca</string>
+  <string name="children_folder_title">Dječji način</string>
   <string name="children_mode_exit">Izlaz</string>
-  <string name="children_mode_tips_message">Nema aplikacije dječjem načinu. Odaberite aplikaciju.</string>
-  <string name="children_mode_tips_title">Odaberite aplikaciju</string>
+  <string name="children_mode_tips_message">Nema aplikacija u dječjem načinu. Odaberite koje aplikacije želite dodati.</string>
+  <string name="children_mode_tips_title">Odaberite aplikacije</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi novu sliku pozadine</string>
   <string name="cloud_app_restore_title">Na čekanju</string>

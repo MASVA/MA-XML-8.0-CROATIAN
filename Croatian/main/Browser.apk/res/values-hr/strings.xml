@@ -370,7 +370,7 @@ Napustiti ovu stranicu?"</string>
   <string name="media_error_action_replace_video_source">"Ne mogu promijeniti izvor"</string>
   <string name="media_error_failure">"Ne mogu reproducirati videozapis"</string>
   <string name="media_error_format">"Format videozapisa nije podržan"</string>
-  <string name="media_error_network_unreachable">Mreža nije dostupna</string>
+  <string name="media_error_network_unreachable">"Ne mogu se povezati na mrežu"</string>
   <string name="media_error_nomemory">Nema dovoljno memorije na uređaju</string>
   <string name="media_error_source">"Ne mogu pronaći izvor"</string>
   <string name="media_error_timeout">Povezivanje s mrežom je isteklo</string>

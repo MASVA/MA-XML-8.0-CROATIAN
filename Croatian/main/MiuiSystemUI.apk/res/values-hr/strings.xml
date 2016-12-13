@@ -143,6 +143,9 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="disable_notification_summary">"Ne prikazuj obavijesti odabranih aplikacija."</string>
   <string name="disable_notification_title">Sakrij obavijesti</string>
   <string name="dismount_storage">"Ne"</string>
+  <string name="divider_menu_close">zatvori</string>
+  <string name="divider_menu_select_apps">odaberi</string>
+  <string name="divider_menu_swap_task">zamjeni</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>
   <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranjivanje"</string>
   <string name="dlg_error_title">"Radnja USB-a nije uspjela"</string>
@@ -204,8 +207,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="nav_guide_ok">Postavljanje</string>
   <string name="nav_guide_title">Sakrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">Nema aplikacije koja podržava više prozora</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
+  <string name="not_support_multi_window">"Trenutna aplikacija ne podržava više prozora"</string>
   <string name="notification_header_title">Obavijesti</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
   <string name="notification_manager">Upravljaj obavijestima</string>
