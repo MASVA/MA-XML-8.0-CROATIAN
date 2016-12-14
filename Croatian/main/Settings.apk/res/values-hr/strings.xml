@@ -2483,6 +2483,11 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="open_anr_debug">Uključi ANR otklanjanje grešaka</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Zatvori</string>
+  <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Smart asistent i primati njegova ažuriranja. Isključiti sada?"</string>
+  <string name="open_personal_assistant_dialog_title">Isključi Smart assistant</string>
+  <string name="open_personal_assistant_title">Uključi Smart assistant</string>
   <string name="open_wifi_connect_summary">"Dotaknite za upravljanje"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ovim radnim profilom upravlja:</string>
