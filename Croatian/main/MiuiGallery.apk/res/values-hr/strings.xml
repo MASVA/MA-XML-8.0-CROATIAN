@@ -150,8 +150,8 @@
   <string name="cannot_remove_creator">"Ne mogu ukloniti autora"</string>
   <string name="cannot_send_message">"Ne mogu poslati poruku"</string>
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
-  <string name="change_to_face_mode">Prikaži samo lice</string>
-  <string name="change_to_photo_mode">Poredaj po albumima</string>
+  <string name="change_to_face_mode">Prikaži samo lice</string>  
+  <string name="change_to_photo_mode">Prikaži pune preglede</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Odnos</string>
   <string name="choose_people">"Odaberite album osobe"</string>

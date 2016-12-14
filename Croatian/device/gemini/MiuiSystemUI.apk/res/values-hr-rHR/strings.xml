@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string name="accessibility_action_divider_bottom_full">Dno cijeli zaslon</string>
+   <string name="accessibility_action_divider_left_30">Lijevo 30%</string>
+   <string name="accessibility_action_divider_left_50">Lijevo 50%</string>
+   <string name="accessibility_action_divider_left_70">Lijevo 70%</string>
+   <string name="accessibility_action_divider_left_full">Lijevo cijeli zaslon</string>
+   <string name="accessibility_action_divider_right_full">Desno cijeli zaslon</string>
+   <string name="accessibility_action_divider_top_30">Vrh 30%</string>
+   <string name="accessibility_action_divider_top_50">Vrh 50%</string>
+   <string name="accessibility_action_divider_top_70">Vrh 70%</string>
+   <string name="accessibility_action_divider_top_full">Vrh cijeli zaslon</string>
    <string name="0">Koristite geste da se sakrijete/prikažete tipke zaslona.</string>
    <string name="accessibility_airplane_mode">Zrakoplovni način.</string>
    <string name="accessibility_assistant">Izbornik prečaca.</string>
@@ -23,6 +33,7 @@
    <string name="accessibility_data_two_bars">Podaci dvije linije.</string>
    <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
    <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
+   <string name="accessibility_divider">Djelitelj podijeljenog zaslona</string>
    <string name="accessibility_home">"Početna"</string>
    <string name="accessibility_ime_switch_button">Promjeni tipku načina unosa</string>
    <string name="accessibility_managed_profile">Radni profil</string>
@@ -37,6 +48,7 @@
    <string name="accessibility_phone_three_bars">Telefon tri linije.</string>
    <string name="accessibility_phone_two_bars">Telefon dvije linije.</string>
    <string name="accessibility_recent">Nedavne aplikacije</string>
+   <string name="accessibility_recents_task_header">%1$s %2$s</string>
    <string name="accessibility_remove_notification">Očisti obavijest.</string>
    <string name="accessibility_ringer_silent">"Bešumno."</string>
    <string name="accessibility_ringer_vibrate">Vibracija.</string>
@@ -217,10 +229,15 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="disabled_by_admin">Onemogućio administrator</string>
    <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
    <string name="dismount_storage">"Ne"</string>
+   <string name="divider_menu_close">Zatvori</string>
+   <string name="divider_menu_select_apps">Odaberi</string>
+   <string name="divider_menu_swap_task">Zamjeni</string>
    <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>
    <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranjivanje"</string>
    <string name="dlg_error_title">"Radnja USB-a nije uspjela"</string>
    <string name="dlg_ok">"U redu"</string>
+   <string name="dock_forced_resizable">Aplikacija možda neće raditi u načinu podijeljenog zaslona.</string>
+   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava način podijeljenog zaslona.</string>
    <string name="drive_mode_tip">"Vi ste u automobilskom načinu"</string>
    <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
    <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
@@ -322,9 +339,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="nav_guide_ok">Postavljanje</string>
    <string name="nav_guide_title">Sakrij tipke zaslona</string>
    <string name="network_speed_suffix">%1$s%2$s</string>
-   <string name="no_application">Nothing</string>
+   <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string> 
+   <string name="no_application">Ništa</string>
    <string name="no_notification_tips">Nema obavijesti.</string>
    <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
+   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava način podijeljenog zaslona"</string>
    <string name="notification_header_title">Obavijesti</string>
    <string name="notification_hidden_text">Sadržaj je skriven</string>
    <string name="notification_manager">Upravljaj obavijestima</string>
@@ -386,6 +405,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="recent_task_app_info_text">Info</string>
    <string name="recent_task_lock_text">Zaključaj</string>
    <string name="recent_task_unlock_text">Otključaj</string>
+   <string name="recents_launch_error_message">Ne mogu pokrenuti %s.</string>
    <string name="reject_call">Poziv odbijen</string>
    <string name="remaining_length_format">Još %1$s</string>
    <string name="return_to_incall_screen">Natrag na poziv</string>

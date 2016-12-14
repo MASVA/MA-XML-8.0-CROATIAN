@@ -500,13 +500,15 @@
   <string name="vp_select_video_source">Odaberi izvor</string>
   <string name="vp_skip">Preskoči uvod i kredite</string>
   <string name="vp_standard_definition">SD</string>
+  <string name="vp_start_error_msg">"Ne mogu to reproducirati"</string>
   <string name="vp_super_definition">Viša</string>
   <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Preuzimanje aplikacije u pozadini …</string>
   <string name="vp_unknown_source">Nepoznat izvor</string>
   <string name="vp_using_16_9">Nametni 16:9</string>
   <string name="vp_using_4_3">Nametni 4:3</string>
-  <string name="vp_video_bad_network_condition">Slaba povezivost s mrežom, pokušajte ponovo kasnije.</string>
+  <string name="vp_video_bad_network_condition">Slaba povezivost s mrežom, pokušajte ponovno kasnije.</string>
+  <string name="vp_video_create_video_error_info">Interna pogreška aplikacije, pokušajte ponovno kasnije.</string>
   <string name="vp_video_invalid_cp_info">Pogrešna informacija o pružatelju video usluga, ponovno pokrenite aplikaciju</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Učitavanje&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Instaliranje %1$s…</string>

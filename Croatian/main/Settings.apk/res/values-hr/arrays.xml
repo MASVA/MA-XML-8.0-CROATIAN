@@ -806,13 +806,13 @@
         <item>Mreža preferirano</item>
     </string-array>
 	<string-array name="screen_key_position_action">
-        <item>Tipka Izbornik na lijevo, Tipka Natrag na desno</item>
-        <item>Tipka Natrag na lijevo, Tipka Izbornik na desno</item>
+        <item>Tipka Izbornik lijevo, Tipka Natrag desno</item>
+        <item>Tipka Natrag lijevo, Tipka Izbornik desno</item>
      </string-array>
     <string-array name="long_press_volume_down_action">
          <item>Ništa</item>
-         <item>Quick snap način (snimi fotografiju)</item>
-         <item>Quick snap način (snimi videozapis)</item>
+         <item>Quick snap način (fotografija)</item>
+         <item>Quick snap način (videozapis)</item>
          <item>Gradski prijevoz</item>
     </string-array>
     <string-array name="screen_button_style">
