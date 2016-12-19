@@ -119,9 +119,8 @@
      <string name="new_updates_found_notification_title">Dostupno je ažuriranje</string>
      <string name="next">Dalje</string>
      <string name="no_log">Nema dostupnih sažetaka</string>
-     <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
-  Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
-     <string name="no_wifi_title">Upozorenje uporabe podataka</string>
+     <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na WLAN za preuzimanje ažuriranja."</string>
+     <string name="no_wifi_title">Poveži se na WLAN</string>
      <string name="not_open">Ne</string>
      <string name="notification_auto_reboot_seccess_title">Uređaj je ažuriran automatski</string>
 	 <string name="notification_delay_update_button">Ažuriraj za 2 sata</string>

@@ -913,6 +913,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
   <string name="optimize_result_button_correct_now">Podesi</string>
   <string name="optimize_result_button_fix_now">Popravi</string>
+  <string name="optimize_result_button_mifi_insurance">Kupi sada</string>
   <string name="optimize_result_button_onekey_open">Uključi</string>
   <string name="optimize_result_button_onekey_restore">Obnovi</string>
   <string name="optimize_result_button_open_now">Uključi</string>
@@ -1514,6 +1515,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="summary_garbage_lib">Koristite najnovije definicije za uklanjanje spyware, adware i drugog neželjenog smeća.</string>
   <string name="summary_install_virus">Provjerite aplikacije za virusima prije instalacije</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 po minuti za domaće pozive.</string>
+  <string name="summary_mifi_insurance">Dobijte jednogodišnji plan zamjene koji radi u slučajevima oštećenja hardvera</string>
   <string name="summary_miui_update">Ažuriranje dostupno za %s.</string>
   <string name="summary_mms">Blokiraj automatski spam SMS poruke</string>
   <string name="summary_network_switch">Dopusti aplikaciji Sigurnost povezivanje na internet</string>
@@ -1664,6 +1666,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_install_virus_yes">Instaliranje nadzora uključeno</string>
   <string name="title_limit_traffic_per_day">Dnevno ograničenje uporabe podataka</string>
   <string name="title_live_talk_purchase">Uključite paket nadoplate</string>
+  <string name="title_mifi_insurance">Produljeno jamstvo</string>
   <string name="title_miui_update">Dostupno ažuriranje</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>

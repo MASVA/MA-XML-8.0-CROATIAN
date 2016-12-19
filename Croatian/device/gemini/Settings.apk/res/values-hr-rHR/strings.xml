@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="about_ad_service_instructions">O uslugama oglasa i privatnošću​</string>
   <string name="aaid_info">"
  Identifikator oglašavanja je stalni ID jedinstven za vaš uređaj. Dobavljači ga koriste za odabir reklamnog sadržaja koji će vam biti koristan.
  
@@ -64,7 +65,7 @@
 
 2. korak: dodirnite i držite s dva prsta dok ne začujete zvučnu potvrdu.
 
-Ako uređaj ima više korisnika, ovaj prečac na zaključanom zaslonu omogućuje pristupačnost dok se uređaj ne otključa."</string>
+Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje pristupačnost dok se uređaj ne otključa."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Isključeno</string>
   <string name="accessibility_global_gesture_preference_summary_on">Uključeno</string>
   <string name="accessibility_global_gesture_preference_title">Prečac pristupačnosti</string>
@@ -272,7 +273,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="app_notification_row_banned">Blokirano</string>
   <string name="app_notification_row_priority">Prioritet</string>
   <string name="app_notification_row_sensitive">Osjetljivo</string>
-  <string name="app_notification_visibility_override_title">Na zaključanom zaslonu</string>
+  <string name="app_notification_visibility_override_title">Na Zaklj. zaslonu</string>
   <string name="app_notifications_dialog_done">Gotovo</string>
   <string name="app_notifications_switch_label">Obavijesti</string>
   <string name="app_notifications_title">Obavijesti aplikacije</string>
@@ -1858,7 +1859,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyguard_right_function_chooser_hint_text">Desni prečac promijenjen u %s</string>
   <string name="keyguard_right_function_chooser_title">Aplikacija</string>
   <string name="keyguard_right_function_title">Desno</string>
-  <string name="keyguard_shortcut_summary">Postavi prečace za 2 aplikacije na Zaklj.  zaslonu</string>
+  <string name="keyguard_shortcut_summary">Postavi prečace za 2 aplikacije na Zaklj. zaslonu</string>
   <string name="keyguard_shortcut_title">Prečaci Zaklj. zaslona</string>
   <string name="keywords_accounts">račun</string>
   <string name="keywords_all_apps">aplikacije preuzimanje sustav</string>
@@ -2050,12 +2051,12 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_notifications_summary_hide_profile">Sakrij osjetljiv sadržaj obavijesti radnog profila</string>
   <string name="lock_screen_notifications_summary_show">Prikaži sav sadržaj obavijesti</string>
   <string name="lock_screen_notifications_summary_show_profile">Prikaži sav sadržaj obavijesti radnog profila</string>
-  <string name="lock_screen_notifications_title">Na zaključanom zaslonu</string>
+  <string name="lock_screen_notifications_title">Na Zaklj. zaslonu</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebna zaporka za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
-  <string name="lock_screen_signature_summary">Potpis će se prikazati na Zaklj.  zaslonu</string>
-  <string name="lock_screen_signature_title">Potpis Zaklj. zaslona</string>
+  <string name="lock_screen_signature_summary">Ova će poruka biti prikazana na Zaklj. zaslonu</string>
+  <string name="lock_screen_signature_title">Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="lock_screen_unlock_show">Preskoči povlačenje zaslona</string>
   <string name="lock_screen_unlock_show_summary">Idi izravno na Početni zaslon ili unos zaporke nakon buđenja</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za promjenu</string>
@@ -2597,10 +2598,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notification_volume_title">Obavijest</string>
   <string name="notifications_disabled">Blokirano</string>
   <string name="notifications_enabled">Uobičajeno</string>
-  <string name="notifications_hidden">Nije na zaključanom zaslonu</string>
+  <string name="notifications_hidden">Nije na Zaklj. zaslonu</string>
   <string name="notifications_label">Obavijesti</string>
   <string name="notifications_priority">Nadjačana je opcija Ne ometaj</string>
-  <string name="notifications_redacted">Osjetljiv sadržaj nije na zaključanom zaslonu</string>
+  <string name="notifications_redacted">Osjetljiv sadržaj nije na Zaklj. zaslonu</string>
   <string name="notifications_silenced">Onemogućeno</string>
   <string name="notifications_summary_divider"> / </string>
   <string name="notify_connect">CMCC WLAN upit</string>
@@ -2650,7 +2651,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="owner_info_settings_edit_text_hint">Na primjer  MASVIN Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
-  <string name="owner_info_settings_title">Potpis na zaklj. zaslonu</string>
+  <string name="owner_info_settings_title">Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="page_layout_1">Nedjelja, 16 Kolovoz</string>
   <string name="page_layout_10">Postavke</string>
@@ -2806,9 +2807,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_oldman_mode">Postavke/Lite Mode</string>
   <string name="path_onekey_migrate">Postavke/Dodatne postavke/Mi Mover</string>
   <string name="path_other_advanced_settings">Postavke/Dodatne postavke</string>
-  <string name="path_owner_info_settings">Postavke/Zaklj. zaslon &amp; zaporka/Informacije o vlasniku</string>
+  <string name="path_owner_info_settings">Postavke/Zaklj. zaslon &amp; zaporka/Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="path_page_layout_settings">Postavke/Zaslon/Veličina teksta</string>
-  <string name="path_permission_settings_title">Postavke/Dopuštenja/Dopuštenja aplikacija</string>
+  <string name="path_permission_settings_title">Postavke/Dopuštenja/Dopuštenja</string>
   <string name="path_pointer_speed">Postavke/Dodatne postavke/Jezik &amp; unos/Brzina pokazivača</string>
   <string name="path_power_checker">Postavke/Dodatne postavke/Beta značajke/Provjera Energije</string>
   <string name="path_power_hide_mode_title">Postavke/Baterija &amp; performanse/Upravljanje korištenjem baterije aplikacija</string>
@@ -2839,7 +2840,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="path_sound_settings">Postavke/Zvuk &amp; vibracija</string>
   <string name="path_status_bar_settings">Postavke/Obavijesti &amp; traka statusa</string>
   <string name="path_status_bar_settings_custom_carrier">Postavke/Obavijesti &amp; traka statusa/Uredi naziv operatera</string>
-  <string name="path_status_bar_settings_expandable_under_keyguard">Postavke/Obavijesti &amp; traka statusa/Prikaži na zaključanom zaslonu</string>
+  <string name="path_status_bar_settings_expandable_under_keyguard">Postavke/Obavijesti &amp; traka statusa/Prikaži na Zaklj. zaslonu</string>
   <string name="path_status_bar_settings_show_carrier">Postavke/Obavijesti &amp; traka statusa/Prikaži naziv operatera</string>
   <string name="path_status_bar_settings_show_network_speed">Postavke/Obavijesti &amp; traka statusa/Prikaži brzinu veze</string>
   <string name="path_status_bar_settings_show_notification_icon">Postavke/Obavijesti &amp; traka statusa/Prikaži ikone obavijesti</string>
@@ -3561,7 +3562,7 @@ Za prikvačivanje zaslona:
   <string name="search_oldman_mode">Lite mode;Oldman mode;Litemode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Dodatne postavke;Više postavki</string>
-  <string name="search_owner_info_settings">Informacije o vlasniku</string>
+  <string name="search_owner_info_settings">Informacije o vlasniku na Zaklj. zaslonu;Informacije o vlasniku;Potpis;Potpis na Zaklj. zaslonu;Vlasnik</string>
   <string name="search_page_layout_settings">Veličina teksta;Veličina fonta;Mali font;Veliki font;Srednji font;XXL font;Ogroman font;Veličine fontova</string>
   <string name="search_permission_settings_title">Dopuštenja aplikacija</string>
   <string name="search_pointer_speed">Brzina pokazivača</string>
@@ -3599,7 +3600,7 @@ Za prikvačivanje zaslona:
   <string name="search_sound_settings">Zvuk;Glasnoća;Glasnoća;Bešumno;Bešumno;Tišina;Alarm;Glazba;Vibracija;vibriraj;melodija zvona;Melodija zvona;Zadani zvuk obavijesti;zvuk obavijesti;zvukovi obavijesti;Primljena poruka;Primljena poruka;Poruka isporučena;Poruka isporučena;Dodir;Zvukovi dodira;Zvukovi;Zvuk Zaklj. zaslona;Postavke zvuka;Zvuk;Utišavanje okolne buke;buka;Utišavanje;Utišavanje buke</string>
   <string name="search_status_bar">Obavijesti &amp; traka statusa;Obavijesti;Traka statusa;status;Obavijesti aplikacija;Položaj prečaca;Prečac;Prečaci;Brzina veze;Naziv operatera;Operater;Obavijest snimke zaslona;Snimka zaslona;Zaklj. zaslona</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi naziv operatera;Naziv operatera</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na zaključanom zaslonu;prikaži na zaključanom zaslonu</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu;prikaži na Zaklj. zaslonu</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži naziv operatera;Naziv operatera</string>
   <string name="search_status_bar_settings_show_network_speed">Prikaži brzinu veze;brzina veze</string>
   <string name="search_status_bar_settings_show_notification_icon">Prikaži ikone obavijesti;ikone obavijesti;prikaži ikone obavijesti</string>
@@ -3758,6 +3759,8 @@ Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;anno
   <string name="set_password_message">Postavite zaporku za isključivanje Dječjeg načina, kao i za otključavanje ovog uređaja.</string>
   <string name="set_password_title">Postavi zaporku</string>
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
+  <string name="settings_ad_loading">Samo trenutak…</string>
+  <string name="settings_ad_loading_unavailable">"Ne mogu učitati."</string>
   <string name="settings_backup">Postavke sigurnosne kopije</string>
   <string name="settings_backup_summary">Stvori sigurnosnu kopiju postavki</string>
   <string name="settings_button">Postavke</string>
@@ -3813,9 +3816,9 @@ Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;anno
   <string name="show_ime_summary">Zadržava se na zaslonu dok je fizička tipkovnica aktivna</string>
   <string name="show_magnifier_when_input">Povećalo za tekst</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
-  <string name="show_owner_info_on_lockscreen_label">Prikaži vlasniku informacije o zaključanom zaslonu</string>
+  <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="show_password">Zaporke vidljive</string>
-  <string name="show_profile_info_on_lockscreen_label">Prikaži informacije profila na zaključanom zaslonu</string>
+  <string name="show_profile_info_on_lockscreen_label">Prikaži informacije profila na Zaklj. zaslonu</string>
   <string name="show_rounded_corners">Prikaži zaobljene uglove</string>
   <string name="show_running_services">Prikaži pokrenute usluge</string>
   <string name="show_screen_updates">Prikaži ažur. površine</string>
@@ -3824,7 +3827,7 @@ Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;anno
   <string name="show_silently_summary">Nemoj emitirati zvuk, vibrirati niti prikazivati obavijesti na trenutačnom zaslonu.</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
-  <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na zaključanom zaslonu</string>
+  <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na Zaklj. zaslonu</string>
   <string name="shut_down_find_device_failure_confirm">U redu</string>
   <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li vaš uređaj ima internetsku vezu."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
@@ -3905,7 +3908,7 @@ Možda je PIN pogrešan."</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
-  <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na zaključanom zaslonu.</string>
+  <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole sviranja glazbe, Kamera i Mi Home će biti onemogućeni na Zaklj. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_number">(Utor %1$d)</string>
   <string name="slot_status_title">IMEI podaci</string>
@@ -3984,7 +3987,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
   <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaključanom zaslonu</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
   <string name="status_bar_settings_manage_notification">Obavijesti aplikacija</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
@@ -3996,7 +3999,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
-  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj.  zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Plutajuće obavijesti automatski će nestati nakon što se prikažu na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
@@ -4550,7 +4553,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="usb_use_power_only_desc">Punjenje drugog povezanog uređaja</string>
   <string name="use_location_summary">Neka Google upotrebljava vašu lokaciju za poboljšanje rezultata pretraživanja i drugih usluga</string>
   <string name="use_location_title">Lokac. i Google pretraživanje</string>
-  <string name="use_personalized_ad_service">Prilagođeni oglasi</string>
+  <string name="use_personalized_ad_service">Koristi identifikator oglašavanja</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>
