@@ -48,6 +48,12 @@
    <string name="accessibility_phone_three_bars">Telefon tri linije.</string>
    <string name="accessibility_phone_two_bars">Telefon dvije linije.</string>
    <string name="accessibility_recent">Nedavne aplikacije</string>
+   <string name="accessibility_recent_task_enter">Uđi u panel nedavnih zadataka, postoji %d zadataka</string>
+   <string name="accessibility_recent_task_exit">Napusti panel nedavnih zadataka</string>
+   <string name="accessibility_recent_task_first_enter_tips">Uđi u panel nedavnih zadataka, postoji %d zadataka, povucite gore za uklanjanje, dolje za zaključavanje</string>
+   <string name="accessibility_recent_task_locked">Zaključano, povucite dolje za otključavanje</string>
+   <string name="accessibility_recent_task_memory_info">%2$s ukupno, %1$s dostupno, dvaput dodirnite za čišćenje svih zadataka</string>
+   <string name="accessibility_recent_task_unlocked">Otključano</string>
    <string name="accessibility_recents_task_header">%1$s %2$s</string>
    <string name="accessibility_remove_notification">Očisti obavijest.</string>
    <string name="accessibility_ringer_silent">"Bešumno."</string>
