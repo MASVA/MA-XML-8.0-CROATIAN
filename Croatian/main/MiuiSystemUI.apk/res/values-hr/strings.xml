@@ -34,11 +34,11 @@
   <string name="accessibility_phone_three_bars">Telefon tri linije.</string>
   <string name="accessibility_phone_two_bars">Telefon dvije linije.</string>
   <string name="accessibility_recent">Nedavne aplikacije</string>
-  <string name="accessibility_recent_task_enter">Uđi u panel nedavnih zadataka, postoji %d zadataka</string>
-  <string name="accessibility_recent_task_exit">Napusti panel nedavnih zadataka</string>
-  <string name="accessibility_recent_task_first_enter_tips">Uđi u panel nedavnih zadataka, postoji %d zadataka, povucite gore za uklanjanje, dolje za zaključavanje</string>
-  <string name="accessibility_recent_task_locked">Zaključano, povucite dolje za otključavanje</string>
-  <string name="accessibility_recent_task_memory_info">%2$s ukupno, %1$s dostupno, dvaput dodirnite za čišćenje svih zadataka</string>
+  <string name="accessibility_recent_task_enter">Nedavno otvoreno, dostupno aplik. %d.</string>
+  <string name="accessibility_recent_task_exit">Nedavno zatvoreno</string>
+  <string name="accessibility_recent_task_first_enter_tips">Nedavno otvoreno, dostupno aplik. %d. Povuci gore za uklanjanje, povuci dolje za zaključavanje.</string>
+  <string name="accessibility_recent_task_locked">Zaključano, povuci dolje za otključavanje.</string>
+  <string name="accessibility_recent_task_memory_info">Ukupan RAM: %2$s | Dostupan RAM: %1$s. Dvaput dodirnite za čišćenje.</string>
   <string name="accessibility_recent_task_unlocked">Otključano</string>
   <string name="accessibility_remove_notification">Očisti obavijest.</string>
   <string name="accessibility_ringer_silent">"Bešumno."</string>

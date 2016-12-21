@@ -417,11 +417,11 @@
   <string name="title_of_traffic_notification">Statusna traka podataka</string>
   <string name="title_optimizer">Uvjeti i Odredbe</string>
   <string name="title_share_link">Podijeli poveznicu</string>
-  <string name="toast_add_white_list_success">" je dodan u iznimke"</string>
+  <string name="toast_add_white_list_success">Uspješno dodano u iznimke</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikacija nema pohranjenih datoteka na SD kartici"</string>
   <string name="toast_backup_is_running">Sig. kopija je već pokrenuta. Pričekajte malo i pokušajte ponovno.</string>
   <string name="toast_backup_uninstall_failed">Nije uspjela Sig. kopija %d aplikacija. Pričekajte malo i pokušajte ponovno.</string>
-  <string name="toast_backup_uninstall_failed2">"Ne mogu napraviti sig. kopiju"</string>
+  <string name="toast_backup_uninstall_failed2">"Ne mogu napraviti Sig. kopiju"</string>
   <string name="toast_backup_uninstall_success">Sig. kopija i deinstalacija završena</string>
   <string name="toast_delete_select_image_succeed">Izbrisano</string>
   <string name="toast_garbage_cleanup_success">Čišćenje završeno</string>
@@ -429,7 +429,7 @@
   <string name="toast_must_select_before_restore">Odaberite fotografije za vraćanje</string>
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_network_switch">Ova se aplikacija može povezati na internet</string>
-  <string name="toast_removed_from_white_list">" je uklonjen iz iznimaka"</string>
+  <string name="toast_removed_from_white_list">Uspješno uklonjeno iz iznimaka</string>
   <string name="toast_resolve_apk_error">Rješavanje pogreške aplik.</string>
   <string name="toast_scaning_similar_image">Provjera fotografija…</string>
   <string name="toast_select_image_need_delete">Odaberite fotografije za brisanje</string>
