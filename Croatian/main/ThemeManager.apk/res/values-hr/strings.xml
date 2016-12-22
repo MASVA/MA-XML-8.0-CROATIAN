@@ -399,7 +399,8 @@
   <string name="theme_user_agreement_remind_summary">Prikaži upit Uvjeti Korištenja svaki put kada otvorite aplikaciju "Teme". Ova postavka će stupiti na snagu nakon što ponovno pokrenete svoj uređaj.</string>
   <string name="theme_user_agreement_title">Uvjeti Korištenja</string>
   <string name="theme_yes">Da</string>
-  <string name="title_component">Prilagodite temu</string>
+  <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
+  <string name="title_component">Prilagodi temu</string>
   <string name="title_my_audio_resource">Moje melodije zvona</string>
   <string name="title_my_wallpaper_resource">Moje slike pozadine</string>
   <string name="title_system_audio_resource">Melodije zvona sustava</string>

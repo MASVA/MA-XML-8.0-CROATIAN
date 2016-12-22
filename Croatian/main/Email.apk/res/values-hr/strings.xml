@@ -613,7 +613,7 @@
   <string name="network_try_again">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="network_unavailable">Mreža nije dostupna</string>
   <string name="new_incoming_messages_one">Novu poruku šalje %s. Prikaži.</string>
-  <string name="new_messages">Novih poruka: %1$d</string>
+  <string name="new_messages">Nova poruka: %1$d</string>
   <string name="next_action">Dalje</string>
   <string name="no">Ne</string>
   <string name="no_address_email">noaddressemail@123.com</string>
