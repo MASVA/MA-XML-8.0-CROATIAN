@@ -272,9 +272,11 @@
   <string name="toast_feedback_submitting">Slanje…</string>
   <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
   <string name="toast_fill_brackets">Vašem izvješću nedostaju neke informacije</string>
+  <string name="toast_log_not_exists">"Traženi zapis ne postoji ii je izbrisan"</string>
   <string name="toast_module_required">Odaberi stavku</string>
   <string name="toast_network_unavailable">"Ne mogu poslati. Ne mogu se povezati na mrežu."</string>
   <string name="toast_pending_log_collection">Još prikupljam zapise…</string>
+  <string name="toast_pic_not_exists">Predmemorirani image je izbrisan</string>
   <string name="toast_post_deleted">"Ova tema ne postoji, izbrisana je ili uređena."</string>
   <string name="toast_problem_class_required">Odaberite kategoriju</string>
   <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>

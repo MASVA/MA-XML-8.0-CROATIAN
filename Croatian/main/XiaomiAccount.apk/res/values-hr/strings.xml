@@ -13,12 +13,12 @@
   <string name="account_binded_phone">Telefon %d</string>
   <string name="account_crop_user_avatar">Obreži sliku</string>
   <string name="account_empty_user_name">Unesite naziv kor. ime vašeg Mi Računa</string>
-  <string name="account_error_all_space_user_name">"Naziv ne može biti samo prazan bez znakova"</string>
+  <string name="account_error_all_space_user_name">"Naziv ne može biti prazan bez znakova"</string>
   <string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
   <string name="account_error_shorter_user_name">Ime mora biti duže od 2 znaka</string>
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
   <string name="account_has_been_set">Promjeni</string>
-  <string name="account_limit_update_birthday">"Ne mogu ažurirati datum rođendana upravo sada"</string>
+  <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
   <string name="account_no_set">Ništa</string>
   <string name="account_none">Ništa</string>
   <string name="account_none_binded_info">Ništa</string>
@@ -212,7 +212,7 @@
 Da aktivirate svoj korisnički račun, slijedite
 poveznicu u poruci koju smo poslali na vašu dolaznu poštu
 ."</string>
-  <string name="passport_completed">Završeno</string>
+  <string name="passport_completed">Dovršeno</string>
   <string name="passport_confirm">U redu</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_copy_message_text_success">Uspješno kopirano</string>

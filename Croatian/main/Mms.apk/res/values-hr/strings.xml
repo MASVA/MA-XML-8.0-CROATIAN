@@ -357,6 +357,7 @@
   <string name="mx_online">Aktivirano</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
+  <string name="mx_stranger_recommend_msg">Dodirni za blokiranje Mi Poruka od nepoznatih brojeva</string>
   <string name="mx_type_guide">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka troškova</string>
   <string name="need_download">Sinkroniziram…</string>
   <string name="network_error">Mrežna pogreška</string>
