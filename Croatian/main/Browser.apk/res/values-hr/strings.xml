@@ -162,6 +162,7 @@
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Zasićenje</string>
   <string name="comment_app_menu">Komentar</string>
+  <string name="comment_hint">Komentar</string>
   <string name="comment_menu">Komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
@@ -184,6 +185,7 @@
   <string name="contextmenu_openlink">Otvori</string>
   <string name="contextmenu_openlink_newwindow">Otvori u novoj kartici</string>
   <string name="contextmenu_openlink_newwindow_background">Otvori u novoj pozadinskoj kartici</string>
+  <string name="contextmenu_recognise_qr_code">Prepoznaj QR kod</string>
   <string name="contextmenu_savelink">Spremi vezu</string>
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_set_wallpaper">Podesi za sliku pozadine</string>
@@ -550,6 +552,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_notifications_receive">Obavijesti</string>
   <string name="pref_notifications_title">Obavijesti</string>
   <string name="pref_other_title">Ostalo</string>
+  <string name="pref_paper_mode_title">Način čitanja</string>
   <string name="pref_privacy_clear_cache">Brisanje predmemorije</string>
   <string name="pref_privacy_clear_cache_dlg">Izbrisati spremljeni sadržaj u lokalnoj predmemoriji i bazama podataka?</string>
   <string name="pref_privacy_clear_cache_summary">Izbriši lokalne predmemorije i baze podataka</string>

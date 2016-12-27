@@ -9,8 +9,8 @@
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d sati.</item>
-        <item quantity="one">"1 sat"</item>
+        <item quantity="other">prije %d sati.</item>
+        <item quantity="one">"prije 1 sat"</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d dana</item>
@@ -31,4 +31,16 @@
         <item quantity="other">+%d događaja</item>
         <item quantity="one">+1 događaj</item>
     </plurals>
+	<plurals name="Ndays_ago">
+         <item quantity="other">prije %1$d dana u %2$s</item>
+         <item quantity="one">prije %1$d dan u %2$s</item>
+     </plurals>
+     <plurals name="Ndays_after">
+         <item quantity="other">Nakon %1$d dana u %2$s</item>
+         <item quantity="one">Nakon %1$d dan u %2$s</item>
+     </plurals>
+     <plurals name="Nweeks">
+         <item quantity="other">prije %d tjedana</item>
+         <item quantity="one">Prije 1 tjedan</item>
+     </plurals>
 </resources> 

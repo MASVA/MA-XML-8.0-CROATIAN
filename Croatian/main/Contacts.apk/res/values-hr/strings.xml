@@ -355,17 +355,27 @@ Kartice kontakata su isključene"</string>
   <string name="device_import_progress_toast">Uvezeno kontakata: %1$d</string>
   <string name="device_import_title">"Uvoz"</string>
   <string name="device_list_title">"Odaberite uređaj"</string>
-  <string name="device_other_guide">Ako vaš uređaj nije na popisu, slijedite sljedeće korake"</string>
-  <string name="device_other_title">Drugi uređaj</string>
+  <string name="device_other_guide">"Drugi telefon podržava Bluetooth?"</string>
+  <string name="device_other_title">Uvezi putem drugog telefona</string>
   <string name="device_paired_dialog_message">Dohvaćanje kontakata…</string>
   <string name="device_paired_dialog_title">Dohvaćanje kontakata…</string>
   <string name="device_pairing_dialog_message">Uparivanje…</string>
   <string name="device_pairing_dialog_title">Upari uređaje</string>
-  <string name="device_version_header_bluetooth">Provjerite da je Bluetooth uključen</string>
-  <string name="device_version_header_no_bluetooth">Uvezi kontakte preko SIM kartice</string>
-  <string name="device_version_title">Odaberi model</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Uključite \"Bluetooth\" na drugom uređaju;        
+ 
+- Android uređaji obično imaju stavku \"Bluetooth\" u odjeljku mreže
+
+- iOS uređaji bi trebali potražiti \"Bluetooth\" u Postavkama
+
+2. Android uređaji također trebaju uključiti značajku \"Vidljiv\";
+
+3. Kliknite \"Dalje\" i dopustite pristup kontaktima u sljedećem koraku."</string>
+   <string name="device_transfer_by_sim_message">"1. Spremite kontakte drugog uređaja na SIM karticu;
+2. Idite u \"Postavke kontakata\" -- \"Uvoz/izvoz kontakata\" -- \"Uvezi sa SIM kartice\", dugi pritisak na bilo koji SIM kontakt, odaberite te kontakte za uvoz, a zatim kliknite na opciju \"Uvoz\"."</string>
+  <string name="device_version_header_bluetooth">Uvezi putem Bluetootha</string>
+  <string name="device_version_header_no_bluetooth">Uvezi putem Bluetootha</string>
   <string name="dial">Biraj</string>
-  <string name="dialerDialpadHintText">Nazovi za dodavanje poziva</string>
+  <string name="dialerDialpadHintText">Biraj za dodavanje poziva</string>
   <string name="dialerIconLabel">"Nedavno"</string>
   <string name="dialerKeyboardHintText">"Birajte pomoću tipkovnice"</string>
   <string name="dialer_addAnotherCall">"Dodaj poziv"</string>
@@ -756,8 +766,8 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="multipleContactDeleteConfirmation">Brisanjem ovog kontakta izbrisat ćete podatke s više računa.</string>
   <string name="multipleContactDeleteConfirmationDetail">Brisanje kontakta \"%s\" će izbrisati informacije sa više računa.</string>
   <string name="my_in_call_show">Moj videozapis</string>
-  <string name="my_phone_not_provider_bluetooth">Moj uređaj nema Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Moj uređaj ima Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Ne</string>
+  <string name="my_phone_provider_bluetooth">Da</string>
   <string name="nameLabelsGroup">Ime</string>
   <string name="name_family">"Prezime"</string>
   <string name="name_given">"Ime"</string>
