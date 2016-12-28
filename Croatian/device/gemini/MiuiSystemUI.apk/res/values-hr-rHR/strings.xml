@@ -364,10 +364,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="notification_otg_stylus_out">Stilus nije povezan</string>
    <string name="notification_otg_touchPad_in">Dodirna ploha je povezana</string>
    <string name="notification_otg_touchPad_out">Dodirna ploha nije povezana</string>
-   <string name="notification_otg_touchScreen_in">Ekran osjetljiv na dodir je povezan</string>
-   <string name="notification_otg_touchScreen_out">Ekran osjetljiv na dodir nije povezan</string>
-   <string name="notification_otg_trackball_in">Mišji trbuh je povezan</string>
-   <string name="notification_otg_trackball_out">Mišji trbuh nije povezan</string>
+   <string name="notification_otg_touchScreen_in">Zaslon osjetljiv na dodir je povezan</string>
+   <string name="notification_otg_touchScreen_out">Zaslon osjetljiv na dodir nije povezan</string>
+   <string name="notification_otg_trackball_in">Trackball je povezan</string>
+   <string name="notification_otg_trackball_out">Trackball nije povezan</string>
    <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
    <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
    <string name="notification_template_text">Nova obavijest. Dodirnite za prikaz.</string>
