@@ -185,7 +185,6 @@
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Unesi godinu</string>
   <string name="edit_event_label">"Pojedinosti"</string>
-  <string name="edit_event_no_reminder_value">Nema podsjetnika</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_tab_anniversary">godišnjica</string>
   <string name="edit_event_tab_birthday">rođendan</string>
@@ -225,7 +224,6 @@
   <string name="event_info_where">Gdje</string>
   <string name="event_lunar_month"/>
   <string name="event_reminder_allday_day_zero">Taj dan %2$s</string>
-  <string name="event_reminder_value_zero">U vrijeme događaja</string>
   <string name="event_reminders_to_max">Ovaj događaj podržava samo ovoliko %d podsjetnika</string>
   <string name="event_show_more">Više opcija</string>
   <string name="event_title">Naslov</string>
@@ -344,7 +342,6 @@
   <string name="preferences_alerts_title">Obavijesti</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibracija</string>
   <string name="preferences_alerts_vibrate_title">Vibracija i melodija zvona</string>
-  <string name="preferences_default_allday_reminder_title">Zadani podsjetnici tijekom dana</string>
   <string name="preferences_build_version">Verzija izrade</string>
   <string name="preferences_category_account_title">Račun</string>
   <string name="preferences_category_general_title">Opće postavke</string>

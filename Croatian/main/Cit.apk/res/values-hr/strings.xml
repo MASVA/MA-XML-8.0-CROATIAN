@@ -7,6 +7,7 @@
   <string name="SD_SDCard_mounted">Otkrij SD karticu</string>
   <string name="SD_SDCard_total_size">Ukupna veličina</string>
   <string name="SD_SDCard_unmounted">SD kartica nije dostupna</string>
+  <string name="button_cancel">Odustani</string>
   <string name="button_ok">U redu</string>
   <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Kada je OTG uređaj umetnut, tekst \"USB OTG uređaj otkriven\" bi trebao biti prikazan u nastavku.</string>
@@ -233,6 +234,8 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor udaljenosti (nalazi se na vrhu telefona u blizini prijemnika) rukom, a zatim udaljite ruku. Vrijednost se treba povećati od 0,0 kada udaljite svoje ruke od uređaja.
 Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (npr. zaštitni zaslon ili rukavice)."</string>
   <string name="cit_proximity_sensor_check_title">Senzor blizine</string>
+  <string name="cit_proximity_us_sensitivity">Osjetljivost:</string>
+  <string name="cit_proximity_us_summary">Kalibriranje Ultrasound Proximity senzora</string>
   <string name="cit_rear_dual_camera_check_title">Stražnja dual kamera</string>
   <string name="cit_rear_sub_camera_check_title">Stražnja sub kamera</string>
   <string name="cit_recovery_signature_failed">Recovery potpis NEUSPJEŠNO</string>
@@ -296,16 +299,21 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_log_bugreport">Izvješće grešaka</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_file_not_exist">%s ne postoji</string>
-  <string name="cit_tool_log_generate_bugreport">Stvaranje izvješće grešaka…</string>
+  <string name="cit_tool_log_generate_bugreport">Izrada izvješća grešaka…</string>
   <string name="cit_tool_log_kmsg">Zapis zadnjeg kernela</string>
   <string name="cit_tool_log_logcat">ADB zapis</string>
   <string name="cit_tool_log_modem">Modem zapis</string>
   <string name="cit_tool_log_no_sdcard">Umetnite SD karticu</string>
   <string name="cit_tool_log_ril">RIL zapis</string>
   <string name="cit_tool_log_toast">Zapis spremljen u %s</string>
-  <string name="cit_tool_log_toast_generate_bugreport">Stvaranje izvješća grešaka… (može potrajati oko 1 min.)</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Izrada izvješća grešaka… (može potrajati oko 1 min.)</string>
   <string name="cit_tool_modem">MODEM Test</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Onemogući CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Onemogući CU VoLTE, ponovno pokrenite da stupi na snagu.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Omogući CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Omogući CU VoLTE, ponovno pokrenite da stupi na snagu.</string>
   <string name="cit_tool_modem_exit_ftm">Zatvori FTM</string>
   <string name="cit_tool_modem_mbn">Promjena kofig. Modema</string>
   <string name="cit_tool_modem_offline_log">Otvori/Zatvori Offline Log</string>
@@ -349,7 +357,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
-  <string name="cit_torch_modify">Modificiraj svjetiljkut</string>
+  <string name="cit_torch_modify">Modificiraj svjetiljku</string>
   <string name="cit_torch_off">Isključite svjetiljku</string>
   <string name="cit_torch_on">Uključite svjetiljku</string>
   <string name="cit_touch_calib_fail">Kalibriranje uspjelo</string>
