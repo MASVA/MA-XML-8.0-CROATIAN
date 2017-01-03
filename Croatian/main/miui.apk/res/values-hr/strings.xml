@@ -91,6 +91,7 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Pruža %1$s</string>
+  <string name="im">IM</string>
   <string name="instruction">Instrukcije</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. 
@@ -259,12 +260,13 @@ idite na: %s."</string>
   <string name="tuesday_shortest">U</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="user_manual">Upute</string>
-  <string name="web_sso_login_fail">Morate se prijaviti ponovo</string>
+  <string name="web_sso_login_fail">Morate se prijaviti ponovno</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Web stranica</string>
-  <string name="webview_reload">Pokušaj ponovo</string>
+  <string name="webview_reload">Pokušaj ponovno</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Jučer</string>
 </resources>
