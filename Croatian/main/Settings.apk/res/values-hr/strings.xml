@@ -572,8 +572,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_lock_voice_dialing">Zaključaj biranje glasom</string>
   <string name="bluetooth_lock_voice_dialing_summary">Spriječite upotrebu Bluetooth birača ako je zaslon zaključan</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s želi pristupiti vašim porukama. Dati pristup korisniku %2$s?</string>
-  <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
-  <string name="bluetooth_map_profile_summary_use_for">Uporaba za kartu</string>
+  <string name="bluetooth_map_profile_summary_connected">Povezano s MAP-om</string>
+  <string name="bluetooth_map_profile_summary_use_for">Upotrijebi za MAP</string>
   <string name="bluetooth_map_request">Zahtjev za pristup porukama</string>
   <string name="bluetooth_menu_advanced">Napredno</string>
   <string name="bluetooth_name_not_set">Bez postavke imena, koristi naziv računa</string>

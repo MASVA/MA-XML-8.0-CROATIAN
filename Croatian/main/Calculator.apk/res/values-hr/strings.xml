@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kalkulator</string>
+  <string name="app_name_danfa">Mi Kalkulator</string>
   <string name="cal_convert_to_word_figure">Pretvori u financijske znakove</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Uređivanje</string>
@@ -20,7 +21,7 @@
   <string name="convertion_unit_velocity">Konverzija brzine</string>
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
-  <string name="currency_update_time_format">Ažurirano %s</string>
+  <string name="currency_update_time_format">Devizni tečaj osigurava webull (%s)</string>
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="error">Pogreška</string>
@@ -84,10 +85,14 @@
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
   <string name="network_confirm_title">Potrebno dopuštenje</string>
   <string name="preference_about_calculator">O Kalkulatoru</string>
+  <string name="preference_alert_follow_qq_group">Kopiraj i zalijepi u QQ za pov. informaciju</string>
   <string name="preference_alert_follow_wechat">Kopiraj i zalijepi u WeChat za praćenje</string>
   <string name="preference_alert_follow_wechat_button">Kopiraj</string>
+  <string name="preference_check_update_summary_current_version">Trenutna verzija: %s</string>
+  <string name="preference_check_update_summary_new_version">Nova verzija: %s</string>
   <string name="preference_check_update_title">Provjeri ima li ažuriranja</string>
   <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_qq_group">QQ Grupa:523274279</string>
   <string name="preference_follow_us">Pratite nas</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Službena stranica</string>

@@ -27,12 +27,12 @@
   <string name="abplus">AB+</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
-  <string name="accessibility_no_wifi">Wi-Fi je isključen.</string>
-  <string name="accessibility_wifi_off">Wi-Fi je isključen.</string>
-  <string name="accessibility_wifi_one_bar">Wi-Fi signal ima jedan stupac.</string>
-  <string name="accessibility_wifi_signal_full">Wi-Fi signal je pun.</string>
-  <string name="accessibility_wifi_three_bars">Wi-Fi signal ima tri stupca.</string>
-  <string name="accessibility_wifi_two_bars">Wi-Fi signal ima dva stupca.</string>
+  <string name="accessibility_no_wifi">WLAN je isključen.</string>
+  <string name="accessibility_wifi_off">WLAN je isključen.</string>
+  <string name="accessibility_wifi_one_bar">WLAN signal ima jedan stupac.</string>
+  <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
+  <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
+  <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
   <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
@@ -128,12 +128,12 @@
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
-  <string name="connected_via_wfa">Povezani putem pomoćnika za Wi-Fi</string>
+  <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
  Upozorenje! Time će se izbrisati svi vaši podaci.
  Značajka je u alfa verziji i možda neće funkcionirati pravilno.
- Pritisnite \"Izbriši i pretvori...\" da biste nastavili."</string>
+ Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
   <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>
@@ -209,8 +209,6 @@
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
-  <string name="launch_defaults_none">Nema zadanih postavki</string>
-  <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za potpune sigurnosne kopije na računalu</string>
   <string name="local_backup_password_summary_none">Potpune sigurnosne kopije na stolnom računalu trenutačno nisu zaštićene</string>
   <string name="local_backup_password_title">Zaporka sigurnosne kopije</string>
@@ -270,7 +268,6 @@
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="saved_network">Spremljeno: %1$s</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
-  <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
@@ -313,13 +310,6 @@
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
-  <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-  <string name="tts_default_lang_title">Jezik</string>
-  <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-  <string name="tts_default_pitch_title">Visina glasa</string>
-  <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-  <string name="tts_default_rate_title">Brzina govora</string>
-  <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
   <string name="tts_engine_network_required">Da bi se dobili izlazni podaci pretvaranja teksta u govor za taj jezik, potrebna je aktivna veza s mrežom.</string>
   <string name="tts_engine_preference_section_title">Željeni alat</string>
   <string name="tts_engine_security_warning">Alat za sintezu govora može prikupljati izgovoreni sadržaj, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. To omogućuje alat %s. Želite li omogućiti alat za sintezu govora?</string>
@@ -360,15 +350,15 @@
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
-  <string name="wifi_aggressive_handover">Aktivni prijelaz s Wi‑Fi na mob. mrežu</string>
-  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, Wi-Fi će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je Wi-Fi signal slab.</string>
-  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje Wi-Fi mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
+  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
+  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentifikaciji</string>
-  <string name="wifi_disabled_wifi_failure">Povezivanje s Wi-Fi-jem nije uspjelo</string>
+  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
@@ -377,8 +367,8 @@
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_none">Nema</string>
-  <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču Wi‑Fi-ja</string>
+  <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
+  <string name="wifi_verbose_logging_summary">Povećana razina prijave na WLAN, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="yes">Da</string>
 </resources>

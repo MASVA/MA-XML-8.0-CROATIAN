@@ -1355,8 +1355,10 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sip_menu_add">Dodaj</string>
   <string name="sip_menu_discard">Odbaci</string>
   <string name="sip_menu_save">Spremi</string>
+  <string name="sip_profile_create_error">Ne mogu izraditi novi SIP profil</string>
   <string name="sip_receive_calls">Primi dolazne pozive</string>
   <string name="sip_receive_calls_summary">Troši više baterije</string>
+  <string name="sip_save_register_error">Ne mogu spremiti i registrirati novi SIP profil</string>
   <string name="sip_settings">Postavke SIP-a</string>
   <string name="sip_system_decide">Automatski</string>
   <string name="slot">Utor</string>

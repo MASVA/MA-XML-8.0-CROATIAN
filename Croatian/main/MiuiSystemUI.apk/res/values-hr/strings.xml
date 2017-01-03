@@ -88,8 +88,8 @@
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
-  <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
-  <string name="bluetooth_map_profile_summary_use_for">Upotreba za kartu</string>
+  <string name="bluetooth_map_profile_summary_connected">Povezano s MAP-om</string>
+  <string name="bluetooth_map_profile_summary_use_for">Upotrijebi za MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niste povezani s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_use_for">Koristi za prijenos datoteke</string>
@@ -219,6 +219,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava način podijeljenog zaslona"</string>
   <string name="notification_header_title">Obavijesti</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
+  <string name="notification_low_battery_action_btn">Uključi</string>
+  <string name="notification_low_battery_need_charge">Baterija je prazna. Napunite svoj uređaj.</string>
+  <string name="notification_low_battery_open_save_mode">Uključi Štednju baterije</string>
+  <string name="notification_low_battery_title">Slaba baterija: %d%%</string>
   <string name="notification_manager">Upravljaj obavijestima</string>
   <string name="notification_manager_des">Filtriraj i upravljaj obavijestima</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>

@@ -37,8 +37,8 @@
   <string name="common_loading_text">Samo trenutak…</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
-  <string name="daily_forcast_no_stable_direction">Nema vjetra</string>
-  <string name="daily_forcast_no_wind">&lt;12km/h</string>
+  <string name="daily_forcast_no_stable_direction">Povjetarac</string>
+  <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>
   <string name="daily_forcast_whirl_wind">Vihor</string>
   <string name="daily_forecast_detail">Pojedinosti prognoze</string>
@@ -68,6 +68,7 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
+  <string name="information_manager_extension">Ekstenzija vremena</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
   <string name="information_set">Postavke početne stranice</string>
@@ -91,11 +92,13 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="open">Otvori</string>
   <string name="open_browser">Otvori u Pregledniku</string>
+  <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Vjetar</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
-  <string name="retry">Pokušaj ponovo</string>
+  <string name="retry">Pokušaj ponovno</string>
+  <string name="search_weather">Vrijeme</string>
   <string name="set">Postavke</string>
   <string name="share">Podijeli</string>
   <string name="share_btn_cancel">Odustani</string>

@@ -22,6 +22,14 @@
         <item>Split</item>
         <item>Dubrovnik</item>
     </string-array>
+	<string-array name="aqi_detail_title">
+         <item>Dobro</item>
+         <item>Umjereno</item>
+         <item>Nezdravo za osjetljive</item>
+         <item>Nezdravo</item>
+         <item>Vrlo nezdravo</item>
+         <item>Riskantno</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Vedro</item>
         <item>Oblačno</item>
@@ -62,8 +70,18 @@
     <string-array name="indices_car_wash">
         <item>Pogodno</item>
         <item>Nepogodno</item>
-     </string-array>	           
+    </string-array>
     <string-array name="wind_direction">
+         <item>Sjeverni</item>
+         <item>Sjeveroistočni</item>
+         <item>Istočni</item>
+         <item>Jugoistočni</item>
+         <item>Južni</item>
+         <item>Jugozapadni</item>
+         <item>Zapadni</item>
+         <item>Sjeverozapadni</item>
+    </string-array>	 
+    <string-array name="wind_direction_simple">
         <item>S</item>
         <item>SI</item>
         <item>I</item>
@@ -73,4 +91,32 @@
         <item>Z</item>
         <item>SZ</item>
 	</string-array>	
+	<string-array name="wind_unit_simple">
+        <item>beaufort ljestvica</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort ljestvica</item>
+        <item>Kilometara na sat (km/h)</item>
+        <item>Metara u sekundi (m/s))</item>
+        <item>Milja na sat (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>sila %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+    </string-array>
 </resources>
