@@ -310,6 +310,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="find_on_page_next">Dalje</string>
   <string name="find_on_page_prev">Natrag</string>
   <string name="find_previous">Pronađi prethodno</string>
+  <string name="fling_on_border_gesture_hint">Možete odabrati funkciju ove geste u Postavkama</string>
   <string name="force_quick_search_title">Traži</string>
   <string name="force_touch_bookmark_history_title">Oznake &amp; Povijest</string>
   <string name="force_touch_infoflow_title">Novosti</string>
@@ -330,6 +331,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="gold_medals">Zlatne medalje</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
+  <string name="hint">Savjet</string>
   <string name="history_saved_webpage">Spremi stranicu</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
@@ -414,6 +416,7 @@ Napustiti ovu stranicu?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Isključite Zrakoplovni način za povezivanje</string>
   <string name="miuichromium_error_page_btn_close">Zatvori</string>
   <string name="miuichromium_error_page_btn_refresh">Osvježi</string>
+  <string name="miuichromium_error_page_btn_report_issue">Prijavite problem</string>
   <string name="miuichromium_error_page_diagnose">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_diagnose_banner">Dijagnostika mreže</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Nije moguće potvrditi mrežni protokol"</string>
@@ -538,8 +541,8 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_file_download_default_path_prefix">Zadana lokacija: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija preuzetih datoteka</string>
   <string name="pref_file_download_save_title">Preuzimanja</string>
-  <string name="pref_fling_on_border_enabled">Povucite od ruba za izmjenu kartica</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Povucite s lijevog/desnog ruba zaslona za izmjenu kartica</string>
+  <string name="pref_fling_on_border">Prijeđite prstom od ruba</string>
+  <string name="pref_fling_on_border_title_summary">Prijeđite prstom od lijevog ili desnog ruba zaslona</string>
   <string name="pref_font_size_category">Veličina teksta Web stranice</string>
   <string name="pref_force_userscalable">Forsiraj omogućeni zoom</string>
   <string name="pref_force_userscalable_summary">"Prebriši zahtjev nekih web lokacija za kontrolu ponašanja zumiranja"</string>
