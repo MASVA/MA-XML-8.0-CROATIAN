@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvorite vrtuljak slika pozadine</string>
+  <string name="accessibility_enter_lock_wallpaper">Dodirnite za otvorite Wallpaper Carousel</string>
   <string name="click_to_enter_text">Dodirnite za pregled</string>
   <string name="confirm_pin_msg">Unesite PIN ponovno</string>
   <string name="custom_lock_wallpaper_enter">Uđi</string>
@@ -23,7 +23,7 @@
   <string name="fingerprint_lockout_msg">Pričekajte minutu, zatim ponovno pokušajte otključati sa vašim otiskom prsta</string>
   <string name="fingerprint_not_identified_msg">Za otključavanje uređaja unesite zaporku.</string>
   <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
-  <string name="fingerprint_try_again_text">Pokušajte ponovo</string>
+  <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
   <string name="forget_password_string">Zaboravljena zaporka</string>
   <string name="incorrect_pincode">Netočan PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Netočan PIN, preostalo pokušaja %d</string>

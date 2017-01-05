@@ -13,7 +13,7 @@
         <item>500KB</item>
         <item>200KB</item>
         <item>100KB</item>
-        <item>Uvijek pričekaj na WLAN</item>
+        <item>Uvijek čekaj na WLAN</item>
     </string-array>
     <string-array name="video_type">
         <item>avi</item>
