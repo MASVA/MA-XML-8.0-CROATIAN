@@ -130,7 +130,7 @@
   <string name="deepclean_list_item_from_sdcard">Sd kartica</string>
   <string name="deepclean_normal_item_desc1">Datoteke smeća</string>
   <string name="deepclean_normal_item_desc2">"Aktivnost Čistača neće utjecati na performanse sustava"</string>
-  <string name="deepclean_normal_item_summary_empty">Sve izgleda dobro, nema ništa za očistiti</string>
+  <string name="deepclean_normal_item_summary_empty">Sve izgleda dobro, nema ništa za čišćenje</string>
   <string name="deepclean_normal_title">Očisti Automatski</string>
   <string name="deepclean_similar_ignore">Ignoriraj</string>
   <string name="deepclean_similar_summary_empty">Sve izgleda dobro, nema fotografija za brisanje</string>
@@ -144,7 +144,7 @@
   <string name="deepclean_video_summary_empty">Sve izgleda dobro</string>
   <string name="default_cache_type">Podaci datoteka</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši i fotografije s Mi Clouda</string>
-  <string name="dialog_content_delete_image_confirm">Izbrisati fotografija %d?</string>
+  <string name="dialog_content_delete_image_confirm">Izbrisati ovoliko %d fotografija?</string>
   <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Ne mogu dodati ovu datoteku u iznimke"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrditi Sig.kopiju i deinstalirati odabrane aplikacije?</string>
@@ -171,7 +171,7 @@
   <string name="empty_content_no_similar_image">Nema fotografija</string>
   <string name="empty_title_ad">Nema pronađenih zastarjelih datoteka</string>
   <string name="empty_title_apk">Nema instaliranih paketa</string>
-  <string name="empty_title_garbage_cache">Nema ništa za čistiti</string>
+  <string name="empty_title_garbage_cache">Nema ništa za čišćenje</string>
   <string name="empty_title_garbage_white_list">Držite stavke da ih dodate u iznimke</string>
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>

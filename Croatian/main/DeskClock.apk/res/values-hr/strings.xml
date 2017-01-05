@@ -54,9 +54,9 @@
   <string name="force_touch_add_alarm">Dodaj Alarm</string>
   <string name="force_touch_enter_stopwatch">Štoperica</string>
   <string name="force_touch_enter_timer">Kronometar</string>
-  <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="hour">1 sat</string>
-  <string name="hour_unit">Sati +</string>
+  <string name="hour_unit">h</string>
   <string name="hours">%s sati</string>
   <string name="keep_screen_on">Drži zaslon upaljenim</string>
   <string name="label">Upiši tekst</string>

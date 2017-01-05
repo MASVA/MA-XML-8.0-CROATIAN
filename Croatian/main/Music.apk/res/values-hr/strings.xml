@@ -425,7 +425,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="modify_lyric">Uredi tekst</string>
   <string name="modify_progress">Promjena brzine pomicanja teksta</string>
   <string name="modify_progress_helper">Prijeđite prstom prema gore ili dolje za podešavanje teksta</string>
-  <string name="modify_song_info">Uređivanje informacija pjesme</string>
+  <string name="modify_song_info">Uredi</string>
   <string name="monthly_price">Mi Kredita</string>
   <string name="more">Više</string>
   <string name="more_about_artist">Više o %s</string>
@@ -643,7 +643,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="service_and_settings">Usluga i postavke</string>
   <string name="service_stop">Usluga je obustavljena</string>
   <string name="set_album_successful">Albuma je spremljen</string>
-  <string name="set_as_ring">Postavi za zvuk zvona</string>
+  <string name="set_as_ring">Zvuk zvona</string>
   <string name="set_id3_failed">"Ne mogu spremiti informacije"</string>
   <string name="set_id3_not_have_read_or_write_permission">"Nemate dopuštenje za uređivanje ove datoteke"</string>
   <string name="set_id3_not_support_format">"Ne mogu urediti format ove datoteke"</string>

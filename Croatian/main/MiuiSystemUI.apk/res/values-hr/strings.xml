@@ -26,8 +26,8 @@
   <string name="accessibility_menu">"Izbornik"</string>
   <string name="accessibility_no_data">"Nema podataka."</string>
   <string name="accessibility_no_phone">Nema telefona.</string>
-  <string name="accessibility_no_wifi">Nema WLAN-a.</string>
-  <string name="accessibility_no_wimax">Nema WiMAX-a.</string>
+  <string name="accessibility_no_wifi">WLAN je isključen.</string>
+  <string name="accessibility_no_wimax">WiMAX je isključen.</string>
   <string name="accessibility_phone_four_bars">Telefon četiri stupca.</string>
   <string name="accessibility_phone_one_bar">Telefon jedan stupac.</string>
   <string name="accessibility_phone_signal_full">Telefon puni signal.</string>
@@ -45,7 +45,6 @@
   <string name="accessibility_ringer_vibrate">Vibracija.</string>
   <string name="accessibility_search_light">"Pretraži"</string>
   <string name="accessibility_tty_enabled">Teleprinter omogućen.</string>
-  <string name="accessibility_no_wifi">WLAN je isključen.</string>
   <string name="accessibility_wifi_off">WLAN je isključen.</string>
   <string name="accessibility_wifi_one_bar">WLAN signal ima jedan stupac.</string>
   <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
