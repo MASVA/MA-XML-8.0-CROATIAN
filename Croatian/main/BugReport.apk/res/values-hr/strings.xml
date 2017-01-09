@@ -224,6 +224,7 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Više</string>
   <string name="packaging_dialog_content">Izrada izvješća…</string>
+  <string name="permission_granted">odobreno %1$s dopuštenja</string>
   <string name="pic_not_exist">"Ova slika ne postoji"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
@@ -258,7 +259,9 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">Moja izvješća</string>
   <string name="tab_title_report">Pov. informacije</string>
+  <string name="time_in_justnow">Upravo sada</string>
   <string name="title_answer_feedback_main">Pronašli smo odgovore!</string>
+  <string name="title_bbs_feedback_main">Saznajte više o Mi telefonima</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes u blizini</string>
   <string name="title_nonsystem_app">Ostale aplik.</string>

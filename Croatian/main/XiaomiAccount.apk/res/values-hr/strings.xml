@@ -170,6 +170,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="my_device_title">Trenutan uređaj</string>
+  <string name="my_favorite">Moj favorit</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
   <string name="no_response_retry">Nema odgovora, pokušajte ponovo.</string>

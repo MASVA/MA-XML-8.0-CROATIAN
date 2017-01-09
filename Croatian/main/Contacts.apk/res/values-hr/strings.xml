@@ -397,6 +397,10 @@ Kartice kontakata su isključene"</string>
   <string name="dialog_voicemail_airplane_mode_message">"Da biste nazvali govornu poštu, najprije isključite Zrakoplovni način."</string>
   <string name="dialog_voicemail_not_ready_message">"Da biste postavili govornu poštu, idite na Izbornik &gt; Postavke."</string>
   <string name="directory_search_label">"Imenik"</string>
+  <string name="disclaimer_text">"Žute stranice dobivaju informacije o vašem stanju računa slanjem SMS poruke. Vaš mobilni operater može ažurirati ove informacije sa zakašnjenjem, pa vrijednosti koje dobijete možda neće biti točne. Ako uočite neku pogrešku, možete je prijaviti SMS porukom kako bismo poboljšali tu uslugu. 
+  
+  Kako bi izbjegli česte upite, podatke o stanju računa ažuriramo jednom dnevno."</string>
+  <string name="disclaimer_title">Odricanje odgovornosti</string>
   <string name="display_all_contacts">"Svi kontakti"</string>
   <string name="display_more_groups">Više grupa…</string>
   <string name="display_only_phones">Sakrij nepotpune brojeve</string>
@@ -1058,6 +1062,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="remove_duplicate">"MIUI će vam pomoći u pronalaženju i združivanju dvostrukih kontakata. 
 
  Za početak, dodirnite ikonu "Združi" na dnu zaslona."</string>
+  <string name="report_inquiry_mms">Prijavi SMS</string>
   <string name="restore_nickname">Obnovi</string>
   <string name="ret_sign">"
 "</string>

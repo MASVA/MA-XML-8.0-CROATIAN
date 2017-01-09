@@ -181,6 +181,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_unmark_privacy_notes">Uspješno otkriveno</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspješno otkriven</string>
   <string name="trash_folder_name">Smeće</string>
+  <string name="trash_folder_reminder">Bilješke koje izbrišete trajno će biti izbrisane nakon 30 dana.</string>
   <string name="undo">Poništi</string>
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
