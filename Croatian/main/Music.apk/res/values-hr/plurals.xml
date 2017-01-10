@@ -19,7 +19,7 @@
         <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Preuzeti odabrane pjesme?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">Preostalo (%d) dana</item>
+        <item quantity="other">Preostalo %d dana</item>
         <item quantity="one">Preostao %d dan</item>
     </plurals>
     <plurals name="NTrackstoDownload">
@@ -58,12 +58,16 @@
         <item quantity="other">Ukloniti %d pjesama?</item>
         <item quantity="one">Ukloniti %d pjesmu?</item>
     </plurals>
+	<plurals name="dialog_remove_from_cloud_descript">
+         <item quantity="other">Izbrisati %d pjesama iz Mi Clouda?</item>
+         <item quantity="one">Izbrisati %d pjesmu iz Mi Clouda?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">Dodano je (%d) pjesama na popis</item>
+        <item quantity="other">Dodano je %d pjesama na popis</item>
         <item quantity="one">1 pjesma dodana na popis</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">Uklonjeno je (%d) pjesama s popisa.</item>
+        <item quantity="other">Uklonjeno je %d pjesama s popisa.</item>
          <item quantity="one">1 pjesma uklonjena s popisa.</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
@@ -87,7 +91,7 @@
 	   <item quantity="one">%d pjesma dodana</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">Odabrano stavaka %d</item>
+        <item quantity="other">Odabrano %d</item>
         <item quantity="one">%d odabrana stavka</item>
     </plurals>
     <plurals name="song_already_favorite">
@@ -101,5 +105,26 @@
      <plurals name="reader_count">
          <item quantity="other">%d čitatelja</item>
          <item quantity="one">%d čitatelj</item>
+     </plurals>
+	 <plurals name="Nunbackup_audios">
+         <item quantity="other">"%1$d pjesama nije pohranjeno (%2$.1fMB)"</item>
+         <item quantity="one">"%1$d pjesma nije pohranjena (%2$.1fMB)"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+         <item quantity="other">Pohrani %1$d pjesama (%2$.1fMB)</item>
+         <item quantity="one">Pohrani %1$d pjesma (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+         <item quantity="other">Pohranjivanje, preostalo je %1$d pjesama (%2$.1fMB)</item>
+         <item quantity="one">Pohranjivanje, preostalo je %1$d pjesma (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+         <item quantity="other">"%d pjesama nije pohranjeno na Mi Cloud. Zaustaviti sada?"</item>
+         <item quantity="one">"%d pjesma nije pohranjena na Mi Cloud. Zaustaviti sada?"</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+         <item quantity="other">Izrađeno %1$s | ukupno %2$d pjesama</item>
+         <item quantity="zero">Izrađeno %1$s | ukupno %2$d pjesama</item>
+         <item quantity="one">Izrađeno %1$s | ukupno %2$d pjesma</item>
      </plurals>
 </resources> 

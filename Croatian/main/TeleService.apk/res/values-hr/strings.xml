@@ -150,6 +150,7 @@
   <string name="call_barring_outgoing">Zabrana odlaznih poziva</string>
   <string name="call_barring_sum">Postavke zabrane glasovnih poziva</string>
   <string name="call_description_recording">Snimanje…</string>
+  <string name="call_forward_option">Prosljeđivanje poziva</string>
   <string name="call_forwarding_number_hint">Prosljedi pozive na</string>
   <string name="call_forwarding_settings">Postavke preusmjeravanja poziva</string>
   <string name="call_forwarding_settings_with_label">Prosljeđivanje poziva (%s)</string>
@@ -642,6 +643,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="labelCFNRc">Kad je broj nedostupan</string>
   <string name="labelCFNRy">Kad nema odgovora</string>
   <string name="labelCFU">Uvijek preusmjeri pozive</string>
+  <string name="labelCFVideo">Video</string>
+  <string name="labelCFVoice">Glas</string>
   <string name="labelCW">Poziv na čekanju</string>
   <string name="labelCallerId">ID pozivatelja</string>
   <string name="labelCbCancelAll">Otkaži sve zabrane poziva</string>

@@ -7,5 +7,14 @@
     <plurals name="uninstall_game_count_title">
          <item quantity="other">"Nije dodano %d igara"</item>
          <item quantity="one">"Nije dodana %d igra"</item>
-    </plurals>    
+    </plurals>   
+    <plurals name="found_apps_title">
+         <item quantity="other">Pronađeno %d aplikacija</item>
+         <item quantity="zero">Pronađeno 0 aplikacija</item>
+         <item quantity="one">Pronađena %d aplikacija</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Pretraži između %d aplikacija</item>
+         <item quantity="one">Pretraži između %d aplikacija</item>
+     </plurals>	
 </resources> 

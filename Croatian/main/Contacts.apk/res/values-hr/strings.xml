@@ -388,6 +388,9 @@ Kartice kontakata su isključene"</string>
   <string name="dialer_menu_title">Opcije izbornika</string>
   <string name="dialer_returnToInCallScreen">"Natrag na poziv u tijeku"</string>
   <string name="dialer_useDtmfDialpad">"Koristi dodirnu zvučnu tipkovnicu"</string>
+  <string name="dialog_device_info_hardware_version">Hardware verzija: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI verzija: %s</string>
+  <string name="dialog_device_info_title">Informacija o verziji</string>
   <string name="dialog_import">"Uvoz kontakata"</string>
   <string name="dialog_import_export">"Uvoz/izvoz kontakata"</string>
   <string name="dialog_new_contact_account">"Izrada kontakta pod računom"</string>
