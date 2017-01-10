@@ -446,9 +446,6 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="metered_serious_alert_msg_with_beyond_data">"Već ste premašili ograničenje mobilnih podataka za %s. Koristiti mobilne podatke za reprodukciju pjesama?"</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podataka. Koristiti mobilne podatke za reprodukciju pjesama?</string>
   <string name="metered_serious_allow">Reproduciraj svejedno</string>
-  <string name="metered_allow">Stream</string>
-  <string name="metered_disallow">Odustani</string>
-  <string name="metered_play_toast">Korištenje mobilne podatkovne veze za streaming</string>
   <string name="milink_unavaliable_please_update">"Mi Link nije dostupan. Ažurirajte MIUI."</string>
   <string name="min_sleep_time">1</string>
   <string name="missing_title">&lt;Nepoznato&gt;</string>
