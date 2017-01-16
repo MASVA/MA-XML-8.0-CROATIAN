@@ -84,6 +84,7 @@
   <string name="recognition_error_internal">Interna pogreška</string>
   <string name="recognition_status_downloading">Preuzimanje…</string>
   <string name="recognition_error_stopped">Prepoznavanje zaustavljeno</string>
+  <string name="record">Snimi</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snimanja, dodirnite Natrag ponovno</string>
   <string name="record_download">Preuzmite sa Mi Clouda</string>
   <string name="record_download_complete">Preuzeto</string>

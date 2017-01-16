@@ -20,6 +20,8 @@
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite tipkovnicu</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="language_picker_other_languages_title">Ostali jezici</string>
+  <string name="language_picker_popular_languages_title">Popularni jezici</string>
   <string name="locale_picker_title">Odaberite vašu regiju</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>

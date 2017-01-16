@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Postavke</string>
+  <string name="action_title_optimize">Optimiziraj sada</string>
   <string name="activity_title_poweranalyze">Test baterije</string>
   <string name="activity_title_powerconfigure">Postavke baterije</string>
   <string name="activity_title_poweroptimize">Štednja baterije</string>
@@ -67,6 +68,7 @@
   <string name="no_applications">Prazno</string>
   <string name="none">Nema procesa</string>
   <string name="normal">Zadani način</string>
+  <string name="notify_app_consume_abnormal_title">troši jako bateriju</string>
   <string name="notify_abnormal">Napomena abnormalne energije</string>
   <string name="notify_abnormal_title">Obavijest</string>
   <string name="operation_create_group">Naziv</string>

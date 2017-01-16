@@ -82,12 +82,14 @@
   <string name="feedback_status_commit_failed_title">"Ne mogu poslati izvješće"</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Šaljem…</string>
+  <string name="feedback_status_forum_reply">Odgovori</string>
   <string name="feedback_status_more">Pojedinosti</string>
   <string name="feedback_status_processing">Obrada…</string>
   <string name="feedback_status_recorded">Pov. informacija primljena</string>
   <string name="feedback_status_replyed">Odgovoreno</string>
   <string name="feedback_status_reresolved">Riješeno</string>
   <string name="feedback_status_supplement">"Opišite pojedinosti svog problema"</string>
+  <string name="feedback_status_supplement_more">Dodaj komentar</string>
   <string name="feedback_submit_failed_notification_desc">Prikaži detalje</string>
   <string name="feedback_submit_failed_notification_retry">Pošalji ponovno</string>
   <string name="feedback_submit_failed_notification_title">"Ne mogu poslati izvješće"</string>
