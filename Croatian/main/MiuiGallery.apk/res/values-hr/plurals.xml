@@ -172,4 +172,36 @@
         <item quantity="other">"Preskočeno %1$d fotografija koje nisu mogle biti podijeljene."</item>
         <item quantity="one">"Preskočena fotografija koja nije mogla biti podijeljena."</item>
      </plurals>
+	 <plurals name="file_count_format">
+         <item quantity="other">Ukupno: %1$d</item>
+         <item quantity="one">Ukupno: %1$d</item>
+     </plurals>
+     <plurals name="quickly_discovery_message_format">
+         <item quantity="other">Pronađeno fotografija: %1$d</item>
+         <item quantity="one">Pronađena nova fotografija</item>
+     </plurals>
+     <plurals name="backuping_desc_normal">
+         <item quantity="other">Fotografija ili videozapisa: %1$d</item>
+         <item quantity="one">Fotografija ili videozapis: %1$d</item>
+     </plurals>
+     <plurals name="backuping_desc_gprs">
+         <item quantity="other">%1$d fotografija ili videozapisa | %2$s</item>
+         <item quantity="one">%1$d fotografija ili videozapis | %2$s</item>
+     </plurals>
+     <plurals name="sync_error_title">
+         <item quantity="other">Nije pohranjeno %d fotografija ili videozapisa</item>
+         <item quantity="one">Nije pohranjeno %d fotografija ili videozapis</item>
+     </plurals>
+     <plurals name="sync_total_count">
+         <item quantity="other">Stavki: %d</item>
+         <item quantity="one">Stavki: %d</item>
+     </plurals>
+     <plurals name="cloud_storage_photo_num">
+         <item quantity="other">Fotografija:%d</item>
+         <item quantity="one">Fotografija:%d</item>
+     </plurals>
+     <plurals name="cloud_storage_video_num">
+         <item quantity="other">Videozapisa: %d</item>
+         <item quantity="one">Videozapis: %d</item>
+     </plurals> 
 </resources>

@@ -50,15 +50,15 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_find_device_postfix">SMS aktivacije će biti poslan nakon što promjenite SIM kartice.</string>
   <string name="activate_popup_desc_intl_sim_card">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za aktiviranje %s.</string>
   <string name="activate_popup_desc_mixed_sim_cards">Vaš operater može vam naplatiti 1 domaću i 1 međunarodnu SMS poruku korištenu za aktiviranje %s.</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Moguće dodatne naknade od strane vašeg davatelja usluga."</string>
-  <string name="activate_popup_desc_new_2_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Moguće redovne naknade od strane vašeg davatelja usluga."</string>
-  <string name="activate_popup_desc_new_intl_sim_card">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Moguće dodatne naknade od strane vašeg davatelja usluga."</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Moguće dodatne naknade od strane vašeg davatelja usluga."</string>
-  <string name="activate_popup_desc_new_sim_card">"Izgleda da ste se promijenili SIM kartice. SMS aktivacije će biti poslan za aktiviranje %s. Moguće redovne naknade od strane vašeg davatelja usluga."</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
+  <string name="activate_popup_desc_new_2_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
+  <string name="activate_popup_desc_new_intl_sim_card">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktiviranje %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
+  <string name="activate_popup_desc_new_sim_card">"Izgleda da ste se promijenili SIM kartice. SMS aktivacije će biti poslan za aktiviranje %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
   <string name="activate_popup_desc_new_sim_card_downlink">"Izgleda da ste se promijenili SIM kartice. Unesite broj telefona za aktiviranje %s"</string>
-  <string name="activate_popup_desc_register_account">Vaš operater može vam naplatiti SMS poruku korištenu za izradu Mi Računa.</string>
+  <string name="activate_popup_desc_register_account">Odlazna SMS poruka može biti potrebna za izradu Mi Računa. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="activate_popup_desc_register_account_downlink">Unesite vaš broj telefona</string>
-  <string name="activate_popup_desc_register_account_intl">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za izradu Mi Računa.</string>
+  <string name="activate_popup_desc_register_account_intl">Međunarodna odlazna SMS poruka može biti potrebna za izradu Mi Računa. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="activate_popup_desc_sim_card">Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Unesite broj telefona za aktiviranje %s</string>
   <string name="activate_popup_desc_voip_privacy">Pravila o Privatnosti</string>
@@ -104,7 +104,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
   <string name="app_name">Aktivacija SIM kartice</string>
   <string name="explain_send_sms_permission_button">Provjeri</string>
-  <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Moguće redovne naknade od strane vašeg davatelja usluga.</string>
+  <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="explain_send_sms_permission_title">Potvrdite vaš broj telefona</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica nije aktivirana"</string>
 </resources>

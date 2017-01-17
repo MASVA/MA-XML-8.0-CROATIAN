@@ -35,6 +35,7 @@
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
   <string name="common_loading_text">Samo trenutak…</string>
+  <string name="connect_fail">Postoje problemi sa vašom mrežom. Molimo pokušajte ponovno kasnije.</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Povjetarac</string>
@@ -44,6 +45,8 @@
   <string name="daily_forecast_detail">Pojedinosti prognoze</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
+  <string name="daily_forecast_no_data">"Ne mogu dobiti podatke
+Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Ova aplikacija treba povezivanje s internetom i pristup lokaciji za normalan rad.</string>
@@ -94,7 +97,9 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="open_browser">Otvori u Pregledniku</string>
   <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
+  <string name="realtime_cityname_default">Vaš grad</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
+  <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vjetar</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="retry">Pokušaj ponovno</string>
@@ -145,4 +150,5 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
   <string name="weather_alert">Upozorenja vremena</string>
+  <string name="wind_direction_no_data">Vjetar</string>
 </resources>

@@ -384,15 +384,15 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   
   
 Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove značajke.
+  <string name="mx_dspt_provision_privacy">"Ova značajka može zatražiti vaš broj telefona. Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.
   
   
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater može vam naplatiti 2 SMS poruke korištene za aktiviranje ove značajke.
+  <string name="mx_dspt_provision_privacy_2_sim">"Ova značajka može zatražiti vaš broj telefona. 2 odlazne SMS poruke mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.
  
  
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Ova značajka može zatražiti vaš broj telefona. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove značajke kada je otkrivena SIM kartica.
+  <string name="mx_dspt_provision_privacy_no_sim">"Ova značajka može zatražiti vaš broj telefona. Kada je otkrivena SIM kartica, odlazna bi SMS poruka mogla biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.
 
 Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string>
   <string name="mx_dspt_provision_with_voip">"Nazovite druge MIUI uređaje besplatno koristeći vašu internetsku vezu. Možete uključiti/isključiti ovu značajku u bilo kojem trenutku u postavkama. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
@@ -464,7 +464,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_dspt_entrance_provision">"Sinkronizirajte vaše fotografije, kontakte, povijest poziva i poruke između svih vaših uređaja. Pristupite stavkama sinkronizacije s bilo kojeg preglednika na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ovaj korak</string>
@@ -484,15 +484,15 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_item_title">Sinkr. stavke</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
-  <string name="sync_resend_sms_dspt_provision">  "Ako promijenite SIM kartice, vaš operater može vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
-  <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_1_sms">SMS će biti poslan za povezivanje vaše SIM kartice s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_2_intl_sms">Međunarodni SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete naknade međunarodnog prometa vašeg mobilnog operatera.</string>
-  <string name="sync_sub_2_sms">SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Snositi ćete redovne naknade vašeg mobilnog operatera.</string>
-  <string name="sync_sub_dspt">Aktivacijski SMS podliježe redovnim naknadama uporabe podataka.</string>
+  <string name="sync_resend_sms_dspt_provision">" Ako promijenite SIM kartice, vaš mobilni operater će vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
+  <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Vaš mobilni operater će vam naplatiti te poruke.</string>
+  <string name="sync_sub_1_sms">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">1 međunarodna i 1 domaća SMS poruka mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
+  <string name="sync_sub_2_intl_sms">2 međunarodne odlazne SMS poruke mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
+  <string name="sync_sub_2_sms">2 odlazne SMS poruke mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
+  <string name="sync_sub_dspt">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="sync_sub_dspt_provision">Sinkronizacija fotografija, kontakata, glazbe, aplikacija, i više toga između vaših uređaja</string>
-  <string name="sync_sub_int_dspt">Aktivacijski SMS poruka podliježe naknadama međunarodnog prometa uporabe podataka.</string>
+  <string name="sync_sub_int_dspt">Međunarodna odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="title_reg">Izradite Mi Račun</string>
   <string name="total_space_upgraded_to">Ukupan prostor: %s</string>
   <string name="trying_to_connect_to_network">Povezivanje na mrežu…</string>

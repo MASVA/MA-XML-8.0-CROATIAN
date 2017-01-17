@@ -305,7 +305,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_reg_using_other_phone">&lt;u&gt;Koristi alternativan broj telefona&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Izradite novi račun koristeći "</string>
   <string name="passport_reg_using_phone_number_prompt">Izradite račun koristeći broj telefona</string>
-  <string name="passport_reg_via_sms_alert">Vaš operater može vam naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
+  <string name="passport_reg_via_sms_alert">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="passport_reging">Izrada računa…</string>
   <string name="passport_register">Izradi Mi Račun</string>
   <string name="passport_register_account_goto_email">Idi u dolaznu poštu</string>

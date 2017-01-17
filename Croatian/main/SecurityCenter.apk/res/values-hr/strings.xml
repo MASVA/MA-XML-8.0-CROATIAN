@@ -617,7 +617,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
   <string name="info_and_call">Pozivi i poruke</string>
-  <string name="information_setting">Postavke Novosti</string>
+  <string name="information_setting">Preporučeno</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
@@ -666,7 +666,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="legal_workday_message">(Preskoči praznike)</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
-  <string name="load_only_under_wlan">Učitaj vijesti kada je povezan na WLAN</string>
+  <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
   <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Iskorišteno %s kod zaklj. zaslona</string>
@@ -1302,7 +1302,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="recently_reject_message">Odbijeno (%1$s) instalacija i drugih aplikacija (%2$d)</string>
   <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>
   <string name="recommend_app">Preporučene aplikacije</string>
-  <string name="recommend_news">Preporučeni izvori</string>
+  <string name="recommend_news">Primaj preporuke</string>
   <string name="recommended">Istaknuto</string>
   <string name="reject_all">Ograniči svima</string>
   <string name="reject_countdown">Odbij (%d)</string>
