@@ -48,7 +48,7 @@
   <string name="album_detail_clear_local_page_empty">Nema pohranjenih fotografija ili videozapisa za brisanje</string>
   <string name="album_detail_page_empty">Nema stavki</string>
   <string name="album_faces_name">Osobe</string>
-  <string name="album_from_format">Šalje %s</string>
+  <string name="album_from_format">%s</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
   <string name="album_name_recent_discovery">Nedavno</string>
