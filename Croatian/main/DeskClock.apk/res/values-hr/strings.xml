@@ -20,6 +20,7 @@
   <string name="alarm_volume_summary">Podesi glasnoću alarma</string>
   <string name="alarm_volume_title">Glasnoća alarma</string>
   <string name="alarmclock_empty_text">Nema postavljenih alarma</string>
+  <string name="alarmclock_silent_hint">Alarm je utišan</string>
   <string name="alert">Zvuk alarma</string>
   <string name="analog_gadget">Analogni sat</string>
   <string name="app_label">Sat</string>

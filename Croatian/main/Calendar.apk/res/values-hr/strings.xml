@@ -177,6 +177,8 @@
   <string name="edit_event_birthday_name_empty_hint">Unesite ime</string>
   <string name="edit_event_birthday_name_hint">Name</string>
   <string name="edit_event_birthday_reminder_3_days_before">I podsjeti 3 dana ranije</string>
+  <string name="edit_event_birthday_reminder_summary">Taj dan %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Tri dana prije, taj dan %1$s</string>
   <string name="edit_event_birthday_reminder_time">Vrijeme podsjetnika</string>
   <string name="edit_event_birthday_the_day">dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
@@ -185,6 +187,8 @@
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Unesi godinu</string>
   <string name="edit_event_label">"Pojedinosti"</string>
+  <string name="edit_event_reminder_text">%1$s taj dan %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s taj dan %3$s</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_tab_anniversary">godišnjica</string>
   <string name="edit_event_tab_birthday">rođendan</string>

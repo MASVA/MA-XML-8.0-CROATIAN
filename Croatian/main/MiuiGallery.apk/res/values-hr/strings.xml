@@ -309,6 +309,7 @@
   <string name="doodle_mosaic">Mozaik</string>
   <string name="doodle_small_size">Malo</string>
   <string name="doodle_super_big_size">Ogromno</string>
+  <string name="double_tap_to_higher_definition">Dvaput dodirnite opet za HD pregled</string>
   <string name="doodle_tooltip">Dodirni za crtariju</string>
   <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download">Preuzimanje</string>
@@ -473,6 +474,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="invite_tip">"Podijelite fotografije vašeg djeteta"</string>
   <string name="invited_tip">Pozvan</string>
   <string name="is">Da</string>
+  <string name="is_higher_definition">HD pregled</string>
   <string name="kick_owner_user_positive_button_text">Ukloni</string>
   <string name="kick_owner_user_title">Ukloniti ovu osobu?</string>
   <string name="kick_sharer">Ukloni zajedničkog gledatelja</string>
