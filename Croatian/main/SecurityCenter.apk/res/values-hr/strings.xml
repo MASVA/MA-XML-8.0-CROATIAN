@@ -171,6 +171,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_notify_task_cancel_count_down">Autom. radnja će biti otkazana za 5 sekundi</string>
   <string name="auto_task_notify_task_cancel_do">Otkaži radnju</string>
   <string name="auto_task_notify_task_canceled_summary">Možete upućivati i primati pozive</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Izgleda da sada igrate neku igru."</string>
   <string name="auto_task_notify_task_canceled_title">Radnja je otkazana</string>
   <string name="auto_task_notify_task_continue_do">Pokreni radnju</string>
   <string name="auto_task_notify_task_count_down">Autom. radnja će započeti za 5 sekundi</string>
@@ -1428,6 +1429,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="showpattern">Postavke Dopuštenja</string>
   <string name="shutdown_cancel_reminder">"Uređaj se nije isključio"</string>
   <string name="shutdown_cancel_reminder_detail">"Uređaj se nije isključio, jer ste imali razgovor u tijeku"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Izgleda da sada igrate neku igru. Planirano isključivanje je otkazano."</string>
   <string name="shutdown_time">Isključivanje: %1$s</string>
   <string name="shutdown_time_day">Isključivanje: %2$s %1$dd</string>
   <string name="shutdown_time_day_tomorrow">Isključivanje: %1$s</string>

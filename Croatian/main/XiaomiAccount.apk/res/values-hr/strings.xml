@@ -362,6 +362,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
+  <string name="push_notification_content">Kliknite i dobit ćete kod za provjeru</string>
+  <string name="push_notification_title">Prijavili ste se na svoj Mi Račun na nepoznatog uređaja</string>
+   <string name="push_notify_dialog_message">Novi uređaj se pokušava prijaviti na vaš račun. Unesite kôd na novom uređaju za dovršetak provjere sigurnosti.</string>
+  <string name="push_notify_dialog_title">Sigurnosna provjera prijave</string>  
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
   <string name="remove_device_success_notice">Ako uklonite ovaj uređaj iz vaših pouzdanih uređaja, možda ćete morati ponovno ići na postupak provjere kada se prijavite.​</string>

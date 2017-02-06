@@ -65,6 +65,16 @@ Pokušajte ponovo za %d sek."</string>
   <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
   <string name="open_wifi_settings">Otvorite mrežnu vezu</string>
+  <string name="phone_locked_foget_password">Zaboravljena zaporka?</string>
+  <string name="phone_locked_foget_password_content">"Možete se prijaviti na i.mi.com pomoću Mi Računa koji je povezan s ovim uređajem i izbrisati sve podatke.
+To će izbrisati sve osobne podatke pohranjene na ovom uređaju. Nakon toga, možete ponovno pokrenuti uređaj i vratiti kontakte, poruke, fotografije i druge stavke iz Mi Clouda.
+
+Nećete biti u mogućnosti to učiniti osim ako ste prijavljeni na svoj Mi Račun na ovom uređaju. u protivnom, morati ćete ponovno flashati uređaj."</string>
+  <string name="phone_locked_foget_password_footer">"Koraci:
+  
+Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i pritisnite "Izbriši uređaj"."</string>
+  <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
+  <string name="phone_locked_foget_password_ok">Shvaćam</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
   <string name="phone_locked_timeout_minutes_string">Pokušajte ponovo za %s min.</string>
   <string name="phone_locked_timeout_seconds_string">Pokušajte ponovo za %s sek.</string>

@@ -22,6 +22,7 @@
   <string name="attachment_gallery">Odaberi iz Galerije</string>
   <string name="button_new_note">"Novo"</string>
   <string name="call_folder_name">Bilješke poziva</string>
+  <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
@@ -108,6 +109,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
+  <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Mi Cloudu</string>
   <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
   <string name="pref_title_font_size">Veličina fonta</string>

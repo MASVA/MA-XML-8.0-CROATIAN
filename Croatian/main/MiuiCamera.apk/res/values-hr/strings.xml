@@ -77,6 +77,8 @@ Objekat ne bi trebao biti dalje od 2 metra."</string>
   <string name="face_beauty_intelligent_level_2">+2</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_smart">Smart</string>
+  <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
+izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="find_other_qrcode">Pronađite QR kod</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Dugi pritisak na tipku za glasnoću sada aktivira NFC. Zamijeniti ovu značajku?</string>

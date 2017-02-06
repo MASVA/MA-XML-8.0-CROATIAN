@@ -20,8 +20,11 @@
   <string name="game_more_improve">Ograničite pozadinske aktivnosti i brzinu preuzimanja da uštedite bateriju i propusnost za igranje</string>
   <string name="game_setting">Postavke igre</string>
   <string name="gs_app_back_self_start">Ušteda baterije</string>
+  <string name="gs_auto_clean_memory">Očisti predmemoriju</string>
+  <string name="gs_auto_clean_memory_detail">Očisti predmemoriju automatski radi optimiziranja igara</string>
   <string name="gs_dialog_confirm_close_msg">Prečac će biti uklonjen s Početnog zaslona. Idite u Sigurnost &gt; Postavke da ga obnovite.</string>
   <string name="gs_dialog_confirm_close_title">Isključi</string>
+  <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Vrijeme</string>
   <string name="gs_game_net_priority">Prioritet veze</string>
   <string name="gs_game_net_priority_detail">Ograničite brzinu preuzimanja da imate dovoljno propusnosti za igranje</string>

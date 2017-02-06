@@ -31,7 +31,7 @@
         <item quantity="one">1 grupa</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">Broj ljudi: %1$d iz grupe %2$s</item>
+        <item quantity="other">Broj osoba: %1$d iz grupe %2$s</item>
         <item quantity="one">%1$d osoba iz grupe %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
@@ -39,7 +39,7 @@
         <item quantity="one">Broj osoba (%1$d)</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">Ukupno (%1$d) brojeva</item>
+        <item quantity="other">Ukupno brojeva (%1$d)</item>
         <item quantity="one">%1$d broj</item>
     </plurals>
     <plurals name="notification_voicemail_title">
@@ -47,8 +47,8 @@
         <item quantity="one">"Govorna pošta"</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kartica može pohraniti (%d) kontakata.</item>
-        <item quantity="one">SIM kartica može pohraniti(%d) kontakt.</item>
+        <item quantity="other">SIM kartica može pohraniti kontakata (%d).</item>
+        <item quantity="one">SIM kartica može pohraniti %d kontakt.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Izbrisati kontakte (%d) sa SIM kartice?</item>
@@ -71,7 +71,7 @@
         <item quantity="one">%1$d nedavni kontakt</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">Kontakata (%1$d)</item>
+        <item quantity="other">Kontakti (%1$d)</item>
         <item quantity="one">%1$d kontakt</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
@@ -79,8 +79,8 @@
         <item quantity="one">%1$d broj</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d E-pošta</item>
-        <item quantity="one">%1$d E-pošta</item>
+        <item quantity="other">E-pošta %1$d</item>
+        <item quantity="one">E-pošta %1$d</item>
     </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">Pronađeno %1$d</item>
@@ -95,11 +95,11 @@
         <item quantity="one">1 nedavni kontakt</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Dodano (%1$d) kontakata</item>
+        <item quantity="other">Dodano kontakata (%1$d)</item>
         <item quantity="one">%1$d kontakt dodan</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Izbrisati (%d) kontakte</item>
+        <item quantity="other">Izbriši kontakte (%d)</item>
         <item quantity="one">Izbriši %d kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
@@ -107,11 +107,11 @@
         <item quantity="one">%d osoba</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">Uvezeno (%1$d) kontakata</item>
+        <item quantity="other">Uvezeno kontakata (%1$d)</item>
         <item quantity="one">%1$d kontak uvezen</item>
     </plurals>
 	<plurals name="batch_delete_msg">
-        <item quantity="other">Izbrisati (%d) kontakata?</item>
+        <item quantity="other">Izbrisati kontakte (%d) ?</item>
         <item quantity="one">Izbrisati %d kontakt?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
@@ -120,11 +120,11 @@
         <item quantity="one">%1$d odabran</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokirati ove (%1$d) brojeve telefona?</item>
-        <item quantity="one">Blokirati (%1$d) broj telefona?</item>
+        <item quantity="other">Blokirati ovih (%1$d) brojeva telefona ?</item>
+        <item quantity="one">Blokirati %1$d broj telefona ?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Odblokirati ove (%1$d) brojeve telefona?</item>
+        <item quantity="other">Odblokirati ovih (%1$d) brojeva telefona ?</item>
         <item quantity="one">Odblokirati (%1$d) broj telefona?</item>
     </plurals>
     <plurals name="voip_contacts_count">
@@ -136,7 +136,7 @@
         <item quantity="one">Zvoni (%d) puta</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d kontakata</item>
+        <item quantity="other">Kontakti %1$d</item>
         <item quantity="one">%1$d kontakt</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
