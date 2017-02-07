@@ -282,7 +282,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="download_wait_connect">Čeka se povezivanje</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi oznaku</string>
-  <string name="edit_quicklink">uredi</string>
+  <string name="edit_quicklink">Uredi</string>
+  <string name="empty_app_name">Ostale aplikacije</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
@@ -482,6 +483,7 @@ Napustiti ovu stranicu?"</string>
   <string name="notif_install_successful">Preuzimanje završeno</string>
   <string name="ok">U redu</string>
   <string name="older">Starije</string>
+  <string name="open_app_confirm_message">Dopustiti ovoj stranici da otvori %s?</string>
   <string name="open_file_explorer_failed">"Ne mogu otvoriti aplik. Datoteke"</string>
   <string name="opening_file_error">Otvaranje datoteke nije uspjelo</string>
   <string name="page_info">Informacije o stranici</string>

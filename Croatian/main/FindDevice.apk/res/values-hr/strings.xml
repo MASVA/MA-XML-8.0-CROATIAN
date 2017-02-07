@@ -44,6 +44,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="passport_verify">Provjeri</string>
   <string name="password">Zaporka</string>
   <string name="phone_locked">Ovaj je uređaj možda povezan s postojećim Mi Računom (%s). Prijavite se da aktivirate ovaj uređaj.</string>
+  <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
+  <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne može biti prazno"</string>
   <string name="stop_on_empty_password">"Polje zaporke ne može biti prazno"</string>
   <string name="time_correction_failure">"Ne mogu ispraviti vrijeme. %s"</string>
