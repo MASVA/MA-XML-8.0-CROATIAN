@@ -68,22 +68,4 @@
         <item>"Odbaci"</item>
         <item>"Odgodi alarm"</item>
     </string-array>
-	<string-array name="aqi_value">
-         <item>Dobar</item>
-         <item>Zadovoljavajući</item>
-         <item>Umjereno zagađen</item>
-         <item>Loš</item>
-         <item>Jako loš</item>
-         <item>Težak</item>
-     </string-array>
-     <string-array name="weather_tips_value">
-         <item>Smanjite aktivnosti na otvorenom</item>
-         <item>Obratite pozornost na klizanje</item>
-         <item>Olujno nevrijeme, neka vam je sa srećom</item>
-         <item>Magla i sumaglica, nosite masku</item>
-         <item>Uzmite kišobran kad idete van</item>
-         <item>Obratite pozornost na cesti</item>
-         <item>Pješčana oluja, nosite masku</item>
-         <item>MIUI Adria vam želi prekrasan dan</item>
-     </string-array>
 </resources>
