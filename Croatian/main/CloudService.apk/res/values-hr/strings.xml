@@ -364,7 +364,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_user_space_usage">Prostor za pohranu</string>
   <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s MiCloudom."</string>
   <string name="micloud_warn_full_title">Prostor za pohranu je pun!</string>
-  <string name="micloud_warn_low_sum">"Vaš Mi Cloud iskorišten 90%."</string>
+  <string name="micloud_warn_low_sum">"Vaš je Mi Cloud iskorišten 90%."</string>
   <string name="micloud_warn_low_title">Još ima malo prostora</string>
   <string name="micloud_web_discription">Posjetite i.mi.com</string>
   <string name="micloud_web_discription_01">Prijavite se na i.mi.com</string>
@@ -374,7 +374,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_wipe_data_confirm_label">Ukloni podatke iz Mi Clouda</string>
   <string name="micloud_wipe_data_confirm_title">Ukloniti sinkronizirane stavke iz Mi Clouda i iz telefona nakon što se odjavite?</string>
   <string name="micloud_wipe_data_remove">Ukloni</string>
-  <string name="micloud_wipe_data_retain">Ostavi</string>
+  <string name="micloud_wipe_data_retain">Zadrži</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
