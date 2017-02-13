@@ -1314,6 +1314,9 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="resource_antispam">Lista blokiranih</string>
   <string name="resource_antivirus">Skeniranje virusa</string>
+  <string name="resource_app_permissions">Dopuštenja aplikacije</string>
+  <string name="resource_auto_restart">Upravljaj autom. pokretanjem</string>
+  <string name="resource_usb_install">Instaliraj putem USB-a</string>
   <string name="resource_applicationlock">Zaklj. aplikacija</string>
   <string name="resource_cleanmaster">Čistač</string>
   <string name="resource_monthreport">Izvješće sigurnosti</string>
