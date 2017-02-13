@@ -231,9 +231,9 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="install_confirm_question">Instalirati ovu aplikaciju?</string>
   <string name="install_confirm_question_no_perms">Želite li instalirati ovu aplikaciju? Aplikacija ne zahtijeva nikakav poseban pristup.</string>
   <string name="install_confirm_question_update">Želite li instalirati ažuriranje postojeće aplikacije? Vaši postojeći podaci neće biti izgubljeni. Ažurirana aplikacija dobit će pristup sljedećem:</string>
-  <string name="install_confirm_question_update_no_perms">Želite li instalirati ažuriranje postojeće aplikacije? Vaši postojeći podaci neće se izgubiti. Nije potreban nikakav poseban pristup.</string>
+  <string name="install_confirm_question_update_no_perms">Želite li instalirati ažuriranje postojeće aplikacije? Vaši postojeći podaci neće biti izgubljeni. Nije potreban nikakav poseban pristup.</string>
   <string name="install_confirm_question_update_system">Želite li instalirati ažuriranje za ovu ugrađenu aplikaciju? Vaši postojeći podaci neće biti izgubljeni. Ažurirana aplikacija dobit će pristup sljedećem:</string>
-  <string name="install_confirm_question_update_system_no_perms">Želite li instalirati ažuriranje te ugrađene aplikacije? Vaši postojeći podaci neće se izgubiti. Nije potreban nikakav poseban pristup.</string>
+  <string name="install_confirm_question_update_system_no_perms">Želite li instalirati ažuriranje te ugrađene aplikacije? Vaši postojeći podaci neće biti izgubljeni. Nije potreban nikakav poseban pristup.</string>
   <string name="install_done">Aplikacija je instalirana.</string>
   <string name="install_failed">Aplikacija nije instalirana</string>
   <string name="install_failed_blocked">Paket je blokiran od toga da bude instaliran.</string>

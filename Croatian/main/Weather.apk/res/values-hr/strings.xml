@@ -23,6 +23,9 @@
   <string name="add_city">Dodaj</string>
   <string name="alert_warning">Upozorenja vremena</string>
   <string name="app_name">Vrijeme</string>
+  <string name="aqi_data_source">Powered by Colorful Clouds</string>
+  <string name="aqi_detail_24_hours">%1$s-satna prognoza</string>
+  <string name="aqi_detail_5_days">5-dnevna prognoza</string>
   <string name="aqi_detail_unit">Jedinica: µg/m³ (CO: mg/m³)</string>
   <string name="button_abandon">Odbaci promjene</string>
   <string name="button_add_city">Dodaj grad</string>
@@ -37,7 +40,7 @@
   <string name="common_loading_text">Samo trenutak…</string>
   <string name="connect_fail">Postoje problemi sa vašom mrežom. Molimo pokušajte ponovno kasnije.</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
-  <string name="daily_forcast_drawer_on_top">%1$s Dnevna prognoza</string>
+  <string name="daily_forcast_drawer_on_top">%1$s dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Povjetarac</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije</string>
@@ -45,7 +48,7 @@
   <string name="daily_forecast_detail">Pojedinosti prognoze</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
-  <string name="daily_forecast_no_data">"Ne mogu dobiti podatke
+  <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
 Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="edit_city">Uredi grad</string>
   <string name="empty">" "</string>

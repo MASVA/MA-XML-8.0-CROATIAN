@@ -35,4 +35,8 @@
         <item quantity="other">Poruka: %1$s</item>
         <item quantity="one">%1$s poruka</item>
     </plurals>
+	 <plurals name="custom_select_title_items_selected">
+         <item quantity="other">Odabrano %d</item>
+         <item quantity="zero">Odaberi stavke</item>
+     </plurals>
 </resources>

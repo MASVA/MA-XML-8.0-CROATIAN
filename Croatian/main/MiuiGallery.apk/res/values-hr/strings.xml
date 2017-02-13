@@ -803,6 +803,13 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="system_album">Album sustava</string>
   <string name="temperature">Nijansa</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_append">Tekst</string>
+  <string name="text_append_color">Boja</string>
+  <string name="text_append_font">Font</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Unesi tekst</string>
+  <string name="text_append_style">Mjehurić</string>
+  <string name="text_append_transparent">Neprozirnost</string>
   <string name="tint">Boja</string>
   <string name="tip_capture_location">Lokacija: </string>
   <string name="tip_capture_params">EXIF podaci: </string>

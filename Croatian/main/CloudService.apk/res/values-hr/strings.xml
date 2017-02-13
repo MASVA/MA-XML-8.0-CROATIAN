@@ -176,6 +176,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_confusion_toast_confirm">Uređaj potvrđen</string>
   <string name="micloud_confusion_toast_deny">Prijavite se u vaš Mi Račun</string>
   <string name="micloud_confusion_yes">Da</string>
+  <string name="micloud_detail_battery_low">Slaba baterija</string>
   <string name="micloud_detail_battery_low_message">Baterija je slaba. Napunite je i sinkronizirajte.</string>
   <string name="micloud_detail_battery_low_title">Baterija je slaba</string>
   <string name="micloud_detail_depend_wifi_message">Povežite se na WLAN ili provjerite postavke sinkronizacije.</string>
@@ -186,9 +187,11 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
+  <string name="micloud_detail_need_charge">Potrebno je napuniti bateriju za sinkronizaciju</string>
   <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_not_synced">Nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>
+  <string name="micloud_detail_pause">Sinkr. pauzirana</string>
   <string name="micloud_detail_pending">Na čekanju</string>
   <string name="micloud_detail_preference_sync_items">Stavke</string>
   <string name="micloud_detail_query_error">"Ne mogu dobiti informacije o tijeku sinkronizacije"</string>
@@ -199,6 +202,10 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_syncing">Sinkroniziram</string>
   <string name="micloud_detail_upload_syncing">Učitavanje %s</string>
   <string name="micloud_detail_wlan">Stavki čeka na sinkr.: %d</string>
+  <string name="micloud_dialog_sync_now_message">Predlažemo vam da koristite WLAN</string>
+  <string name="micloud_dialog_sync_now_negative">Ne sada</string>
+  <string name="micloud_dialog_sync_now_positive">Korištenje prijenosa podataka</string>
+  <string name="micloud_dialog_sync_now_title">Sinkr. sada podatke koristeći prijenos podataka</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_find_device_finish">Gotovo</string>
@@ -243,6 +250,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.mi.com</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
   <string name="micloud_main_battery_message">"Priključite svoj uređaj na punjenje za sinkronizaciju"</string>
+  <string name="micloud_main_cancel_sync">Otkaži sinkr.</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_last_sync_time">Zadnja sinkr. %s</string>
@@ -268,6 +276,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_suggest_sync">"Ne mogu sve sinkronizirati"</string>
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
+  <string name="micloud_main_sync_need_charge">Čeka se punjenje</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>
