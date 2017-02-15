@@ -176,8 +176,6 @@
   <string name="decrypt_error">"Ne mogu dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Dešifriranje…</string>
-  <string name="default_prize_text">Ovo ide u moju riznicu!</string>
-  <string name="default_user_desc">"Ova osoba nije još dodala opis"</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovno"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -443,10 +441,8 @@
   <string name="move_icon_to_desktop_success">Prečac dodan na Poč. zaslon</string>
   <string name="move_to">Premjesti u…</string>
   <string name="msg_notify_setting">Postavke obavijesti</string>
-  <string name="msg_page_video_default_title">I uploaded a video, take a look!</string>
   <string name="msg_set_password">Postavite prvo zaporku</string>
   <string name="my_follows">Moj feed</string>
-  <string name="name_empty">Morate unijeti naziv.</string>
   <string name="need_login">Prijavite se prvo</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
@@ -980,7 +976,6 @@ oslobodili prostor.</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_cancel">Otkazano</string>
   <string name="user_center_title">Početna</string>
-  <string name="user_desc_default_tip">Prijavite se da skupljate bodove i osvojite vrijedne nagrade.</string>
   <string name="user_center_setting">Postavke</string>
   <string name="user_follow_me_title">Moji obožavatelji</string>
   <string name="user_follow_title">Osobe koje pratim</string>
