@@ -57,7 +57,7 @@
   <string name="app_label">Kalendar</string>
   <string name="attendees_label">Gosti</string>
   <string name="birthday_calendar_display_name">Podsjetnik rođendana</string>
-  <string name="birthday_card_title">"Današnji rođendan"</string>
+  <string name="birthday_card_title">"Današnji rođendani"</string>
   <string name="birthday_event_description_a_week_ago">Prije tjedan dana</string>
   <string name="birthday_event_description_a_week_later">Tjedan dana kasnije</string>
   <string name="birthday_event_description_day_after_tomorrow">Prekosutra</string>
@@ -176,9 +176,9 @@
   <string name="edit_event_birthday_import_from_contact">Uvezi rođendan iz kontakata</string>
   <string name="edit_event_birthday_name_empty_hint">Unesite ime</string>
   <string name="edit_event_birthday_name_hint">Name</string>
-  <string name="edit_event_birthday_reminder_3_days_before">I podsjeti 3 dana ranije</string>
-  <string name="edit_event_birthday_reminder_summary">Taj dan %1$s</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">Tri dana prije, taj dan %1$s</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Također podsjeti 3 dana ranije</string>
+  <string name="edit_event_birthday_reminder_summary">Na taj dan u %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">3 dana ranije i na taj dan u %1$s</string>
   <string name="edit_event_birthday_reminder_time">Vrijeme podsjetnika</string>
   <string name="edit_event_birthday_the_day">dan</string>
   <string name="edit_event_calendar_label">Kalendar</string>
@@ -187,13 +187,14 @@
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Unesi godinu</string>
   <string name="edit_event_label">"Pojedinosti"</string>
-  <string name="edit_event_reminder_text">%1$s taj dan %2$s</string>
-  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s taj dan %3$s</string>
+  <string name="edit_event_no_reminder_value">"Ne podsjećaj"</string>
+  <string name="edit_event_reminder_text">Dana %1$s u %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">Dana %1$s, %2$s u %3$s</string>
   <string name="edit_event_show_all">Prikaži sve</string>
-  <string name="edit_event_tab_anniversary">godišnjica</string>
-  <string name="edit_event_tab_birthday">rođendan</string>
-  <string name="edit_event_tab_countdown">odbrojavanje</string>
-  <string name="edit_event_tab_event">događaj</string>
+  <string name="edit_event_tab_anniversary">Godišnjica</string>
+  <string name="edit_event_tab_birthday">Rođendan</string>
+  <string name="edit_event_tab_countdown">Odbrojavanje</string>
+  <string name="edit_event_tab_event">Događaj</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
   <string name="email_guests_label">Slanje e-pošte gostima</string>
@@ -227,7 +228,8 @@
   <string name="event_info_when">Kada</string>
   <string name="event_info_where">Gdje</string>
   <string name="event_lunar_month"/>
-  <string name="event_reminder_allday_day_zero">Taj dan %2$s</string>
+  <string name="event_reminder_allday_day_zero">Na taj dan u %2$s</string>
+  <string name="event_reminder_value_zero">Prije događaja</string>
   <string name="event_reminders_to_max">Ovaj događaj podržava samo ovoliko %d podsjetnika</string>
   <string name="event_show_more">Više opcija</string>
   <string name="event_title">Naslov</string>
@@ -253,7 +255,7 @@
   <string name="huangli_label"/>
   <string name="image_content">Slika</string>
   <string name="import_action">Uvezi</string>
-  <string name="import_birthday">Uvezi Rođendan</string>
+  <string name="import_birthday">Uvezi rođendan</string>
   <string name="imported">Imported</string>
   <string name="insert_event_dialog_btn_negative">Ne</string>
   <string name="insert_event_dialog_btn_positive">Da</string>
@@ -309,7 +311,7 @@
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
-  <string name="no_contact_birthday_hint">Nema rođendana kontakata za uvoz</string>
+  <string name="no_contact_birthday_hint">Nema rođendana za uvoz</string>
   <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
   <string name="no_local_calendar">Nema upisa kalendara :)</string>
   <string name="no_network">Nema mreže, pokušajte ponovno obnoviti mrežu :)</string>
@@ -425,7 +427,7 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
-  <string name="setting_accounts">Računi Kalendara</string>
+  <string name="setting_accounts">Računi kalendara</string>
   <string name="setting_features_title">Istaknute postavke</string>
   <string name="setting_holiday">Praznici</string>
   <string name="setting_holiday_display_desc">Kartica praznika koja se nalazi na početnoj strani Kalendara</string>
@@ -436,6 +438,7 @@
   <string name="setting_sms_import">Uvezi SMS događanja</string>
   <string name="setting_wifi_mode">Sinkr. samo preko WLAN-a</string>
   <string name="setting_title_about">O aplikaciji</string>
+  <string name="setting_title_holiday_display">Prikaži praznike</string>
   <string name="settings_calendar">Kalendar</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="show_day_view">Pokaži dan</string>

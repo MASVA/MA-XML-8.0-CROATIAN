@@ -36,8 +36,8 @@
          <item quantity="one">prije %1$d dan u %2$s</item>
      </plurals>
      <plurals name="Ndays_after">
-         <item quantity="other">Nakon %1$d dana u %2$s</item>
-         <item quantity="one">Nakon %1$d dan u %2$s</item>
+         <item quantity="other">Za %1$d dana u %2$s</item>
+         <item quantity="one">Za %1$d dan u %2$s</item>
      </plurals>
      <plurals name="Nweeks">
          <item quantity="other">prije %d tjedana</item>

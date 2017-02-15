@@ -10,6 +10,7 @@
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Preuzmi</string>
   <string name="ad_downloading">Samo trenutak…</string>
+  <string name="add_follow">Prati</string>
   <string name="add_one">+1</string>
   <string name="add_private">Sakrij datoteke sada</string>
   <string name="add_private_files">Dodaj datoteke</string>
@@ -114,13 +115,16 @@
   <string name="claim_video_unlogin">Prijavite se da možete zahtjevati videozapise</string>
   <string name="choose_send_type">Pošalji sa…</string>
   <string name="choose_upload_location">Pošalji na KuaiPan</string>
-  <string name="clean_hint">Dodirnite da oslobodite prostor</string>
-  <string name="click_to_refresh">Dodirnite ovdje za osvježiti</string>
+  <string name="clean_hint">Dodirni da oslobodite prostor</string>
+  <string name="click_login_str">Prijava</string>
+  <string name="click_to_refresh">Dodirni ovdje za osvježiti</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
   <string name="clean_title">Izbriši datoteke starije više od 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
-  <string name="click_to_switch_volume">Dodirnite za promjenu između unutarnje memorije i SD kartice</string>
-  <string name="click_to_switch_volume_pad">Dodirnite za promjenu između unutarnje memorije i SD kartice</string>
+  <string name="click_to_switch_volume">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
+  <string name="click_to_switch_volume_pad">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
+  <string name="comment_added">Uspješno dodano</string>
+  <string name="comment_added_tip">"Dodajete puno komentara. Pratiti ovu osobu?"</string>
   <string name="close">Zatvori</string>
   <string name="comment_delete_message">Oprez: ova se operacija ne može poništiti!</string>
   <string name="comment_delete_title">Izbriši komentar</string>
@@ -172,6 +176,8 @@
   <string name="decrypt_error">"Ne mogu dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj i spremi u…</string>
   <string name="decrypting">Dešifriranje…</string>
+  <string name="default_prize_text">Ovo ide u moju riznicu!</string>
+  <string name="default_user_desc">"Ova osoba nije još dodala opis"</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne mogu izbrisati datoteke, pokušajte ponovno"</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -208,7 +214,7 @@
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
-  <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirnite na vezu ispod za pregled: </string>
+  <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirni na vezu ispod za pregled: </string>
   <string name="downloaded_sticker_str">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
@@ -251,6 +257,7 @@
   <string name="file_loading">Samo trenutak…</string>
   <string name="file_name_invalid">"Nazivi datoteka ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"Datoteka ne postoji"</string>
+  <string name="finish_str">Gotovo</string>
   <string name="file_too_large">Datoteka je prevelika za učitavanje.</string>
   <string name="files">Datoteke</string>
   <string name="finished">Dovršeno</string>
@@ -259,6 +266,7 @@
   <string name="folder_name_empty">Naziv mape ne može biti prazan</string>
   <string name="folder_name_illegal">Nevažeći naziv mape</string>
   <string name="follow_fail">"Ne mogu pratiti, pokušajte ponovno kasnije"</string>
+  <string name="follow_success_tip">Uspješno se prati</string>
   <string name="follow_tip_1">Pratite me da gledate više videozapisa</string>
   <string name="follow_tip_2">Pratite me da gledate više videozapisa</string>
   <string name="folder_name_invalid">"Nazivi mapa ne mogu sadržavati sljedeće znakove: /\\:*?&lt;&gt;"</string>
@@ -309,7 +317,7 @@
   <string name="install_fail">"Ne mogu instalirati"</string>
   <string name="installing">Instaliranje…</string>
   <string name="instruction">Unesite adresu u FTP klijent: </string>
-  <string name="instruction_pre">Dodirnite za pokretanje FTP poslužitelja</string>
+  <string name="instruction_pre">Dodirni za pokretanje FTP poslužitelja</string>
   <string name="interest_recommend">Preporučeni videozapisi</string>
   <string name="is_playing">Reprodukcija…</string>
   <string name="join_activity">Sudjeluj</string>
@@ -407,11 +415,11 @@
   <string name="migrate_cancel">Odustani</string>
   <string name="migrate_confirm">Transfer</string>
   <string name="migrate_failed_confirm">Shvaćam</string>
-  <string name="migrate_failed_msg">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirnite ovdje za pregled&lt;/a&gt;</string>
+  <string name="migrate_failed_msg">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
   <string name="migrate_failed_title">"Ne mogu premjestiti datoteke"</string>
-  <string name="migrate_failed_toast">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirnite ovdje za pregled&lt;/a&gt;</string>
-  <string name="migrate_hint">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirnite da sada premjestite datoteke.</string>
-  <string name="migrate_note">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirnite da sada premjestite datoteke.</string>
+  <string name="migrate_failed_toast">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
+  <string name="migrate_hint">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
+  <string name="migrate_note">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
   <string name="migrate_runing">Premještanje podataka…Vratite se kasnije.</string>
   <string name="migrate_success_cancel">Shvaćam</string>
   <string name="migrate_success_confirm">Provjerite sada</string>
@@ -435,7 +443,11 @@
   <string name="move_icon_to_desktop_success">Prečac dodan na Poč. zaslon</string>
   <string name="move_to">Premjesti u…</string>
   <string name="msg_notify_setting">Postavke obavijesti</string>
+  <string name="msg_page_video_default_title">I uploaded a video, take a look!</string>
   <string name="msg_set_password">Postavite prvo zaporku</string>
+  <string name="my_follows">Moj feed</string>
+  <string name="name_empty">Morate unijeti naziv.</string>
+  <string name="need_login">Prijavite se prvo</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="my_app">Podaci aplik.</string>
   <string name="my_app_desc"/>
@@ -476,6 +488,7 @@
   <string name="never_notify_network_connect">Zapamti postavke</string>
   <string name="new_comments">Novi komentari</string>
   <string name="new_folder_name">Mapa bez naziva</string>
+  <string name="next_time">Ne sada</string>
   <string name="new_function">Skrivene mape</string>
   <string name="new_function_info">"Za prikaz skrivenih mapa, povucite dolje do dna zaslona do prvog reda ikona na početnoj stranici."</string>
   <string name="new_function_str">"WeChat naljepnice sada mogu biti prikupljene automatski.
@@ -483,7 +496,7 @@ Preuzmite ih kada želite
 i nikad ne propustite nove cool naljepnice!"</string>
   <string name="new_function_title_str">O WeChat naljepnicama</string>
   <string name="no">Ne</string>
-  <string name="no_apk">Dodirnite za dobivanje aplikacija.</string>
+  <string name="no_apk">Dodirni za dobivanje aplikacija.</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Nema komentara</string>
   <string name="no_content">Ponovno otvorite aplik. Datoteke da biste vidjeli popularne videozapise</string>
@@ -506,6 +519,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_topic">Nema tema</string>
+  <string name="no_videos">Ovdje nema ništa. Provjerite one ispod!</string>
   <string name="no_topic_found">Nema pronađenih tema</string>
   <string name="no_wifi">Nema dostupnih WLAN veza.</string>
   <string name="no_wifi_hint">Nema dostupnih veza</string>
@@ -520,13 +534,13 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="notification_setting">Obavijesti</string>
   <string name="notification_summary">"%1$s još ne podržava ovu značajku"</string>
   <string name="notification_title">Prikaži obavijest kada %1$s izradi datoteku</string>
-  <string name="notification_wechat_auto_backup_hint">Dodirnite kako biste saznali više.</string>
+  <string name="notification_wechat_auto_backup_hint">Dodirni kako biste saznali više.</string>
   <string name="notification_wechat_auto_backup_switch_title">Izradi Sig. kopiju Chats videozapisa</string>
   <string name="notification_wechat_expired_empty">WeChat je već izbrisao ove videozapise.</string>
   <string name="notification_wechat_sticker_hint">Prikaži obavijest kada su dostupne nove WeChat naljepnice</string>
   <string name="notification_wechat_sticker_switch_title">Dnevne obavijesti novih naljepnica</string>
   <string name="notification_wechat_title">Obavijesti kada će WeChat videozapisi isteći</string>
-  <string name="notify_private_folder_msg">Dodirnite da saznate više.</string>
+  <string name="notify_private_folder_msg">Dodirni da saznate više.</string>
   <string name="notify_private_folder_title">Napravite skrivene mape</string>
   <string name="oauth_failed_tip">"Ne mogu dovršiti autorizaciju"</string>
   <string name="oauth_success_tip">Uspješno autorizirano</string>
@@ -587,6 +601,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
   <string name="origin_name">%1$s: </string>
+  <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; pridružio se zajednici</string>
   <string name="original_user_signal">Talent tim</string>
@@ -655,7 +670,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="private_folder">Skriveno</string>
   <string name="private_folder_no_file_hints">Nema skrivenih datoteka.</string>
   <string name="private_folder_update">Ažuriranje skrivenih datoteka…</string>
-  <string name="private_toast_hint1">Dodirnite za dodavanje datoteka u skrivene mape</string>
+  <string name="private_toast_hint1">Dodirni za dodavanje datoteka u skrivene mape</string>
   <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
   <string name="private_toast_hint3">Povucite prema dolje za prikaz skrivenih mapa</string>
   <string name="prize_result_tip">Razmjeni</string>
@@ -670,8 +685,10 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Nedavno</string>
   <string name="recommend">Preporučeno</string>
+  <string name="recommend_popup_title">Preporuke</string>
   <string name="recommend_topic">Preporučene teme</string>
   <string name="recommend_user">Preporučeni profili</string>
+  <string name="recommend_users">%1$s+</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
   <string name="remote_video_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
@@ -752,6 +769,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_title_hint">Traži</string>
   <string name="select_dest_folder">Odaberi mapu</string>
   <string name="select_image">Slike</string>
+  <string name="select_interest_str">Odaberite teme koje vam se sviđaju</string>
+  <string name="select_interest_tip">Ima puno toga za otkriti!</string>
   <string name="select_music">Glazba</string>
   <string name="select_video">Videozapisi</string>
   <string name="select_volume">Odaberite volumen</string>
@@ -796,6 +815,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="share_now">Podijeli</string>
   <string name="share_title_1">Pronađen cool paket naljepnica!</string>
   <string name="share_to">Podijeli sa…</string>
+  <string name="share_topic_desc">Učitajte videozapise da dobijete nagrade</string>
+  <string name="share_topic_title">"Gledam #%1$s#, pogledajte!"</string>
   <string name="share_youliao1">Nadogradite da biste pogledali više epizoda.</string>
   <string name="share_youliao2">Nadogradite da biste pogledali više epizoda.</string>
   <string name="share_youliao3">Nadogradite da biste pogledali više epizoda.</string>
@@ -861,6 +882,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_mine">Profil</string>
   <string name="tab_local_video">Izvanmrežno</string>
   <string name="tab_more">Više</string>
+  <string name="tab_msg">Poruke</string>
   <string name="tab_newest_video">Novo</string>
   <string name="tab_path">MAPE</string>
   <string name="tab_profile">Profil</string>
@@ -958,6 +980,7 @@ oslobodili prostor.</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_cancel">Otkazano</string>
   <string name="user_center_title">Početna</string>
+  <string name="user_desc_default_tip">Prijavite se da skupljate bodove i osvojite vrijedne nagrade.</string>
   <string name="user_center_setting">Postavke</string>
   <string name="user_follow_me_title">Moji obožavatelji</string>
   <string name="user_follow_title">Osobe koje pratim</string>
@@ -972,6 +995,7 @@ oslobodili prostor.</string>
   <string name="user_guide_summary">Praktična i sigurna cloud pohrana</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
   <string name="user_icon">Slika profila</string>
+  <string name="user_id_tip">ID: </string>
   <string name="user_info_setting">Uredi informacije</string>
   <string name="user_like_text">Sviđa mi se</string>
   <string name="user_liked_video_title">Videoapisi koji mi se sviđaju</string>
@@ -1048,6 +1072,7 @@ oslobodili prostor.</string>
   <string name="video_publish_hint">Dobar opis će pomoći drugim osobama da pronađu vaš videozapis</string>
   <string name="video_publish_hint2">Opis</string>
   <string name="video_publish_origin_tag">Originalna oznaka</string>
+  <string name="video_publish_watchable_limit">Možete to učiniti dva puta svaki dan</string>
   <string name="video_publish_watchable_tag">Pratite me da gledate ovaj videozapis</string>
   <string name="video_recommend_upload">Preporučeno</string>
   <string name="video_releasing">Učitavanje…</string>
@@ -1105,6 +1130,12 @@ oslobodili prostor.</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="you_liao_god_desc">Učitajte videozapise i proširite svoju bazu obožavatelja da dobijete status gospodina</string>
+  <string name="you_liao_god_str">Gospodin</string>
+  <string name="you_liao_goddess_desc">Učitajte videozapise i proširite svoju bazu obožavatelja da dobijete status dame​</string>
+  <string name="you_liao_goddess_str">Dama</string>
+  <string name="you_liao_xunlei_desc">Potpišite ugovor s nama da dobijete status domaćina</string>
+  <string name="you_liao_xunlei_str">Xunlei domaćin</string>
   <string name="youliao_ad_msg">"Zabavite se s "Youliao"!
 Pridružite se 170 milijuna Mi Obožavatelja!"</string>
   <string name="youliao_ad_title">Popularni videozapisi su unaprijeđeni!</string>

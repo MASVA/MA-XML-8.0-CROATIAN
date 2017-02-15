@@ -182,6 +182,7 @@
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
   <string name="file">Datoteke</string>
+  <string name="file_not_found">Datoteka nije pronađena</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="function_app_lock_title">%d aplik. sadrži rizik privatnosti​</string>
   <string name="garbage_clean_detail">Detalji</string>
@@ -449,12 +450,12 @@
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd. MMM. yyyy</string>
   <string name="virus_scan">Skeniranje</string>
-  <string name="white_list_ad_header">Starih datoteka: %d</string>
+  <string name="white_list_ad_header">Stare datoteke: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predmorija: %d</string>
-  <string name="white_list_large_file_header">Vel. datoteka i videozapisa: %d</string>
-  <string name="white_list_residual_header">Ostataka: %d</string>
+  <string name="white_list_large_file_header">Vel. datoteke i videozapisi: %d</string>
+  <string name="white_list_residual_header">Ostaci: %d</string>
   <string name="white_list_title">Iznimke</string>
-  <string name="year_month_day_format">dd. MMM, yyyy</string>
+  <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Jučer</string>
 </resources>
