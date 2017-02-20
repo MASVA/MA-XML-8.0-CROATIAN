@@ -133,10 +133,10 @@
   <string name="find_device_locked_account_email" formatted="false">%s, povezana e-pošta:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, povezan broj telefona:%s</string>
   <string name="find_device_null_credential_error">"Ne mogu dobiti informacije o uređaju, kontaktirajte Xiaomi službu za korisnike"</string>
-  <string name="find_device_operation_failed_error">Došlo je do pogreške</string>
+  <string name="find_device_operation_failed_error">Došlo je do pogreške pogreške poslužitelja, pokušajte ponovno kasnije</string>
   <string name="find_device_operation_failed_error_unknown">Došlo je do pogreške, pokušajte ponovno kasnije</string>
   <string name="find_device_remote_exception">RPC pogreška</string>
-  <string name="find_device_request_error">"Ne mogu zahtijevati informacije o statusu, pokušajte ponovno kasnije"</string>
+  <string name="find_device_request_error">"Ne mogu zahtijevati informacije o statusu zbog pogreške poslužitelja, pokušajte ponovno kasnije"</string>
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>

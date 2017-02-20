@@ -645,6 +645,7 @@
   <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
   <string name="title_show_sms_template_in">Provjeri SMS za OTP</string>
   <string name="title_timed_message_dialog">Konfiguriraj vremensku poruku</string>
+  <string name="title_use_gsm_alphabet">Koristi GSM abecedu</string>
   <string name="to_address_label">"Prima: "</string>
   <string name="to_count">%d primatelja</string>
   <string name="to_label">"Prima "</string>

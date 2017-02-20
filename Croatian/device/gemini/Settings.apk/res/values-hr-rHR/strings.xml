@@ -2975,7 +2975,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="pref_button_light">Osvjetljenje tipaka</string>
   <string name="pref_button_light_summary">Osvjetljenje tipaka Izbornik, Početna i Natrag</string>
   <string name="pref_edge_handgrip">Kontrole ruba</string>
-  <string name="pref_operational_key">Navigation buttons</string>
+  <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_title_lang_selection">Postavke jezika</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipku glasnoće dolje dva puta da pokrenete kameru</string>
   <string name="pref_volume_launch_camera_title">Pokreni kameru</string>
@@ -3050,7 +3050,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_mode_enable_sum">Sakrij poruke, bilješke, fotografije, postavke i dolazne pozive</string>
   <string name="privacy_mode_enable_title">Gost način rada</string>
   <string name="privacy_notes">Bilješke</string>
-  <string name="privacy_password">Zaporka zaštite privatnosti password</string>
+  <string name="privacy_password">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
   <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>

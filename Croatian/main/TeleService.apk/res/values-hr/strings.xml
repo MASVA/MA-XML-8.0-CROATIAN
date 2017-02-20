@@ -106,7 +106,11 @@
   <string name="bad_puk">PUK koji ste unijeli nije točan.</string>
   <string name="bad_puk2">PUK2 koji ste unijeli nije točan.</string>
   <string name="bf_news_settings">Poslovne i financijske vijesti</string>
-  <string name="callFailed_QOS_unavailable"/>
+  <string name="callFailed_QOS_unavailable">Kvaliteta usluga nije dostupna</string>>
+  <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
+  <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+  <string name="button_convert_fbe">Izbriši i pretvorit…</string>
+  <string name="callEnded_pulled">Poziv prenesen na drugi uređaj.</string>
   <string name="callFailed_access_information_discarded"/>
   <string name="callFailed_bearer_capability_not_authorized"/>
   <string name="callFailed_bearer_capability_unavailable"/>
@@ -117,6 +121,9 @@
   <string name="callFailed_channel_unacceptable"/>
   <string name="callFailed_conditional_IE_error"/>
   <string name="callFailed_congestion">Mreža je zauzeta</string>
+  <string name="callFailed_data_disabled">Poziv je završio jer su mobilni podaci onemogućeni.</string>
+  <string name="callFailed_data_limit_reached">Dostignuto je ograničenje prijenosa podataka. Poziv je završen.</string>
+  <string name="callFailed_data_limit_reached_description">Poziv je završio jer je dostignuto ograničenje prijenosa mobilnih podataka.</string>
   <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_dialToDial">DIAL zahtjev izmijenjen je u DIAL zahtjev s različitim brojem.</string>
   <string name="callFailed_dialToSs">DIAL zahtjev izmijenjen je u SS zahtjev.</string>
@@ -128,6 +135,7 @@
   <string name="callFailed_incoming_cb_enabled">Party je zabranio sve dolazne pozive.</string>
   <string name="callFailed_invalid_credentials">Netočno korisničko ime ili zaporka</string>
   <string name="callFailed_limitExceeded">Prekoračeno je ACM ograničenje</string>
+  <string name="callFailed_maximum_reached">Sve su dostupne linije zauzete. Da biste uspostavili poziv, prekinite jedan od poziva na ovom uređaju ili na nekom drugom uređaju.</string>
   <string name="callFailed_low_battery">Slaba baterija</string>
   <string name="callFailed_noSignal">Nema signala</string>
   <string name="callFailed_number_unreachable">Broj nije dostupan</string>

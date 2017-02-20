@@ -506,9 +506,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="main_save_error_msg">Ne mogu spremiti promjene zbog pogreške</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novi album</string>
-  <string name="menu_item_sort_date">Datumu</string>
-  <string name="menu_item_sort_name">Nazivu</string>
-  <string name="menu_item_sort_size">Veličini</string>
+  <string name="menu_item_sort_date">Datum</string>
+  <string name="menu_item_sort_name">Naziv</string>
+  <string name="menu_item_sort_size">Veličina</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="merge_album">Spoji</string>
   <string name="merge_album_title">Spoji sa osobom</string>
@@ -532,7 +532,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="new_album_invalid_prefix">"Nemojte koristiti \".\" ili \"_\" na početku naziva albuma."</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
-  <string name="no_map_app">Nije pronađena nijedna aplikacija za radnju</string>
+  <string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="no_network_connected">Nema otkrivenih mreža</string>
   <string name="not_ask_any_more">"Ne pitaj ponovno za \"%s\" odgovore"</string>
   <string name="not_is">Ne</string>
