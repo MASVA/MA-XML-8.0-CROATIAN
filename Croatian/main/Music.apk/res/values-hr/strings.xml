@@ -55,13 +55,22 @@
   <string name="app_label">Preuzimanja</string>
   <string name="artist">Izvođači</string>
   <string name="artist_album">Albumi</string>
+  <string name="artist_area_all">Sve</string>
+  <string name="artist_area_china">Kina</string>
+  <string name="artist_area_europe_usa">Europe/USA</string>
+  <string name="artist_area_japan">Japan</string>
+  <string name="artist_area_korea">Koreja</string>
   <string name="artist_favor">Istaknuto</string>
-  <string name="artist_is_empty">Ime Izvođača ne može biti prazno.</string>
+  <string name="artist_gender_all">Sve</string>
+  <string name="artist_gender_female">Žena</string>
+  <string name="artist_gender_group">Grupa</string>
+  <string name="artist_gender_male">Muškarac</string>
+  <string name="artist_is_empty">Ime izvođača ne može biti prazno.</string>
   <string name="artist_name">Izvođač</string>
   <string name="artist_news">Novosti</string>
   <string name="artist_search_title">Izvođač</string>
   <string name="artist_view">Izvođač</string>
-  <string name="asset_sync_alert_not_now">Not now</string>
+  <string name="asset_sync_alert_not_now">Ne sada</string>
   <string name="asset_sync_network_data_alert_message">Izrada Sig. kopije pjesama pomoću mobilnih podataka može stvoriti dodatne troškove. Svejedno nastaviti?</string>
   <string name="asset_sync_network_data_alert_title">"Koristite mobilne podatke"</string>
   <string name="asset_sync_network_unavailable_alert_message">Povežite se na internet da biste izradili Sig. kopiju pjesama</string>
@@ -74,6 +83,7 @@
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="auto_payment">Autom. obnovi</string>
   <string name="auto_payment_date">Sljedeće plaćanje: %s</string>
+  <string name="auto_upgrade">Autom. nadogradi</string>
   <string name="auto_restart_under_wifi">Datoteka će biti preuzeta kada je uređaj povezan na WLAN</string>
   <string name="avail_services">Dostupno</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
@@ -330,6 +340,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="favorite_singer">Omiljeni pjevači</string>
   <string name="favorite_succeed">Dodano u favorite</string>
   <string name="favorite_tracks">Favoriti</string>
+  <string name="favorites">Favoriti</string>
   <string name="favourite_music_left_half">Za dodavanje pjesama na popis pjesama, dodirnite</string>
   <string name="favourite_music_right_half">Ikonu favorita s desne strane naslova pjesme</string>
   <string name="female_artist">Ženski izvođači</string>
@@ -410,8 +421,10 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="local_page_artist">Izvođači koje pratim</string>
   <string name="local_page_custom_subtitle">Nove pjesme svaki dan</string>
   <string name="local_page_custom_title">Za vas</string>
+  <string name="local_page_playlist">Moj popis pjesama</string>
   <string name="local_page_song_all">Sve pjesme</string>
   <string name="local_page_song_download">Lokalne pjesme</string>
+  <string name="local_page_song_download_history">Preuzimanja</string>
   <string name="local_page_song_favorite">Omiljene pjesme</string>
   <string name="local_tracks_short">Izvanmrežno</string>
   <string name="login_first">Prijavite se prvo u svoj Mi Račun</string>
@@ -525,6 +538,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="no_local_source_find">"Ne mogu pronaći pjesmu"</string>
   <string name="no_online_song_selected">Nema odabranih pjesama</string>
   <string name="no_results_return">Nema rezultata pretraživanja</string>
+  <string name="no_scanned_songs">Prazno</string>
   <string name="no_song">Nema pjesama</string>
   <string name="no_song_downloaded">"Ne mogu se povezati na poslužitelj"</string>
   <string name="normal_quality">Dobro</string>
@@ -596,6 +610,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="play_next">Sljedeća pjesma</string>
   <string name="playback_failed_no_title_by_bad_file">"Format ove pjesme nije podržan ili datoteka ne postoji."</string>
   <string name="playlist_deleted_message">Popis pjesama izbrisan.</string>
+  <string name="playlist_empty">Nema pronađenih popisa pjesama.</string>
   <string name="playlist_renamed_message">Popis pjesama preimenovan.</string>
   <string name="playlist_type_album">Album</string>
   <string name="playlist_type_artist">Izvođač</string>
@@ -642,6 +657,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Platiti sada?</string>
   <string name="recently_played">Nedavno reproducirano</string>
+  <string name="recently_played_songs">Nedavno reproducirano</string>
   <string name="recommend_fragment_title">Istaknuto</string>
   <string name="recommended_file_size_download_in_mobile">Koristiti %s mobilnih podataka za preuzimanje ove datoteke?</string>
   <string name="recommended_no_file_size_download_in_mobile">Koristiti mobilnu podatkovnu vezu za preuzimanje ove datoteke?</string>

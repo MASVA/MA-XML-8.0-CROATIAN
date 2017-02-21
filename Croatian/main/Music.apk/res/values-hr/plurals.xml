@@ -127,4 +127,9 @@
          <item quantity="zero">Izrađeno %1$s | ukupno %2$d pjesama</item>
          <item quantity="one">Izrađeno %1$s | ukupno %2$d pjesma</item>
      </plurals>
+	 <plurals name="Nalbum_total_songs">
+         <item quantity="other">Ukupno %d pjesama</item>
+         <item quantity="zero">Ukupno %d pjesama</item>
+         <item quantity="one">Ukupno %d pjesma</item>
+     </plurals>
 </resources> 

@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays_ago_at">
+         <item quantity="other">%1$d dana</item>
+         <item quantity="one">%1$d dan</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+         <item quantity="other">%1$d dana</item>
+         <item quantity="one">%1$d dan</item>
+    </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d min</item>
         <item quantity="one">"1 minuta"</item>
@@ -42,5 +50,25 @@
      <plurals name="Nweeks">
          <item quantity="other">prije %d tjedana</item>
          <item quantity="one">Prije 1 tjedan</item>
-     </plurals>
+    </plurals>
+	 <plurals name="anniversary_notify_title">
+     <item quantity="other">[Anniversary]%2$d godina godišnjice od %1$s</item>
+     <item quantity="one">[Anniversary]%2$d godina godišnjice od %1$s</item>
+    </plurals>
+   <plurals name="anniversary_notify_before_3_day_title">
+    <item quantity="other">[Anniversary]%2$d godina godišnjice od %1$s za 3 dana</item>
+    <item quantity="one">[Anniversary]%2$d godina godišnjice od %1$s za 3 dana</item>
+    </plurals>
+    <plurals name="anniversary_year">
+         <item quantity="other">godina</item>
+         <item quantity="one">godina</item>
+    </plurals>
+    <plurals name="anniversary_day">
+         <item quantity="other">dana</item>
+         <item quantity="one">dan</item>
+    </plurals>
+    <plurals name="countdown_day">
+         <item quantity="other">dana kasnije</item>
+         <item quantity="one">dan kasnije</item>
+    </plurals>
 </resources> 

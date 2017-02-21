@@ -52,6 +52,8 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Istekao</string>
   <string name="alert_title">Obavijesti kalendara</string>
+  <string name="anniversary_card_title">Godišnjica</string>
+  <string name="anniversary_event_title">[Anniversary]%1$s</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">godišnjicu</string>
   <string name="app_label">Kalendar</string>
@@ -62,8 +64,8 @@
   <string name="birthday_event_description_a_week_later">Tjedan dana kasnije</string>
   <string name="birthday_event_description_day_after_tomorrow">Prekosutra</string>
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
-  <string name="birthday_event_description_days_ago">Prije ovoliko %1$s dana</string>
-  <string name="birthday_event_description_days_later">%1$s dana do</string>
+  <string name="birthday_event_description_days_ago">Prije ovoliko %1$d dana</string>
+  <string name="birthday_event_description_days_later">%1$d dana do</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
@@ -112,8 +114,13 @@
   <string name="common_tus">Utorak</string>
   <string name="common_wed">Srijeda</string>
   <string name="copy_db">Pošalji bazu podataka</string>
-  <string name="copy_email">Kopiranje e-adrese</string>
-  <string name="copy_number">Kopiranje telefonskog broja</string>
+  <string name="copy_email">Kopiraj e-adresu</string>
+  <string name="copy_number">Kopiraj broj telefona</string>
+  <string name="countdown_card_title">Broj dana</string>
+  <string name="countdown_event_title">[Countdown]%1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s za 3 dana</string>
+  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_today">Danas</string>
   <string name="create_an_account_desc">Kalendar radi bolje s Mi Računom.
 
 • Pristupite mu iz bilo kojeg web-preglednika.
@@ -172,6 +179,8 @@
   <string name="drop_down_list_header_release_text">Otpusti za osvježiti</string>
   <string name="dropdown_delete_button_desc">Ukloni %s iz primatelja</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
+  <string name="edit_event_anniversary_name_empty_hint">Unesi godišnjicu</string>
+  <string name="edit_event_anniversary_name_hint">Sadržaj</string>
   <string name="edit_event_birthday_3_days_before">Tri dana ranije,</string>
   <string name="edit_event_birthday_import_from_contact">Uvezi rođendan iz kontakata</string>
   <string name="edit_event_birthday_name_empty_hint">Unesite ime</string>
@@ -184,11 +193,17 @@
   <string name="edit_event_calendar_label">Kalendar</string>
   <string name="edit_event_choose_date">Odaberi datum</string>
   <string name="edit_event_confirm_message">Odbaciti promjene?</string>
+  <string name="edit_event_countdown_name_empty_hint">Unesi broj dana</string>
+  <string name="edit_event_countdown_name_hint">Sadržaj</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Unesi godinu</string>
   <string name="edit_event_label">"Pojedinosti"</string>
   <string name="edit_event_no_reminder_value">"Ne podsjećaj"</string>
+  <string name="edit_event_reminder_3_days_before">Također podsjeti 3 dana ranije</string>
+  <string name="edit_event_reminder_summary">Na taj dan u %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 dana ranije i na taj dan u %1$s</string>
   <string name="edit_event_reminder_text">Dana %1$s u %2$s</string>
+  <string name="edit_event_reminder_time">Vrijeme podsjetnika</string>
   <string name="edit_event_reminder_with_another_day_text">Dana %1$s, %2$s u %3$s</string>
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_tab_anniversary">Godišnjica</string>
@@ -333,7 +348,7 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
   <string name="online_reminder_slider_text">启用提醒</string>
-  <string name="path_calendar">Aplikacije sutava/Kalendar/Postavke</string>
+  <string name="path_calendar_settings">Aplikacije sutava/Kalendar/Postavke</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Zadana melodija zvona</string>

@@ -13,6 +13,7 @@
   <string name="baidu_search_url_from_systemui">https://www.google.hr/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="choose_search_engine">Odaberi zadanu web tražilicu</string>
   <string name="clear_history">Izbriši povijest</string>
   <string name="clear_shortcuts">Izbriši prečac</string>
   <string name="clear_shortcuts_agree">Izbriši prečace</string>

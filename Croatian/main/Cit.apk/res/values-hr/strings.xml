@@ -21,6 +21,8 @@
   <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z koordinatne vrijednosti se prikazuju u nastavku. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
 Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_accelermeter_sensor_check_title">Akcelerometar</string>
+  <string name="cit_apk_signature_failed">apk signature FAILED</string>
+  <string name="cit_apk_signature_passed">apk signature PASSED</string>
   <string name="cit_aud_current_state">Trenutno stanje:</string>
   <string name="cit_aud_spk_l">spk_L</string>
   <string name="cit_aud_spk_r">spk_R</string>
@@ -102,14 +104,12 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_build_finger_passed">Spremanje otiska prsta USPJEŠNO</string>
   <string name="cit_button_light_off">Osvjetljene tipaka isklj.</string>
   <string name="cit_button_light_on">Osvjetljene tipaka uklj.</string>
-  <string name="cit_button_light_writein">Osvjetljenje tipke zapisivanja</string>
   <string name="cit_calibration_fail">Kalibriranje nije uspjelo</string>
-  <string name="cit_calibration_pass">Kalibriranje uspješno</string>
-  <string name="cit_camera_calibration_summary">"Upute za testiranje:
+  <string name="cit_calibration_pass">Kalibriranje uspjelo</string>
+  <string name="cit_camera_calibration_summary">"Kalibriranje nije uspjelo:
 
-1.Dodirnite gumb za kalibraciju ispod za ulazak u sučelje fotoaparata
-2.Pritisnite tipku Natrag za izlaz iz sučelja fotoaparata
-3.Dobiti ćete natpis Kalibriranje uspješno za oznaku da je kalibrirano."</string>
+1.Dodirnite tipku za kalibraciju u nastavku da biste započeli OIS kalibraciju.
+2.Dobiti ćete oznaku da je kalibriranje OIS-a bilo uspješno"</string>
   <string name="cit_camera_sdcard_error">"Ne mogu snimiti fotografiju. SD kartica je puna."</string>
   <string name="cit_charger_plugin_check_summary">Kada je USB punjač priključen tekst \"Punjenje putem USB/AC\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_charger_plugin_check_title">Punjač (priključite)</string>
@@ -128,16 +128,16 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_finger_check_title">Testiranje otiska prsta (FPC)</string>
   <string name="cit_flash_life_check_summary">Procjena vijeka trajanja bljeskalice uređaja</string>
   <string name="cit_flash_life_check_title">Flash life</string>
-  <string name="cit_fm_audio_path">Postavljanje putanje zvuka</string>
+  <string name="cit_fm_audio_path">Konfiguriraj putanju zvuka</string>
   <string name="cit_fm_audio_path_headset">Slušalice</string>
   <string name="cit_fm_audio_path_speaker">Zvučnici</string>
   <string name="cit_fm_check_summary">"Ovo će testirati FM funkciju uređaja."</string>
   <string name="cit_fm_check_title">FM Radio</string>
-  <string name="cit_fm_close">Isključite FM Radio</string>
+  <string name="cit_fm_close">Isključi FM Radio</string>
   <string name="cit_fm_not_supported">"Ovaj uređaj ne podržava FM"</string>
   <string name="cit_fm_open_1">Start FM - 88.5</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Otvaranje Bluetootha…</string>
+  <string name="cit_fm_open_bluetooth">Pokretanje Bluetootha…</string>
   <string name="cit_fm_start_service">Pokreni zvuk</string>
   <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
   <string name="cit_fpc_selftest">SELF-TEST</string>
@@ -145,15 +145,15 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_fpc_sensor_check_title">FPC senzor otiska prsta</string>
   <string name="cit_front_camera_check_summary">"Upute za testiranje:
 
-1. Kliknite tipku kamere za otvaranje fotoaparata
-2. Kliknite na kameru
-3. Kliknite na gumb "U redu" sustava kamere, sustav će automatski spremiti sliku
-4. Pregledajte sliku, kada ste zadovoljni, možete je izbrisati."</string>
-  <string name="cit_front_camera_check_title"> Testiranje prednje kamere (prednja kamera)</string>
+1. Dodirnite tipku kamere za otvaranje sučelja fotoaparata
+2. Dodirnite tipku okidača
+3. Dodirnite ikonu Provjeri. Sustav će automatski spremiti fotografiju.
+4. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranja."</string>
+  <string name="cit_front_camera_check_title">Prednja kamera</string>
   <string name="cit_get_signature_failed">Dobivanje potpisa NEUSPJEŠNO</string>
-  <string name="cit_gps_check_summary">Ovo testiranje će prikazati informacije GPS-a</string>
+  <string name="cit_gps_check_summary">Odgovarajuće GPS Informacije bi se trebale prikazivati u nastavku.</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
-  <string name="cit_gps_disabled">"GPS nije omogućen, 
+  <string name="cit_gps_disabled">"GPS nije pokrenut
 
 Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
@@ -193,26 +193,24 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_keyboard_menu">Tipka: IZBORNIK</string>
   <string name="cit_keyboard_test_summary">Kada pritisnete tipke, odgovarajući tekst na zaslonu bi trebao postati zelene boje (NAPOMENA: Tipke Početna i Napajanje nisu uključene u testiranje).</string>
   <string name="cit_keyboard_test_title">Tipkovnica</string>
-  <string name="cit_label">Otkrivanje Hardvare-a</string>
+  <string name="cit_label">Testiranje Hardvare-a</string>
   <string name="cit_lcdlight_brightness">Pozadinsko osvjetljenje</string>
   <string name="cit_lcdlight_brightness_max">MAX</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Pozadinsko svjetlo, svjetlo obavijesti i Bljeskalica (stražnja), bi trebale reagirati kada se pritisne odgovarajuća tipka.</string>
   <string name="cit_leds_check_title">Svjetlo obavijesti (LED)</string>
-  <string name="cit_left_button_light">Svjetlo lijeve tipke</string>
   <string name="cit_light_sensor_check_summary">DAC vrijednost bi se trebale pojaviti u nastavku</string>
   <string name="cit_light_sensor_check_title">Senzor osvjetljenja</string>
   <string name="cit_magnetic_sensor_check_summary">Vrijednosti za X, Y, Z koordinate bi se trebale pojaviti u nastavku</string>
   <string name="cit_magnetic_sensor_check_title">Senzor Magnetometra</string>
   <string name="cit_main_camera_check_summary">"Upute za testiranje:
 
- 1. Dodirnite tipku kamere za otvaranje fotoaparata
- 2. Provjerite da je Bljeskalica uključena 
+ 1. Dodirnite tipku kamere za otvaranje sučelja fotoaparata
+ 2. Provjerite da je bljeskalica uključena 
  3. Dodirnite tipku okidača
  4. Dodirnite ikonu Provjeri. Sustav će automatski spremiti fotografiju.
- 5. Fotografija koju ste snimili bi trebala biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranja."</string>
+ 5. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranja."</string>
   <string name="cit_main_camera_check_title">Stražnja kamera</string>
-  <string name="cit_minus_one">Minus 1</string>
   <string name="cit_name">Testiranje Hardwarea</string>
   <string name="cit_not_available">"Ovo testiranje nije dostupno na ovoj verziji MIUI"</string>
   <string name="cit_notificationlight">Svjetlo obavijesti</string>
@@ -225,7 +223,6 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_play_sd_mp3_summary">"Potvrdite da postoji datoteka s nazivom  \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana preko vanjskih zvučnika uređaja prilikom pokretanja ovog testiranja."</string>
   <string name="cit_play_sd_mp3_title">Reproduciraj MP3(HIFI) pohranjen na SD kartici</string>
   <string name="cit_playing_sd_mp3">music.mp3 se reproducira…</string>
-  <string name="cit_plus_one">Plus 1</string>
   <string name="cit_pointer_location_title">Zaslon osjetljiv na dodir</string>
   <string name="cit_power_check_summary">Količina punjenja baterije trebala bi biti izražena kao postotak u nastavku.</string>
   <string name="cit_power_check_title">Indikator baterije</string>
@@ -248,7 +245,6 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_reset_se_nfc_closed">Nije uspjelo: NFC treba biti omogućen.</string>
   <string name="cit_reset_se_start">Resetiranje eSE…</string>
   <string name="cit_reset_test">Testiranje</string>
-  <string name="cit_right_button_light">Svjetlo desne tipke</string>
   <string name="cit_sd_fail">Došlo je do pogreške.</string>
   <string name="cit_sd_mount">Učitavanje SD kartice</string>
   <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
@@ -278,9 +274,11 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_sim_state_pin_required">Potreban PIN</string>
   <string name="cit_sim_state_puk_required">Potreban PUK</string>
   <string name="cit_sim_state_ready">SIM kartica u redu</string>
-  <string name="cit_sim_state_unkown">Nepoznata pogreška</string>
-  <string name="cit_start_calibration">Kalibracija</string>
+  <string name="cit_sim_state_unkown">Nepoznato</string>
+  <string name="cit_start_calibration">Kalibriraj</string>
   <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
+  <string name="cit_tfcard_support_summary">Provjerite je li TF Kartica podržana na ovom uređaju</string>
+  <string name="cit_tfcard_support_title">Uređaj podržava TF Karticu</string>
   <string name="cit_tool">Dodatni alati</string>
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
   <string name="cit_tool_bluetooth_dut">Bluetooth Testiranje načina rada</string>
@@ -293,6 +291,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz Freq Testiranje načina rada</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz Freq Testiranje načina rada</string>
   <string name="cit_tool_cal_camera">Alat za kalibraciju kamere</string>
+  <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Omogući zapis 3A Switch</string>
   <string name="cit_tool_enable_display_3A_log">Omogući Display 3A log</string>
   <string name="cit_tool_log">Zapisi</string>
@@ -325,6 +324,13 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Pokreni</string>
   <string name="cit_tool_nfc_st_stop">Zaustavi</string>
+  <string name="cit_tool_prx_drx">PRx+DRx</string>
+  <string name="cit_tool_prx_drx_select_mode">Odberi način:</string>
+  <string name="cit_tool_prx_drx_select_rat">Odberi RAT:</string>
+  <string name="cit_tool_prx_drx_start_test">Pokreni Test</string>
+  <string name="cit_tool_prx_drx_stop_test">Zaustavi Test</string>
+  <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_rf_ant">Alati RF/Antene</string>
   <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -339,6 +345,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_rx_exit">Rx:izlaz</string>
   <string name="cit_tool_wifi_rx_run">Pokreni</string>
   <string name="cit_tool_wifi_rx_stop">Zaustavi</string>
+  <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
@@ -358,12 +365,12 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
   <string name="cit_torch_modify">Modificiraj svjetiljku</string>
-  <string name="cit_torch_off">Isključite svjetiljku</string>
-  <string name="cit_torch_on">Uključite svjetiljku</string>
-  <string name="cit_touch_calib_fail">Kalibriranje uspjelo</string>
-  <string name="cit_touch_calib_instruction">Kalibriranje</string>
+  <string name="cit_torch_off">Isključi svjetiljku</string>
+  <string name="cit_torch_on">Uključi svjetiljku</string>
+  <string name="cit_touch_calib_fail">Kalibracija dodira nije uspjela, Ppokušaj ponovo</string>
+  <string name="cit_touch_calib_instruction">Pokreni kalibriranje</string>
   <string name="cit_touch_calib_pass">Kalibriranje je uspješno završeno</string>
-  <string name="cit_touch_calib_summary">Sljedeći korak potpune kalibracije na dodir, pritisnite tipku OK, ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
+  <string name="cit_touch_calib_summary">Sljedeći korak će obaviti kalibraciju dodira, potvrdite i ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
   <string name="cit_touch_calib_title">Kalibriranje dodira</string>
   <string name="cit_usb_OTG_in">USB OTG uređaj otkriven</string>
   <string name="cit_usb_OTG_out">USB OTG uređaj uklonjen</string>
@@ -387,7 +394,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_vibrator_show_advanced">Prikaži napredne opcije</string>
   <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje WLAN-a</string>
   <string name="cit_wifi_address_check_title">WLAN Adresa</string>
-  <string name="cit_wifi_address_error">"Nije bilo moguće dobiti WLAN adresu. Provjerite je li WLAN omogućen."</string>
+  <string name="cit_wifi_address_error">"Ne mogu dobiti WLAN adresu. Provjerite je li WLAN omogućen."</string>
   <string name="cit_wifi_ap_scan_check_summary">U nastavku se Informacije WLAN AP od uređaja na području koje su otkrivene. Potvrdite da su informacije istaknute zelenom bojom ispravne.</string>
   <string name="cit_wifi_ap_scan_check_title">Skeniranja WLAN AP</string>
   <string name="cit_wifi_ap_scan_retry">Skeniraj ponovo…</string>
@@ -407,7 +414,8 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="error_app_unsupported">Nepodržani format</string>
   <string name="error_sdcard_access">Nije moguće pristupiti sustavu prostora!</string>
   <string name="keyboard">KEY</string>
-  <string name="lcminfo">LCM informacije</string>
+  <string name="lcminfo">LCM informacija</string>
+  <string name="magnetic_info_hint">Okrećite uređaju u obliku broja 8</string>
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC i SPK</string>
@@ -416,6 +424,7 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="start">Start</string>
   <string name="testagain">Možete pritisnuti tipku HOME za ponovno testiranje</string>
   <string name="testing">Pokretanje AutoTesta…</string>
+  <string name="touch_auto">Samotestiranje zaslona osjetljiva na dodir tijeku, molimo pričekajte…</string>
   <string name="tp_color">TP Boja:</string>
   <string name="tp_version">TP Verzija:</string>
   <string name="waiting">Pričekajte 4s.</string>
