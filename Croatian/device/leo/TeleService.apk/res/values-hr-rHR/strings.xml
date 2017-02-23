@@ -252,7 +252,7 @@
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
   <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
-  <string name="callFailed_QOS_unavailable" />
+  <string name="callFailed_QOS_unavailable">Kvaliteta usluga nije dostupna</string>  
   <string name="callFailed_access_information_discarded" />
   <string name="callFailed_bearer_capability_not_authorized" />
   <string name="callFailed_bearer_capability_unavailable" />
@@ -324,7 +324,7 @@
   <string name="callFailed_unobtainable_number">Nevažeći broj</string>
   <string name="callFailed_userBusy">Linija je zauzeta</string>
   <string name="callFailed_user_not_member_of_CUG">User not member of CUG</string>
-  <string name="callFailed_video_call_tty_enabled">Cannot make video calls when TTY is enabled.</string>
+  <string name="callFailed_video_call_tty_enabled">Videopozivi nisu mogući kada je TTY omogućen.</string>
   <string name="callUnanswered_forwarded">Poziv neodgovoren i preusmjeren</string>
   <string name="call_advanced_setting_title">Napredne postavke</string>
   <string name="call_background_lock_wallpaper">Pozadina zaklj. zaslona</string>
@@ -366,7 +366,7 @@
   <string name="call_settings">Telefon</string>
   <string name="call_settings_admin_user_only">Call settings can only be changed by the admin user.</string>
   <string name="call_settings_primary_user_only">Postavke može mijenjati samo primarni korisnik.</string>
-  <string name="call_settings_with_label">Post. poziva (%s)</string>
+  <string name="call_settings_with_label">Postavke (%s)</string>
   <string name="call_waiting_summary">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
   <string name="call_waiting_title">Poziv na čekanju</string>
   <string name="call_waiting_tone_continuously">Reproduciraj zvuk obavijesti kontinuirano</string>
@@ -469,8 +469,6 @@
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
   <string name="common_problem_message">Saznajte više u %1$s, ili nazovite našu službu za korisnike na 400-100-5678</string>
   <string name="common_setting">Opće postavke</string>
-  <string name="config_dialing_emergency_number_suffix" />
-  <string name="config_world_mode" />
   <string name="confirm">Potvrdi</string>
   <string name="confirmPin2Label">Potvrdi novi PIN2</string>
   <string name="confirmPinLabel">Potvrdi novi PIN</string>
@@ -768,7 +766,7 @@
   <string name="fdn_list_with_label">FDN popis (%s)</string>
   <string name="fdn_service_unavailable">FDN usluga nije dostupna.</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
-  <string name="fdn_with_label">Brojevi za preusmjeravanje (%s)</string>
+  <string name="fdn_with_label">Fiksno biranje (%s)</string>
   <string name="feedback">Pov. informacija</string>
   <string name="flash_when_ring_summary">Obavijesti Bljeskalicom o dolaznim pozivima</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
@@ -784,7 +782,7 @@
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
   <string name="fw_change_failed">"Nije bilo moguće promijeniti broj za preusmjeravanje.
 Obratite se mobilnom operateru ako problem potraje."</string>
-  <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutačnih postavki broja za preusmjeravanje nije uspjelo.
+  <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutačnih postavki broja za prosljeđivanje nije uspjelo.
 Želite li se ipak prebaciti na novog davatelja usluge?"</string>
   <string name="general_news_settings">Opće vijesti</string>
   <string name="general_remove">Ukloni</string>
@@ -837,6 +835,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">Poziv nije poslan.</string>
+  <string name="incall_error_cannot_add_call">Poziv trenutačno nije moguć.</string>
   <string name="incall_error_ecm_emergency_only">Isključite način hitnih poziva da biste uputili poziv koji nije hitan.</string>
   <string name="incall_error_emergency_only">Nije registrirano na mreži.</string>
   <string name="incall_error_local_low_battery">Poziv nije uspio zbog slabe baterije!!!.</string>
@@ -895,8 +894,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Postavke plana podataka</string>
   <string name="ivr_type_settings_hint">Unesite kod plana podataka</string>
-  <string name="keep_screen_on">Stay awake</string>
-  <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
+  <string name="keep_screen_on">Ne pokreći mirovanje</string>
+  <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keep_wait_call_back">Nastavi s čekanjem</string>
   <string name="labelCDMAMore">Postavke CDMA poziva</string>
   <string name="labelCF">Preusmjeravanje poziva</string>
@@ -940,7 +939,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="lable_network_not_supported">"Mreža nije podržana"</string>
   <string name="lafs_disable">Raspored letova za lokalnu zrakoplovnu luku je isključen</string>
   <string name="lafs_enable">Raspored letova za lokalnu zrakoplovnu luku je uključen</string>
-  <string name="legacy_dhcp_client_summary">Use the DHCP client from Lollipop instead of the new Android DHCP client.</string>
+  <string name="legacy_dhcp_client_summary">Koristi DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
   <string name="list_language_dtitle">Jezici</string>
   <string name="list_language_summary">Odaberite jezik vijesti</string>
   <string name="list_language_title">Jezik</string>
@@ -1061,7 +1060,7 @@ to start using Top-up package"</string>
   <string name="mismatchPin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="mismatch_password">"Zaporke koje ste unijeli se ne podudaraju."</string>
   <string name="mismatch_pin">"PIN-ovi koje ste unijeli se ne podudaraju."</string>
-  <string name="mismatch_pin2">PIN2-ovi međusobno se ne podudaraju. Pokušajte ponovo.</string>
+  <string name="mismatchPin2">PIN-ovi 2 nisu podudarni. Pokušajte ponovo.</string>
   <string name="missed_call_notify_five_times">5x</string>
   <string name="missed_call_notify_none">Bez podsjetnika</string>
   <string name="missed_call_notify_once">1x</string>
@@ -1289,7 +1288,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="other_countries_and_regions">Ostale zemlje</string>
   <string name="other_settings">Ostale postavke poziva</string>
   <string name="other_settings_category">Ostalo</string>
-  <string name="overlay_display_devices_title">Simulate secondary displays</string>
+  <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overseas_roaming_setting">Međunarodni roaming</string>
   <string name="password_changed">Zaporka promjenjena</string>
   <string name="password_title">Zaporka</string>
@@ -1357,7 +1356,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="pick_outgoing_call_phone_type">Biranje broja</string>
   <string name="pick_outgoing_sip_phone">Biranje broja putem interneta:</string>
   <string name="picture_color_mode">Način boje slike</string>
-  <string name="picture_color_mode_desc">Use sRGB</string>
+  <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
   <string name="pin2_attempts">"
 Imate još %d pokušaja."</string>
   <string name="pin2_changed">PIN2 ažuriran</string>
@@ -1420,8 +1419,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (auto)</string>
   <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo auto</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferirani način mreže: CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_cdma_evdo_summary">Preferirani način mreže: CDMA / EvDo</string>
+  <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferirani mrežni način: CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_cdma_evdo_summary">Način željene mreže: CDMA / EvDo</string>
   <string name="preferred_network_mode_cdma_lte_evdo_choice">CDMA + LTE/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Način željene mreže: Samo CDMA</string>
   <string name="preferred_network_mode_cdma_summary">Način željene mreže: CDMA</string>
@@ -1431,7 +1430,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_evdo_only_choice">Samo EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Način željene mreže: Samo EvDo</string>
   <string name="preferred_network_mode_global_choice">Globalno</string>
-  <string name="preferred_network_mode_global_summary">Preferirani način mreže: Globalni</string>
+  <string name="preferred_network_mode_global_summary">Preferirani mrežni način: globalni</string>
   <string name="preferred_network_mode_gsm_only_choice">Samo GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Način željene mreže: Samo GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA auto</string>
@@ -1442,15 +1441,15 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_lte_cdma_summary">Način željene mreže: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_choice">LTE</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Preferirani način mreže: LTE/GSM/UMTS</string>
-  <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferirani način mreže: GSM/WCDMA/LTE</string>
-  <string name="preferred_network_mode_lte_summary">Preferirani način mreže: LTE</string>
+  <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferirani mrežni način: GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_lte_summary">Preferirani mrežni način: LTE</string>
   <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferirani način mreže: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Preferirani način mreže: LTE/GSM/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Preferirani način mreže: LTE/TDSCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_summary">Preferirani način mreže: LTE / TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Preferirani način mreže: LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
-  <string name="preferred_network_mode_lte_wcdma_summary">Preferirani način mreže: LTE / WCDMA</string>
+  <string name="preferred_network_mode_lte_wcdma_summary">Preferirani mrežni način: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">Promijenite način rada mreže</string>
   <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma_summary">Preferirani način mreže: TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_gsm_choice">TD-SCDMA/GSM</string>
@@ -1476,7 +1475,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferirani način mreže: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_gsm_summary">Preferirani način mreže: TDSCDMA / GSM</string>
   <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Preferirani način mreže: TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_tdscdma_summary">Preferirani način mreže: TDSCDMA</string>
+  <string name="preferred_network_mode_tdscdma_summary">Preferirani mrežni način: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferirani način mreže: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_title">Željena vrsta mreže</string>
   <string name="preferred_network_mode_wcdma_only_choice">Samo WCDMA</string>
@@ -1556,7 +1555,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="register_automatically">Automatska prijava…</string>
   <string name="register_on_network">Prijava na %s…</string>
   <string name="registration_done">Registrirano na mreži.</string>
-  <string name="registration_status_checking_status">Provjeravanje…</string>
+  <string name="registration_status_checking_status">Provjeravanje statusa…</string>
   <string name="registration_status_done">Prima pozive.</string>
   <string name="registration_status_failed_try_later">Registracija računa nije uspjela: (%s); pokušat ćemo kasnije</string>
   <string name="registration_status_invalid_credentials">Registracija računa nije uspjela: Netočno korisničko ime ili zaporka.</string>
@@ -1607,7 +1606,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="retail_directory_disable">Onemogućen je maloprodajni imenik</string>
   <string name="retail_directory_enable">Omogućen je maloprodajni imenik</string>
   <string name="retry_btn">Pokušaj ponovo</string>
-  <string name="reverting_settings">Vraćanje postavki…</string>
+  <string name="reverting_settings">Povrat postavki…</string>
   <string name="rhrpd_unlock_failed">RUIM HRPD zahtjev otključavanja neuspješan.</string>
   <string name="rhrpd_unlock_success">RUIM HRPD otključavanje bilo je uspješno.</string>
   <string name="ringtone_silent">Ništa</string>
@@ -1659,7 +1658,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="select_webview_provider_toast_text">Taj izbor više nije važeći. Pokušajte ponovo.</string>
   <string name="sendSms">Pošalji SMS</string>
   <string name="send_button">Pošalji</string>
-  <string name="send_keepalive_title">Pošalji keep-alive</string>
+  <string name="send_keepalive_title">Pošalji postavke keep-alive</string>
   <string name="send_order_failed">"Ne mogu poslati narudžbu"</string>
   <string name="set_primary_summary">Upotrebljava se za odlazne pozive</string>
   <string name="set_primary_title">Postavi kao primarni račun</string>
@@ -1674,11 +1673,10 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="setting_duration_other_prompt">"Za međunarodne cijene poziva provjerite "</string>
   <string name="setting_duration_title">Preostalo vrijeme</string>
   <string name="settings_label">Postavke mreže</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
   <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
-  <string name="show_cpu_usage">Show CPU usage</string>
-  <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
+  <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
+  <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
   <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
   <string name="show_hw_screen_updates">Prikaži ažur. GPU prikaza</string>
@@ -1692,7 +1690,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim1_no_activated">"Ne mogu potvrditi SIM karticu 1"</string>
   <string name="sim2_activated">, SIM kartica 2</string>
   <string name="sim2_no_activated">"Ne mogu potvrditi SIM karticu 2"</string>
-  <string name="simContacts_airplaneMode">Isključite zrakoplovui način da biste uvezli kontakte sa SIM kartice.</string>
+  <string name="simContacts_airplaneMode">Isključite zrakoplovni način da biste uvezli kontakte sa SIM kartice.</string>
   <string name="simContacts_empty">Nema kontakata na vašoj SIM kartici.</string>
   <string name="simContacts_emptyLoading">Čitanje sa SIM kartice…</string>
   <string name="simContacts_title">Odabir kontakata za uvoz</string>
@@ -1903,7 +1901,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="undefined_setting">Ništa</string>
   <string name="unknown">Nepoznato</string>
   <string name="unlock_failed">Neuspješan zahtjev za otključavanje mreže.</string>
-  <string name="unlock_success">Mrežno otključavanje bilo je bilo je uspješno.</string>
+  <string name="unlock_success">Mrežno otključavanje bilo je uspješno.</string>
   <string name="updating_fdn_contact">Ažuriranje broja za fiksno biranje…</string>
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="updating_title">Telefon</string>
@@ -1932,20 +1930,22 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>
-  <string name="voice_number_setting_primary_user_only">Postavke poziva za govornu poštu može promijeniti samo primarni korisnik.</string>
+  <string name="voice_number_setting_primary_user_only">Postavke poziva govorne pošte može promijeniti samo primarni korisnik.</string>
   <string name="voice_privacy">Privatnost glasovne usluge</string>
   <string name="voice_privacy_summary">Omogući poboljšani način privatnosti</string>
   <string name="voice_report_incoming_call">Pozivanje</string>
   <string name="voice_report_unknown_num">Nepoznat broj</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
+  <string name="voicemail_change_pin_dialog_title">Promjena PIN-a</string>
+  <string name="voicemail_default">Vaš mobilni operater</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
   <string name="voicemail_number_not_set">Nije postavljeno</string>
   <string name="voicemail_provider">Govorna pošta</string>
   <string name="voicemail_provider_summary">Odaberite uslugu govorne pošte</string>
-  <string name="voicemail_settings">Postavke gov. pošte</string>
+  <string name="voicemail_settings">Postavljanje</string>
   <string name="voicemail_settings_number_hint">Unesite broj spremnika glasovnih poruka</string>
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>
@@ -1954,16 +1954,16 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voip_setting">VoIP postavke</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
-  <string name="vpn_settings_not_available">VPN postavke nisu dostupna za ovog korisnika</string>
+  <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
   <string name="whole_calls">Svi pozivi</string>
-  <string name="wifi_aggressive_handover">Aktivni prijelaz s Wi‑Fi na mob. mrežu</string>
-  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, Wi-Fi će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je Wi-Fi signal slab.</string>
-  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje Wi-Fi mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
+  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
+  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje WLAN mreže</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_call_setting">Postavke WLAN poziva</string>
   <string name="wifi_calling">WLAN pozivi</string>
@@ -1987,16 +1987,12 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
   <string name="wifi_disabled_password_failure">Problem u autentifikaciji</string>
-  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-jem nije uspjelo</string>
+  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"Skeniranje mreža nije moguće"</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja."</string>
+  <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
+  <string name="wifi_no_internet">Nema pristupa internetu.</string>
+  <string name="wifi_no_internet_no_reconnect">Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja.</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_only">WLAN Samo</string>
   <string name="wifi_pref_none">Nema odabranih preferenci</string>
@@ -2004,20 +2000,10 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Nema</string>
-  <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču Wi‑Fi-ja</string>
+  <string name="wifi_verbose_logging">Omogući opširnu prijavu na WLAN</string>
+  <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču WLAN-a</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
-  <string name="window_animation_scale_title">Window animation scale</string>
+  <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="xdivert_button">X-Divert postavke</string>
   <string name="xdivert_setting">X-Divert postavke</string>

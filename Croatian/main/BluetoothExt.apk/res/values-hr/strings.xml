@@ -9,7 +9,6 @@
   <string name="bluetooth_remember_choice">Dopusti uvijek</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi imati pristup vašoj SIM kartici. Dopustiti pristup %2$s?</string>
   <string name="bluetooth_sap_request">Zahtjev za SAP</string>
-  <string name="defaultname">Carkit</string>
   <string name="dun_acceptance_timeout_message">Došlo je isteka vremena za prihvat veze s %1$s</string>
   <string name="dun_notif_message">Dodirnite za povezivanje s \"%1$s\".</string>
   <string name="dun_notif_ticker">Zahtjev za Bluetooth DUN</string>

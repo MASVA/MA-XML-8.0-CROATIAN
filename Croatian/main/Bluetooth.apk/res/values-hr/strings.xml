@@ -53,7 +53,6 @@
   <string name="bt_toast_5">Sljedeći broj datoteka: %1$s šalje se primatelju \"%2$s\"</string>
   <string name="bt_toast_6">Zaustavljeno slanje datoteke primatelju \"%1$s\"</string>
   <string name="btopp_live_folder">Bluetooth primljen</string>
-  <string name="defaultname">Komplet za auto</string>
   <string name="deleteAll_record">Izbriši sve zapise</string>
   <string name="delete_record">Izbriši zapis</string>
   <string name="device_picker">Postavke Bluetooth uređaja</string>
