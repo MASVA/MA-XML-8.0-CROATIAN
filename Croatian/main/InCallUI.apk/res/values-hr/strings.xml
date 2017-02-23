@@ -7,7 +7,6 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
-  <string name="areacode_set_default">Postavi kao zadano</string>
   <string name="callFailed_cb_enabled">Ne možete napraviti odlazne pozive dok je uključena zabrana poziva.</string>
   <string name="callFailed_congestion">Mreža zauzeta</string>
   <string name="callFailed_dialToDial">DIAL zahtjev modificiran za DIAL s različitim brojem.</string>
@@ -87,7 +86,6 @@
   <string name="conference_callers_exceeded">Premašen broj pozivatelja u konferenciji</string>
   <string name="contactPhoto">Slika kontakta</string>
   <string name="contacts_icon_label">Kontakti</string>
-  <string name="default_area_code_setting">Zadani pozivni broj</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za biranje</string>
   <string name="description_image_button_eight">osam</string>

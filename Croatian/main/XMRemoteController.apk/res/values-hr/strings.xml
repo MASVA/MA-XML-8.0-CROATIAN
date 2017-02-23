@@ -342,7 +342,10 @@
   <string name="input_source">Izvor</string>
   <string name="input_speech_button">Pritisni &amp; zadrži, a zatim izgovorite svoju naredbu</string>
   <string name="input_tip">Kodovi ističu nakon 15 minuta</string>
+  <string name="install">Instaliraj</string>
   <string name="install_failed">"Ne mogu instalirati %s"</string>
+  <string name="install_peel_content">Da biste omogućili funkciju TV vodiča, instalirajte Peel za Mi Remote.</string>
+  <string name="install_peel_title">Instaliraj Peel Mi Remote</string>
   <string name="install_succed">Instalirano %s</string>
   <string name="installing">Instaliranje…</string>
   <string name="introduction">Uvod</string>

@@ -21,9 +21,10 @@
   <string name="convertion_unit_velocity">Konverzija brzine</string>
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
-  <string name="currency_update_time_format">Devizni tečaj osigurava webull (%s)</string>
+  <string name="currency_update_time_format">Devizni tečaj osigurava Webull (%s)</string>
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
+  <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
   <string name="error">Pogreška</string>
   <string name="error_fomrat">Pogreška formata</string>
   <string name="from_unit_en">kilometara na sat</string>
