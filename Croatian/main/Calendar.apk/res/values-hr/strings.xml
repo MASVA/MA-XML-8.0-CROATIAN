@@ -208,7 +208,7 @@
   <string name="edit_event_show_all">Prikaži sve</string>
   <string name="edit_event_tab_anniversary">Godišnjica</string>
   <string name="edit_event_tab_birthday">Rođendan</string>
-  <string name="edit_event_tab_countdown">Odbrojavanje</string>
+  <string name="edit_event_tab_countdown">Započelo</string>
   <string name="edit_event_tab_event">Događaj</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>

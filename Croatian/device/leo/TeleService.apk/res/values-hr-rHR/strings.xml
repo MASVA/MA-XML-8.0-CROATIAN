@@ -131,7 +131,6 @@
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
-  <string name="areacode_set_default">Zadano</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
   <string name="atr_enable">Obavijesti o prometu su uključene</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -328,7 +327,6 @@
   <string name="callFailed_video_call_tty_enabled">Cannot make video calls when TTY is enabled.</string>
   <string name="callUnanswered_forwarded">Poziv neodgovoren i preusmjeren</string>
   <string name="call_advanced_setting_title">Napredne postavke</string>
-  <string name="call_background_default">Zadana slika</string>
   <string name="call_background_lock_wallpaper">Pozadina zaklj. zaslona</string>
   <string name="call_background_setting">Pozadina poziva</string>
   <string name="call_barring">Zabrana poziva</string>
@@ -449,8 +447,6 @@
   <string name="cfu_title">Uvijek proslijedi pozive</string>
   <string name="change">Postavi</string>
   <string name="change_data_preference_4g_only_prompt">Izgleda da imate samo 4G SIM karticu. Postaviti ovu karticu kao zadanu za mobilnu podatkovnu vezu?</string>
-  <string name="change_default_data_card">Zadani mobilni podaci SIM</string>
-  <string name="change_default_data_card_summary">Izgleda da ste promijenili SIM kartice. Postaviti ovu karticu kao zadani SIM za mobilnu podatkovnu vezu?</string>
   <string name="change_num">Ažuriraj</string>
   <string name="change_password">Promjena zaporke zabrane</string>
   <string name="change_pin">Promijeni PIN za SIM</string>
@@ -464,7 +460,6 @@
   <string name="chose_product_title">Paket nadoplate</string>
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
   <string name="clir_choices_hide_number">Sakrij broj</string>
-  <string name="clir_choices_network_default">Mreža određuje</string>
   <string name="clir_choices_show_number">Pokaži broj</string>
   <string name="close">Zatvori</string>
   <string name="close_dialog">U redu</string>
@@ -474,7 +469,6 @@
   <string name="command_error_fdn_failure">Morate prvo isključiti FDN</string>
   <string name="common_problem_message">Saznajte više u %1$s, ili nazovite našu službu za korisnike na 400-100-5678</string>
   <string name="common_setting">Opće postavke</string>
-  <string name="config_default_data_sim">Postavke</string>
   <string name="config_dialing_emergency_number_suffix" />
   <string name="config_world_mode" />
   <string name="confirm">Potvrdi</string>
@@ -493,7 +487,6 @@
   <string name="connect_later">Povezivanje s tom mrežom trenutačno nije moguće. Pokušajte kasnije.</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
-  <string name="connection_service_default_label">Ugrađena usluga povezivanja</string>
   <string name="contactAddFailed">"Ne mogu dodati kontakt na SIM karticu"</string>
   <string name="contactAddSuccess">Kontakt bilo je uspješno dodan na SIM karticu</string>
   <string name="contactPhoto">kontakt fotografija</string>
@@ -539,12 +532,6 @@
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
-  <string name="default_area_code_setting">Zadani pozivni broj</string>
-  <string name="default_areacode">Zadani pozivni broj</string>
-  <string name="default_call_type">CSVoice</string>
-  <string name="default_notification_description">Zadani zvuk (%1$s)</string>
-  <string name="default_preference_summary">Nije postavljeno</string>
-  <string name="default_sim_setting">Zadane SIM postavke kao:</string>
   <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbriši sve kontakte sa SIM kartice</string>
   <string name="deleteSimContacts">Brisanje kontakata…</string>
@@ -1097,10 +1084,7 @@ to start using Top-up package"</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
   <string name="msim_apn_not_set">Nije postavljeno</string>
-  <string name="msim_default_setting">Zadane postavke</string>
   <string name="msim_disable_sim_card_btn_text">U redu</string>
-  <string name="msim_disable_sim_card_summary_default_card">"Ova kartica je trenutno postavljena kao zadana SIM kartica. Ako je prestanete koristiti, nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Možete zaustaviti ovu SIM karticu nakon postavljanja druge SIM kartice kao zadane."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Prestati koristiti %s SIM karticu?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Nemojte ograničiti vašu sekundarnu SIM karticu u načinu hitnog poziva."</string>
   <string name="msim_disable_sim_card_title">Prestani s korištenjem SIM kartice</string>
   <string name="msim_enable_sim">Uključi</string>
@@ -1423,7 +1407,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preference_category_ringtone">Melodija zvona &amp; vibracija</string>
   <string name="preference_data_usage_summary">Postavite vaš podatkovni plan za kontrolu uporabe mobilnih podataka</string>
   <string name="preference_data_usage_title">Postavite podatkovni plan</string>
-  <string name="preference_dial_pad_touch_tone_default">Zadano</string>
   <string name="preference_dial_pad_touch_tone_off">Isklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavir</string>
   <string name="preference_dial_pad_touch_tone_title">Tonovi biranja</string>
@@ -1616,7 +1599,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="respond_via_sms_cannot_empty">Odbijanje poruka ne može biti prazno</string>
   <string name="respond_via_sms_confirmation_format">Poruka poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Vrati zadano</string>
   <string name="respond_via_sms_setting_summary">Uređivanje unaprijed napisanih brzih odgovora</string>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="response_error">Neočekivan mrežni odgovor.</string>
@@ -1724,7 +1706,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_cards_network_mode_changed_title">Otkrivena nova SIM kartica</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>
-  <string name="sim_description_default">SIM kartica, utor: %s</string>
   <string name="sim_description_emergency_calls">Samo hitni pozivi</string>
   <string name="sim_info">Informacije SIM kartice</string>
   <string name="sim_label_emergency_calls">Hitni pozivi</string>
@@ -1794,7 +1775,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_cfu_enabled_no_number">Broj je nedostupan</string>
   <string name="sum_cw_disabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
   <string name="sum_cw_enabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
-  <string name="sum_default_caller_id">Koristiti zadane postavke operatera za prikaz mog broja kod odlaznih poziva</string>
   <string name="sum_fdn">Upravljanje brojeva za fiksno biranje</string>
   <string name="sum_fdn_change_pin">Promijeni PIN za FDN pristup</string>
   <string name="sum_fdn_manage_list">Upravljaj popisom telefonskih brojeva</string>
@@ -1952,18 +1932,15 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>
-  <string name="voice_number_setting_primary_user_only">Voicei mail for Call settings can only be changed by the primary user.</string>
+  <string name="voice_number_setting_primary_user_only">Postavke poziva za govornu poštu može promijeniti samo primarni korisnik.</string>
   <string name="voice_privacy">Privatnost glasovne usluge</string>
   <string name="voice_privacy_summary">Omogući poboljšani način privatnosti</string>
   <string name="voice_report_incoming_call">Pozivanje</string>
   <string name="voice_report_unknown_num">Nepoznat broj</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Moj davatelj usluge</string>
-  <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
-  <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
   <string name="voicemail_number_not_set">Nije postavljeno</string>
   <string name="voicemail_provider">Govorna pošta</string>
@@ -1973,22 +1950,21 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualna govorna pošta</string>
   <string name="voip_setting">VoIP postavke</string>
   <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
   <string name="volte_switch_title">VoLTE omogućen</string>
-  <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
-  <string name="wait_for_debugger">Wait for debugger</string>
-  <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="vpn_settings_not_available">VPN postavke nisu dostupna za ovog korisnika</string>
+  <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
+  <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za otklanjanje pogrešaka</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?
 "</string>
   <string name="whole_calls">Svi pozivi</string>
-  <string name="wifi_aggressive_handover">Aggressive Wi‑Fi to Cellular handover</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
-  <string name="wifi_allow_scan_with_traffic">Always allow Wi‑Fi Roam Scans</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_auth_password_wrong">Password may be incorrect</string>
+  <string name="wifi_aggressive_handover">Aktivni prijelaz s Wi‑Fi na mob. mrežu</string>
+  <string name="wifi_aggressive_handover_summary">Ako je omogućeno, Wi-Fi će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je Wi-Fi signal slab.</string>
+  <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje Wi-Fi mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_call_setting">Postavke WLAN poziva</string>
   <string name="wifi_calling">WLAN pozivi</string>
   <string name="wifi_calling_call_assistant">Asistent poziva</string>
@@ -2016,7 +1992,7 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
+  <string name="wifi_fail_to_scan">"Skeniranje mreža nije moguće"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
@@ -2038,8 +2014,8 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
-  <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+  <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u Biraču Wi‑Fi-ja</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>

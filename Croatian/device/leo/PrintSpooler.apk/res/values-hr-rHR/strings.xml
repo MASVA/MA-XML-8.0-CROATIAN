@@ -36,7 +36,6 @@
   <string name="print_button">Ispis</string>
   <string name="print_cannot_load_page">Pregled nije dostupan</string>
   <string name="print_dialog">Dijaloški okvir za ispis</string>
-  <string name="print_error_default_message">Nažalost, to nije uspjelo. Pokušajte ponovo.</string>
   <string name="print_error_printer_unavailable">Pisač trenutačno nije dostupan.</string>
   <string name="print_error_retry">Pokušajte ponovno</string>
   <string name="print_forget_printer">Zaboravite pisač</string>

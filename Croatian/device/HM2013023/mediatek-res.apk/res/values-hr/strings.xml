@@ -45,9 +45,6 @@
      <string name="cu_3gwap_name">沃3G手机上网</string>
      <string name="data_conn_only">Data connection only</string>
      <string name="day_concat">", "</string>
-     <string name="default_label">Alarm</string>
-     <string name="default_sim_setting_prompt">Zadane postavke sada su:</string>
-     <string name="default_wallpaper_name">Zadano</string>
      <string name="delete">Izbriši</string>
      <string name="deleteApp">Deinstaliraj aplikacije</string>
      <string name="deleteMail">Arhiviraj poruke pošte i oslobodi mjesto za pohranu</string>
@@ -230,9 +227,7 @@ Pokušajte ponovno za %d sekundi."</string>
      <string name="same_imei">Isti IMEI</string>
      <string name="sd_accessing_swtich_user_message">Svi nespremljeni podaci u vlasničkom računu će biti izgubljeni ili oštećeni.</string>
      <string name="sd_accessing_swtich_user_title">Promijeniti korisnika?</string>
-     <string name="sdcard_default_path_change">Zadani disk za upis je promijenjen.</string>
      <string name="sdcard_ready_title">SD kartica je spremna</string>
-     <string name="sdcard_select_default_path">Želite li promijeniti zadani disk za upis?</string>
      <string name="searching_simcard">Otkrivanje...</string>
      <string name="serviceClassVideo">Video zapis</string>
      <string name="serviceProvisioned">Usluga je rezervirana.</string>

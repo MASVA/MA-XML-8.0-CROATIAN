@@ -302,6 +302,6 @@
     <string-array name="repeat_choose_end">
         <item>Nikad</item>
         <item>Vrijeme</item>
-        <item>Odbrojavanje</item>
+        <item>Započelo</item>
     </string-array>
 </resources> 

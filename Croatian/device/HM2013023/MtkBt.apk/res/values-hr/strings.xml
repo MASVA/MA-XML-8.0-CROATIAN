@@ -241,7 +241,6 @@ Nastaviti sa slanjem?"</string>
   <string name="simap_connected_notify_message">Odaberite za odspajanje</string>
   <string name="simap_connected_notify_ticker">Daljinska SIM je povezana</string>
   <string name="simap_connected_notify_title">%1$s je povezan s vašom SIM</string>
-  <string name="simap_defaultname">Komplet za auto</string>
   <string name="simap_disconnect_message">Odspojiti od %1$s?</string>
   <string name="simap_disconnect_no">Ne</string>
   <string name="simap_disconnect_title">Odspoji udaljenu SIM</string>
@@ -253,7 +252,5 @@ Nastaviti sa slanjem?"</string>
   <string name="simap_request_notif_message">Odobri zahtjev za daljinskom SIM karticom od %1$s</string>
   <string name="toast_bpp_enable_fail">Aktiviranje usluge ispisa nije uspjelo</string>
   <string name="toast_connect_fail">Veza nije uspjela</string>
-  <string name="toast_get_default_value">Dohvaćanje zadane vrijednosti...</string>
-  <string name="toast_get_printer_attr">Dohvaćanje mogućnosti pisača...</string>
   <string name="toast_get_printer_attr_fail">Dohvaćanje mogućnosti pisača nije uspjelo</string>
 </resources>
