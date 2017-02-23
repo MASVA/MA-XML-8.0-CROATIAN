@@ -10,7 +10,6 @@
   <string name="debug_dump_email_subject">U prilogu je podatkovna baza</string>
   <string name="debug_dump_start_button">Pokreni</string>
   <string name="debug_dump_title">Kopiranje podatkovne baze kontakata</string>
-  <string name="default_directory">Kontakti</string>
   <string name="edit_contact">Dodaj kontaktu</string>
   <string name="local_invisible_directory">Ostalo</string>
   <string name="low_memory_toast">"Ne mogu nastaviti koristiti jer nema dovoljno memorije."</string>

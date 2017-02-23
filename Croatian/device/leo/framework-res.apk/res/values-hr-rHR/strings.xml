@@ -44,7 +44,6 @@
   <string name="action_bar_up_description">Kreni gore</string>
   <string name="action_menu_overflow_description">Više opcija</string>
   <string name="action_mode_done">Gotovo</string>
-  <string name="activity_chooser_view_dialog_title_default">Odabir aktivnosti</string>
   <string name="activity_chooser_view_see_all">Prikaži sve</string>
   <string name="activity_list_empty">Nisu pronađene podudarne radnje.</string>
   <string name="activity_resolver_use_always">Uvijek</string>
@@ -209,12 +208,6 @@ koristeći %s"</string>
   <string name="days">dana</string>
   <string name="decline">Odbaci</string>
   <string name="decline_remote_bugreport_action">ODBIJ</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Govorna pošta</string>
-  <string name="default_audio_route_category_name">Sustav</string>
-  <string name="default_audio_route_name">Telefon</string>
-  <string name="default_audio_route_name_dock_speakers">Zvučnici postolja</string>
-  <string name="default_audio_route_name_headphones">Slušalice</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Izbrisan je broj %1$s</string>
@@ -415,7 +408,6 @@ koristeći %s"</string>
   <string name="imTypeHome">Privatna</string>
   <string name="imTypeOther">Ostalo</string>
   <string name="imTypeWork">Službeni</string>
-  <string name="ime_action_default">Pokreni</string>
   <string name="ime_action_done">Gotovo</string>
   <string name="ime_action_go">Idi</string>
   <string name="ime_action_next">Dalje</string>
@@ -443,7 +435,6 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_positive_button">Napusti stranicu</string>
   <string name="js_dialog_before_unload_title">Potvrda kretanja</string>
   <string name="js_dialog_title">Stranica na adresi \"%s\" sadrži sljedeće:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalice kako biste čuli izgovaranje tipki zaporke.</string>
   <string name="keyboard_password_character_no_headset">Točka.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -563,7 +554,6 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_airplane_mode_on">Zrakoplovni način</string>
   <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitan poziv</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Neispravno ste pokušali otključati telefon ovoliko puta: %1$d. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %2$d.</string>
@@ -1146,8 +1136,6 @@ za račun %s."</string>
   <string name="restr_pin_incorrect">Netočno</string>
   <string name="restr_pin_try_later">Pokušajte ponovo kasnije</string>
   <string name="revoke">Opozovi</string>
-  <string name="ringtone_default">Zadana melodija zvona</string>
-  <string name="ringtone_default_with_actual">Zadana melodija zvona (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvona</string>
   <string name="ringtone_silent">Ništa</string>
   <string name="ringtone_unknown">Nepoznata melodija zvona</string>
@@ -1406,7 +1394,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="wifi_calling_off_summary">Isključeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s traži povezivanje s WLAN mrežom %2$s</string>
   <string name="wifi_connect_alert_title">Dopustiti povezivanje?</string>
-  <string name="wifi_connect_default_application">Aplikacija</string>
   <string name="wifi_no_internet">WLAN nema pristup internetu</string>
   <string name="wifi_no_internet_detailed">Dodirnite za opcije</string>
   <string name="wifi_p2p_dialog_title">Izravni WLAN</string>
@@ -1421,7 +1408,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Prima:</string>
   <string name="wifi_p2p_turnon_message">Pokreni izravan rad s WLAN mrežom. To će isključiti rad s WLAN klijentom/žarišnom točkom.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">"Ne mogu se povezati na WLAN"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima lošu internetsku vezu."</string>
   <string name="wireless_display_route_description">Bežični prikaz</string>
@@ -1438,9 +1424,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="years">godina</string>
   <string name="yes">U redu</string>
   <string name="zen_mode_alarm">Do %1$s (sljedeći alarm)</string>
-  <string name="zen_mode_default_events_name">Događaj</string>
-  <string name="zen_mode_default_weekends_name">Vikend</string>
-  <string name="zen_mode_default_weeknights_name">Noć radnog dana</string>
   <string name="zen_mode_downtime_feature_name">Prekid rada</string>
   <string name="zen_mode_feature_name">Ne ometaj</string>
   <string name="zen_mode_forever">Dok ne isključite</string>

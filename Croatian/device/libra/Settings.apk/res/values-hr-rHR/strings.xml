@@ -2473,7 +2473,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
   <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-  <string name="nfc_payment_favor_default">Uvijek</string>
   <string name="nfc_payment_favor_open">Osim kada je otvorena neka druga aplikacija za plaćanje</string>
   <string name="nfc_payment_how_it_works">Način rada</string>
   <string name="nfc_payment_no_apps">Plaćajte telefonom u trgovinama</string>

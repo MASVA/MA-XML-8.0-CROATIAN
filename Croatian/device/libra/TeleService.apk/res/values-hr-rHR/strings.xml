@@ -1057,7 +1057,6 @@ to start using Top-up package"</string>
   <string name="mi_sim_settings_summary">Koristite mobilne podatke bez SIM kartice</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju. Pokušajte ponovo.</string>
-  <string name="mismatchPin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="mismatch_password">"Zaporke koje ste unijeli se ne podudaraju."</string>
   <string name="mismatch_pin">"PIN-ovi koje ste unijeli se ne podudaraju."</string>
   <string name="mismatchPin2">PIN-ovi 2 nisu podudarni. Pokušajte ponovo.</string>
@@ -1937,7 +1936,6 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_change_pin_dialog_title">Promjena PIN-a</string>
-  <string name="voicemail_default">Vaš mobilni operater</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>

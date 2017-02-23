@@ -47,7 +47,6 @@
   <string name="antispam_notification_title">Nepoznat broj</string>
   <string name="antispam_setting">Lista blokiranih</string>
   <string name="apn_settings">Pristupne točke</string>
-  <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
@@ -788,7 +787,6 @@ to start using Top-up package"</string>
   <string name="mi_sim_settings_summary">Koristite mobilne podatke bez SIM kartice</string>
   <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">PIN-ovi koje ste unijeli međusobno se ne podudaraju. Pokušajte ponovo.</string>
-  <string name="mismatchPin2">Vaši unosi za PIN2 međusobno se ne podudaraju. Pokušajte ponovo.</string>
   <string name="mismatch_password">"Zaporke koje ste unijeli se ne podudaraju."</string>
   <string name="mismatch_pin">"PIN-ovi koje ste unijeli se ne podudaraju."</string>
   <string name="mismatchPin2">PIN-ovi 2 nisu podudarni. Pokušajte ponovo.</string>
@@ -1171,7 +1169,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
-  <string name="product_reflash_button">Osvježi…</string>
   <string name="proceed">Nastavi</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osvježi…</string>
