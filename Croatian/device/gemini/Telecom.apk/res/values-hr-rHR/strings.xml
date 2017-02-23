@@ -101,9 +101,6 @@
   <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
-  <string name="change_default_dialer_dialog_title">Želite li promijeniti zadanu aplikaciju brojčanika?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Želite li upotrebljavati %s kao zadanu aplikaciju brojčanika?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Želite li upotrebljavati %1$s umjesto aplikacije %2$s kao zadanu aplikaciju brojčanika?</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
@@ -256,7 +253,6 @@
   <string name="respond_via_sms_canned_response_4">Ne mogu razgovarati, nazovite kasnije.</string>
   <string name="respond_via_sms_confirmation_format">Poruka je poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Vraćanje zadane aplikacije.</string>
   <string name="respond_via_sms_setting_summary" />
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="respond_via_sms_setting_title_2">Uređivanje brzih odgovora</string>

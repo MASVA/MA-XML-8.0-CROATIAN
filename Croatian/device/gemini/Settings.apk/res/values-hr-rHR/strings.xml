@@ -79,7 +79,6 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_screen_magnification_enable">Pokreti povećavanja</string>
   <string name="accessibility_screen_magnification_summary">"Ako je ova značajka uključena, možete povećati ili smanjiti prikaz ako triput dodirnete zaslon.   Nakon povećanja prikaza možete sljedeće:"Pomicati: pomoću dva prsta ili više prstiju povlačite prikaz na zaslonu."Podesiti razinu zumiranja: stisnite dva prsta ili više prstiju ili ih raširite."Također možete privremeno povećati stavku ispod prsta ako je triput dodirnete i držite. U tom slučaju možete povlačiti prst kako biste istražili različite dijelove zaslona. Podignite prst da se vratite na prijašnje stanje.Napomena: povećanje trostrukim dodirom moguće je svuda osim na tipkovnici i traci za navigaciju."</string>
   <string name="accessibility_screen_magnification_title">Pokreti povećavanja</string>
-  <string name="accessibility_service_default_description">Nije dan opis.</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kao pomoć slijepim i slabovidnim korisnicima. Želite li ga besplatno instalirati s usluge Trg. Play?</string>
   <string name="accessibility_services_title">Usluge</string>
   <string name="accessibility_settings">Pristupačnost</string>
@@ -253,7 +252,6 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="app_launch_domain_links_title">Veze aplikacije</string>
   <string name="app_launch_open_domain_urls_summary">Otvori bez postavljanja pitanja</string>
   <string name="app_launch_open_domain_urls_title">Otvori podržane veze</string>
-  <string name="app_launch_other_defaults_title">Ostale zadane postavke</string>
   <string name="app_launch_supported_domain_urls_title">Podržane veze</string>
   <string name="app_link_open_always">Otvori u ovoj aplikaciji</string>
   <string name="app_link_open_ask">Pitaj svaki put</string>
@@ -374,7 +372,6 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="background_data_summary">Aplikacije mogu sink., slati i primati podatke bilo kad</string>
   <string name="background_process_stop_description">Ovo je proces stare aplikacije koja se još uvijek izvršava u slučaju da opet bude potrebna. Obično je nema potrebe zaustavljati.</string>
   <string name="backtouch_enable_title">Adjust volume on the back cover</string>
-  <string name="backup_configure_account_default_summary">Nijedan račun trenutno ne stvara sigurnosne kopije podataka</string>
   <string name="backup_configure_account_title">Sigurnosni račun</string>
   <string name="backup_data_summary">Stvaranje Sig. kopije podataka aplikacije, WLAN zaporki i ostalih postavki na Googleovim poslužiteljima</string>
   <string name="backup_data_title">Sigurnosno kopiranje</string>
@@ -633,8 +630,6 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_pb_remember_choice">"Više me ne pitaj"</string>
   <string name="bluetooth_permission_request">Zatraženo je Bluetooth dopuštenje</string>
   <string name="bluetooth_phonebook_request">Zahtjev za pristup telefonskom imeniku</string>
-  <string name="bluetooth_pin_values_hint">Obično 0000 ili 1234</string>
-  <string name="bluetooth_pin_values_hint_16_digits">Mora imati 16 znamenki</string>
   <string name="bluetooth_preference_connected_devices">Povezani uređaji</string>
   <string name="bluetooth_preference_device_settings">Postavke uređaja</string>
   <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
@@ -1168,17 +1163,6 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="decline_remote_bugreport_action">Odbij</string>
   <string name="defalut_launcher_title">Zadani Pokretač</string>
-  <string name="default_app">(Zadano)</string>
-  <string name="default_apps_title">Zadano</string>
-  <string name="default_assist_none">Ništa</string>
-  <string name="default_assist_title">Aplikacija-pomoćnik</string>
-  <string name="default_browser_title">Aplikacija preglednika</string>
-  <string name="default_browser_title_none">Nema zadanog preglednika</string>
-  <string name="default_emergency_app">Aplikacija za hitne slučajeve</string>
-  <string name="default_input_method">Odaberite zadanu tipkovnicu</string>
-  <string name="default_phone_title">Aplikacija Telefon</string>
-  <string name="default_sound">Zadani zvuk</string>
-  <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
   <string name="delete_fingerprint_confirm_msg">Ukloniti otisak prsta?</string>
   <string name="delete_fingerprint_text">Ukloni</string>
@@ -1214,7 +1198,6 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_cpu8_info">"8-jezgreni "</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
-  <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>
   <string name="device_info_not_available">Nije dostupno</string>
   <string name="device_info_settings">Status uređaja</string>
@@ -1827,7 +1810,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="internal_storage">Unutarnja pohrana</string>
   <string name="internal_storage_sentence">unutarnja pohrana</string>
   <string name="invalid_location">Lokacija instalacije nije važeća.</string>
-  <string name="invalid_size_value">Nije moguće izračunati veličinu paketa.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
@@ -1843,7 +1825,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="key_settings_title">Tipke</string>
   <string name="keyboard_and_input_methods_category">Tipkovnica i načini unosa</string>
   <string name="keyboard_assistance_category">Pomoć za tipkovnicu</string>
-  <string name="keyboard_layout_default_label">Zadano</string>
   <string name="keyboard_layout_dialog_setup_button">Postavljanje izgleda tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu.</string>
   <string name="keyboard_layout_dialog_title">Odaberite izgled tipkovnice</string>
@@ -1869,8 +1850,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keywords_color_mode">živopisno, RGB, sRGB, boja, prirodno, standardno</string>
   <string name="keywords_color_temperature">temperatura boje D65 D73 bijela žuta plava topla hladna</string>
   <string name="keywords_date_and_time">sat, vojni prikaz</string>
-  <string name="keywords_default_apps">aplikacije, zadano</string>
-  <string name="keywords_default_phone_app">telefon, brojčanik, zadano</string>
   <string name="keywords_display">zaslon, dodirni zaslon</string>
   <string name="keywords_display_auto_brightness">zatamnjenje zaslona, dodirni zaslon, baterija</string>
   <string name="keywords_display_brightness_level">zatamnjenje zaslona, dodirni zaslon, baterija</string>
@@ -1885,7 +1864,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keywords_location">u blizini, lokacija, povijest, izvješćivanje</string>
   <string name="keywords_location_mode">točnost</string>
   <string name="keywords_lockscreen">kliziti prstom za otključavanje, zaporka, uzorak, PIN</string>
-  <string name="keywords_more_default_sms_app">tekstna poruka, slanje SMS-a, poruke, slanje poruka</string>
   <string name="keywords_more_mobile_networks">mobilno, mobilni operater, bežično, podaci, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_name_display">prikazan naziv mreže</string>
   <string name="keywords_network_reset">poništavanje, vraćanje na zadano, vraćanje na tvorničke postavke, poništavanje</string>
@@ -1915,9 +1893,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="last_time_used_label">Posljednja upotreba</string>
   <string name="later">KASNIJE</string>
   <string name="lattice_smartcover_title">Rešetkasti prednji pokrov</string>
-  <string name="launch_by_default">Otvori prema zadanim postavkama</string>
-  <string name="launch_defaults_none">Nema zadanih postavki</string>
-  <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_title">Poč. zaslon</string>
   <string name="launching_cit">Pokrećem CIT</string>
@@ -1963,7 +1938,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke sigurnosne kopije</string>
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
-  <string name="locale_default">Zadano</string>
   <string name="locale_not_translated">Možda nije dostupno u nekim aplikacijama</string>
   <string name="locale_remove_menu">Ukloni</string>
   <string name="locale_settings">Regija</string>
@@ -2499,18 +2473,11 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
   <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
-  <string name="nfc_payment_default">Zadano plaćanje</string>
-  <string name="nfc_payment_default_not_set">Nije postavljeno</string>
-  <string name="nfc_payment_favor_default">Uvijek</string>
   <string name="nfc_payment_favor_open">Osim kada je otvorena neka druga aplikacija za plaćanje</string>
   <string name="nfc_payment_how_it_works">Način rada</string>
   <string name="nfc_payment_no_apps">Plaćajte telefonom u trgovinama</string>
   <string name="nfc_payment_pay_with">Na terminalu \"Dodirni i plati\" plati na sljedeći način:</string>
-  <string name="nfc_payment_set_default">Želite li uvijek upotrebljavati aplikaciju %1$s za plaćanje na način \"Dodirni i plati\"?</string>
-  <string name="nfc_payment_set_default_instead_of">Želite li uvijek upotrebljavati aplikaciju %1$s umjesto aplikacije %2$s prilikom plaćanja na način \"Dodirni i plati\"?</string>
-  <string name="nfc_payment_set_default_label">Želite li to postaviti kao željeni način?</string>
   <string name="nfc_payment_settings_title">Dodirni i plati</string>
-  <string name="nfc_payment_use_default">Koristi zadano</string>
   <string name="nfc_quick_toggle_summary">Dopusti razmjenu podataka kada uređaj dodiruje drugi uređaj</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Odaberite način plaćanja</string>
@@ -2521,7 +2488,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_battery_summary">Nema potrošnje baterije od posljednjeg potpunog punjenja</string>
   <string name="no_connected_devices">Nema povezanih uređaja</string>
   <string name="no_data_usage">Nema uporabe podataka</string>
-  <string name="no_default_apps">Nema zadanih aplikacija.</string>
   <string name="no_device_admins">Nema dostupnih administratora računa</string>
   <string name="no_internet_access_remember">Više ne pitaj za tu mrežu</string>
   <string name="no_internet_access_text">Ta mreža nema pristup internetu. Želite li ostati povezani?</string>
@@ -2983,7 +2949,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="pref_volume_wake_title">Probudi tipkama za glasnoću</string>
   <string name="preference_change_password_title">Promijeni zaporku</string>
   <string name="preferred_app_settings">Zadano</string>
-  <string name="preferred_app_settings_default">Zadano</string>
   <string name="preferred_app_settings_not_selected">Nije odabrano</string>
   <string name="preferred_app_settings_reset">"Vrati na zadano"</string>
   <string name="preferred_app_settings_reset_button">Vrati</string>
@@ -3118,7 +3083,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="provision_skip">Preskoči</string>
   <string name="proxy_action_text">"Gotovo"</string>
   <string name="proxy_clear_text">"Izbriši"</string>
-  <string name="proxy_defaultView_text">Vrati zadano</string>
   <string name="proxy_error">Pažnja</string>
   <string name="proxy_error_dismiss">"U redu"</string>
   <string name="proxy_error_empty_host_set_port">Polje priključka mora biti prazno ako je i polje domaćina prazno.</string>
@@ -3272,8 +3236,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="resetting_second_space_passwd">Resetiranje zaporke Drugog prostora</string>
   <string name="resolver_settings_label">Poredaj</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
-  <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
-  <string name="restore_default_apn_completed">Poništavanje zadanih postavki APN-a dovršeno.</string>
   <string name="restr_pin_enter_admin_pin">Unesite PIN administratora</string>
   <string name="restrict_background_blacklisted">Pozadinski podaci su iključeni</string>
   <string name="restriction_bluetooth_config_summary">Dopusti izmjene uparivanja i postavki Bluetootha</string>
@@ -3918,9 +3880,6 @@ Možda je PIN pogrešan."</string>
   <string name="smartcover_sensitive_summary">Zaključajte/otključajte telefon automatski koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_application_title">Zadana aplikacija za SMS</string>
-  <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
-  <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Koristiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
   <string name="sms_delivered_sound_title">Poruka isporučena</string>
   <string name="sms_messages_title">SMS poruke</string>
@@ -4346,16 +4305,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="trusted_credentials_user_tab">Korisnik</string>
   <string name="try_again">Pokušajte ponovno.</string>
   <string name="tts_data_installed_summary">Glasovi potrebni za sintezu govora već su ispravno instalirani</string>
-  <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-  <string name="tts_default_lang_title">Jezik</string>
-  <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-  <string name="tts_default_pitch_title">Visina glasa</string>
-  <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-  <string name="tts_default_rate_title">Brzina govora</string>
-  <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
-  <string name="tts_default_settings_section">Zadane postavke</string>
-  <string name="tts_default_synth_summary">Postavi alat za sintezu govora koji će se upotrebljavati za govorni tekst</string>
-  <string name="tts_default_synth_title">Zadani alat</string>
   <string name="tts_engine_error">Alat koji ste odabrali ne može se pokrenuti.</string>
   <string name="tts_engine_error_config">Konfiguriraj</string>
   <string name="tts_engine_error_reselect">Odaberite drugi alat</string>
@@ -5174,7 +5123,6 @@ WLAN Assistant"</string>
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni hotspot</string>
   <string name="wifi_tether_enabled_subtext">Aktivan je prijenosni hotspot %1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>

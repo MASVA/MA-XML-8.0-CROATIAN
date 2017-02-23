@@ -312,7 +312,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda ne odgovaraju</string>
    <string name="local_backup_password_toast_success">Nova zaporka za sigurnosnu kopiju postavljena</string>
    <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke za sigurnosnu kopiju</string>
-   <string name="lockscreen_carrier_default">Nema usluge</string>
    <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podržava pomicanje snimke zaslona."</string>
    <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
    <string name="long_screenshot_processing">Obrada…</string>

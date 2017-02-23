@@ -31,7 +31,6 @@
   <string name="configure_input_methods">Odaberite tipkovnicu</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
-  <string name="default_name">Zadano</string>
   <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
   <string name="enable_livetalk_title">Uključi paket nadoplate</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>

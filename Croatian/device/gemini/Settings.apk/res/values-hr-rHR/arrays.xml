@@ -510,11 +510,6 @@
         <item>Chimp</item>
         <item>Monkey</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Postavi pitanje</item>
-        <item>Ne dopuštaj nikada</item>
-        <item>Dopusti uvijek</item>
-    </string-array>
     <string-array name="ram_states">
         <item>Uobičajeno</item>
         <item>Umjereno</item>
