@@ -1270,7 +1270,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="respond_via_sms_cannot_empty">Odbijanje poruka ne može biti prazno</string>
   <string name="respond_via_sms_confirmation_format">Poruka poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Vrati zadano</string>
   <string name="respond_via_sms_setting_summary">Uređivanje unaprijed napisanih brzih odgovora</string>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="response_error">Neočekivan mrežni odgovor.</string>
@@ -1412,7 +1411,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_cfu_enabled_no_number">Broj je nedostupan</string>
   <string name="sum_cw_disabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
   <string name="sum_cw_enabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
-  <string name="sum_default_caller_id">Koristi zadane postavke operatera za prikaz mog broja kod odlaznih poziva</string>
   <string name="sum_fdn">Upravljanje brojeva za fiksno biranje</string>
   <string name="sum_fdn_change_pin">Promijeni PIN za FDN pristup</string>
   <string name="sum_fdn_manage_list">Upravljaj popisom telefonskih brojeva</string>

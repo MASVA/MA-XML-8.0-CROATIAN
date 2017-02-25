@@ -5,9 +5,6 @@
   <string name="add_vm_number_str">Dodaj broj</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne mogu uputiti videopoziv dok je glasovni poziv u tijeku"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
-  <string name="change_default_dialer_dialog_title">Želite li promijeniti zadanu aplikaciju brojčanika?</string>
-  <string name="change_default_dialer_no_previous_app_set_text">Želite li upotrebljavati %s kao zadanu aplikaciju brojčanika?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">Želite li upotrebljavati %1$s umjesto aplikacije %2$s kao zadanu aplikaciju brojčanika?</string>
   <string name="dial_conference_fail_prompt">"Ne mogu birati konferenciju izravno, jer trenutna mreža ne podržava VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Trenutna mreža ne podržava VoLTE. Prebaciti se na redovan glasovni poziv?"</string>
   <string name="duplicate_video_call_not_allowed">Poziv se ne može dodati u ovom trenutku.</string>

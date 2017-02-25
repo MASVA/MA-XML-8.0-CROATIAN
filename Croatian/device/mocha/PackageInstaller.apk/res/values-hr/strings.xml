@@ -61,7 +61,6 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="unknown_apps_dlg_text">"Radi sigurnosti vaš je telefon postavljen da blokira instaliranje aplikacija koje nisu iz usluge Google Play.
 
 To možete promeniti kroz Postavke &gt; Sigurnost &gt; Nepoznati izvori."</string>
-  <string name="update_log_default">Nema ažuriranja</string>
   <string name="update_time">%1$s u %2$s u %3$s verzija %4$s</string>
   <string name="update_title">%1$ ima novu verziju</string>
   <string name="virus_scan_clear">Ukloni</string>

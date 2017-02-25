@@ -43,7 +43,6 @@
   <string name="action_bar_up_description">Kreni gore</string>
   <string name="action_menu_overflow_description">Više opcija</string>
   <string name="action_mode_done">Gotovo</string>
-  <string name="activity_chooser_view_dialog_title_default">Odabir aktivnosti</string>
   <string name="activity_chooser_view_see_all">Prikaži sve</string>
   <string name="activity_list_empty">Nisu pronađene podudarne radnje.</string>
   <string name="activity_resolver_use_always">Uvijek</string>
@@ -173,13 +172,6 @@ koristeći %s"</string>
   <string name="day">dan</string>
   <string name="days">dana</string>
   <string name="decline">Odbaci</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Govorna pošta</string>
-  <string name="default_audio_route_category_name">Sustav</string>
-  <string name="default_audio_route_name">Telefon</string>
-  <string name="default_audio_route_name_dock_speakers">Zvučnici postolja</string>
-  <string name="default_audio_route_name_headphones">Slušalice</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deny">Odbij</string>
@@ -326,7 +318,6 @@ koristeći %s"</string>
   <string name="imTypeHome">Početna</string>
   <string name="imTypeOther">Ostalo</string>
   <string name="imTypeWork">Posao</string>
-  <string name="ime_action_default">Pokreni</string>
   <string name="ime_action_done">Gotovo</string>
   <string name="ime_action_go">Idi</string>
   <string name="ime_action_next">Dalje</string>
@@ -349,7 +340,6 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_positive_button">Napusti stranicu</string>
   <string name="js_dialog_before_unload_title">Potvrda kretanja</string>
   <string name="js_dialog_title">Stranica „%s“ sadrži sljedeće:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalice kako biste čuli izgovaranje tipki zaporke.</string>
   <string name="keyboard_password_character_no_headset">Točka.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -446,7 +436,6 @@ Pokušajte ponovo za %d s."</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitan poziv</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Neispravno ste pokušali otključati uređaj ovoliko puta: %d. Ono će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %d.</string>
@@ -1245,8 +1234,6 @@ za račun %s."</string>
   <string name="restr_pin_incorrect">Netočno</string>
   <string name="restr_pin_try_later">Pokušajte ponovo kasnije</string>
   <string name="revoke">Opozovi</string>
-  <string name="ringtone_default">Zadana melodija zvona</string>
-  <string name="ringtone_default_with_actual">Zadana melodija zvona (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvona</string>
   <string name="ringtone_silent">Nijedan</string>
   <string name="ringtone_unknown">Nepoznata melodija zvona</string>
@@ -1459,7 +1446,6 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="webviewchromium_color_picker_dialog_title">Odabir boje</string>
   <string name="webviewchromium_color_picker_hue">Ton</string>
   <string name="webviewchromium_color_picker_saturation">Zasićenost</string>
-  <string name="webviewchromium_color_picker_value">Vrijednost</string>
   <string name="webviewchromium_date_picker_dialog_clear">Izbriši</string>
   <string name="webviewchromium_date_picker_dialog_set">Postavi</string>
   <string name="webviewchromium_date_picker_dialog_title">Postavljanje datuma</string>
