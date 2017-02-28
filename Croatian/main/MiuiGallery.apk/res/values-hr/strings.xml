@@ -130,6 +130,7 @@
   <string name="backup_automatically_title">Izradi Sig. kopiju automatski</string>
   <string name="backup_battery_low_desc">Još uvijek možete izabrati nastavak izrade sig. kopije stavki</string>
   <string name="backup_battery_low_title">Izrada Sig. kopije pauzirana zbog slabe baterije</string>
+  <string name="backup_close">Zatvori Sig. kopiju</string>
   <string name="backup_cloud_space_low_btn_text">Dobijte više</string>
   <string name="backup_cloud_space_low_desc">%1$s u Mi Cloudu | Dostupno %2$s</string>
   <string name="backup_cloud_space_low_title">Nema dovoljno Mi Cloud prostora</string>
@@ -153,6 +154,7 @@
   <string name="backup_only_in_wifi">Koristi samo WLAN za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="backup_only_in_wifi_summary">Nikad ne koristi mobilne podatke za izradu Sig. kopije fotografija i videozapisa</string>
   <string name="backup_pause">Pauziraj izradu</string>
+  <string name="backup_pause_title">Izradi Sig. kopiju za %s</string>
   <string name="backup_pending">Biti će sig. kopiran automatski</string>
   <string name="backup_stop">Zaustavi izradu</string>
   <string name="backup_sync_error_btn_text">Pokušaj ponovno</string>
@@ -268,6 +270,8 @@
   <string name="debugging_tip">Generiranje debug podataka</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="default_album_name">Novi album</string>
+  <string name="default_relation_name">Nova grupa</string>
+  <string name="define_by_user">Prilagođeno</string>
   <string name="delete">Izbriši</string>
   <string name="delete_album_failed">"Ne mogu izbrisati album."</string>
   <string name="delete_album_msg_format">Izbrisati album \"%2$s\" %1$s %3$s?</string>
@@ -329,6 +333,7 @@
   <string name="empty_query_text_msg">"Ne znam što tražiti…"</string>
   <string name="empty_recommend_back">Natrag</string>
   <string name="empty_recommend_face_page_view">Nema više preporuka</string>
+  <string name="empty_relation">"Naziv grupe ne može biti prazan"</string>
   <string name="enable_auto_upload_tip">Ovaj album će biti uklonjen iz drugih albuma nakon što uključite.</string>
   <string name="enable_auto_upload_title">Uključi sinkr. s Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Uključi albume Mi Clouda za prikaz dijeljenih fotografija.</string>
@@ -463,6 +468,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="input_baby_nick_name">Unesite nadimak</string>
   <string name="input_nickname_toast">"Unesite ime djeteta"</string>
   <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
+  <string name="input_relation_name">Unesi naziv grupe</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
   <string name="invite_send_sms_tip">Vaš operater može vam naplatiti SMS poruku korištenu za slanje ove pozivnice.</string>
@@ -483,6 +489,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Visina treba biti &gt; 0</string>
   <string name="limit_width">Širina treba biti &gt; 0</string>
+  <string name="load_relations">Samo trenutak…</string>
   <string name="loading_dual_tip">Učitavanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne mogu preuzeti"</string>
   <string name="loading_fail_sync_off">Uključite sinkr. s Mi Cloudom za preuzimanje</string>
@@ -530,6 +537,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="new_album_invalid_char">"Nazivi ne mogu sadržavati \"%s\", unesite slovo ili broj."</string>
   <string name="new_album_invalid_name">\"%s\" je album sustava, preimenujte ga.</string>
   <string name="new_album_invalid_prefix">"Nemojte koristiti \".\" ili \"_\" na početku naziva albuma."</string>
+  <string name="new_relation_invalid_char">"Naziv grupe ne može sadržavati “%s”. Koristite slova, brojeve ili znakove."</string>
+  <string name="new_relation_invalid_name">“%s” grupa već postoji, preimenujte ovu grupu.</string>
+  <string name="new_relation_invalid_prefix">"Naziv grupe ne može počinjati sa “.” ili “_”"</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
   <string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
@@ -553,6 +563,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="operation_do_delete_local_thumnail">Izbriši iz ovog uređaja</string>
   <string name="operation_download">Preuzmi fotografiju (%s)</string>
   <string name="operation_edit">Uredi</string>
+  <string name="operation_edit_video">Uredi</string>
   <string name="operation_enable_auto_upload">Uključi sinkronizaciju s Mi Cloudom</string>
   <string name="operation_enter_delete_local">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
   <string name="operation_enter_delte_thumbnail">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
@@ -567,6 +578,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="operation_remove_from_face_album">Ukloni iz albuma</string>
   <string name="operation_remove_from_other_albums">Ukloni iz Drugih albuma</string>
   <string name="operation_remove_secret">Prikaži</string>
+  <string name="operation_rename">Preimenuj</string>
   <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_set_contact_photo">Postavi za sliku kontakta</string>
@@ -667,6 +679,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="remove_from_secret_successful">Uklonjeno iz skrivenog albuma</string>
   <string name="remove_to_album_title">Spoji sa</string>
   <string name="remove_to_other_album">Spoji s drugom osobom</string>
+  <string name="rename_album">Preimenuj album</string>
+  <string name="rename_album_failed">"Ne mogu preimenovati"</string>
+  <string name="rename_album_succeeded">Uspješno preimenovano</string>
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_from_contact">Ime iz kontakata</string>
@@ -794,8 +809,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="sync_battery_low">Slaba baterija</string>
   <string name="sync_cloud_space_full">Nema dovoljno prostora na Mi Cloudu</string>
   <string name="sync_diabled_toast">Sinkronizacija je isključena</string>
+  <string name="sync_metatata_wait_title">Čekanje na sinkronizaciju Mi Cloud podataka</string>
   <string name="sync_off_title">Uključite sinkr. sa Mi Cloudom da automatski izradite sig. kopiranje fotografija i videozapisa</string>
   <string name="sync_pending_title">Sinkronizirat će se automatski</string>
+  <string name="sync_state_unknow">Dobivanje informacija</string>
   <string name="synced_title">Fotografije i videozapisi uspješno pohranjeni</string>
   <string name="syncing_gprs_title">Korištenje mobilnih podataka za sig. kopiranje stavki</string>
   <string name="syncing_metadata_title">Sinkronizacija Mi Cloud podataka</string>

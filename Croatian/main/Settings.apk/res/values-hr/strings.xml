@@ -1146,6 +1146,9 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_admin_status">Taj je administrator aktivan i aplikaciji %1$s dopušta sljedeće:</string>
   <string name="device_admin_title">Administracija uređaja</string>
   <string name="device_admin_warning">Aktiviranjem ovog administratora dopustit ćete aplikaciji %1$s da izvede sljedeće postupke:</string>
+  <string name="device_available_memory">Dostupna memorija</string>
+  <string name="device_battery">Baterija</string>
+  <string name="device_build_id">Verzija</string>
   <string name="device_complete_parameters">Dovršeno</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">"10-jezgreni "</string>
@@ -1170,13 +1173,17 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_name_input_hint">Unesi naziv</string>
   <string name="device_name_usage_point">Ostali uređaji u blizini mogu vidjeti ovaj naziv.</string>
   <string name="device_picker">Odaberite Bluetooth uređaj</string>
+  <string name="device_rear_camera">Stražnja kamera</string>
   <string name="device_reset_title">Vrati uređaj na zadano</string>
+  <string name="device_screen_resolution">Rezolucija zaslona</string>
+  <string name="device_screen_size">Veličina zaslona</string>
   <string name="device_sd_memory">SD kartica</string>
   <string name="device_share_loading">Izrada slike</string>
   <string name="device_security_settings_title">Sigurnost</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Broj telefona, signal itd.</string>
+  <string name="device_total_memory">Ukupna memorija</string>
   <string name="dial_application_title">Biraj</string>
   <string name="dial_pad_tones_title">Tonovi brojčanika</string>
   <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
@@ -1997,6 +2004,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpassword_confirm_for_second_user">Potvrdite zaporku za Drugi prostor</string>
   <string name="lockpassword_confirm_passwords_dont_match">Zaporke se ne podudaraju</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-ovi se ne podudaraju</string>
+  <string name="lockpassword_confirm_workspace_password">Potvrdite zaporku Radnog prostora</string>
   <string name="lockpassword_confirm_your_lock_password_header">Potvrdite svoju zaporku</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Potvrdite svoj uzorak</string>
   <string name="lockpassword_confirm_your_password_generic">Unesite zaporku uređaja za nastavak.</string>
@@ -2039,6 +2047,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje:</string>
   <string name="lockpattern_pattern_entered_header">Uzorak je snimljen</string>
+  <string name="lockpattern_pattern_same_with_others">Treba se razlikovati od zaporke za druge prostore</string>
   <string name="lockpattern_pattern_same_with_owner">Treba se razlikovati od zaporke za Drugi prostor</string>
   <string name="lockpattern_pattern_same_with_security_space">Treba se razlikovati od zaporke za Drugi prostor</string>
   <string name="lockpattern_recording_incorrect_too_short">Povežite barem ovoliko točaka: %d. Pokušajte ponovno.</string>
@@ -2074,6 +2083,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
   <string name="mah">%d mAh</string>
+  <string name="main_netcheck_summary">Testiraj povezanost za probleme s mrežom</string>
   <string name="main_running_process_description">Glavni proces u upotrebi.</string>
   <string name="make_sure_cancel_update">Otkazati ažuriranje?</string>
   <string name="man_add_application">Dodaj aplikacije za automatsko pokretanje</string>
@@ -2182,6 +2192,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_media_usage">Mediji</string>
   <string name="memory_music_usage">Audio (glazba, melodije zvona, podkastovi itd.)</string>
   <string name="memory_performance">Performanse</string>
+  <string name="memory_rightvalue">Dostupno: %s</string>
   <string name="memory_settings_title">Memorija</string>
   <string name="memory_size">Ukupan prostor</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
@@ -2215,6 +2226,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="menu_stats_total">Ukupno iskorištenje</string>
   <string name="menu_stats_unplugged">%1$s od isključivanja</string>
   <string name="menu_use_uss">Upotrijebi Uss</string>
+  <string name="mi_shopping_mall">Mi shopping mall</string>
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">odabrano %1$d od %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
@@ -2358,6 +2370,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="my_device">Moj uređaj</string>
   <string name="nearby_wifi">"Dostupne mreže"</string>
   <string name="need_reboot_now">Ponovo pokrenite uređaj za instaliranje ažuriranja.</string>
+  <string name="netcheck_title">Dijagnostika mreže</string>
   <string name="network_assistant">Uporaba podataka</string>
   <string name="network_detail">Detalji mreže %s</string>
   <string name="network_error">Pogreška mreže.</string>
@@ -3180,7 +3193,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nije zatraženo nijedno dopuštenje</string>
   <string name="save">Spremi</string>
   <string name="saved_network">Spremljeno: %1$s</string>
-  <string name="saved_wifi">Spremljena mreža</string>
+  <string name="saved_wifi">Upravitelj spremljene mreže</string>
   <string name="saved_wifi_delete">Izbriši</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
@@ -3203,6 +3216,16 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_key_press">Pritisnite navigacijske tipke</string>
   <string name="screen_key_press_action">Funkcije pritiska</string>
   <string name="screen_locking_sounds_title">Zvuk zaključavanja zaslona</string>
+  <string name="screen_monochrome_mode_apps_loading">Samo trenutak…</string>
+  <string name="screen_monochrome_mode_apps_title">Koristi monokromatski način rada</string>
+  <string name="screen_monochrome_mode_global_summary">Koristi monokromatski način rada za sve aplikacije</string>
+  <string name="screen_monochrome_mode_global_title">Sve aplikacije</string>
+  <string name="screen_monochrome_mode_local_summary">Koristi monokromatski način rada za odabrane aplikacije</string>
+  <string name="screen_monochrome_mode_local_title">Odabrane aplikacije</string>
+  <string name="screen_monochrome_mode_off_apps_title">"Nemoj koristiti monokromatski način rada"</string>
+  <string name="screen_monochrome_mode_set_apps_title">Aplik. u monokromatskom načinu rada</string>
+  <string name="screen_monochrome_mode_summary">Prebaci na monokromatski način rada da produljite vijek trajanja baterije</string>
+  <string name="screen_monochrome_mode_title">Monokromatski način rada</string>
   <string name="screen_never_timeout_title">Nikada ne miruj</string>
   <string name="screen_on_proximity_sensor_summary">Zaključaj geste dodira kada je stavljen u džep</string>
   <string name="screen_on_proximity_sensor_title">Džepni način</string>
@@ -3244,6 +3267,7 @@ Za prikvačivanje zaslona:
   <string name="screen_pinning_unlock_password">Traži zaporku radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pin">Traži PIN radi otkvačivanja</string>
+  <string name="screen_recorder">Snimi zaslon</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
   <string name="screen_resolution_summary">"Smanjivanje rezolucije zaslona može povećati trajanje baterije i brzinu sustava, međutim slike na zaslonu mogu biti manje jasne. Morate ponovno pokrenuti vaš uređaj za primjenu ove promjene.".</string>
   <string name="screen_resolution_switch">Promjeni rezoluciju</string>

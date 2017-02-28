@@ -18,6 +18,7 @@
   <string name="hour_3">Svaka 3 sata</string>
   <string name="like">Sviđa mi se</string>
   <string name="liked">Sviđa mi se već</string>
+  <string name="lockscreen_magazine_summary">Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_title">Izvanmrežno</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine zaklj. zaslona</string>
@@ -43,9 +44,7 @@
   <string name="sst_grid_view_select_all">Odaberi sve</string>
   <string name="sst_grid_view_unselect_all">Poništi odabir</string>
   <string name="sst_no_favor_wallpaper_hint">Nema slika pozadina u Favoritima</string>
-  <string name="sst_prov_enable_desc">"Dodajte vaše slike pozadina u mapu 
-  
-Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/"</string>
+  <string name="sst_prov_enable_desc">"Uključi vrtuljak slika pozadine na zaključanom zaslonu"</string>
   <string name="sst_prov_enable_title">Uključi vrtuljak slika pozadine</string>
   <string name="sst_require_one_category_hint">Odaberite najmanje 1 kategoriju</string>
   <string name="sst_sti_desc">Postavite učestalost ažuriranja slika pozadine</string>

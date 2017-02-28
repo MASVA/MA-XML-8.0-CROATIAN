@@ -39,7 +39,9 @@
   <string name="error_sdcard_access">"Ne mogu pristupiti prostoru za pohranu"</string>
   <string name="error_sdcard_unmounted">Umetnite SD karticu</string>
   <string name="export_to_note">Izvezi u Bilješke</string>
-  <string name="fm_record">Snimke FM-a (%d)</string>
+  <string name="head_set_tip_dialog_msg">Iskopčajte svoje slušalice kako biste mogli snimiti zvuk s određenim postavkama (na primjer, Glazba, Glas).</string>
+  <string name="head_set_tip_dialog_ok">Shvaćam</string>
+  <string name="head_set_tip_dialog_title">Koristi unutarnji mikrofon</string>
   <string name="invalid_argument">Nevažeći argument</string>
   <string name="low_battery_error">"Preostalo je manje od 5% baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
   <string name="low_battery_error_confirm">U redu</string>

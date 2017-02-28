@@ -164,6 +164,10 @@
         <item quantity="other">"Ne mogu preuzeti %1$d datoteka"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d datoteku"</item>
     </plurals>
+	<plurals name="download_retry_message">
+         <item quantity="other">"Ne mogu preuzeti %1$d datoteka, provjerite mrežnu vezu i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti %1$d datoteku, provjerite mrežnu vezu i pokušajte ponovno"</item>
+     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Odabrano stavki %d</item>
         <item quantity="one">Odabrana %d stavka</item>
@@ -187,6 +191,14 @@
      <plurals name="backuping_desc_gprs">
          <item quantity="other">%1$d fotografija ili videozapisa | %2$s</item>
          <item quantity="one">%1$d fotografija ili videozapis | %2$s</item>
+     </plurals>
+	 <plurals name="backup_after_hours">
+         <item quantity="other">Nastavi s izradom Sig. kopije za %d sati</item>
+         <item quantity="one">Nastavi s izradom Sig. kopije za %d sat</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+         <item quantity="other">%d fotografija ili videozapisa | Pauzirano</item>
+         <item quantity="one">%d fotografija ili videozapis | Pauzirano</item>
      </plurals>
      <plurals name="sync_error_title">
          <item quantity="other">Nije pohranjeno %d fotografija ili videozapisa</item>
