@@ -289,12 +289,12 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="lift_ban">Dopusti</string>
   <string name="lift_ban_once">Dopusti jednom</string>
   <string name="loading">Učitavanje…</string>
-  <string name="local_backup_password_summary_change">Dodirnite da promjenite ili uklonite zaporku Sig. kopiju postavki</string>
-  <string name="local_backup_password_summary_none">Zaporka za Sig. kopiju postavki trenutno nije zaštićenau</string>
-  <string name="local_backup_password_title">Zaporka Sig. kopije postavki</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrđena se ne podudaraju</string>
+  <string name="local_backup_password_summary_change">Dodirnite da promjenite ili uklonite zaporku Sig. kopije radne površine</string>
+  <string name="local_backup_password_summary_none">Zaporka Sig. kopije radne površine trenutno nije zaštićena</string>
+  <string name="local_backup_password_title">Zaporka Sig. kopije radne površine</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Zaporke se ne podudaraju</string>
   <string name="local_backup_password_toast_success">Nova je zaporka postavljena</string>
-  <string name="local_backup_password_toast_validation_failure">Ne mogu postaviti zaporku Sig. kopije postavki</string>
+  <string name="local_backup_password_toast_validation_failure">Ne mogu postaviti zaporku Sig. kopije radne površine</string>
   <string name="location_settings">Postavke lokacije</string>
   <string name="location_warning">%1$s pruža usluge lokacije za ovaj uređaj. Pristup lokaciji može se izmijeniti u postavkama lokacije.</string>
   <string name="low_risk_perms">Dopuštenja niskog rizika</string>

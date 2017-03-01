@@ -9,6 +9,9 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="add_finger_print">Dodajte otisak prsta</string>
   <string name="air_space_created">Radni prostor uspješno izrađen</string>
   <string name="air_space_deleted">Radni prostor uspješno izbrisan</string>
+  <string name="air_space_exit">Izlaz iz prostora</string>
+  <string name="air_space_setting">Postavke prostora</string>
+  <string name="airspace_users_full">"Ne mogu izraditi još radih prostora"</string>
   <string name="appData">Instalirane aplikacije</string>
   <string name="app_name">Komponenta Sigurnosti jezgre</string>
   <string name="back">Natrag</string>
@@ -38,6 +41,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="confirm_main_space_password">Potvrdite zaporku Prvog prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Kontakti</string>
+  <string name="contact_us">Kontaktirajte nas</string>
   <string name="continueButton">Nastavi</string>
   <string name="contact_sub_titile_text">Podaci poruka će se dijeliti između dva prostora</string>
   <string name="contact_titile_text">"Prikaži privatne poruke u Drugom prostoru
@@ -106,6 +110,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="import_photo_suc">Uvezene fotografije</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="loading_apps">Učitavanje aplikacija…</string>
   <string name="loading_space">Samo trenutak…</string>
   <string name="loading_success">Uspješno učitano</string>
@@ -123,6 +128,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="no_match_repate_scanner">"Ne mogu pronaći odgovarajuće otiske prstiju, skeniraj ponovno"</string>
   <string name="next_setp">Dalje</string>
   <string name="normal_app">Prvi prostor</string>
+  <string name="not_support_air_space">"Ova značajka nije podržana na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Višestruki prostori nisu podržani"</string>
   <string name="notificationSetPassword">Postavite zaporku</string>
   <string name="notificationSetPasswordDes">Zaštitite podatke Drugog prostora</string>
@@ -135,6 +141,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
   <string name="opened">Uklj.</string>
+  <string name="other">Ostalo</string>
   <string name="otherSettings">Ostale postavke</string>
   <string name="passWordGuardSummary">Uđi u Drugi prosotor sa Zaklj. zaslona koristeći zaporku</string>
   <string name="passwordProtect">Zaporka</string>
@@ -161,6 +168,10 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="restore_show_toast">Privatne poruke se ne prikazuju</string>
   <string name="retain_src_file">Sačuvaj datoteke</string>
   <string name="retain_src_photo">Sačuvaj fotografije</string>
+  <string name="same_qr_code_create_space">Izradi još jedan</string>
+  <string name="same_qr_code_des">Izgleda da Radni prostor već postoji. Možete koristiti prečace Početnog zaslona i panela obavijesti za Radni prostor. Ići sada?</string>
+  <string name="same_qr_code_enter_space">Idi u Radni prostor</string>
+  <string name="same_qr_code_title">%s već postoji</string>
   <string name="scanner_fingerprint">Skeniranje otiska prsta…</string>
   <string name="scanner_fingerprint_enter_second">"Skenirajte otisak prsta Drugog prostora 
 za ulazak u Drugi prostor sa Zaklj. zaslona"</string>

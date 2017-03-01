@@ -4,6 +4,8 @@
   <string name="account_info">Mi Račun</string>
   <string name="account_name_not_login">Prijavite se</string>
   <string name="account_unactivated">Račun nije aktiviran.</string>
+  <string name="ad_app_download_start">Početak preuzimanja…</string>
+  <string name="ad_app_is_downloading">Preuzimanje…</string>
   <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
   <string name="all_resources">Sve</string>
   <string name="app_name">Teme</string>
@@ -12,7 +14,7 @@
   <string name="apply_font_btn_reboot">Ponovno pokreni</string>
   <string name="apply_font_tip">"Ponovno pokrenite uređaj za primjenu fonta ove teme."</string>
   <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
-  <string name="audio_duration_minutes_format">%1$d minu.</string>
+  <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
   <string name="backup_theme_dialog_message">"Pohraniti vašu trenutnu temu?"</string>
   <string name="backup_theme_dialog_ok">Pohrani</string>
@@ -140,7 +142,7 @@
   <string name="resource_account_switch">Promjena računa</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Izvor Preglednika</string>
-  <string name="resource_apply">Primjeni</string>
+  <string name="resource_apply">Postavi</string>
   <string name="resource_apply_trial">Pokušaj sad</string>
   <string name="resource_back">Natrag</string>
   <string name="resource_buy">Kupi</string>
@@ -176,7 +178,7 @@
   <string name="resource_comment_rating_star_tips">Dodirnite * da ocijenite:</string>
   <string name="resource_comment_score_count">%1$s korisnika</string>
   <string name="resource_comment_sending">Šaljem komentar…</string>
-  <string name="resource_comment_title">Komentara: %1$s</string>
+  <string name="resource_comment_title">Komentari: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Komentar koji ste unijeli nije valjan</string>
   <string name="resource_comment_upload_failed">"Ne mogu poslati komentar"</string>
   <string name="resource_comment_upload_hint">Komentar će se objaviti nakon što bude pregledan.</string>
@@ -206,7 +208,7 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalji %1$s</string>
   <string name="resource_download">Preuzimanje</string>
-  <string name="resource_download_notification_title_many">Preuzeto Tema: %1$s</string>
+  <string name="resource_download_notification_title_many">Preuzeto tema: %1$s</string>
   <string name="resource_download_notification_title_one">Tema preuzeta</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti elementi</string>
@@ -416,6 +418,7 @@
   <string name="title_system_audio_resource">Melodije zvona sustava</string>
   <string name="title_system_wallpaper_resource">Slike pozadine sustava</string>
   <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
+  <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
   <string name="wallpaper_loading_text">Samo trenutak…</string>
@@ -424,4 +427,8 @@
   <string name="wallpaper_set_as_destop">Postavi za sliku pozadine</string>
   <string name="wallpaper_set_as_lockscreen">Postavi za Zaklj.zaslon</string>
   <string name="wallpaper_settings">Postavke slike pozadine</string>
+  <string name="wallpaper_settings_change_wallpaper">Promjeni</string>
+  <string name="wallpaper_settings_desktop_text">Početni zaslon</string>
+  <string name="wallpaper_settings_lockscreen_text">Zaklj.zaslon</string>
+  <string name="wallpaper_settings_page_title">slika pozadine</string>
 </resources>

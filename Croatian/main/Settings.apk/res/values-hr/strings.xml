@@ -843,6 +843,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="clear_failed_dlg_title">Izbriši podatke</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
   <string name="close_gesture">Zatvori koristeći gestu</string>
+  <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_dialog">U redu</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
   <string name="close_miui_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene. Napomena: isključivanje ove značajke će donijeti velike promjene u rasporedu i drugim elementima korisničkog sučelja.</string>
@@ -890,6 +891,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="confirm_erase">U redu</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
+  <string name="confirm_install_and_connect">Instaliraj &amp; poveži</string>
   <string name="confirm_new_backup_pw_prompt">Ovdje ponovno unesite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte otisak prsta ili unesite Zaporku zaštite privatnosti</string>
@@ -1212,6 +1214,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disable_service_message">Ako dodirnete \"U redu\", usluga %1$s će se zaustaviti.</string>
   <string name="disable_service_title">Želite li zaustaviti %1$s?</string>
   <string name="disable_text">Onemogući</string>
+  <string name="disable_wifi_master_key_service">Isključi</string>
   <string name="disabled">Onemogućeno</string>
   <string name="disabled_because_no_backup_security">Za upotrebu, prvo postavite zaključavanje zaslona</string>
   <string name="disconnect">prekini vezu</string>
@@ -1390,6 +1393,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enable_text">"Omogući"</string>
   <string name="enable_wifi_display">Bežični prikaz</string>
+  <string name="enable_wifi_master_key_service">Uključi WLAN Master ključ</string>
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
@@ -1746,6 +1750,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
+  <string name="install_master_key_and_connect">Možete se povezati na tu mrežu koristeći WLAN Master ključ. Instalirati ovaj alat?</string>
   <string name="install_no_market_app_summary">Skeniraj aplikacije iz drugih izvora za virusima prije instaliranja</string>
   <string name="install_no_market_app_title">Skeniranje aplikacija iz drugih izvora</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
@@ -2226,7 +2231,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="menu_stats_total">Ukupno iskorištenje</string>
   <string name="menu_stats_unplugged">%1$s od isključivanja</string>
   <string name="menu_use_uss">Upotrijebi Uss</string>
-  <string name="mi_shopping_mall">Mi shopping mall</string>
+  <string name="mi_shopping_mall">Mi Store</string>
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">odabrano %1$d od %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
@@ -2914,17 +2919,24 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_mode_summary">Zaključaj pojedine aplikacije ili sakrij osobne informacije</string>
   <string name="privacy_notes">Bilješke</string>
   <string name="privacy_password">Zaporka zaštite privatnosti</string>
+  <string name="privacy_password_add_account">Dodaj</string>
+  <string name="privacy_password_add_account_info">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili</string>
+  <string name="privacy_password_add_account_setting">Račun &amp; privatnost</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
   <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
   <string name="privacy_password_confirm_use_finger">Otključajte pomoću otiska prsta</string>
   <string name="privacy_password_enter_privacy">Unesite Zaporku zaštite privatnosti</string>
+  <string name="privacy_password_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Ne mogu potvrditi otisak"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Otisak prsta potvrđen</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
   <string name="privacy_password_fingerprint_dialog_message">Stavite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj otisak prsta</string>
+  <string name="privacy_password_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="privacy_password_never_remind">"Ne pitaj ponovno"</string>
+  <string name="privacy_password_not_add_account">Ne sada</string>
+  <string name="privacy_password_not_login_account">"Niste prijavljeni"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
   <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
@@ -3654,6 +3666,8 @@ Za prikvačivanje zaslona:
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikazuju se vizualne povratne inform. za dodire.</string>
   <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na Zaklj. zaslonu</string>
+  <string name="show_wifi_master_key_summary">Poveži se na dijeljenu WLAN mrežu koristeći WLAN Master ključ</string>
+  <string name="show_wifi_master_key_title">Otkrivena dijeljena WLAN mreža</string>
   <string name="shut_down_find_device_failure_confirm">U redu</string>
   <string name="shut_down_find_device_network_failure_content">"Ne mogu isključiti Pronađi uređaj. Provjerite je li vaš uređaj ima internetsku vezu."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne mogu se povezati na mrežu"</string>
@@ -4083,6 +4097,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="system_alert_window_summary" formatted="false">Aplikacije koje se mogu povlačiti iznad drugih aplikacija: %d/%d</string>
   <string name="system_and_device_section_title">Sustav &amp; uređaj</string>
   <string name="system_app_settings">Aplikacije sustava</string>
+  <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
   <string name="system_backup_section_title">Sig. kopija</string>
   <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
   <string name="system_storage">Unutarnja pohrana</string>
@@ -4226,6 +4241,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="under_keyguard">Na isključenom zaslonu</string>
   <string name="uninstall_all_users_text">Deinstaliraj za sve korisnike</string>
   <string name="uninstall_text">Deinstaliraj</string>
+  <string name="uninstall_wifi_master_key">Deinstaliraj WLAN Master ključ</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
@@ -4369,6 +4385,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>
+  <string name="use_wifi_master_key_summary">Poveži koristeći WLAN Master ključ</string>
   <string name="user_account_title">Račun za sadržaj</string>
   <string name="user_add_max_count">Ne možete dodati više od %1$d korisnika</string>
   <string name="user_add_on_lockscreen_menu">Dodaj korisnike na zaključani uređaj</string>
@@ -4730,7 +4747,6 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_hotspot_checkbox_text">WLAN žarišna točka</string>
   <string name="wifi_hotspot_checkbox_text_summary">Koristi mob. vezu za pružanje WLAN mreže</string>
   <string name="wifi_hotspot_configure_ap_text">Postavljanje WLAN žar. točke</string>
-  <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK pokretna Wi-Fi točka</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
   <string name="wifi_hotspot_message">%1$s zahtijeva prijavu na webu za povezivanje s mrežom.</string>
   <string name="wifi_hotspot_title">Želite li se prijaviti radi povezivanja?</string>
@@ -4744,7 +4760,13 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_ip_settings_invalid_network_prefix_length">Upišite prefiks mreže duljine između 0 i 32 znaka.</string>
   <string name="wifi_ip_settings_menu_cancel">Odustani</string>
   <string name="wifi_ip_settings_menu_save">"Spremi"</string>
-  <string name="wifi_limit_optimizations_summary">Ograniči bateriju za WLAN</string>
+  <string name="wifi_limit_optimizations_summary">Ograniči bateriju korištenjem WLAN-a</string>
+  <string name="wifi_master_key_dialog_content_master_key">WLAN Master ključ</string>
+  <string name="wifi_master_key_dialog_content_password">Zaporka</string>
+  <string name="wifi_master_key_dialog_title">Poveži koristeći</string>
+  <string name="wifi_master_key_name">WLAN Master ključ</string>
+  <string name="wifi_master_key_service_dialog_content">"WLAN Master ključ je besplatni servis koji pruža zaporke za dijeljene WLAN mreže. WLAN Master ključ neće dijeliti zaporku vaše mreže."</string>
+  <string name="wifi_master_key_service_dialog_title">Dijeljena WLAN mreža</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_connect">Poveži s mrežom</string>
   <string name="wifi_menu_forget">Zaboravi mrežu</string>
@@ -5003,6 +5025,9 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="work_profile_confirm_remove_title">Ukloniti radni profil?</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem poslovnom profilu.</string>
   <string name="work_sim_title">Radni SIM</string>
+  <string name="work_space_delete">Izbriši radni prostor</string>
+  <string name="work_space_delete_confirm">Potvrdi brisanje</string>
+  <string name="work_space_delete_description">"Nećete biti u mogućnosti ući u Radni prostor nakon što ga izbrišete. Svi podaci će biti premješteni ili izbrisani."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Provjerite da usmjerivač podržava i ima omogućen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>

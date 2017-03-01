@@ -160,4 +160,21 @@
         <item quantity="few">%1$d starih poruka</item>
         <item quantity="many">%1$d starih poruka</item>
     </plurals>
+	    </plurals>
+	<plurals name="day">
+         <item quantity="other">%d dana</item>
+         <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="day_after">
+         <item quantity="other">Za ovoliko %d dana</item>
+         <item quantity="one">Za %d dan</item>
+     </plurals>
+     <plurals name="day_before">
+         <item quantity="other">prije %d dana</item>
+         <item quantity="one">prije %d dan</item>
+     </plurals>
+     <plurals name="month">
+         <item quantity="other">%d mjeseci</item>
+         <item quantity="one">%d mjesec</item>
+     </plurals>
 </resources>

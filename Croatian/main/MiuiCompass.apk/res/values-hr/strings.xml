@@ -41,7 +41,7 @@
   <string name="location_enable_later">Kasnije</string>
   <string name="location_enabled">Možete isključiti usluge lokacije u bilo kojem trenutku u izborniku Postavke.</string>
   <string name="location_north">S</string>
-  <string name="location_not_enabled_summary">Direktorij treba informacije vaše lokacije da radi normalno.</string>
+  <string name="location_not_enabled_summary">Kompas treba pristupiti vašoj lokaciji da bi mogao prikazati koordinate i nadmorsku visinu..</string>
   <string name="location_not_enabled_title">Usluge lociranja</string>
   <string name="location_south">J</string>
   <string name="location_west">Z</string>

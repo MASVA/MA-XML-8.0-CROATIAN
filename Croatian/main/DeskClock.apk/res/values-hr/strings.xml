@@ -31,7 +31,7 @@
   <string name="birthday_alarm">Alarm rođendana</string>
   <string name="birthday_alarm_summary">Reproduciraj \"Happy Birthday\" umjesto zadanog zvuka alarma na Vaš rođendan</string>
   <string name="cancel">Odustani</string>
-  <string name="close_alarm">Isključi alarm</string>
+  <string name="close_alarm">Isključi</string>
   <string name="common_settings">Postavke</string>
   <string name="confirm_abort">Odbaci</string>
   <string name="control_set_alarm">Postavi alarm</string>
@@ -119,7 +119,7 @@
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="slider_text">Povucite gore za isklj. alarma</string>
-  <string name="snooze_confirm_cancel">Otkaži odgodu</string>
+  <string name="snooze_confirm_cancel">Odbaci alarm</string>
   <string name="snooze_duration_title">Trajanje odgode</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>

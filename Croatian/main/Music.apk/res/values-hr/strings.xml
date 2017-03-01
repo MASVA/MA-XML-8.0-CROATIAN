@@ -83,7 +83,7 @@
   <string name="auto_download_in_wifi">Automatski preuzmi favorite preko WLAN-a</string>
   <string name="auto_payment">Autom. obnovi</string>
   <string name="auto_payment_date">Sljedeće plaćanje: %s</string>
-  <string name="auto_upgrade">Autom. nadogradi</string>
+  <string name="auto_upgrade">Ažuriraj automatski</string>
   <string name="auto_restart_under_wifi">Datoteka će biti preuzeta kada je uređaj povezan na WLAN</string>
   <string name="avail_services">Dostupno</string>
   <string name="available_playlist_name_format">Novi popis pjesama %d</string>
@@ -91,7 +91,7 @@
   <string name="avoid_to_use_traffic_title">Pitaj pri korištenju mobilnih podataka za reprodukciju pjesama</string>
   <string name="back_confirm">Dodirnite ponovno za stavljanje aplikacije u pozadinu</string>
   <string name="backup_complete">Sve pjesme su pohranjene na Mi Cloud</string>
-  <string name="backup_empty_button">Odabrano 0 pjesama</string>
+  <string name="backup_empty_button">Nema odabranih pjesama</string>
   <string name="backup_immediate">Pohrani</string>
   <string name="backup_song_title">Odaberi pjesme za pohraniti</string>
   <string name="baidu_music">Baidu glazba</string>
@@ -128,8 +128,8 @@
   <string name="cloud_empty_message">Nema pjesama na Mi Cloudu</string>
   <string name="cloud_empty_summary">Izradite Sig. kopiju pjesama na Mi Cloud da im možete pristupiti s drugih uređaja</string>
   <string name="cloud_enable">Sinkr. glazbu s Mi Cloud</string>
-  <string name="cloud_loading_message">Tražim pjesme...</string>
-  <string name="cloud_music">Cloud Glazba</string>
+  <string name="cloud_loading_message">Traženje pjesama…</string>
+  <string name="cloud_music">Pjesme na Mi Cloudu</string>
   <string name="cloud_settings">Postavke sinkronizacije</string>
   <string name="cloud_space_full">Nema dovoljno prostora za pohranu</string>
   <string name="cloud_space_full_message">Nema dovoljno prostora u vašem Mi Cloudu za dodavanje više pjesama. Da dobijete više prostora, nadogradite vaš Mi Račun.</string>
@@ -196,11 +196,11 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="dialog_media_not_found">"Ne mogu preuzeti. SD kartica nije dostupna."</string>
   <string name="dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="dialog_queued_body">Ova datoteka je u redu čekanja za buduće preuzimanje.</string>
-  <string name="dialog_song_sort_type">Sortiraj po</string>
+  <string name="dialog_song_sort_type">Sortiraj pjesme</string>
   <string name="dialog_song_sort_type_name">Po nazivu</string>
-  <string name="dialog_song_sort_type_playing_times">Po vremenu trajanja</string>
-  <string name="dialog_song_sort_type_time">Po vremenu</string>
-  <string name="dialog_song_view_type">Prikaži vrstu</string>
+  <string name="dialog_song_sort_type_playing_times">Po broju reproduciranja</string>
+  <string name="dialog_song_sort_type_time">Po vremenu dodavanja</string>
+  <string name="dialog_song_view_type">Prikaži lokalnu glazbu</string>
   <string name="dialog_song_view_type_album">Po albumu</string>
   <string name="dialog_song_view_type_artist">Po izvođaču</string>
   <string name="dialog_song_view_type_folder">Po mapi</string>
@@ -275,7 +275,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_share_dialog">Podijeli putem</string>
   <string name="download_speed_null"/>
   <string name="download_start">Preuzimanje…</string>
-  <string name="download_start_btn">Besplatno preuzimanje…</string>
+  <string name="download_start_btn">Preuzmi</string>
   <string name="download_success">Dovršeno</string>
   <string name="download_title">Preuzimanja</string>
   <string name="download_title_sorted_by_date">Preuzimanja - Poredano po datumu</string>
@@ -680,10 +680,10 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="root_downloads">Preuzimanja</string>
   <string name="save_to_playlist">Spremi kao popis pjesama</string>
   <string name="search_album">Potraži album na internetu</string>
-  <string name="search_empty">Nema rezultata. Pokušajte druge riječi</string>
+  <string name="search_empty">"Nema rezultata"</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Izvođač</string>
-  <string name="search_hint">Traži izvođača, pjesmu, album, preporučeno</string>
+  <string name="search_hint">Traži izvođača, pjesmu, album i preporuke</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_lyric">Potraži tekst na internetu</string>
