@@ -160,7 +160,6 @@
         <item quantity="few">%1$d starih poruka</item>
         <item quantity="many">%1$d starih poruka</item>
     </plurals>
-	    </plurals>
 	<plurals name="day">
          <item quantity="other">%d dana</item>
          <item quantity="one">%d dan</item>
