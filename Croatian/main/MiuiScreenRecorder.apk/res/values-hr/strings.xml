@@ -4,7 +4,7 @@
   <string name="app_name">Snimač zaslona</string>
   <string name="app_notification_title">Snimač zaslona</string>
   <string name="auto_stop_title">Videozapis je uspješno spremljen</string>
-  <string name="battery_not_allowed">Ne mogu snimati kad je napunjenost baterije manja od 3%, preporučljivo je da napunjenost baterije bude viša od 20%.</string>
+  <string name="battery_not_allowed">Ne mogu snimati kad je napunjenost baterije manja od 3%%, preporučljivo je da napunjenost baterije bude viša od 20%%.</string>
   <string name="bit_rate">Kvaliteta videozapisa</string>
   <string name="bit_rate_summary">Viša kvaliteta znači veću veličinu datoteke</string>
   <string name="bubble_text">Dodirnite za početak snimanja</string>
