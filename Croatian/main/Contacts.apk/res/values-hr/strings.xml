@@ -118,9 +118,9 @@
   <string name="callrecordview_menu_delete_called">Izbriši odlazne pozive</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Izbriši propuštene pozive</string>
-  <string name="callrecordview_menu_delete_new">Izbriši povijest poziva novih kontakata</string>
+  <string name="callrecordview_menu_delete_new">Izbriši povijest poziva za nove kontakte</string>
   <string name="callrecordview_menu_delete_one">"Ukloni iz povijesti poziva"</string>
-  <string name="callrecordview_menu_delete_sim">Izbriši %s povijesti poziva</string>
+  <string name="callrecordview_menu_delete_sim">Izbriši povijest poziva (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Izbriši nepoznate brojeve</string>
   <string name="callrecordview_menu_edit_call_note">Uredi bilješku poziva</string>
   <string name="callrecordview_menu_ip">Auto IP biranje</string>
@@ -207,7 +207,7 @@
   <string name="contact_detail_action_item_calllog">Povijest poziva</string>
   <string name="contact_detail_action_item_nocalllog">Nema povijesti</string>
   <string name="contact_detail_calllog_call_note_tips">Bilješke</string>
-  <string name="contact_detail_calllog_call_record_tips">Snimi poziv</string>
+  <string name="contact_detail_calllog_call_record_tips">Snimljeni pozivi</string>
   <string name="contact_detail_calllog_empty">Nema povijesti</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši karticu</string>
   <string name="contact_detail_miprofile_accept">Razmjena Kartice kontakata</string>
@@ -370,8 +370,7 @@ Kartice kontakata su isključene"</string>
 2. Android uređaji također trebaju uključiti značajku \"Vidljiv\";
 
 3. Kliknite \"Dalje\" i dopustite pristup kontaktima u sljedećem koraku."</string>
-   <string name="device_transfer_by_sim_message">"1. Spremite kontakte drugog uređaja na SIM karticu;
-2. Idite u \"Postavke kontakata\" -- \"Uvoz/izvoz kontakata\" -- \"Uvezi sa SIM kartice\", dugi pritisak na bilo koji SIM kontakt, odaberite te kontakte za uvoz, a zatim kliknite na opciju \"Uvoz\"."</string>
+   <string name="device_transfer_by_sim_message">"1. Spremite kontakte s drugog uređaja na SIM karticu; \n\n2. Otvorite postavke u aplikaciji Kontakti, a zatim idite na "Uvoz/Izvoz kontakata" -- "Uvezi sa SIM kartice", držite bilo koji SIM kontakt kako biste ga odabrali, odaberite sve potrebne kontakte, te dodirnite "Uvezi"."</string>
   <string name="device_version_header_bluetooth">Uvezi putem Bluetootha</string>
   <string name="device_version_header_no_bluetooth">Uvezi putem Bluetootha</string>
   <string name="dial">Biraj</string>

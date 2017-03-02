@@ -52,12 +52,12 @@
          <item quantity="one">Prije 1 tjedan</item>
     </plurals>
 	 <plurals name="anniversary_notify_title">
-     <item quantity="other">[Anniversary]%2$d godina godišnjice od %1$s</item>
-     <item quantity="one">[Anniversary]%2$d godina godišnjice od %1$s</item>
+     <item quantity="other">Godišnjica: %2$d godina od %1$s</item>
+     <item quantity="one">Godišnjica: %2$d godina godišnjice od %1$s</item>
     </plurals>
    <plurals name="anniversary_notify_before_3_day_title">
-    <item quantity="other">[Anniversary]%2$d godina godišnjice od %1$s za 3 dana</item>
-    <item quantity="one">[Anniversary]%2$d godina godišnjice od %1$s za 3 dana</item>
+    <item quantity="other">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+    <item quantity="one">Godišnjica: %2$d godina od %1$s za 3 dana</item>
     </plurals>
     <plurals name="anniversary_year">
          <item quantity="other">godina</item>
