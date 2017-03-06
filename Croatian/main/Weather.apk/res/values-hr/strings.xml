@@ -74,10 +74,11 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
+  <string name="information_manager_default_weather_bg">Zadana pozadina</string>
   <string name="information_manager_extension">Ekstenzija vremena</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
-  <string name="information_set">Postavke početne stranice</string>
+  <string name="information_set">Ostale postavke</string>
   <string name="install">Instaliraj</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>

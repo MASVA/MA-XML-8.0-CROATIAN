@@ -124,21 +124,21 @@
   <string name="find_device_access_denied">"Ne mogu dobiti status, pristup odbijen"</string>
   <string name="find_device_account_error">"Ne mogu dobiti status zbog pogreške računa"</string>
   <string name="find_device_activate_account">Aktiviraj račun</string>
-  <string name="find_device_bad_response_error">"Ne mogu dobiti status zbog pogreške poslužitelja, pokušajte ponovno kasnije"</string>
+  <string name="find_device_bad_response_error">"Pogreška poslužitelja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="find_device_display_id">Br. otključavanja: %s</string>
   <string name="find_device_error_password_not_confirmed">"Ne mogu isključiti Pronađi uređaj. Ponovno unesite zaporku Mi Računa"</string>
   <string name="find_device_error_password_recently_changed">"Promijenili ste zaporku u zadnja 3 dana. Ne mogu sada isključiti Pronađi uređaj iz sigurnosnih razloga."</string>
-  <string name="find_device_interrupted">Radnja je prekinuta, pokušajte ponovno kasnije</string>
+  <string name="find_device_interrupted">"Radnja je prekinuta, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="find_device_io_error">"Ne mogu se povezati na mrežu"</string>
   <string name="find_device_locked_account_email" formatted="false">%s, povezana e-pošta:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, povezan broj telefona:%s</string>
   <string name="find_device_null_credential_error">"Ne mogu dobiti informacije o uređaju, kontaktirajte Xiaomi službu za korisnike"</string>
-  <string name="find_device_operation_failed_error">Došlo je do pogreške pogreške poslužitelja, pokušajte ponovno kasnije</string>
+  <string name="find_device_operation_failed_error">Došlo je do pogreške pogreške poslužitelja, pričekajte minutu ili dvije i pokušajte ponovno</string>
   <string name="find_device_operation_failed_error_unknown">Došlo je do pogreške, pokušajte ponovno kasnije</string>
   <string name="find_device_remote_exception">RPC pogreška</string>
-  <string name="find_device_request_error">"Ne mogu zahtijevati informacije o statusu zbog pogreške poslužitelja, pokušajte ponovno kasnije"</string>
+  <string name="find_device_request_error">"Došlo je do pogreške pogreške poslužitelja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
-  <string name="find_device_unknown_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
+  <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>

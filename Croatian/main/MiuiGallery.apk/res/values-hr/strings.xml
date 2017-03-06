@@ -136,6 +136,7 @@
   <string name="backup_cloud_space_low_title">Nema dovoljno Mi Cloud prostora</string>
   <string name="backup_cta_not_allow">"Ne mogu pristupiti mreži"</string>
   <string name="backup_cta_not_allow_btn_text">Dopusti</string>
+  <string name="backup_detail_page_empty">Nema fotografija ili videozapisa za pohraniti</string>
   <string name="backup_detail_page_title">Mi Cloud Sig. kopije</string>
   <string name="backup_device_space_low_btn_text">Očisti</string>
   <string name="backup_device_space_low_desc">Oslobodite prostor za pohranu da biste nastavili izradu sig. kopiju</string>
@@ -169,7 +170,7 @@
   <string name="backuped_desc">Fotografije i videozapisi su sig. kopirani na Mi Cloud</string>
   <string name="backuped_title">Sig. kopija uspješno napravljena</string>
   <string name="backuping_title_gprs">Izrada Sig. kopije pomoću mobilnih podataka…</string>
-  <string name="backuping_title_normal">Izrada Sig. kopijep⤦</string>
+  <string name="backuping_title_normal">Izrada Sig. kopije…</string>
   <string name="begin_share">Napravljen Dječji album \"%s\", sada ga možete podijeliti</string>
   <string name="begin_share_toast">Izraditi zaseban album za ovo dijete prije dijeljenja?</string>
   <string name="black_white">Flat C&amp; B</string>
@@ -455,7 +456,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
-  <string name="image_download_item_title">Preuzmi fotografiju (%s)</string>
+  <string name="image_download_item_title">Preuzmi originalnu fotografiju (%s)</string>
   <string name="image_invalid_path">Pogrešna putanja</string>
   <string name="image_not_found">"Ne mogu pronaći sliku"</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke fotografije i pokušajte ponovno.</string>

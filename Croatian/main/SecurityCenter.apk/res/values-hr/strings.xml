@@ -1872,6 +1872,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. Provjerite internetsku vezu vašeg računala."</string>
   <string name="virus_list_header_title">Otriveno virusa (%d)</string>
   <string name="use_immediately">Upotrijebi</string>
+  <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije su ažurne</string>
   <string name="virus_dp_update_title">Ažuriranja definicija</string>
   <string name="virus_scan">Skeniranje virusa</string>

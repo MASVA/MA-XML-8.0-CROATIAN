@@ -97,7 +97,7 @@
   <string name="clean_content_zero">Ništa</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
-  <string name="clear_safe_notify">Sigurnosna traka obavijesti</string>
+  <string name="clear_safe_notify">Widget u panelu obavijesti</string>
   <string name="clip_board_history_desc">Kopiran/izrezan sadržaj</string>
   <string name="clipboard">Međuspremnik</string>
   <string name="close">Zatvori</string>

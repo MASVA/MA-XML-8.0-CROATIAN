@@ -312,6 +312,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_battery_low">Slaba baterija.</string>
   <string name="micloud_notif_content_clipboard_push">Možete zalijepiti bilo gdje.</string>
   <string name="micloud_notif_content_depend_wifi">Povežite se na WLAN da sinkr.</string>
+  <string name="micloud_notif_content_dirty_data">Pojedinosti</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se prvo na WLAN.</string>
   <string name="micloud_notif_content_memory_low">Nema dovoljno prostora za pohranu.</string>
   <string name="micloud_notif_content_multi_user_error">Prijavili ste se s istim računom kao u Prvom prostoru.</string>
@@ -320,13 +321,14 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_sync_with_off">Dodirnite da sada sinkr. vaš uređaj.</string>
   <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Sadržaj kopiran u međuspremnik</string>
-  <string name="micloud_notif_title_master_depend_wifi">"Ne mogu sinkr. s Mi Cloud"</string>
-  <string name="micloud_notif_title_memory_low">"Ne mogu sinkr. s Mi Cloud"</string>
-  <string name="micloud_notif_title_multi_user_error">"Ne mogu sinkr. s Mi Cloud"</string>
+  <string name="micloud_notif_title_dirty_data">Imate nesinkr. podataka</string>
+  <string name="micloud_notif_title_master_depend_wifi">"Ne mogu sinkr. s Mi Cloudom"</string>
+  <string name="micloud_notif_title_memory_low">"Ne mogu sinkr. s Mi Cloudom"</string>
+  <string name="micloud_notif_title_multi_user_error">"Ne mogu sinkr. s Mi Cloudom"</string>
   <string name="micloud_notif_title_sync_finish">Sinkronizirano</string>
   <string name="micloud_notif_title_sync_not_finish">"Neke stavke nisu sinkronizirane"</string>
   <string name="micloud_notif_title_sync_progress">Sinkroniziram</string>
-  <string name="micloud_notif_title_sync_with_off">Sinkr. s Mi Cloud</string>
+  <string name="micloud_notif_title_sync_with_off">Sinkr. s Mi Cloudom</string>
   <string name="micloud_other_product_price">Usporedba cijena</string>
   <string name="micloud_proceed">Nastavi</string>
   <string name="micloud_request_permission_confirm">Shvaćam</string>
@@ -368,7 +370,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_member">Nabavite više prostora za pohranu</string>
-  <string name="micloud_upgrade_space">Nabavite više prostora za pohranu</string>
+  <string name="micloud_upgrade_space">Nabavite više prostora</string>
   <string name="micloud_user_space_title">Prostor za pohranu</string>
   <string name="micloud_user_space_usage">Prostor za pohranu</string>
   <string name="micloud_warn_full_sum">"Nove stavke neće biti sinkronizirane s MiCloudom."</string>

@@ -42,7 +42,7 @@
   <string name="memory_not_allowed">Nema dovoljno prostora za pohranu. Oslobodite nešto prostora da možete snimati.</string>
   <string name="mic_sound">Mikrofon</string>
   <string name="no_recorder_info">Nema videozapisa</string>
-  <string name="no_recorder_info2">Dodirnite + da dodate snimku zaslona.​</string>
+  <string name="no_recorder_info2">Dodirnite ikonu za novu snimku zaslona.​</string>
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošalji</string>
@@ -55,13 +55,13 @@
   <string name="screen_record_params">Parametri snimanja</string>
   <string name="select_all">Odaberi sve</string>
   <string name="show_hard_key">Vizualiziraj navigacijske tipke</string>
-  <string name="show_hard_key_summary">Prikaži upit kod pritiska na tipke Početna, izbornik i Natrag</string>
+  <string name="show_hard_key_summary">Prikaži upit kod pritiska na tipke Početna, Izbornik i Natrag</string>
   <string name="show_screen_touch">Prikaži geste dodira</string>
-  <string name="show_screen_touch_summary">Vizualiziraj geste koristeći bijelu točku</string>
+  <string name="show_screen_touch_summary">Vizualiziraj geste koristeći točku</string>
   <string name="sound_source">Izvor zvuka</string>
   <string name="sound_source_summary">Zvukovi sustava ili mikrofon</string>
   <string name="start">Start</string>
-  <string name="stop_by_second_space">Promjena korisnika će zaustaviti snimanje</string>
+  <string name="stop_by_second_space">Promjena prostora će zaustaviti snimanje</string>
   <string name="stop_record_while_locking">Zaustavi snimanje kod zaklj. zaslona</string>
   <string name="stop_record_while_locking_summary">Završi snimanje i spremi videozapis kad se zaključa zaslon</string>
   <string name="timer_format">%s</string>

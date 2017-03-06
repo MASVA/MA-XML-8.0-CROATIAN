@@ -40,10 +40,10 @@
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
   <string name="force_exit_message">Prisilno zatvorena \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Možete se vratiti na početni zaslon laganim dodirom na tipku Početna. Jednostavno idite u Postavke &gt; Dodatne postavke &gt; Tipke i uključite Dodirni za Početni zaslon.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Možete se vratiti na Početni zaslon laganim dodirom na tipku Početna. Možete uključiti/isključiti ovu značajku u Postavke &gt; Dodatne postavke &gt; Tipke &gt; Dodirnite tipku Početna za povratak na Poč. zaslon.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne sada</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Idi u Postavke</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Brzi dodir za Početni zaslon</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Uključi</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
   <string name="frequent_phrases">Česti izrazi</string>
   <string name="global_actions_airplane_mode">"Zrakoplovni način"</string>
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
