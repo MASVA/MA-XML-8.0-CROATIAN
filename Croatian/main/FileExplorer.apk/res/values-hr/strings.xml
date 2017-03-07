@@ -128,6 +128,10 @@
   <string name="close">Zatvori</string>
   <string name="comment_delete_message">Oprez: ova se operacija ne može poništiti!</string>
   <string name="comment_delete_title">Izbriši komentar</string>
+  <string name="comment_fail">"Ne mogu objaviti komentar, pokušajte ponovo"</string>
+  <string name="comment_fail_banned_forever">"Trajno ste suspendirani zbog neprimjerenih komentara. Za više informacija, kontaktirajte našu QQ grupu (374463568)."</string>
+  <string name="comment_fail_banned_forever_positive">Shvaćam</string>
+  <string name="comment_fail_banned_temporary">"Privremeno ste suspendirani zbog neprimjerenih komentara"</string>
   <string name="comment_hint">Ostavite komentar</string>
   <string name="comment_reply">Odgovor %1$s: </string>
   <string name="compress_fail">"Ne mogu sažeti. Datoteka s istim imenom već postoji."</string>

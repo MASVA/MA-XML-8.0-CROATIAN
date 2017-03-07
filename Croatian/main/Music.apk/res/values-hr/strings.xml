@@ -347,15 +347,15 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="file_not_found">"Datoteka ne postoji"</string>
   <string name="filter_by_duration">Po duljini</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 sek</string>
+  <string name="filter_by_duration_max">%d min</string>
+  <string name="filter_by_duration_min">%d sek</string>
   <string name="filter_by_duration_prefix">"Sakrij datoteke kraće od "</string>
   <string name="filter_by_duration_summary">"Sakrij kratke audio datoteke"</string>
   <string name="filter_by_folder">Filtriraj po mapama</string>
   <string name="filter_by_folder_summary">Odaberi mape za prikaz</string>
   <string name="filter_by_size">Po veličini</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
+  <string name="filter_by_size_max">%d2MB</string>
+  <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Sakrij datoteke manje od "</string>
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
   <string name="find_music">Traži pjesme</string>
@@ -436,7 +436,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="lyric_setting">Postavke teksta</string>
   <string name="male_artist">Muški izvođači</string>
   <string name="manager_cloud_space">Upravljaj Mi Cloud prostorom</string>
-  <string name="max_sleep_time">90</string>
+  <string name="max_sleep_time">%d</string>
   <string name="media_filter">Medija</string>
   <string name="menu_all_task_pause">Pauziraj sve</string>
   <string name="menu_all_task_start">Pokreni sve</string>
@@ -460,7 +460,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podataka. Koristiti mobilne podatke za reprodukciju pjesama?</string>
   <string name="metered_serious_allow">Reproduciraj svejedno</string>
   <string name="milink_unavaliable_please_update">"Mi Link nije dostupan. Ažurirajte MIUI."</string>
-  <string name="min_sleep_time">1</string>
+  <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Nepoznato&gt;</string>
   <string name="miui_music">Mi Glazba</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>

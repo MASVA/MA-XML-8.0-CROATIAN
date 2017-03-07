@@ -4765,7 +4765,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_master_key_dialog_content_password">Zaporka</string>
   <string name="wifi_master_key_dialog_title">Poveži koristeći</string>
   <string name="wifi_master_key_name">WLAN Master ključ</string>
-  <string name="wifi_master_key_service_dialog_content">"WLAN Master ključ je besplatni servis koji pruža zaporke za dijeljene WLAN mreže. WLAN Master ključ neće dijeliti zaporku vaše mreže."</string>
+  <string name="wifi_master_key_service_dialog_content">"WLAN Master ključ je besplatni servis koji pruža zaporke za dijeljene WLAN mreže. WLAN Master ključ neće dijeliti zaporku vaše mreže. Također možete %1$s."</string>
   <string name="wifi_master_key_service_dialog_title">Dijeljena WLAN mreža</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_connect">Poveži s mrežom</string>

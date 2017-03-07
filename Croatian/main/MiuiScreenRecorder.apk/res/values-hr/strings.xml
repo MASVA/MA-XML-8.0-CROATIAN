@@ -19,7 +19,7 @@
   <string name="date_year">,</string>
   <string name="delete_confirm_text">Izbrisati ovu snimku zaslona?</string>
   <string name="delete_confirm_text_multi1">Izbriši</string>
-  <string name="delete_confirm_text_multi2">Izbrisati snimku zaslonas?</string>
+  <string name="delete_confirm_text_multi2">Izbrisati snimku zaslona?</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="frames">Broj slika</string>
@@ -28,7 +28,7 @@
   <string name="hint_back">Natrag</string>
   <string name="hint_home">Početna</string>
   <string name="hint_menu">Izbornik</string>
-  <string name="hint_power">Power</string>
+  <string name="hint_power">Energija</string>
   <string name="hint_volume_down">Glasnoća -</string>
   <string name="hint_volume_up">Glasnoća +</string>
   <string name="home_title_none">Odabrite stavke</string>
