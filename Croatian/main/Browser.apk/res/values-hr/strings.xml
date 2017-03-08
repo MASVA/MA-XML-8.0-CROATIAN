@@ -319,7 +319,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="geolocation_permissions_prompt_message">%s želi znati vašu lokaciju</string>
   <string name="geolocation_permissions_prompt_remember">Zapamti prednosti</string>
   <string name="geolocation_permissions_prompt_share">Dijeli lokaciju</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti detaljima vaše lokacije. To možete promijeniti u Postavke &gt; Napredno &gt; Podaci Web stranice.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti detaljima vaše lokacije. To možete promijeniti u Postavkama.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Odustani</string>
   <string name="geolocation_settings_page_dialog_message">Izbrisati pristup lokaciji za ovu stranicu?</string>
@@ -333,7 +333,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="hint">Savjet</string>
-  <string name="history_saved_webpage">Spremi stranicu</string>
+  <string name="history_saved_webpage">Spremljene stranice</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
   <string name="homepage_get_location">Dobivanje lokacije</string>
@@ -544,7 +544,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija preuzetih datoteka</string>
   <string name="pref_file_download_save_title">Preuzimanja</string>
   <string name="pref_fling_on_border">Prijeđite prstom od ruba</string>
-  <string name="pref_fling_on_border_title_summary">Prijeđite prstom od lijevog ili desnog ruba zaslona</string>
+  <string name="pref_fling_on_border_title_summary">Prijeđite prstom od lijevog ili desnog ruba</string>
   <string name="pref_font_size_category">Veličina teksta Web stranice</string>
   <string name="pref_force_userscalable">Forsiraj omogućeni zoom</string>
   <string name="pref_force_userscalable_summary">"Prebriši zahtjev nekih web lokacija za kontrolu ponašanja zumiranja"</string>

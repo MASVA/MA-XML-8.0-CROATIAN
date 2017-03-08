@@ -15,11 +15,6 @@
   <string name="cancel_edit">Odustani</string>
   <string name="cannot_change_parames">"Ne mogu mijenjati parametre tijekom snimanja"</string>
   <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
-  <string name="delete_confirm_text">Izbrisati ovu snimku zaslona?</string>
-  <string name="delete_confirm_text_multi1">Izbriši</string>
-  <string name="delete_confirm_text_multi2">Izbrisati snimku zaslona?</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="frames">Broj slika</string>
