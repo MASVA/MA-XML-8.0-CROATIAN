@@ -1173,6 +1173,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
   <string name="device_name_input_hint">Unesi naziv</string>
+  <string name="device_name_input_overlength">Premašeno ograničenje riječi</string>
   <string name="device_name_usage_point">Ostali uređaji u blizini mogu vidjeti ovaj naziv.</string>
   <string name="device_picker">Odaberite Bluetooth uređaj</string>
   <string name="device_rear_camera">Stražnja kamera</string>
@@ -1215,6 +1216,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="disable_service_title">Želite li zaustaviti %1$s?</string>
   <string name="disable_text">Onemogući</string>
   <string name="disable_wifi_master_key_service">Isključi</string>
+  <string name="disable_wifi_master_key_service_first">Uključi</string>
   <string name="disabled">Onemogućeno</string>
   <string name="disabled_because_no_backup_security">Za upotrebu, prvo postavite zaključavanje zaslona</string>
   <string name="disconnect">prekini vezu</string>
@@ -1394,6 +1396,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="enable_text">"Omogući"</string>
   <string name="enable_wifi_display">Bežični prikaz</string>
   <string name="enable_wifi_master_key_service">Uključi WLAN Master ključ</string>
+  <string name="enable_wifi_master_key_service_first">Uključi</string>
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
@@ -1523,6 +1526,8 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="firmware_version">Android verzija</string>
   <string name="floating_window_switch_label">Prikaži skočne prozore</string>
   <string name="floating_window_switch_label_disable">Sakrij skočne prozore</string>
+  <string name="fluency_mode">Animacije sustava</string>
+  <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="fluency_mode">Animacije sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>

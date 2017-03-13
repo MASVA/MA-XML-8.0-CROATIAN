@@ -30,6 +30,7 @@
   <string name="incorrect_pukcode">Netočan PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Netočan PUK, preostalo pokušaja %d</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
   <string name="input_pin_code">Unesite PIN</string>
