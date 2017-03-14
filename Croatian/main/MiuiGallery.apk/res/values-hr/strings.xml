@@ -769,6 +769,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="set_face_group_toast_title_old_user">Osobe mogu biti organizirane u grupe</string>
   <string name="set_face_image">Postavi novu fotku profila</string>
   <string name="set_group">Postavite grupu</string>
+  <string name="set_wallpaper_get_image_failed">"Ne mogu preuzeti sliku, pokušajte ponovo kasnije"</string>
   <string name="shadow">Sjene</string>
   <string name="share">Podijeli</string>
   <string name="share_album">Podijeli album</string>

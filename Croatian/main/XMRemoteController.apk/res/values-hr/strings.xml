@@ -29,7 +29,7 @@
   <string name="activity_stb_list_title">Odaberi set-top box</string>
   <string name="actor_intro_title_text">Radnja</string>
   <string name="add">Dodaj</string>
-  <string name="add_control">Dodaj daljinski</string>
+  <string name="add_control">IR daljinski</string>
   <string name="add_control_frame">Dodaj %1$s daljinski</string>
   <string name="add_device">Dodaj uređaj</string>
   <string name="add_device_match_desc_bottom">  3. Odaberi %1$s da provjerite povezanost</string>
@@ -271,7 +271,7 @@
   <string name="epg_unbook_all">Poništi sve</string>
   <string name="epg_unbooked_str">Nije planirano</string>
   <string name="epg_user_my_booked_events">Moji rezervirani događaji</string>
-  <string name="epg_user_my_favorite_channel">Omiljeni kanali</string>
+  <string name="epg_user_my_favorite_channel">Nedavni kanali</string>
   <string name="episode_intro_title_text">Sažetak epizode</string>
   <string name="episode_title">Ep. %1$d</string>
   <string name="episodes_list">Odabrane epizode</string>
@@ -344,7 +344,7 @@
   <string name="input_tip">Kodovi ističu nakon 15 minuta</string>
   <string name="install">Instaliraj</string>
   <string name="install_failed">"Ne mogu instalirati %s"</string>
-  <string name="install_peel_content">Da biste omogućili funkciju TV vodiča, instalirajte Peel za Mi Remote.</string>
+  <string name="install_peel_content">Instalirajte Peel Mi Remote da bi mogli koristiti TV vodič.</string>
   <string name="install_peel_title">Instaliraj Peel Mi Remote</string>
   <string name="install_succed">Instalirano %s</string>
   <string name="installing">Instaliranje…</string>
@@ -771,7 +771,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu."</string>
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
-  <string name="rc_name">Upravljač</string>
+  <string name="rc_name">Mi Upravljač</string>
   <string name="recover">Vrati sa Mi Clouda</string>
   <string name="recovering">Vraćanje…</string>
   <string name="refreshing">Osvježavanje…</string>
@@ -900,8 +900,8 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="share_popup_single_desc">Koristite podijeljene daljinske upravljače za kontrolu %1$s u blizini</string>
   <string name="share_popup_single_title">%1$s: podijeljene daljinski upravljač za %2$s je dostupan</string>
   <string name="share_popup_title">%1$s: nov podijeljeni daljinski je dostupan</string>
-  <string name="share_rc_list_title">Dijeljeni daljinski upravljači u blizini</string>
-  <string name="share_rc_not_found">Nema podijeljenih daljinskih u blizini</string>
+  <string name="share_rc_list_title">IR daljinski upravljači u blizini</string>
+  <string name="share_rc_not_found">Nema dijeljenih upravljača u blizini</string>
   <string name="share_rc_state_share">Dijeljenje…</string>
   <string name="share_rc_title">Podijeli daljinski</string>
   <string name="share_rc_type_desc">Tko može vidjeti i koristiti daljinski upravljači koji ste podijelili</string>

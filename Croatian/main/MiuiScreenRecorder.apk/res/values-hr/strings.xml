@@ -14,6 +14,7 @@
   <string name="button_goon_recorder">Nastavi</string>
   <string name="cancel_edit">Odustani</string>
   <string name="cannot_change_parames">"Ne mogu mijenjati parametre tijekom snimanja"</string>
+  <string name="cannot_record">"Ne mogu snimiti, pokušajte ponovo kasnije."</string>
   <string name="date_day"/>
   <string name="deselect_all">Poništi odabir</string>
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
