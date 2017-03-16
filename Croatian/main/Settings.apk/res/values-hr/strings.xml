@@ -3208,7 +3208,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nije zatraženo nijedno dopuštenje</string>
   <string name="save">Spremi</string>
   <string name="saved_network">Spremljeno: %1$s</string>
-  <string name="saved_wifi">Upravitelj spremljene mreže</string>
+  <string name="saved_wifi">Upravljaj spremljenim mrežama</string>
   <string name="saved_wifi_delete">Izbriši</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
@@ -4735,7 +4735,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wifi_empty_list_wifi_off">Da biste vidjeli dostupne mreže, uključite WLAN</string>
   <string name="wifi_empty_list_wifi_on">Traženje WLAN mreža…</string>
   <string name="wifi_enable">WLAN</string>
-  <string name="wifi_enable_data_and_wifi_roam">Upravitelj WLAN pomoćnika</string>
+  <string name="wifi_enable_data_and_wifi_roam">WLAN pomoćnik</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Drži podatke i WLAN uključenim za prebacivanje na podatke kada je WLAN veza loša.</string>
   <string name="wifi_enable_watchdog_service_summary">Izbjegavaj slabe veze</string>
   <string name="wifi_error">Pogreška</string>
