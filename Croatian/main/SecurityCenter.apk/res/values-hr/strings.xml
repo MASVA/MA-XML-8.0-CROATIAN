@@ -173,6 +173,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_notify_task_cancel_do">Otkaži radnju</string>
   <string name="auto_task_notify_task_canceled_summary">Možete upućivati i primati pozive</string>
   <string name="auto_task_notify_task_canceled_summary2">"Izgleda da sada igrate neku igru."</string>
+  <string name="auto_task_notify_task_canceled_summary3">Otkazano od strane Drugog prostora</string>
+  <string name="auto_task_notify_task_canceled_summary4">Otkazano od strane Prvog prostora</string>
   <string name="auto_task_notify_task_canceled_title">Radnja je otkazana</string>
   <string name="auto_task_notify_task_continue_do">Pokreni radnju</string>
   <string name="auto_task_notify_task_count_down">Autom. radnja će započeti za 5 sekundi</string>
@@ -800,6 +802,7 @@ Maks.: %1$s%2$s | %3$s iskorišteno"</string>
   <string name="menu_text_power_manager">Potrošnja baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
+  <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
