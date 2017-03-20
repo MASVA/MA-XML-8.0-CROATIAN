@@ -134,16 +134,16 @@
         <item quantity="one">%1$d osoba</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvoni 1$d puta</item>
-        <item quantity="one">Zvoni 1$d put</item>
+        <item quantity="other">Zvoni %1$d puta</item>
+        <item quantity="one">Zvoni %1$d put</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">Kontakti %1$d</item>
         <item quantity="one">%1$d kontakt</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Ovoliko kontakata/fotografija (1$d) nije sinkr."</item>
-        <item quantity="one">"1$d kontakt/fotografija nije sinkroniziran"</item>
+        <item quantity="other">"Ovoliko kontakata/fotografija (%1$d) nije sinkr."</item>
+        <item quantity="one">"%1$d kontakt/fotografija nije sinkroniziran"</item>
     </plurals>
 	<plurals name="abbrev_a_hour_ago">
          <item quantity="other">prije 1 sat</item>
@@ -155,8 +155,8 @@
          <item quantity="other">Upravo sad</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-         <item quantity="other">prije 1$d min</item>
-         <item quantity="one">prije 1$d min</item>
+         <item quantity="other">prije %1$d min</item>
+         <item quantity="one">prije %1$d min</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
          <item quantity="other">Za 1 sat</item>
@@ -168,7 +168,7 @@
          <item quantity="other">Odmah</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-         <item quantity="other">za 1$d min</item>
-         <item quantity="one">za 1$d min</item>
+         <item quantity="other">za %1$d min</item>
+         <item quantity="one">za %1$d min</item>
      </plurals>
 </resources> 
