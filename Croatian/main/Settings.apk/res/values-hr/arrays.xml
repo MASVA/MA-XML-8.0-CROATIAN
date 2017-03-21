@@ -1024,4 +1024,9 @@
          <item>Standardno</item>
          <item>Bolja kvaliteta</item>
     </string-array>
+	<string-array name="edge_touch_volume_action">
+        <item>Dodir - radnja dvostruki dodir</item>
+        <item>Povlačenje - radnja povlačenja</item>
+        <item>Dodir - radnja dodir</item>
+      </string-array>		
 </resources>

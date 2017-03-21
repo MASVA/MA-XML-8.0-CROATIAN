@@ -84,6 +84,7 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="unlock_string">Otključaj</string>
   <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
   <string name="unlockscreen_low_battery">Priključite sada punjač</string>
+  <string name="unlockscreen_quick_charging_message">Brzo punjenje %d%%</string>
   <string name="unlockscreen_recharge_completed">Baterija napunjena</string>
   <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
   <string name="wrong_password">Netočna zaporka</string>
