@@ -60,6 +60,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="index_item_install_now">Instaliraj sada</string>
+  <string name="index_item_installing">Instaliranje</string>
   <string name="indices_desc_feel">Osjećaj %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -80,6 +81,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
   <string name="information_set">Ostale postavke</string>
   <string name="install">Instaliraj</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>
   <string name="international_details_real_feel_title">"OSJEĆAJ "</string>
@@ -99,6 +101,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="open">Otvori</string>
   <string name="open_browser">Otvori u Pregledniku</string>
+  <string name="open_now">Otvori sada</string>
   <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>

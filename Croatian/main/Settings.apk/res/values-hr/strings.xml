@@ -4252,8 +4252,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tts_status_title">Status zadanog jezika</string>
   <string name="turn_off_common_password_confirm_msg">Zaklj. zaslona će također biti isključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Isključiti zaporku Zaklj. zaslona?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Neće biti u mogućnosti koristiti funkciju otiska prsta nakon isključivanje zaporke za Zaklj. zaslon</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Značajka zaštite uređaja neće raditi bez vašeg uzorka.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj s otiskom prsta nakon isključivanja zaporke.</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi Zaklj. zaslona</string>
   <string name="turn_on_radio">Uključi radio</string>
