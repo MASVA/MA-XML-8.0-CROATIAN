@@ -56,6 +56,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_virus_detail">Detalji virusa</string>
   <string name="activity_title_virus_settings">Postavke</string>
   <string name="activity_title_white_list">Iznimke</string>
+  <string name="ad_btn_default_text">Saznajte više</string>
   <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
   <string name="adb_install_open">Dopuštanje…</string>
   <string name="adb_install_open_error">"Ne mogu dopustiti, provjerite mrežnu vezu"</string>
