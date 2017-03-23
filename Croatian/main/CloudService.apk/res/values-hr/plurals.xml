@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="sync_items_close">
-         <item quantity="other">%d su isključene</item>
-         <item quantity="one">%d je isključena</item>
+         <item quantity="other">Isključeno stavki: %d</item>
+         <item quantity="one">Isključena %d stavka</item>
     </plurals>
     <plurals name="items_unsynced">
          <item quantity="other">Stavke koje čekaju na sinkr.: %d</item>
@@ -13,7 +13,7 @@
          <item quantity="one">%d stavka čeka na sinkr.</item>
      </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">Kontakata: %d</item>
+        <item quantity="other">Kontakti: %d</item>
         <item quantity="one">Kontakt: %d</item>
     </plurals>
     <plurals name="dirty_mms_count">
