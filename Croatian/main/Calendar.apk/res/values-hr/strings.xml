@@ -46,9 +46,9 @@
   <string name="adding_calendar">Dodavanje</string>
   <string name="agenda_today">DANAS, %1$s</string>
   <string name="agenda_tomorrow">SUTRA, %1$s</string>
-  <string name="agenda_view">Raspored</string>
+  <string name="agenda_view">Događaji</string>
   <string name="agenda_yesterday">JUČER, %1$s</string>
-  <string name="alarm_label">U redu</string>
+  <string name="alarm_label">Odbaci</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Istekao</string>
   <string name="alert_title">Obavijesti kalendara</string>
@@ -66,8 +66,7 @@
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
   <string name="birthday_event_description_days_ago">Prije ovoliko %1$d dana</string>
   <string name="birthday_event_description_days_later">%1$d dana do</string>
-  <string name="birthday_event_description_detail_leap"/>
-  <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danas ima</string>
   <string name="birthday_event_description_tomorrow">Sutra ima</string>
@@ -87,7 +86,6 @@
   <string name="book_card_rating_text">|   %1$s 条评论</string>
   <string name="button_day">Dan</string>
   <string name="button_month">Mjesec</string>
-  <string name="button_online">订</string>
   <string name="button_week">Tjedan</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Osvježi</string>
@@ -114,7 +112,7 @@
   <string name="common_tus">Utorak</string>
   <string name="common_wed">Srijeda</string>
   <string name="copy_db">Pošalji bazu podataka</string>
-  <string name="copy_email">Kopiraj e-adresu</string>
+  <string name="copy_email">Kopiraj adresu e-pošte</string>
   <string name="copy_number">Kopiraj broj telefona</string>
   <string name="countdown_card_title">Broj dana</string>
   <string name="countdown_event_title">Broj dana: %1$s</string>
@@ -146,15 +144,12 @@
   <string name="data_notice_change_settings">Postavke</string>
   <string name="data_notice_continue_confirm">Nastavi</string>
   <string name="data_notice_online_large_image">Preuzmi fotografije kalendara samo putem WLAN-a</string>
-  <string name="date_pattern_mm_dd">M.d.</string>
-  <string name="date_pattern_mm_dd_kk_mm">M.d. HH:mm</string>
-  <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Novi događaj</string>
   <string name="default_reminder_mode">Podsjetnici</string>
   <string name="delete_calendar">Izbrisati</string>
-  <string name="delete_label">Izbrisati</string>
+  <string name="delete_label">Izbriši</string>
   <string name="delete_recurring_event_title">Izbrisati %s?</string>
   <string name="delete_this_event_title">Izbrisati ovaj događaj?</string>
   <string name="delete_topic_dialog_title">Izbrisati \"%s\?</string>
@@ -280,7 +275,7 @@
   <string name="insert_event_toast_add_success">Događaj kreiran</string>
   <string name="item_num_selected">Odabrano %1$d</string>
   <string name="joke_card_icon_text">%1$s 人笑过</string>		    
-  <string name="jump_date">Skoči</string>
+  <string name="jump_date">Skoči na datum</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">近期事件</string>
   <string name="live_text">直播</string>
@@ -336,7 +331,6 @@
   <string name="no_visiable_calendar_message">Morate odabrati račun kalendara. Dodirnite Odaberi račun za nastavak.</string>
   <string name="no_visiable_calendar_select_account">Odaberi račun</string>
   <string name="no_visiable_calendar_title">Odaberi račun kalendara</string>
-  <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">Nije sinkronizirano</string>
   <string name="olympic_county">Zemlja</string>
   <string name="olympic_rank">Poredak</string>
@@ -368,6 +362,7 @@
   <string name="preferences_category_general_title">Opće postavke</string>
   <string name="preferences_clear_search_history_summary">"Uklonite sva vaša pretaživanja"</string>
   <string name="preferences_clear_search_history_title">Očisti povijest pretaživanja</string>
+  <string name="preferences_default_allday_reminder_title">Zadano cjelodnevno vrijeme podsjetnika</string>
   <string name="preferences_default_reminder_dialog">Predefinirano vrijeme podsjetnika</string>
   <string name="preferences_default_reminder_title">Predefinirano vrijeme podsjetnika</string>
   <string name="preferences_general_title">Postavke izgleda kalendara</string>

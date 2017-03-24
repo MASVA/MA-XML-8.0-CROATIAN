@@ -188,6 +188,17 @@
         <item>Transparentna</item>
         <item>Bijela pozadina</item>
     </string-array>
+	<string-array name="default_reminder_labels">
+        <item>U vrijeme događaja</item>
+        <item>5 minuta ranije</item>
+        <item>10 minuta ranije</item>
+        <item>15 minuta ranije</item>
+        <item>30 minuta ranije</item>
+        <item>1 sat ranije</item>
+        <item>1 dan ranije</item>
+        <item>2 dana ranije</item>
+        <item>1 tjedan ranije</item>
+    </string-array>
 	<string-array name="miui_reminder_minutes_labels">
         <item>Bez podsjetnika</item>
         <item>U vrijeme događaja</item>
