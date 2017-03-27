@@ -123,6 +123,9 @@
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="click_to_switch_volume">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
   <string name="click_to_switch_volume_pad">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
+  <string name="clockin_failed">"Ne mogu se prijaviti, pokušajte ponovno"</string>
+  <string name="clockin_success">Uspješno prijavljen</string>
+  <string name="clockin_use">Osvojite nagradu</string>
   <string name="comment_added">Uspješno dodano</string>
   <string name="comment_added_tip">"Dodajete puno komentara. Pratiti ovu osobu?"</string>
   <string name="close">Zatvori</string>
@@ -144,6 +147,7 @@
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="connecting">Povezivanje…</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
+  <string name="contain_sensitive_words">Uklonite neprimjerene riječi i pokušajte ponovno</string>
   <string name="copied">Kopirano</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
   <string name="copy_failed_retry">"Ne mogu kopirati, pričekajte %1$s pa pokušajte ponovno"</string>
@@ -153,6 +157,7 @@
   <string name="copy_to">Kopiraj u…</string>
   <string name="count_down">Odbrojavanje: %1$s</string>
   <string name="create_shortcut_success">Prečac uspješno dodan</string>
+  <string name="daily_clockin">Prijavi se</string>
   <string name="create_kuaipan_shortcut_pref">Izradi prečac na Početnom zaslonu</string>
   <string name="create_new_folder_desctiption">Izrada mape…</string>
   <string name="create_new_folder_failed">"Ne mogu napraviti mapu"</string>
@@ -517,6 +522,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_network_tip">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovno."</string>
   <string name="no_new_content_tip">Sve stavke su ažurne</string>
   <string name="no_recent_files">Nema nedavnih datoteka</string>
+  <string name="no_search_content">"Ne mogu pronaći rezultate"</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="no_topic">Nema tema</string>
   <string name="no_videos">Ovdje nema ništa. Provjerite one ispod!</string>
@@ -717,11 +723,16 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="rlv_last_loading_time">Zadnje osvježenje: %1$s</string>
   <string name="rlv_last_refreshing_time">Ažurirano %1$s</string>
   <string name="rlv_loading_more">Samo trenutak…</string>
-  <string name="rlv_pull_to_refresh">Povucite dolje za osvježiti</string>
-  <string name="rlv_pull_to_close">Povucite dolje za zatvoriti</string>
+  <string name="rlv_pull_to_refresh">Povuci dolje za osvježiti</string>
+  <string name="rlv_pull_to_close">Povuci dolje za zatvoriti</string>
   <string name="rlv_refreshing">Osvježavanje…</string>
-  <string name="rlv_release_to_close">Otpustite za zatvoriti</string>
-  <string name="rlv_release_to_refresh">Otpustite za osvježiti</string>
+  <string name="rlv_release_to_close">Otpusti za zatvoriti</string>
+  <string name="rlv_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="save">Spremi</string>
+  <string name="save_desc_success">Uspješno promjenjeno​</string>
+  <string name="save_failed">"Ne mogu spremiti, pokušajte ponovno"</string>
+  <string name="save_failed_for_length">Potpis je predugačak, pokušajte s kraćim</string>
+  <string name="save_name_success">Uspješno promjenjeno</string>
   <string name="save_to_local">Preuzeto</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
@@ -751,6 +762,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_keyword_messge">Poruke</string>
   <string name="search_keyword_news">Vijesti</string>
   <string name="search_keyword_wallet">Novčanik</string>
+  <string name="search_popup_tip">Možete tražiti osobe i teme</string>
   <string name="search_result">Rezultati</string>
   <string name="search_result_hint1">Srodno</string>
   <string name="search_result_hint2">Sve</string>
@@ -767,6 +779,10 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_statistic_tag">Oznaka</string>
   <string name="search_title">Traži</string>
   <string name="search_title_hint">Traži</string>
+  <string name="search_topic">Traži teme</string>
+  <string name="search_user">Traži osobe</string>
+  <string name="see_more_topic">Više tema</string>
+  <string name="see_more_user">Više korisnika</string>
   <string name="select_dest_folder">Odaberi mapu</string>
   <string name="select_image">Slike</string>
   <string name="select_interest_str">Odaberite teme koje vam se sviđaju</string>
@@ -909,6 +925,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="topic_follow">Prati</string>
   <string name="topic_followed">Pratim</string>
   <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_title">Teme</string>
   <string name="topic_winners">Dosadašnji dobitnici</string>
   <string name="trans_mobile_network_message">Korištenje mobilnih podataka da prijenos datoteka će potrošiti puno podataka, jeste li sigurni za nastavak?</string>
   <string name="trans_task">Mrežni prijenos</string>
@@ -977,6 +994,7 @@ oslobodili prostor.</string>
   <string name="uploading_video">Učitavanje…</string>
   <string name="usb_label">USB</string>
   <string name="used">Iskorišteno</string>
+  <string name="user">Korisnici</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_cancel">Otkazano</string>
   <string name="user_center_title">Početna</string>
@@ -1082,7 +1100,7 @@ oslobodili prostor.</string>
   <string name="video_tag_search_hint">Prilagodite temu</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Odaberite temu</string>
-  <string name="video_topic_hint">Traži temu</string>
+  <string name="video_topic_hint">Traži teme ili osobe</string>
   <string name="video_upload_btn">Dalje</string>
   <string name="video_upload_btn_hint">MP4 videozapisi trebaju biti 3s~10 min dugački</string>
   <string name="video_upload_hint">Učitajte promovirane videozapise da zaradite više bodova.</string>

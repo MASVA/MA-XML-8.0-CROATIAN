@@ -73,7 +73,7 @@
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB | Dostupno: %2$sB"</string>
   <string name="miui">miui</string>
-  <string name="miui_upgrading_notification_title">Ažuriranje sustava, neke značajke mogu biti ograničene</string>
+  <string name="miui_upgrading_notification_title">Sustav se učitava, neke značajke mogu biti ograničene</string>
   <string name="package_delete_confirm_step_1">Izbrisati %s?</string>
   <string name="package_delete_confirm_step_2">Brisanje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
   <string name="package_delete_confirm_step_3">"Nećete biti u mogućnosti otvoriti ovu aplikaciju nakon što je izbrišete."</string>

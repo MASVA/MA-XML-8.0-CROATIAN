@@ -979,6 +979,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="current_use_ese_wallet">"Vi koristite Mi Novčanik. On vam omogućuje da koristite Mi Pay i NFC tranzitnu karticu."</string>
   <string name="current_use_hce_wallet">"Vi koristite HCE Novčanik"</string>
   <string name="current_use_uicc_se">Korištenje sigurnosnog elementa na SIM kartici</string>
+  <string name="current_zone">(trenutno)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno–zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
@@ -2977,6 +2978,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
   <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, i bilješke.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Zaporka zaštite privatnosti štiti vaše fotografije, datoteke, i bilješke.</string>
+  <string name="privacy_password_settings_titles_second_space">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, i bilješke.</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži uzorak</string>
