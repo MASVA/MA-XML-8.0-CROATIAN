@@ -355,4 +355,5 @@
      <plurals name="total_user_num">
          <item quantity="other">Osoba: %1$s</item>
          <item quantity="one">%1$s osoba</item>
+	</plurals>
 </resources> 
