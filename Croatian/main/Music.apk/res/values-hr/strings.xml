@@ -141,8 +141,6 @@
   <string name="cloud_welcome_message">Izradite Sig. kopiju pjesama</string>
   <string name="cloud_welcome_summary">Izradite Sig. kopiju pjesama na Mi Cloud i slušajte ih na drugim uređajima</string>
   <string name="comment_format" formatted="false">%s: %s</string>
-  <string name="confirm_delete_downloads_message">%d preuzimanja će biti izbrisano.</string>
-  <string name="confirm_delete_the_download_item_message">Izbrisati ova preuzimanja?</string>
   <string name="confirm_download">Preuzmi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="continue_backup">Nastavi</string>
@@ -184,8 +182,6 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="dialog_button_scan_tracks">Pretraživanje glazbe na ovom uređaju</string>
   <string name="dialog_cannot_resume">"Preuzimanje je prekinuto. Ne može se nastaviti."</string>
   <string name="dialog_confirm_delete_checkbox_message">Izbriši lokalne datoteke također</string>
-  <string name="dialog_confirm_delete_downloads_message">Izbrisati stavke: %d?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Izbriši odabrane stavke</string>
   <string name="dialog_failed_body">Želite li pokušati preuzeti datoteku kasnije ili je izbrisati iz reda čekanja?</string>
   <string name="dialog_file_already_exists">"Ne mogu preuzeti. Ova datoteka već postoji."</string>
   <string name="dialog_file_missing_body">"Ne mogu pronaći preuzetu datoteku."</string>
@@ -251,7 +247,6 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_fail_to_fetch_info">Ne mogu preuzeti. Pokušajte ponovno.</string>
   <string name="download_filesize_unknown">Nepoznato</string>
   <string name="download_in_process">PREUZIMANJE</string>
-  <string name="download_info_count_deleted_tasks">Uklonjeno %s preuzimanja</string>
   <string name="download_info_start_deleted_tasks">Izbriši preuzimanja</string>
   <string name="download_list_get_free_vip">Xunlei proba</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei ubrzanje preuzimanja je uključeno</string>

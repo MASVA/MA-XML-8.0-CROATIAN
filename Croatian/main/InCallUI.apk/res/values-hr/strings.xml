@@ -78,6 +78,8 @@
   <string name="card_title_video_call_paused">Videopoziv pauziran</string>
   <string name="card_title_video_conf_call">Video konferencijski poziv</string>
   <string name="card_video_hold_swap">Zamjeni</string>
+  <string name="close_camera_failed">"Ne mogu zatvoriti kameru"</string>
+  <string name="close_camera_requesting">Zahtjev za zatvaranjem kamere</string>
   <string name="conference_call_description" formatted="false">%s,%s itd. ukupno %s</string>
   <string name="conference_call_number">Osoba: %s</string>
   <string name="conference_call_single_description" formatted="false">%s itd. ukupno %s</string>
@@ -163,7 +165,6 @@
   <string name="keep_wait_call_back">Nastavi čekati</string>
   <string name="livetalk_dial">Korištenje paketa nadoplate</string>
   <string name="livetalk_hangup">Prekini poziv</string>
-  <string name="livetalk_left_minute">%s min. preostalo</string>
   <string name="manageConferenceLabel">Upravljaj konferencijskim pozivom</string>
   <string name="miprofile_stranger_card">Nepoznato</string>
   <string name="modify_call_failure_str">"Zahtjev izmjene poziva nije uspio

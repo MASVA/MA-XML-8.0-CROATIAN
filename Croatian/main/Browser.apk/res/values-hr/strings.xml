@@ -121,7 +121,7 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Kliznite dolje da zatvorite</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ovo je posljednja kartica</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kliznite gore da zatvorite</string>
-  <string name="browserFrameFileErrorLabel">Problem datoteke</string>
+  <string name="browserFrameFileErrorLabel">Pogreška datoteke</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Stranica koju pokušavate vidjeti sadrži podatke koji su već podneseni. Ako ponovo pošaljete podatke, prethodne radnje (poput pretrage ili mrežne kupovine) biti će ponovljene."</string>
   <string name="browserFrameNetworkErrorLabel">Problem s vezom</string>
@@ -185,7 +185,7 @@
   <string name="contextmenu_openlink">Otvori</string>
   <string name="contextmenu_openlink_newwindow">Otvori u novoj kartici</string>
   <string name="contextmenu_openlink_newwindow_background">Otvori u novoj pozadinskoj kartici</string>
-  <string name="contextmenu_recognise_qr_code">Prepoznaj QR kod</string>
+  <string name="contextmenu_recognise_qr_code">Skeniraj QR kod</string>
   <string name="contextmenu_savelink">Spremi vezu</string>
   <string name="contextmenu_send_mail">Pošalji e-poštu</string>
   <string name="contextmenu_set_wallpaper">Podesi za sliku pozadine</string>
@@ -357,7 +357,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
 Napustiti ovu stranicu?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani</string>
   <string name="js_dialog_before_unload_positive_button">Napusti</string>
-  <string name="js_dialog_before_unload_title">Potvrdi</string>
+  <string name="js_dialog_before_unload_title">Napusti stranicu</string>
   <string name="js_dialog_title">Stranica na \" %s \" navodi:</string>
   <string name="js_disable_confirm_message">Onemogućavanje JavaScript može uzrokovati neispravan prikaz nekih stranica</string>
   <string name="js_disable_confirm_title">Onemogućiti JavaScript?</string>
@@ -656,8 +656,8 @@ Napustiti ovu stranicu?"</string>
   <string name="save_button_text">Spremi</string>
   <string name="save_dialog_title">Spremi</string>
   <string name="save_file">Spremi %s datoteka</string>
-  <string name="save_file_already_exist_alert_message">Datoteka s istim nazivom već postoji, želite li je prepisati?</string>
-  <string name="save_file_already_exist_alert_title">Prepisati datoteku?</string>
+  <string name="save_file_already_exist_alert_message">Datoteka s istim nazivom već postoji, želite li je zamijeniti?</string>
+  <string name="save_file_already_exist_alert_title">Zamijeniti datoteku?</string>
   <string name="save_form_data_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="save_image_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_image_success">Slika spremljena</string>
@@ -668,9 +668,9 @@ Napustiti ovu stranicu?"</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
   <string name="save_to">Spremi u</string>
-  <string name="save_to_camera">Spremi u kameru</string>
+  <string name="save_to_camera">Spremi u Galeriju</string>
   <string name="save_to_camera_failed">"Ne mogu spremiti sliku"</string>
-  <string name="save_to_camera_success">Spremljeno u kameru</string>
+  <string name="save_to_camera_success">Spremljeno u Galeriju</string>
   <string name="sdcard_error">Provjerite vašu SD karticu</string>
   <string name="search">Traži</string>
   <string name="search_baidu">Baidu</string>
@@ -705,8 +705,8 @@ Napustiti ovu stranicu?"</string>
   <string name="send_comment_title">Komentar</string>
   <string name="senddesktop">Radna površina</string>
   <string name="sendstartpage">Početna stranica</string>
-  <string name="share_page_text">"【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Ova Poveznica web stranice će biti poslana na Mi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
+  <string name="share_page_text">" %1$s | %2$s"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Ova poveznica web stranice će biti poslana na Mi poslužitelje radi provjere da li je siguran. Možete isključili tu značajku u bilo koje vrijeme u postavkama.</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi prognoze trebaju informacije o lokaciji da vam ponude najnovije informacije o vremenu u pregledniku. Možete uključiti ovu značajku u Postavkama.</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>

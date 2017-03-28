@@ -12,6 +12,14 @@
         <item quantity="other">Pjesama: %d</item>
         <item quantity="one">%d pjesma</item>
     </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message">
+         <item quantity="other">Izbrisati stavke %d?</item>
+         <item quantity="one">Izbrisati %d stavku?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+         <item quantity="other">%d preuzimanja uklonjeno</item>
+         <item quantity="one">%d preuzimanje uklonjeno</item>
+    </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Nadogradite Premium pretplatu da biste preuzeli više."</item>
     </plurals>
@@ -64,15 +72,15 @@
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Dodano je %d pjesama na popis</item>
-        <item quantity="one">1 pjesma dodana na popis</item>
+        <item quantity="one">%d pjesma dodana na popis</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">Uklonjeno je %d pjesama s popisa.</item>
-         <item quantity="one">1 pjesma uklonjena s popisa.</item>
+         <item quantity="one">%d pjesma uklonjena s popisa.</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">Pjesama: %d</item>
-        <item quantity="one">1 pjesma</item>
+        <item quantity="one">%d pjesma</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Reprodukcija će se zaustaviti za %d min.</item>
@@ -80,11 +88,11 @@
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">Poslano će biti (%d) pjesama</item>
-        <item quantity="one">1 pjesma će biti poslana</item>
+        <item quantity="one">%d pjesma će biti poslana</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">Pjesama: %d</item>
-        <item quantity="one">1 pjesma</item>
+        <item quantity="one">%d pjesma</item>
     </plurals>
 	<plurals name="Nnew_local_audios">
        <item quantity="other">Dodano (%d) pjesama</item>

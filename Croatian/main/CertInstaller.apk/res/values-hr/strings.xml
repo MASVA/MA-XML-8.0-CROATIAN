@@ -24,6 +24,8 @@
   <string name="one_cacrt">"jedan CA certifikat"</string>
   <string name="one_usercrt">"jedan korisnički certifikat"</string>
   <string name="one_userkey">"jedan korisnički ključ"</string>
+  <string name="one_wapi_ascrt">jedan WAPI AS certifikat</string>
+  <string name="one_wapi_usercrt">jedan WAPI user certifikat</string>
   <string name="only_primary_user_allowed">"Samo vlasnik ovog uređaja može instalirati certifikate."</string>
   <string name="p12_description">"Certifikati u bazi ključeva PKCS12."</string>
   <string name="password_empty_error">"Unesite zaporku."</string>

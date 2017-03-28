@@ -2977,6 +2977,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
+  <string name="privacy_password_settings_next">Dalje</string>
   <string name="privacy_password_settings_titles">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, i bilješke.</string>
   <string name="privacy_password_settings_titles_elder_mode">Zaporka zaštite privatnosti štiti vaše fotografije, datoteke, i bilješke.</string>
   <string name="privacy_password_settings_titles_second_space">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, i bilješke.</string>
