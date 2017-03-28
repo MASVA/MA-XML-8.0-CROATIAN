@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="repeat_countdown">
-         <item>Nikad</item>
-         <item>Mjesečno</item>
-         <item>Godišnje</item>
-    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Obavijest</item>
         <item>E-pošta</item>
@@ -25,6 +20,57 @@
         <item>1 tjedan</item>
         <item>2 tjedna</item>
     </string-array>
+        <string-array name="miui_reminder_minutes_labels">
+        <item>0 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>12 sati</item>
+        <item>1 dan</item>
+        <item>2 dana</item>
+        <item>1 tjedan</item>
+        <item>2 tjedna</item>
+    </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Bez podsjetnika</item>
+        <item>0 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>12 sati</item>
+        <item>1 dan</item>
+        <item>2 dana</item>
+        <item>1 tjedan</item>
+        <item>2 tjedna</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>U vrijeme događaja</item>
+        <item>5 minuta ranije</item>
+        <item>10 minuta ranije</item>
+        <item>15 minuta ranije</item>
+        <item>30 minuta ranije</item>
+        <item>1 sat ranije</item>
+        <item>1 dan ranije</item>
+        <item>2 dana ranije</item>
+        <item>1 tjedan ranije</item>
+    </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Bez podsjetnika</item>
         <item>0 minuta</item>
@@ -39,7 +85,20 @@
         <item>1 tjedan</item>
         <item>2 tjedna</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </string-array>
+	<string-array name="preferences_week_start_day_labels">
         <item>Zadana oznaka zemlje</item>
         <item>Subota</item>
         <item>Nedjelja</item>
@@ -142,11 +201,11 @@
         <item>Javno</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>prvi</item>
-        <item>drugi</item>
-        <item>treći</item>
-        <item>četvrti</item>
-        <item>posljednji</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>zadnji</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Nema odgovora</item>
@@ -188,59 +247,11 @@
         <item>Transparentna</item>
         <item>Bijela pozadina</item>
     </string-array>
-	<string-array name="default_reminder_labels">
-        <item>U vrijeme događaja</item>
-        <item>5 minuta ranije</item>
-        <item>10 minuta ranije</item>
-        <item>15 minuta ranije</item>
-        <item>30 minuta ranije</item>
-        <item>1 sat ranije</item>
-        <item>1 dan ranije</item>
-        <item>2 dana ranije</item>
-        <item>1 tjedan ranije</item>
-    </string-array>
-	<string-array name="miui_reminder_minutes_labels">
-        <item>Bez podsjetnika</item>
-        <item>U vrijeme događaja</item>
-        <item>5 minuta ranije</item>
-        <item>10 minuta ranije</item>
-        <item>15 minuta ranije</item>
-        <item>30 minuta ranije</item>
-        <item>1 sat ranije</item>
-        <item>1 dan ranije</item>
-        <item>2 dana ranije</item>
-        <item>1 tjedan ranije</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Bez podsjetnika</item>
-        <item>U vrijeme događaja</item>
-        <item>5 minuta ranije</item>
-        <item>10 minuta ranije</item>
-        <item>15 minuta ranije</item>
-        <item>30 minuta ranije</item>
-        <item>1 sat ranije</item>
-        <item>1 dan ranije</item>
-        <item>2 dana ranije</item>
-        <item>1 tjedan ranije</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 sata ranije</item>
-        <item>4 sata ranije</item>
-        <item>5 sati ranije</item>
-        <item>6 sati ranije</item>
-        <item>1 dan ranije</item>
-    </string-array>
     <string-array name="repeat_frequency_spinner">
-        <item>dan</item>
-        <item>tjedan</item>
-        <item>mjesec</item>
-        <item>godina</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner_plural">
-        <item>dana</item>
-        <item>tjedana</item>
-        <item>mjeseci</item>
-        <item>godina</item>
+        <item>Dan</item>
+        <item>Tjedan</item>
+        <item>Mjesec</item>
+        <item>Godina</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -314,5 +325,23 @@
         <item>Nikad</item>
         <item>Vrijeme</item>
         <item>Započelo</item>
+    </string-array>
+	    <string-array name="repeat_countdown">
+         <item>Nikad</item>
+         <item>Mjesečno</item>
+         <item>Godišnje</item>
+    </string-array>
+   <string-array name="travel_reminder_minutes_labels">
+        <item>3h</item>
+        <item>4h</item>
+        <item>5h</item>
+        <item>6h</item>
+        <item>1 deň</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dana</item>
+        <item>tjedana</item>
+        <item>mjeseci</item>
+        <item>godina</item>
     </string-array>
 </resources> 
