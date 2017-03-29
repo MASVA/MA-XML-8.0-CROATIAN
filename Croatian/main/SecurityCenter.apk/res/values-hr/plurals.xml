@@ -231,7 +231,51 @@
          <item quantity="one">Izbrisan %d virus</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
-         <item quantity="other">+%d</item>
-         <item quantity="one">+%d</item>
+         <item quantity="other">%d</item>
+         <item quantity="one">%d</item>
      </plurals>
+	 <plurals name="add_game_notification_title">
+         <item quantity="other">Dodano igara: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="app_manager_apps_generation_title">
+         <item quantity="other">Dostupno ažuriranje za %d aplikacija</item>
+         <item quantity="one">Dostupno ažuriranje za %d aplikaciju</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_contact">
+         <item quantity="other">Pristupano kontaktima %d puta</item>
+         <item quantity="one">Pristupano kontaktima %d put</item>
+     </plurals>
+     <plurals name="app_manager_permission_call_phone">
+         <item quantity="other">Obavljeno %d poziva</item>
+         <item quantity="one">Obavljen %d poziv</item>
+     </plurals>
+     <plurals name="app_manager_permission_send_mms">
+         <item quantity="other">Poslano %d SMS-a</item>
+         <item quantity="one">Poslan %d SMS</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_mms">
+         <item quantity="other">Pročitano SMS-a %d puta</item>
+         <item quantity="one">Pročitan SMS %d put</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_record">
+         <item quantity="other">Pročitana povijest poziva %d puta</item>
+         <item quantity="one">Pročitana povijest poziva %d put</item>
+     </plurals>
+     <plurals name="app_manager_permission_read">
+         <item quantity="other">Pristupano %d puta</item>
+         <item quantity="one">Pristupano %d put</item>
+     </plurals>
+     <plurals name="app_manager_permission_manager_summary">
+         <item quantity="other">Dano %d dopuštenja</item>
+         <item quantity="one">Dano %d dopuštenje</item>
+     </plurals>
+     <plurals name="app_manager_start_count">
+         <item quantity="other">%d puta</item>
+         <item quantity="one">%d put</item>
+     </plurals>
+     <plurals name="app_manager_reject_count">
+         <item quantity="other">Blokirano %d puta</item>
+         <item quantity="one">Blokirano %d put</item>
+	</plurals>
 </resources>
