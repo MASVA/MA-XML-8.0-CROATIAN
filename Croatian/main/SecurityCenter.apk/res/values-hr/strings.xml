@@ -166,7 +166,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_start_count_over">100000+ puta</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Deinstalirati %s da ograničite lančano pokretanje?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Ograniči lančano pokretanje</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">卸载后可杜绝该应用发起的所有链式启动，同时卸载关联的双开应用，确认卸载%s？</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Deinstaliranje ove aplikacije će ograničiti lančano pokretanje. Povezane Dvojne aplikacijeće također biti deinstalirane. Deinstalirati %s?</string>
   <string name="app_manager_stop_wakepath_success">Uspješno ograničeno</string>
   <string name="app_manager_stop_wp_dialog_cancel">Odustani</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Deinstaliraj</string>

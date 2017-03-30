@@ -14,6 +14,12 @@
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Odaberi zadanu web tražilicu</string>
+  <string name="barcode_install_back">Natrag</string>
+  <string name="barcode_install_cancel">Odustani</string>
+  <string name="barcode_install_confirm">Instaliraj</string>
+  <string name="barcode_system_unmatch">Ažurirajte MIUI prije nego instalirate Skener</string>
+  <string name="barcode_to_install">Instaliraj Skener za nastavak	</string>
+  <string name="barcode_uninstalled">Skener je izbrisan</string>
   <string name="clear_history">Izbriši povijest</string>
   <string name="clear_shortcuts">Izbriši prečac</string>
   <string name="clear_shortcuts_agree">Izbriši prečace</string>
@@ -54,6 +60,7 @@
   <string name="local_setting">Postavke</string>
   <string name="menu_help">Pomoć</string>
   <string name="menu_settings">Postavke pretraživanja</string>
+  <string name="mina_name">Izravne Aplik.</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="permission_prompt_detail">Tražite filmove, knjige, glazbu i još mnogo toga.</string>
   <string name="permission_prompt_start">Dopusti</string>
@@ -94,6 +101,9 @@
   <string name="search_videos">Traži videozapise</string>
   <string name="search_widget">Pretraži</string>
   <string name="send_secret_code">Pošalji kod</string>
+  <string name="setting_other">Ostalo</string>
+  <string name="setting_version">Verzija aplikacije</string>
+  <string name="setting_version_title">Verzija aplikacije</string>
   <string name="settings_description">Nazivi instaliranih aplikacija</string>
   <string name="show_more">Više</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
