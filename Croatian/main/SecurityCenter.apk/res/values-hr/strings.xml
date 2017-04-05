@@ -1065,6 +1065,7 @@ podatkovnu vezu"</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
+  <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Dopusti</string>
   <string name="permission_action_prompt">Obavijesti</string>
@@ -1744,11 +1745,13 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_title_bill">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_title_calltime">Pogreška izvješća uporabe podataka</string>
   <string name="tc_sms_report_toast_text">Primanje izvješća…</string>
+  <string name="tc_sms_report_type">Vrsta izvješća</string>
   <string name="tc_sms_report_upload_success">"SMS izvješća uporabe podataka primljen. Bacamo se odmah na njega!"</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratnu informaciju!</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mjes. podataka)</string>
   <string name="text_button">U redu</string>
+  <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
   <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
   <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
@@ -1869,7 +1872,7 @@ Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke mobilnog operatera</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
   <string name="traffic_correction_success_notify_message">Dodirnite za prikaz detalja.</string>
-  <string name="traffic_limit_error_alert_body">Vaši preostali podaci za ovaj mjesec (%1$s) su veći od vašeg mjesečnog plana (%2$s). Označiti dodatna podatke kao paket nadoplate?</string>
+  <string name="traffic_limit_error_alert_body">Vaši preostali podaci za ovaj mjesec (%1$s) su veći od vašeg mjesečnog plana (%2$s). Promjenio se mjesečni plan?</string>
   <string name="traffic_limit_error_alert_package">"
 Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</string>
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
@@ -1946,7 +1949,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_brand">Marka</string>
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne znate marku?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Niste sigurni koji operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovno"</string>
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalja mreže…</string>

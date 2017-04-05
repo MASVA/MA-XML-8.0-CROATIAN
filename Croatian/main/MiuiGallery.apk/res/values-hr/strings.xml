@@ -495,6 +495,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="loading_fail">"Ne mogu preuzeti"</string>
   <string name="loading_fail_sync_off">Uključite sinkr. s Mi Cloudom za preuzimanje</string>
   <string name="loading_fail_sync_off_message">"Ne mogu učitati fotografije, sinkr. s Mi Cloudom je isključena."</string>
+  <string name="loading_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
+  <string name="loading_fail_syncing">Pričekajte dok metapodaci nisu u potpunosti preuzeti i pokušajte ponovno</string>
   <string name="loading_failure">"Ne mogu učitati fotografiju"</string>
   <string name="loading_gif">Preuzimanje GIF-a…</string>
   <string name="loading_gif_thumbnail">Preuzimanje sličica GIF-a…</string>
@@ -503,6 +505,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="loading_members">Učitavanje članova…</string>
   <string name="loading_suspend">Preuzimanje pauzirano. Nastaviti će se kada WLAN bude dostupan</string>
   <string name="loading_video">Preuzimanje videozapisa…</string>
+  <string name="loading_video_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
+  <string name="loading_video_fail_syncing">Pričekajte dok metapodaci nisu u potpunosti preuzeti i pokušajte ponovno</string>
   <string name="loading_video_thumbnail">Preuzimanje naslovnice videozapisa…</string>
   <string name="local_space_full_button_text">Očisti prostor</string>
   <string name="login_and_enable_service">Prijavite se kako bi koristili Mi Cloud</string>

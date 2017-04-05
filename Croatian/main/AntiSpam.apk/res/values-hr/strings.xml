@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">Ukloni</string>
   <string name="dlg_retore">Vratiti SMS poruke aplikaciji?</string>
   <string name="dlg_retore_ok">Vraćam</string>
-  <string name="dlg_title_not_open_stranger_identify">Prepoznaj Strance</string>
+  <string name="dlg_title_not_open_stranger_identify">ID pozivatelja je isključen</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
   <string name="dlg_white_antispam_hint">Iznimke</string>
   <string name="dlg_white_antispam_message">Dodati ovu poruku u iznimke?</string>
@@ -128,7 +128,7 @@
   <string name="fw_blocked_join">" i "</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
   <string name="im">IM</string>
-  <string name="info_antispam_close">AntiSpam isklj.</string>
+  <string name="info_antispam_close">Lista blokiranih je isključena</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Blokiraj pozive</string>
   <string name="info_antispam_phone_sms">Blokiraj pozive i SMS</string>
@@ -356,7 +356,7 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="two_address_choose_hint">%1$s i %2$s2</string>
   <string name="user_define_title">Dodaj pravila</string>
   <string name="website">Web stranica</string>
-  <string name="whitelist_prefix_add_hint">Dodati sve brojeve s predbrojem u iznimke</string>
+  <string name="whitelist_prefix_add_hint">Dodati sve brojeve s tim predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

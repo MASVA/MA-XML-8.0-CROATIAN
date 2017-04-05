@@ -88,7 +88,7 @@
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
   <string name="module_title_code">QR kod</string>
-  <string name="low_version_tip">Skener se ne može pokrenuti na postojećem sustavu, ažurirajte na najnoviju MIUI verziju</string>
+  <string name="low_version_tip">MIUI verzija je prestara. Ažurirajte MIUI da možete koristiti Skener.</string>
   <string name="module_title_document">Dokumenat</string>
   <string name="module_title_namecard">Posjetnica</string>
   <string name="module_title_shopping">Kupovina</string>

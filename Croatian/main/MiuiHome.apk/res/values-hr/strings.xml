@@ -169,7 +169,7 @@
   <string name="menu_settings">Postavke</string>
   <string name="menu_sort">Poredaj aplikacije</string>
   <string name="menu_wallpaper">Slika pozadine</string>
-  <string name="menu_workspace_preview">Pregled Početnih zaslona</string>
+  <string name="menu_workspace_preview">Pregledi Početnih zaslona</string>
   <string name="mi_wallpaper">MIUI Trgovina Tema</string>
   <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje</string>
@@ -260,7 +260,7 @@
   <string name="uninstall_result_two_failed">"Ne mogu deinstalirati %s i 1 ostalu aplikaciju"</string>
   <string name="uninstall_with_xspace_dialog_message">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="uninstall_xspace_dialog_message">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
-  <string name="uninstall_xspace_dialog_title_format">Deinstaliraj dvojnu \"%s\"</string>
+  <string name="uninstall_xspace_dialog_title_format">Deinstalirati dvojnu \"%s\" ?</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="unnamed_folder_name">Mapa</string>
   <string name="wallpaper">Slika pozadine</string>

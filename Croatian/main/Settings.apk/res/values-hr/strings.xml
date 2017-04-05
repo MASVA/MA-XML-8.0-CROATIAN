@@ -84,6 +84,7 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Autom. pokretanje</string>
   <string name="account_list">Ostali računi</string>
+  <string name="account_other">Ostalo</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Automat. sinkroniziraj podatke</string>
   <string name="account_settings_menu_auto_sync_personal">Autom. sinkroniz. osobne podatke</string>
@@ -1630,6 +1631,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="global_locale_change_title">Promjena jezika</string>
   <string name="google_backup_enable">Uključi Sig. kopije</string>
   <string name="google_backup_section_title">Google pohrana &amp; obnova</string>
+  <string name="google_title">Google</string>
   <string name="got_it">Shvaćam</string>
   <string name="google_wallet">Google novčanik</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
@@ -3318,7 +3320,7 @@ Za prikvačivanje zaslona:
   <string name="screen_pinning_unlock_password">Traži zaporku radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pin">Traži PIN radi otkvačivanja</string>
-  <string name="screen_recorder">Snimi zaslon</string>
+  <string name="screen_recorder">Snimač zaslona</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
   <string name="screen_resolution_summary">"Smanjivanje rezolucije zaslona može povećati trajanje baterije i brzinu sustava, međutim slike na zaslonu mogu biti manje jasne. Morate ponovno pokrenuti vaš uređaj za primjenu ove promjene.".</string>
   <string name="screen_resolution_switch">Promjeni rezoluciju</string>
@@ -3894,7 +3896,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Plutajuće obavijesti automatski će nestati nakon što se prikažu na vrhu zaslona"</string>
-  <string name="status_bar_settings_show_flow_info">Prikaži detalje plutanja</string>
+  <string name="status_bar_settings_show_flow_info">Prikaži uporabu podataka</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obavijesti Zaklj. zaslona</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
@@ -4256,7 +4258,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="tts_status_title">Status zadanog jezika</string>
   <string name="turn_off_common_password_confirm_msg">Zaklj. zaslona će također biti isključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Značajka zaštite uređaja neće raditi bez vašeg uzorka.</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Neke sigurnosne značajke neće funkcionirati bez vaše zaporke."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj s otiskom prsta nakon isključivanja zaporke.</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi Zaklj. zaslona</string>
@@ -5066,8 +5068,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="work_profile_confirm_remove_title">Ukloniti radni profil?</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem poslovnom profilu.</string>
   <string name="work_sim_title">Radni SIM</string>
-  <string name="work_space_delete">Izbriši radni prostor</string>
-  <string name="work_space_delete_confirm">Potvrdi brisanje</string>
+  <string name="work_space_delete">Izbriši Radni prostor</string>
+  <string name="work_space_delete_confirm">Izbriši sada</string>
   <string name="work_space_delete_description">"Nećete biti u mogućnosti ući u Radni prostor nakon što ga izbrišete. Svi podaci će biti premješteni ili izbrisani."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Provjerite da usmjerivač podržava i ima omogućen WPS</string>
@@ -5084,6 +5086,9 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira vaše kontakte i fotografije, izrađuje Sig. kopiju vaših aplikacija i postavki te vam pomaže pronaći vaš telefon koristeći značajku Pronađi uređaj.</string>
+  <string name="xiaomi_cloud_service_disabled">Isključeno</string>
+  <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router_available_notif_summary">Dodirnite za prikaz više informacija.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router dostupan</string>

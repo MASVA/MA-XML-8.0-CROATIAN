@@ -61,8 +61,8 @@
         <item quantity="one">%1$d odabran</item>
     </plurals>
     <plurals name="number_of_items_available">
-        <item quantity="other">Preostalo %1$d</item>
-        <item quantity="one">%1$d preostao</item>
+        <item quantity="other">Preostalo %1$d stavki</item>
+        <item quantity="one">%1$d stavka preostala</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">Favorita (%1$d)</item>

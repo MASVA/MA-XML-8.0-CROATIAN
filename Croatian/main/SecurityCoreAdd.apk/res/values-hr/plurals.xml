@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fileCount">
-        <item quantity="other">%d stavki</item>
+        <item quantity="other">Stavke: %d</item>
         <item quantity="one">%d stavka</item>
     </plurals>
     <plurals name="first_space_notification_format">

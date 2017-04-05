@@ -360,7 +360,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="usb_storage_stop_notification_title">"Isključi USB pohranu"</string>
   <string name="usb_storage_stop_title">"USB pohrana se koristi"</string>
   <string name="usb_storage_title">"USB povezan"</string>
-  <string name="user_guide_for_notification">Kliznite prema dolje jednim prstom radi prikaza panela obavijesti</string>
+  <string name="user_guide_for_notification">Povucite dolje za otvaranje Panela obavijesti</string>
   <string name="user_guide_for_toggle">Popis prečaca je moguće pomicati vodoravno</string>
   <string name="user_guide_for_toggle_list">Upravljaj prečacima</string>
   <string name="vpn_text">Dodirni za prikaz postavki.</string>

@@ -105,4 +105,8 @@
 	<string-array name="long_add_menu">
          <item>Dodaj u iznimke</item>
     </string-array>
+	<string-array name="sms_report_type">
+         <item>Uporaba podataka</item>
+         <item>Stanje računa</item>
+    </string-array>
 </resources>

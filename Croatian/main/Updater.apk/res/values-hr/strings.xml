@@ -23,7 +23,7 @@
    <string name="auto_dialog_msg_check_again">"Morate se složiti s našim ažuriranim Pravila o privatnosti prije nego što možete ažurirati svoj sustav. "</string>
    <string name="auto_dialog_title_check_again">Otkazati ažuriranje?</string>
    <string name="auto_update">Ažuriraj automatski</string>
-   <string name="auto_update_sum">Preuzmi ažuriranja kada je povezano na WLAN i instaliraj ih noću</string>
+   <string name="auto_update_sum">Koristite pametni algoritam za određivanje vremena ažuriranja</string>
    <string name="autosetmode">Postavke</string>
    <string name="best_update">Najbolje ažuriranje do sada</string>
    <string name="boot_recovery">Ponovno pokrenuti u Recovery mode?</string>

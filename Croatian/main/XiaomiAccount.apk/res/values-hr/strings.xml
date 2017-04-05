@@ -415,7 +415,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="search_user_detail_top_key_words">Osobne informacije, Promijeni fotografiju profila, Promijeni korisničko ime, Promijeni nadimak, Promijeni rođendan, Promijeni spol</string>
   <string name="security_question">Odaberite pitanje</string>
   <string name="security_question_answer">Unesite odgovor</string>
-  <string name="security_question_notice_message">Dodajte svoj telefon prije nego što postavite sigurnosna pitanja da bi mogli poništiti pitanja u slučaju da ste zaboravili odgovore.</string>
+  <string name="security_question_notice_message">Dodajte svoj broj telefona prije nego što postavite sigurnosna pitanja da bi mogli poništiti pitanja u slučaju da ste zaboravili odgovore.</string>
   <string name="security_question_notice_title">Dodaj Telefon</string>
   <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>

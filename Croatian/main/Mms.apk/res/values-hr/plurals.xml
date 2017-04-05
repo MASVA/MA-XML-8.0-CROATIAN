@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Brisati odabrane razgovore: %1$s?</item>
-        <item quantity="one">Brisati ovaj razgovor?</item>
+        <item quantity="other">Izbrisati odabrane razgovore: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s razgovor?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d sek</item>
@@ -20,16 +20,20 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Osoba: %1$s</item>
-        <item quantity="one">1 osoba</item>
+        <item quantity="one">%1$s osoba</item>
     </plurals>
+	<plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Izbrisati poruke: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s poruku?</item>
+	</plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">Poruka: %d</item>
-        <item quantity="zero">0 poruka</item>
-        <item quantity="one">1 poruka</item>
+        <item quantity="zero">Poruka: %d</item>
+        <item quantity="one">%d poruka</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>
-        <item quantity="one">"1 poruka nije sinkronizirana"</item>
+        <item quantity="one">"%d poruka nije sinkronizirana"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">Poruka: %1$s</item>
@@ -38,5 +42,6 @@
 	 <plurals name="custom_select_title_items_selected">
          <item quantity="other">Odabrano %d</item>
          <item quantity="zero">Odaberi stavke</item>
+		 <item quantity="one">Odabrano %d</item>
      </plurals>
 </resources>

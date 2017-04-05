@@ -212,6 +212,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="show_private_msg">Prikaži privatne poruke</string>
   <string name="show_private_msg_summary">Prikaži privatne poruke u Drugom prostoru</string>
   <string name="spaceSetting">Postavke</string>
+  <string name="space_deleted">Ovaj prostor je izbrisan</string>
   <string name="space_des_default">Izolirani prostor sa šifriranim podacima</string>
   <string name="space_name_default">Radni prostor</string>
   <string name="startSet">Postavi</string>

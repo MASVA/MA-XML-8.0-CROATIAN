@@ -102,9 +102,9 @@
   <string name="loading_resource_detail_info">Učitavam…</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
   <string name="lockscreen_apply_failured">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika pozadine Poč. zaslona postavljena ali ne mogu postaviti sliku pozadine zaklj. zaslona"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika pozadine Poč. zaslona postavljena. Ne mogu postaviti sliku pozadine zaklj. zaslona."</string>
   <string name="lockscreen_apply_success">Slika pozadine zaklj. zaslona postavljena</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika pozadine zaklj. zaslona postavljena ali ne mogu postaviti sliku pozadine Poč. zaslona"</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika pozadine zaklj. zaslona postavljena. Ne mogu postaviti sliku pozadine Poč. zaslona."</string>
   <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
@@ -426,10 +426,10 @@
   <string name="wallpaper_scroll_type_tips">Pomicanje slika pozadine </string>
   <string name="wallpaper_set_as_both">Postavi oboje</string>
   <string name="wallpaper_set_as_destop">Postavi za sliku pozadine</string>
-  <string name="wallpaper_set_as_lockscreen">Postavi za Zaklj.zaslon</string>
+  <string name="wallpaper_set_as_lockscreen">Postavi za Zaklj. zaslon</string>
   <string name="wallpaper_settings">Postavke slike pozadine</string>
   <string name="wallpaper_settings_change_wallpaper">Promjeni</string>
   <string name="wallpaper_settings_desktop_text">Početni zaslon</string>
-  <string name="wallpaper_settings_lockscreen_text">Zaklj.zaslon</string>
-  <string name="wallpaper_settings_page_title">slika pozadine</string>
+  <string name="wallpaper_settings_lockscreen_text">Zaklj. zaslon</string>
+  <string name="wallpaper_settings_page_title">Slika pozadine</string>
 </resources>
