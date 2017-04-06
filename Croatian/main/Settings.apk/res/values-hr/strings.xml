@@ -1723,6 +1723,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="home_key">Početna</string>
   <string name="home_settings">Početna</string>
   <string name="home_work_profile_not_supported">Ne podržava radne profile</string>
+  <string name="http_invoke_app">Web aplikacije</string>
+  <string name="http_invoke_app_summary">Otvorite aplikacije brže bez da ih instalirate</string>
   <string name="ignore_optimizations_off">Optimizacija</string>
   <string name="ignore_optimizations_off_desc">Preporučuje se za dulje trajanje baterije</string>
   <string name="ignore_optimizations_on">Ne optimiziraj</string>
@@ -4259,7 +4261,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="turn_off_common_password_confirm_msg">Zaklj. zaslona će također biti isključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Neke sigurnosne značajke neće funkcionirati bez vaše zaporke."</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj s otiskom prsta nakon isključivanja zaporke.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta nakon isključivanja zaporke.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta."</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi Zaklj. zaslona</string>
   <string name="turn_on_radio">Uključi radio</string>

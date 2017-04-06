@@ -101,7 +101,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="open">Otvori</string>
   <string name="open_browser">Otvori u Pregledniku</string>
-  <string name="open_now">Otvori sada</string>
+  <string name="open_now">Otvori</string>
   <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>

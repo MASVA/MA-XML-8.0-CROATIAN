@@ -637,7 +637,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="goto_set">Postavi</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
-  <string name="guide_primary_text">"Uključi Pomoćnika mreže\nda biste upravljali uporabom mobilnih podataka"</string>
+  <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>
   <string name="guide_quck_open">Uključi</string>
   <string name="guide_second_text">"Nakon što postavite operatera, MIUI će pratiti promet mobilnih podataka svakodnevno slanjem besplatnog SMS-a mobilnom operateru. Kada MIUI otkrije ste premašili ograničenje podataka, on će vas isključiti iz mreže te vas obavijestiti."</string>
   <string name="guide_wait_setting">Ne sada</string>
@@ -757,7 +757,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
-  <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja."</string>
+  <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Iskorišteno %s kod Zaklj. zaslona</string>
   <string name="lock_screen_traffic_guide_notification_title">Dodirnite za upravljanje uporab. podataka</string>
@@ -1045,22 +1045,22 @@ podatkovnu vezu"</string>
   <string name="password_promotion_title">Zaporka zaštite privatnosti</string>
   <string name="path_antispam">Aplikacije sustava/Sigurnost/Lista blokiranih</string>
   <string name="path_antivirus">Aplikacije sustava/Sigurnost/Skeniranje virusa</string>
-  <string name="path_app_permissions">System apps/Security/Permissions/App permissions</string>
-  <string name="path_auto_restart">System apps/Security/Permissions/Manage autostart</string>
-  <string name="path_buy_flow">System apps/Security/Data usage/Buy mobile data</string>
-  <string name="path_cleanmaster">System apps/Security/Cleaner</string>
+  <string name="path_app_permissions">Aplikacije sustava/Sigurnost/Dopštenja/Dopuštenja aplikacija</string>
+  <string name="path_auto_restart">Aplikacije sustava/Sigurnost/Dopštenja/Autom. pokretanja</string>
+  <string name="path_buy_flow">Aplikacije sustava/Sigurnost/Uporaba podataka/Kupi mobilne podatke</string>
+  <string name="path_cleanmaster">Aplikacije sustava/Sigurnost/Čistač</string>
   <string name="path_networkassistant_2">Aplikacije sustava/Sigurnost/Uporaba podataka</string>
   <string name="path_networkassistant_3">Aplikacije sustava/Sigurnost/Uporaba podataka</string>
   <string name="path_networkassistant_4">Aplikacije sustava/Sigurnost/Uporaba podataka/Test mreže</string>
-  <string name="path_payment_security">System apps/Security/Payment security</string>
+  <string name="path_payment_security">Aplikacije sustava/Sigurnost/Sigurnost plaćanja</string>
   <string name="path_powercenter">Aplikacije sustava/Sigurnost/Potrošnja baterije</string>
   <string name="path_powercenter_powerrank">Baterija &amp; performanse/Korištenje baterije</string>
   <string name="path_securitycenter">Aplikacije sustava/Sigurnost</string>
   <string name="path_securitycenter_settings">Aplikacije sustava/Sigurnost</string>
-  <string name="path_usb_install">System apps/Security/Permissions/Install via USB</string>
+  <string name="path_usb_install">Aplikacije sustava/Sigurnost/Dopštenja/Instaliraj putem USB-a</string>
   <string name="pay_charge">Kupite dodatne podatke</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
-  <string name="pc_install_manager">Instaliranje putem USB-a</string>
+  <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -1405,7 +1405,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
-  <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Prijava grešaka i pošaljite izvješće sa svog uređaja..</string>
+  <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja..</string>
   <string name="quick_optimize_checking">Skeniranje</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne mogu produljiti vijek trajanja baterije"</string>
   <string name="quick_optimize_no_fix_issue_title">"Ne mogu popraviti probleme baterije"</string>
@@ -1693,23 +1693,23 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_operator_error_notification_title">Pogrešan operater</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešan operater&lt;br/&gt;&lt;br/&gt;Postavite operatera: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualan operater: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Popravi i nastavi</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Dijagnostika dovršena, problemi lokacije ispravljeni.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Dijagnostika dovršena, lokacija i problemi mobilnog operatera ispravljeni.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Uspješno promjenjeno</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong location&lt;br/&gt;&lt;br/&gt;Postavite lokaciju: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna lokacika: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Couldn't get info&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Ne mogu dovršiti dijagnostiku&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna lokacija&lt;br/&gt;&lt;br/&gt;Postavite lokaciju: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna lokacija: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_error_brand">Mreža opratera nije pronađena</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Pogreška&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Nema veze s internetom&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Ne mogu dobiti informacije&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Ispravno&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Mreža operatera odgovorila&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Isteklo vrijeme veze&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Testiranje…</string>
-  <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
-  <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_title">Carrier diagnostics</string>
+  <string name="tc_diagnostic_success_notification_summary">Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate</string>
+  <string name="tc_diagnostic_success_notification_title">Mreža i marka mobilnog operatera su ispravni</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Mreža operatora i i marka ispravno postavljeni&lt;br/&gt;&lt;br/&gt;Ne mogu dovršiti podešavanje:&lt;br/&gt;1. Statistika operatera možda nije pouzdana na početku ili na kraju mjeseca.&lt;br/&gt;2. Značajke aplikacije Sigurnost nisu ažurirane.&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_title">Dijagnostika mreže</string>
   <string name="tc_diagnostic_upload_button">Report</string>
   <string name="tc_diagnostic_upload_no_network">Hvala vam za povratnu informaciju! Your report will be submitted when you connect to network.</string>
   <string name="tc_diagnostic_upload_success">Hvala vam za povratnu informaciju!</string>

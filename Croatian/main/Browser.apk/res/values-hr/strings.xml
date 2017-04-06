@@ -112,6 +112,7 @@
   <string name="bookmark_title_lable">Naslov</string>
   <string name="bookmark_url">Poveznica http://</string>
   <string name="bookmark_url_already_exisit">"Već ste označili ovu poveznicu"</string>
+  <string name="bookmark_url_can_not_null">Unesite poveznicu.</string>
   <string name="bookmark_url_lable">Poveznica</string>
   <string name="bookmark_url_not_valid">"Ova poveznica nije valjana."</string>
   <string name="bookmarks_content_is_null">Nema oznaka</string>
