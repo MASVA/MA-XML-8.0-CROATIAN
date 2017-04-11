@@ -116,6 +116,7 @@
   <string name="choose_send_type">Pošalji sa…</string>
   <string name="choose_upload_location">Pošalji na KuaiPan</string>
   <string name="clean_hint">Dodirni da oslobodite prostor</string>
+  <string name="clear_record">Izbriši povijest</string>
   <string name="click_login_str">Prijava</string>
   <string name="click_to_refresh">Dodirni ovdje za osvježiti</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
@@ -755,6 +756,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_file_type_picture">Fotografija</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Pretraga</string>
+  <string name="search_history">Povijet pretraživanja</string>
   <string name="search_keyword">Oznake</string>
   <string name="search_keyword_buy">Kupovina</string>
   <string name="search_keyword_game">Igre</string>

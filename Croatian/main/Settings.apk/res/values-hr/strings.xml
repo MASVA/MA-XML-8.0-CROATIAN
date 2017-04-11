@@ -2620,6 +2620,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="page_layout_page2_small_title">Extra malen</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Pokrivena velika površina isklj. zaslona</string>
   <string name="paper_mode_end_time_title">Vrijeme završetka</string>
   <string name="paper_mode_start_time_title">Vrijeme početka</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
@@ -4101,6 +4102,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>
+  <string name="suspend_gesture_enabled">Preokreni zaslon</string>
   <string name="suspension_ball_enable">Prečac izbornika prečaca</string>
   <string name="suspension_ball_enable_desc">Uključite/isključite izbornik prečaca koristeći prečac</string>
   <string name="suw_back_button_label">Natrag</string>
