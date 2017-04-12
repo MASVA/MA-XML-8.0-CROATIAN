@@ -20,12 +20,18 @@
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
   <string name="account_has_been_set">Promjeni</string>
   <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
+  <string name="account_mipay_info">Mi pay</string>
   <string name="account_no_set">Ništa</string>
   <string name="account_none">Ništa</string>
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
   <string name="account_protection">Zaštita računa</string>
+  <string name="account_protection_off">Isklj.</string>
+  <string name="account_protection_on">Uklj.</string>
+  <string name="account_secure_info_pref_title">Info o računu</string>
+  <string name="account_security">Sigurnost računa</string>
+  <string name="account_security_info_pref_title">Info o sigurnosti</string>
   <string name="account_security_question">Sigurnosno pitanje</string>
   <string name="account_settings">Račun</string>
   <string name="account_user_avatar">Fotografija profila</string>
@@ -41,6 +47,7 @@
   <string name="account_user_gender_male">Muškarac</string>
   <string name="account_user_id">ID Mi Računa</string>
   <string name="account_user_income">Prihod</string>
+  <string name="account_user_info">Info o računu</string>
   <string name="account_user_location">Lokacija</string>
   <string name="account_user_location_title">Odaberite trenutnu lokaciju</string>
   <string name="account_user_name">Ime</string>
@@ -157,6 +164,7 @@
   <string name="login_check_find_device_failed_title">"Ne mogu provjeriti informacije o sigurnosti uređaja"</string>
   <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je provjera broja telefona kad se prijavite na svoj Mi Račun sa nepoznatog uređaja ili u nepoznatu aplikaciju po prvi puta.</string>
+  <string name="logout_account">Odjsvs</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
   <string name="mi_family">Mi Home</string>
@@ -368,7 +376,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="push_notification_content">Nabavite kôd</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun na nepoznatog uređaja</string>
   <string name="push_notify_dialog_message">"Nepoznati uređaj se koristi za prijavu na vaš Mi Račun. Upišite kod za provjeru na uređaju. Ako to niste bili vi, promijenite odmah zaporku Mi Računa. Ne otkrivajte kod za provjeru drugim osobama."</string>
-  <string name="push_notify_dialog_title">Provjera računa</string>  
+  <string name="push_notify_dialog_title">Provjera računa</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Što želite učiniti s porukama, kontaktima, i ostalim podacima koji nisu sinkronizirani s vašeg Mi Računa?</string>
   <string name="remove_device_success_notice">Ako uklonite ovaj uređaj iz vaših pouzdanih uređaja, možda ćete morati ponovno ići na postupak provjere kada se prijavite.​</string>
@@ -433,14 +441,14 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="turn_off_find_device_failed_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="turning_off_find_device">Isključivanje Pronađi uređaj…</string>
   <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
+  <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="unlock_help_notice">"Pomoć:
 · Ako ste zaboravili svoju zaporku, idite na id.mi.com da je resetirate.
 · Ako ne možete otključati uređaj, idite na i.mi.com da isključite Pronađi uređaj.
 · Recite ovaj broj otključavanja službi za korisnike: %s"</string>
-  <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="update_contacts">Ažuriraj kontakte</string>
   <string name="update_contacts_description">Neka Sina Weibo koristi vaš Mi Račun za sinkronizaciju informacija kontakta između platformi.</string>
-  <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>	
+  <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
   <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
   <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
   <string name="updated_nothing">Ažurirano</string>
@@ -450,6 +458,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="verified_devices">Provjereni uređaji</string>
   <string name="verify_phone_prompt">Odaberi broj telefona za provjeru</string>
   <string name="verify_phone_title">Provjeri broj telefona</string>
+  <string name="vip_account_settings">Vip Postavke</string>
+  <string name="vip_more_info">Više Vip Info</string>
   <string name="wipe_data_dialog_msg">%s će biti izbrisano ako nastavite.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane"</string>

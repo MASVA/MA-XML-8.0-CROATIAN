@@ -119,6 +119,7 @@
   <string name="switch_prompt_ignore">Ignoriraj</string>
   <string name="switch_prompt_set">Prikaži opcije</string>
   <string name="switch_prompt_title">"Ne možete pronaći %s?"</string>
+  <string name="switch_prompt_title_default">"Ne možete pronaći ono što vam je potrebno?"</string>
   <string name="switch_setting">Postavke</string>
   <string name="system_search_category_title">Telefon</string>
   <string name="top_clicked">Česte stavke</string>

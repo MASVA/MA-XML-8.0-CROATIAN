@@ -1185,7 +1185,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
   <string name="not_sufficient_funds_content">Stanje vašeg računa je prenisko. Umjesto toga, pokušajte koristiti redovitu SIM za upućivanje tog poziva. Slijede vam regualarni troškovi vašeg operatera.</string>
   <string name="not_sufficient_funds_content_title">Nedovoljno sredstava</string>
-  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
+  <string name="not_support_message">"Paket nadolate trenutno ne podržava takve brojeve. Možete pokušati napraviti redoviti poziv."</string>
   <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_supported_number_content">"Paket nadoplate ne podržava brojeve usluga. Umjesto toga, pokušajte koristiti redovitu SIM za upućivanje tog poziva. Vaš opertaer će vam naplatiti ovaj poziv."</string>
   <string name="not_supported_number_content_title">Nije podržano</string>

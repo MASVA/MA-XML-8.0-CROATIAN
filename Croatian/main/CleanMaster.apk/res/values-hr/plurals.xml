@@ -78,7 +78,15 @@
         <item quantity="one">Pronađen %d videozapis, ovaj možete izbrisati.</item>
 	</plurals>
 		<plurals name="deepclean_install_info_desc1">
-         <item quantity="other">%d aplik. instalirano</item>
-         <item quantity="one">%d aplik. instalirana</item>
+         <item quantity="other">Instalirano %d aplik.</item>
+         <item quantity="one">Instalirana %d aplik.</item>
     </plurals>	
+ <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">"Ne mogu izvesti %d videozapisa. Oslobodite nešto prostora i pokušajte ponovno."</item>
+        <item quantity="one">"Ne mogu izvesti %d videozapis. Oslobodite nešto prostora i pokušajte ponovno."</item>
+     </plurals>
+     <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d praznih datoteka) %2$s</item>
+        <item quantity="one">(%1$d prazna datoteka) %2$s</item>
+     </plurals>
 </resources>

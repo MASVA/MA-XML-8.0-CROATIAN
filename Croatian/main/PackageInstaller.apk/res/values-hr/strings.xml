@@ -238,9 +238,13 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="install_failed">Aplikacija nije instalirana</string>
   <string name="install_failed_blocked">Paket je blokiran od toga da bude instaliran.</string>
   <string name="install_failed_conflict">Već je instaliran postojeći paket s istim imenom i konfliktnim potpisom.</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ova aplikacija nije kompatibilna s vašim telefonom."</string>
+  <string name="install_failed_file_not_found">Navedeni paket je izbrisan prije nego se instalacija mogla dovršiti.</string>
   <string name="install_failed_incompatible">"Ova aplikacija nije kompatibilna s vašim uređajem."</string>
+  <string name="install_failed_inconsistent_certificates">Postojeći paket s istim imenom i konfliktnim potpisom je već instaliran.</string>
   <string name="install_failed_invalid_apk">Čini se da je paket oštećen.</string>
   <string name="install_failed_msg">"Aplikaciju %1$s nije moguće instalirati na vaš uređaj."</string>
+  <string name="install_failed_older_sdk">Paket funkcionira samo na novijim verzijama Androida.</string>
   <string name="install_failed_system_incompatible">"Ova aplikacija nije kompatibilna s MIUI"</string>
   <string name="install_failed_verify_failed">Paket nije prošao provjeru i ne može se instalirati.</string>
   <string name="install_failed_verify_timeout">Isteklo je vrijeme za pokušaj potvrde ovog paketa. Pokušajte ga kasnije ponovo instalirati.</string>
@@ -537,6 +541,7 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="unknown">Nepoznato</string>
   <string name="unknown_apps_admin_dlg_text">Vaš administrator ne dopušta instaliranje aplikacija dobivenih iz nepoznatih izvora.</string>
   <string name="unknown_apps_dlg_text">Vaš telefon je postavljen da blokira instaliranje aplikacija iz nepoznatih izvora. Možete isključiti ovu značajku u Postavkama.</string>
+  <string name="unknown_apps_dlg_title">Instalacija je blokirana</string>
   <string name="unknown_installer">Neidentificirani PC alati</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>

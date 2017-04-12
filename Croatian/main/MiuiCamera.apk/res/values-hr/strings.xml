@@ -406,7 +406,9 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="snap_confirmed">Zamijeni</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshotsize_low_powermode">Razlučivost slika u Niskom načinu energije nije podržan. Veličina snimka videa će se koristiti.</string>
-  <string name="spaceIsLow_content">Dochádza voľné miesto na SD karte. Znížte kvalitu alebo vymažte niektoré snímky alebo iné súbory.</string>
+  <string name="spaceIsLow_content">SD kartici ponestaje prostora. Smanjite kvalitetu ili izbrišite neke slike ili druge datoteke.</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD kartici ponestaje prostora</string>
+  <string name="spaceIsLow_content_primary_storage_priority">USB pohrani ponestaje prostora</string>
   <string name="start_capture">U redu</string>
   <string name="tap_to_exposure">Dodirni za ručno podešavanje ekspozicije</string>
   <string name="tap_to_focus">Dodirni za izoštravanje</string>

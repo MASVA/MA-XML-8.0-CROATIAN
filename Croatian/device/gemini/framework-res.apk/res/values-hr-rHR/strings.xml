@@ -554,6 +554,7 @@ Da otkvačite, dodirnite i zadržite istovremeno tipke \"Početna\" i \"Napajanj
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_airplane_mode_on">Zrakoplovni način</string>
   <string name="lockscreen_battery_short">%d %%</string>
+  <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_charged">Napunjeno</string>
   <string name="lockscreen_emergency_call">Hitan poziv</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Neispravno ste pokušali otključati telefon ovoliko puta: %1$d. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %2$d.</string>

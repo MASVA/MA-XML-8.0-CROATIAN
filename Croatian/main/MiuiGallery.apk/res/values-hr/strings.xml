@@ -323,7 +323,7 @@
   <string name="download_retry_title">"Ne mogu preuzeti datoteke"</string>
   <string name="download_tip">Preuzmi</string>
   <string name="download_title">Priprema datoteka…</string>
-  <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje fotografija će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
+  <string name="download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje datoteka će povećati uporabu podataka. Ako premašite vaše mjesečno ograničenje podataka, vaš operater može vam naplatiti dodatne naknade."</string>
   <string name="download_without_wifi_title">Upozorenje uporabe podataka</string>
   <string name="duotone">Dvobojno</string>
   <string name="early_bird">Earlybird</string>
@@ -793,11 +793,11 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="slim_after_backuped_summary">Zamijenite fotografije pune razlučivosti na uređaju s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. Fotografije u punoj razlučivosti i dalje će biti dostupne na Mi Cloudu. To može uštedjeti mnogo lokalnog prostora za pohranu.</string>
   <string name="slim_after_backuped_title">Optimiziraj lokalnu pohranu nakon napravljene Sig. kopije</string>
   <string name="slim_introduce">Zamijenite fotografije i videozapise pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti više od 90% prostora za pohranu (potreban Mi Račun).</string>
-  <string name="slim_introduce_with_specific_size">Zamijenite fotografije i videozapise pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti %1$s (potreban Mi Račun).</string>
+  <string name="slim_introduce_with_specific_size">Zamijenite datoteke pune rezolucije s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti %1$s (potreban je Mi Račun).</string>
   <string name="slim_now">Optimiziraj sada</string>
   <string name="slim_result_size">Ušteđeno %1$s</string>
   <string name="slim_result_title">Uspješno optimizirano</string>
-  <string name="slim_tip_msg">Fotografije će biti optimizirane kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na \"Preuzmi fotografiju\" u izborniku.</string>
+  <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
   <string name="square">Kvadrat</string>

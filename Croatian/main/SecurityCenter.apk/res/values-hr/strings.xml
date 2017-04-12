@@ -1293,7 +1293,7 @@ podatkovnu vezu"</string>
   <string name="pref_connect_settings_exceed_limit">Ograniči uporabu podataka</string>
   <string name="pref_connect_settings_exceed_limit_hint">Isključi podatkovnu vezu kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_content_virus_white_list_none">Nema stavki</string>
-  <string name="pref_correction_setting">Postavke predložka za kalibraciju</string>
+  <string name="pref_correction_setting">Postavke predloška za kalibraciju</string>
   <string name="pref_correction_setting_switch">Upotrijebi prilagođeni predložak za kalibraciju</string>
   <string name="pref_correction_sms_content">Predložak za kalibraciju</string>
   <string name="pref_correction_sms_number">Pošalji SMS kalibracije na</string>
@@ -1323,6 +1323,7 @@ podatkovnu vezu"</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_month_traffic_limit">Mjesečno ograničenje uporabe podataka</string>
   <string name="pref_more_traffic_settings">Dodatne postavke</string>
+  <string name="pref_more_settings">Dodatne postavke</string>
   <string name="pref_new_installed_preconfig_title">"Zadane postavke novih aplikacija"</string>
   <string name="pref_normal_traffic_limit">Kada premašite plan podataka</string>
   <string name="pref_open_adjust_traffic">"Ažuriraj uporabu podataka svakodnevno koristeći statistiku svog mobilnog operatera"</string>
@@ -1683,6 +1684,11 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_brand_error_notification_title">Pogrešna vrsta mreže</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna marka operatera&lt;br/&gt;&lt;br/&gt;Postavite marku: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna marka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Gotovo</string>
+  <string name="tc_diagnostic_fragment_default">"O dijagnostici
+1. Uređaj će se povezati na mrežu
+         operatora, poslati besplatnu poruku i čekati odgovor operatora. To može potrajati i do 5 minuta.
+2. Možete
+         napustiti ovu stranicu za dijagnostiku, to će se provesti u pozadini."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Dodirnite za podešavanje lokacije</string>
   <string name="tc_diagnostic_location_error_notification_title">Pogrečna lokacija</string>
   <string name="tc_diagnostic_notification_sumarry">Dodirnite za prikaz rezultata</string>

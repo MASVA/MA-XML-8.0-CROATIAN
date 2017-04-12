@@ -70,7 +70,7 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_error">"Ne mogu ukloniti, pokušajte ponovno"</string>
   <string name="cancel_operation">Otkaži radnju</string>
-  <string name="cancel_success">Uspješno uklonjeno, sve datoteke premještene u %s</string>
+  <string name="cancel_success">Uspješno otkriveno, sve datoteke premještene u %s</string>
   <string name="cancelled_by_user">Radnja otkazana</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Sve</string>
@@ -1001,6 +1001,7 @@ oslobodili prostor.</string>
   <string name="user_cancel">Otkazano</string>
   <string name="user_center_title">Početna</string>
   <string name="user_center_setting">Postavke</string>
+  <string name="user_desc_default_tip">Prijavite se da sakupljate bodove i osvojite vrijedne nagrade.</string>
   <string name="user_follow_me_title">Moji obožavatelji</string>
   <string name="user_follow_title">Osobe koje pratim</string>
   <string name="user_guide">Saznajte više o KuaiPan</string>

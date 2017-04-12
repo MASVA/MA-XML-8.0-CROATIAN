@@ -37,6 +37,9 @@
   <string name="notification_need_wifi_for_size">Potreban WLAN za veličinu preuzimanja</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini</string>
   <string name="notify_disabled_net_by_app">Povezivanje s internetom ograničeno od strane aplikacije Sigurnost</string>
+  <string name="notify_install_guide_forward_text">Otvori</string>
+  <string name="notify_install_guide_msg">Uspješno instalirano</string>
+  <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_only_wifi_download">Čekanje na WLAN</string>
   <string name="paused_waiting_for_network">Čekanje na mrežu</string>
   <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija u sustavu.</string>

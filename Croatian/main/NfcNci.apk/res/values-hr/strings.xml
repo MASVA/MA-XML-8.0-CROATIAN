@@ -22,6 +22,7 @@
   <string name="connecting_peripheral">Povezivanje s uređajem %1$s</string>
   <string name="could_not_use_app">Upotreba aplikacije %1$s nije uspjela.</string>
   <string name="device">Uređaj</string>
+  <string name="default_pay_app_removed">Vaša je odabrana usluga za opciju Dodirni i plati uklonjena. Želite li odabrati drugu?</string>
   <string name="disconnected_peripheral">Prekinuta je veza s uređajem %1$s</string>
   <string name="disconnecting_peripheral">Prekidanje veze s uređajem %1$s</string>
   <string name="failed_to_enable_bt">"Ne mogu uključiti Bluetooth"</string>

@@ -281,6 +281,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
   <string name="app_name">Upravitelj Dopuštenja</string>
   <string name="current_permission_template">%1$s od %2$s</string>
+  <string name="default_permission_description">izvršiti nepoznatu radnju</string>
   <string name="grant_confirm_question">Želite li odobriti slijedeća dopuštenja? Ona će dobiti pristup:</string>
   <string name="grant_dialog_button_allow">Dopusti</string>
   <string name="grant_dialog_button_deny">Odbij</string>
