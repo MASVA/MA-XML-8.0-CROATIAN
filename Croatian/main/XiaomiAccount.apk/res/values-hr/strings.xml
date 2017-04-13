@@ -164,7 +164,7 @@
   <string name="login_check_find_device_failed_title">"Ne mogu provjeriti informacije o sigurnosti uređaja"</string>
   <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je provjera broja telefona kad se prijavite na svoj Mi Račun sa nepoznatog uređaja ili u nepoznatu aplikaciju po prvi puta.</string>
-  <string name="logout_account">Odjsvs</string>
+  <string name="logout_account">Odjava</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
   <string name="mi_family">Mi Home</string>

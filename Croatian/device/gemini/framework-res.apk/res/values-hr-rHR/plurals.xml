@@ -68,9 +68,9 @@
         <item quantity="few">za %dd</item>
     </plurals>
     <plurals name="duration_years_shortest_future">
-        <item quantity="other">za %dg</item>
-        <item quantity="one">za %dg</item>
-        <item quantity="few">za %dg</item>
+        <item quantity="other">za %d god.</item>
+        <item quantity="one">za %d god.</item>
+        <item quantity="few">za %d god.</item>
     </plurals>
     <plurals name="duration_minutes_relative">
         <item quantity="other">prije %d minuta</item>
@@ -79,12 +79,12 @@
     </plurals>
     <plurals name="duration_hours_relative">
         <item quantity="other">prije %d sati</item>
-        <item quantity="one">prije %d sata</item>
+        <item quantity="one">prije %d sat</item>
         <item quantity="few">prije %d sata</item>
     </plurals>
     <plurals name="duration_days_relative">
         <item quantity="other">prije %d dana</item>
-        <item quantity="one">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
         <item quantity="few">prije %d dana</item>
     </plurals>
     <plurals name="duration_years_relative">
