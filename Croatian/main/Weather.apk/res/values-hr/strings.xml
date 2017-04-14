@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">Unesite grad</string>
+  <string name="act_find_city_hot_attractions_title">Popularni gradovi</string>
+  <string name="act_find_city_hot_city_title">Popularni gradovi</string>
   <string name="act_find_city_hot_title">Dodaj</string>
   <string name="act_set_city_find_side">Lociranje…</string>
   <string name="act_set_city_find_side_error">"Ne mogu locirati uređaj"</string>
@@ -38,7 +40,7 @@
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
   <string name="common_loading_text">Samo trenutak…</string>
-  <string name="connect_fail">Postoje problemi sa vašom mrežom. Molimo pokušajte ponovno kasnije.</string>
+  <string name="connect_fail">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije."</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna prognoza</string>
   <string name="daily_forcast_no_stable_direction">Povjetarac</string>
@@ -95,6 +97,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Uredi lokacije</string>
   <string name="menu_location">Lokacije</string>
+  <string name="menu_speeker">Emitiranje glasom</string>
   <string name="more_details">Više detalja</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>

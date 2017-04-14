@@ -146,4 +146,68 @@
         <item quantity="other">Nikad ne omogućuj za ovoliko %d aplikacija</item>
         <item quantity="one">Nikad ne omogućuj za 1 aplikaciju</item>
     </plurals>
+	     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Izrazito kratka odgoda (%1$d ms)</item>
+        <item quantity="one">Izrazito kratka odgoda (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Duga odgoda (%1$d ms)</item>
+        <item quantity="one">Duga odgoda (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kratka odgoda (%1$d ms)</item>
+        <item quantity="one">Kratka odgoda (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Vrlo duga odgoda (%1$d ms)</item>
+        <item quantity="one">Vrlo duga odgoda (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Vrlo kratka odgoda (%1$d ms)</item>
+        <item quantity="one">Vrlo kratka odgoda (%1$d ms)</item>
+     </plurals>
+     <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplikacija smije upotrebljavati neograničene podatke kada je Ušteda podataka uključena</item>
+        <item quantity="one">%1$d aplikacija smije upotrebljavati neograničene podatke kada je Ušteda podataka uključena</item>
+     </plurals>
+     <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Želite li ukloniti odabrane jezike?</item>
+        <item quantity="one">Želite li ukloniti odabrani jezik?</item>
+     </plurals>
+     <plurals name="notification_summary">
+        <item quantity="other">Blokirano je slanje s %d aplikacija</item>
+        <item quantity="one">Blokirano je slanje s %d aplikacije</item>
+     </plurals>
+     <plurals name="print_settings_title">
+        <item quantity="other">%d zadataka ispisa</item>
+        <item quantity="one">%d zadatak ispisa</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Vjeruj ili ukloni certifikate</item>
+        <item quantity="one">Vjeruj ili ukloni certifikat</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s ima instalirane ovlasti za izdavanje certifikata za vaš radni profil koji im omogućava praćenje poslovne aktivnost na mreži, uključujući e-poštu, aplikacije i sigurne web stranice.
+
+Za više informacija o ovim certifikatima, obratite se administratoru."</item>
+        <item quantity="one">"%s ima instalirane ovlasti za izdavanje certifikata za vaš radni profil koji im omogućava praćenje poslovne aktivnosti na mreži, uključujući e-poštu, aplikacije i sigurne web stranice.
+
+Za više informacija o ovom certifikatu, obratite se administratoru."</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s ima instalirane ovlasti na vašem uređaju, koje mu omogućuju da prati mrežnu aktivnost vašeg uređaja, uključujući e-poštu, aplikacije i sigurne web stranice.
+
+Za više informacija o ovim certifikatima, obratite se administratoru."</item>
+        <item quantity="one">"%s ima instalirane ovlasti na vašem uređaju, koje mu omogućuju da prati mrežnu aktivnost vašeg uređaja, uključujući e-poštu, aplikacije i sigurne web stranice.
+
+Za više informacija o ovom certifikatu, obratite se administratoru."</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Provjeri certifikate</item>
+        <item quantity="one">Provjeri certifikat</item>
+     </plurals>
+     <plurals name="uri_permissions_text">
+        <item quantity="other">%d stavki</item>
+        <item quantity="one">%d stavka</item>
+     </plurals>
 </resources> 

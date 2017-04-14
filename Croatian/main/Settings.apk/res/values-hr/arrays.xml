@@ -14,13 +14,13 @@
         <item>Sve</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 sekundi</item>
-        <item>30 sekundi</item>
-        <item>1 minuta</item>
-        <item>2 minute</item>
-        <item>5 minuta</item>
-        <item>10 minuta</item>
-        <item>30 minuta</item>
+        <item>Nakon 15 sekundi</item>
+        <item>Nakon 30 sekundi</item>
+        <item>Nakon 1 minuta</item>
+        <item>Nakon 2 minute</item>
+        <item>Nakon 5 minuta</item>
+        <item>Nakon 10 minuta</item>
+        <item>Nakon 30 minuta</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikada</item>
@@ -764,10 +764,10 @@
     </string-array>
 	<string-array name="lock_screen_secure_after_timeout_entries">
         <item>Odmah</item>
-		<item>30 sek.</item>
-        <item>1 min.</item>
-        <item>2 min.</item>
-        <item>5 min.</item>
+		<item>Nakon 30 sek.</item>
+        <item>Nakon 1 min.</item>
+        <item>Nakon 2 min.</item>
+        <item>Nakon 5 min.</item>
 		<item>Nikad</item>
     </string-array>
     <string-array name="fluency_mode_entries">
@@ -1028,5 +1028,15 @@
         <item>Dodir - radnja dvostruki dodir</item>
         <item>Povlačenje - radnja povlačenja</item>
         <item>Dodir - radnja dodir</item>
-      </string-array>		
+      </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Poboljšane boje</item>
+        <item>Prirodan doživljaj boje</item>
+        <item>Boje optimizirane za digitalni sadržaj</item>
+     </string-array>
+	 <string-array name="color_mode_names">
+        <item>Živopisno (zadano)</item>
+        <item>Prirodno</item>
+        <item>Standardno</item>
+     </string-array>
 </resources>

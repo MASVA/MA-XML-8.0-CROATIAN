@@ -70,14 +70,14 @@
   <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferirani mrežni način: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Preferirani mrežni način: LTE/GSM/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Preferirani mrežni način: LTE/TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_lte_tdscdma_summary">Preferirani mrežni način: LTE / TDSCDMA</string>
+  <string name="preferred_network_mode_lte_tdscdma_summary">Preferirani mrežni način: LTE/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Preferirani mrežni način: LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_summary">Promijenite način rada mreže</string>
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferirani mrežni način: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_tdscdma_gsm_summary">Preferirani mrežni način: TDSCDMA / GSM</string>
+  <string name="preferred_network_mode_tdscdma_gsm_summary">Preferirani mrežni način: TDSCDMA/GSM</string>
   <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">Preferirani mrežni način: TDSCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_summary">Preferirani mrežni način: TDSCDMA</string>
-  <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferirani mrežni način: TDSCDMA / WCDMA</string>
+  <string name="preferred_network_mode_tdscdma_wcdma_summary">Preferirani mrežni način: TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Željena vrsta mreže</string>
   <string name="preferred_network_mode_wcdma_only_summary">Način željene mreže: Samo WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Način željene mreže: Preferirano WCDMA</string>
