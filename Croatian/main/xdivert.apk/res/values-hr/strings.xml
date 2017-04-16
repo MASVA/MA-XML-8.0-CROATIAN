@@ -10,6 +10,8 @@
   <string name="reading_settings">Postavke čitanja…</string>
   <string name="response_error">Neočekivani odgovor od mreže.</string>
   <string name="reverting_settings">Vraćanje postavki…</string>
+  <string name="sim1LineNumber">SIM 1 Broj:</string>
+  <string name="sim2LineNumber">SIM 2 Broj:</string>
   <string name="set_subscription_error_atleast_one">Odaberite najmanje jednu pretplatu</string>
   <string name="sub1LineNumber">Sub1 Broj:</string>
   <string name="sub2LineNumber">Sub2 Broj:</string>
@@ -21,6 +23,8 @@
   <string name="updating_settings">Ažuriranje postavki…</string>
   <string name="updating_title">Postavke poziva</string>
   <string name="xdivert_active">Aktivno</string>
+  <string name="xdivert_status_active">Smart-Divert aktivan</string>
+  <string name="xdivert_status_not_active">Smart-Divert neaktivan</string>
   <string name="xdivert_button">X-Divert Postavke</string>
   <string name="xdivert_enternumber_error">Unesite broj telefona za obje pretplate</string>
   <string name="xdivert_imsi_not_read">Sim Inicijalizacija u tijeku. Pokušajte nakon nekog vremena.</string>

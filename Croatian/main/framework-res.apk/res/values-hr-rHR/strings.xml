@@ -70,6 +70,7 @@
   <string name="aerr_title"/>
   <string name="aerr_wait">Čekaj</string>
   <string name="allow">Dopusti</string>
+  <string name="allow_button">Dopusti</string>
   <string name="alwaysUse">Koristi se kao zadana postavka za ovu lokaciju.</string>
   <string name="android_preparing_apk">Pripremanje aplikacije %1$s.</string>
   <string name="android_start_title">Pokretanje Androida...</string>
@@ -217,6 +218,7 @@ koristeći %s"</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Izbrisan je broj %1$s</string>
   <string name="deny">Odbij</string>
+  <string name="deny_button">Odbij</string>
   <string name="description_direction_down">Kliznite prema dolje za %s.</string>
   <string name="description_direction_left">Kliznite lijevo za %s.</string>
   <string name="description_direction_right">Kliznite desno za %s.</string>
@@ -786,6 +788,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
   <string name="notification_listener_binding_label">Slušatelj obavijesti</string>
+  <string name="notification_ranker_binding_label">Usluga rangiranja obavijesti</string>
   <string name="notification_title">Pogreška prijave za račun %1$s</string>
   <string name="notification_work_profile_content_description">Radni profil</string>
   <string name="now_string_shortest">sad</string>

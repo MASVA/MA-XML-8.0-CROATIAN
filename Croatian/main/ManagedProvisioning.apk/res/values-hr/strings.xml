@@ -2,15 +2,23 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">Vaš administrator može nadzirati postavke, korporacijski pristup, aplikacije i podatke povezane s ovim uređajem, uključujući aktivnosti na mreži i podatke o lokaciji uređaja, te upravljati njima.</string>
   <string name="admin_has_ability_to_monitor_profile">Vaš administrator može nadzirati postavke, korporacijski pristup, aplikacije i podatke povezane s profilom, uključujući aktivnosti na mreži i podatke o lokaciji uređaja, te upravljati njima.</string>
+  <string name="app_label">Radni je profil postavljen</string>
   <string name="cancel_delete_profile">ODUSTANI</string>
   <string name="cancel_provisioning">ODUSTANI</string>
   <string name="cancel_setup">ODUSTANI</string>
+  <string name="cancel_setup_and_factory_reset_dialog_cancel">Odustani</string>
+  <string name="cancel_setup_and_factory_reset_dialog_msg">Ako prekinete postavljanje, uređaj će se vratiti na tvorničke postavke i na prvi zaslon.</string>
+  <string name="cancel_setup_and_factory_reset_dialog_ok">Vrati uređaj na zadano</string>
+  <string name="cancel_setup_and_factory_reset_dialog_title">Prekinuti i vratiti na tvorničke postavke?</string>
   <string name="company_controls_device">Vaša će organizacija kontrolirati i štititi ovaj uređaj.</string>
   <string name="company_controls_workspace">Vaša organizacija kontrolira i štiti ovaj profil. Vi kontrolirate sve ostalo na svojem uređaju.</string>
   <string name="contact_your_admin_for_more_info">Za više informacija, uključujući pravila o privatnosti organizacije, obratite se administratoru.</string>
   <string name="continue_provisioning_notify_text">Dodirnite da biste nastavili postavljati radni profil</string>
   <string name="continue_provisioning_notify_title">Enkripcija je dovršena</string>
   <string name="copying_certs">Postavljanje CA certifikata</string>
+  <string name="default_first_meat_user_name">Primarni korisnik</string>
+  <string name="default_managed_profile_name">Radni profil</string>
+  <string name="default_owned_device_username">Korisnik radnog uređaja</string>
   <string name="delete_profile">IZBRIŠI</string>
   <string name="delete_profile_title">Ukloniti radni profil?</string>
   <string name="device_owner_cancel_cancel">ODUSTANI</string>
@@ -33,8 +41,8 @@
   <string name="encrypt_device_cancel">Odustani</string>
   <string name="encrypt_device_launch_settings">Šifriraj</string>
   <string name="encrypt_device_text">"Za nastavak postavljanja vašeg radnog profila, morat ćete šifrirati vaš uređaj. To može potrajati neko vrijeme."</string>
-  <string name="encrypt_device_text_for_profile_owner_setup">Da biste nastavili s postavljanjem svog radnog profila, morat ćete šifrirati uređaj. To može potrajati.</string>
   <string name="encrypt_device_text_for_device_owner_setup">"Da biste nastavili s postavljanjem vašeg uređaja, morat ćete šifrirati uređaj. To može potrajati."</string>
+  <string name="encrypt_device_text_for_profile_owner_setup">Da biste nastavili s postavljanjem svog radnog profila, morat ćete šifrirati uređaj. To može potrajati.</string>
   <string name="frp_clear_progress_text">Pričekajte…</string>
   <string name="frp_clear_progress_title">Brisanje</string>
   <string name="learn_more_label">Gumb Saznajte više</string>
@@ -45,10 +53,12 @@
   <string name="managed_provisioning_not_supported_by_launcher">Ta aplikacija pokretača ne podržava vaš radni profil. Morat ćete prijeći na kompatibilni pokretač.</string>
   <string name="maximum_user_limit_reached">Nije uspjela izrada radnog profila jer ste dosegnuli maksimalni broj korisnika na uređaju. Uklonite barem jednog korisnika i pokušajte ponovo.</string>
   <string name="mdm_icon_label">Ikona %1$s</string>
+  <string name="next">Dalje</string>
   <string name="ok_setup">U redu</string>
   <string name="opening_paragraph_delete_profile_known_company">Ovaj je radni profil pod upravljanjem domene %s putem:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Poslovni profil već postoji i njime upravlja:</string>
   <string name="pick_launcher">U REDU</string>
+  <string name="preprovisioning_error_encryption_not_supported">Uređaj ne podržava enkripciju. Obratite se IT odjelu.</string>
   <string name="profile_owner_cancel_cancel">NE</string>
   <string name="profile_owner_cancel_message">Želite li prekinuti postavljanje?</string>
   <string name="profile_owner_cancel_ok">DA</string>
@@ -63,8 +73,8 @@
   <string name="provisioning_error_title">Ups!</string>
   <string name="read_more_delete_profile">Prije nego što nastavite, &lt;a href="#read_this_link"&gt;pro&amp;#269;itajte ovo&lt;/a&gt;.</string>
   <string name="set_up">Postavi</string>
-  <string name="setup_device">Postavljanje vašeg uređaja</string>
   <string name="setting_up_workspace">Postavljanje radnog profila…</string>
+  <string name="setup_device">Postavljanje vašeg uređaja</string>
   <string name="setup_device_encryption">Postavljanje uređaja. Enkripcija</string>
   <string name="setup_device_progress">Postavljanje uređaja. Prikazivanje napretka</string>
   <string name="setup_device_start_setup">Postavljanje uređaja. Pokretanje postavljanja</string>
@@ -72,8 +82,8 @@
   <string name="setup_profile_progress">Postavljanje profila. Prikazivanje napretka</string>
   <string name="setup_profile_start_setup">Postavljanje profila. Pokretanje postavljanja</string>
   <string name="setup_work_device">Postavljanje uređaja</string>
-  <string name="setup_work_space">Postavljanje vašeg profila</string>
   <string name="setup_work_profile">Postavljanje profila</string>
+  <string name="setup_work_space">Postavljanje vašeg profila</string>
   <string name="sure_you_want_to_delete_profile">Ako nastavite, izbrisat će se sve aplikacije i podaci u profilu.</string>
   <string name="suw_back_button_label">Natrag</string>
   <string name="suw_more_button_label">Više</string>
@@ -81,7 +91,10 @@
   <string name="the_following_is_your_mdm">Sljedeća aplikacija morat će pristupiti ovom profilu:</string>
   <string name="the_following_is_your_mdm_for_device">Vašim će uređajem upravljati sljedeća aplikacija:</string>
   <string name="theft_protection_disabled_warning">Ako nastavite, značajke zaštite od krađe neće se omogućiti. Da biste uključili zaštitu od krađe, otkažite sada i postavite ovaj uređaj kao osobni.</string>
+  <string name="user_cannot_have_work_profile">Taj korisnik ne može imati radni profil</string>
+  <string name="user_consent_msg">Prihvaćam</string>
   <string name="user_is_not_owner">Primarni korisnik uređaja mora postaviti radne profile</string>
+  <string name="user_setup_incomplete">Postavljanje korisnika nije dovršeno</string>
   <string name="work_profile_setup_continue">NASTAVI</string>
   <string name="work_profile_setup_later_message">Radni profil možete postaviti kasnije iz aplikacije za upravljanje uređajem kojom se koristi vaša organizacija.</string>
   <string name="work_profile_setup_later_title">Želite li zaustaviti postavljanje profila?</string>

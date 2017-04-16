@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Ljuska</string>
+    <string name="bugreport_add_details_to_zip_failed">Pojedinosti izvješća o programskoj pogrešci nisu dodane u ZIP datoteku</string>
+    <string name="bugreport_confirm_dont_repeat">"Ne prikazuj ponovo"</string>
     <string name="bugreport_in_progress_title">Generira se izvješće o programskoj pogrešci #%d</string>
     <string name="bugreport_finished_title">Izvješće o programskoj pogrešci #%d snimljeno</string>
     <string name="bugreport_finished_pending_screenshot_title">Izvješće o pogrešci #%d snimljeno, ali se čeka snimka</string>
@@ -12,7 +14,7 @@
     <string name="bugreport_confirm_repeat">Prikaži tu poruku sljedeći put</string>
     <string name="bugreport_storage_title">Izvj. o prog. pogreš.</string>
     <string name="bugreport_unreadable_text">Izvješće o programskoj pogrešci nije pročitano</string>
-    <string name="bugreport_unnamed">bez naziva</string>
+    <string name="bugreport_unnamed">Bez naziva</string>
     <string name="bugreport_info_action">Pojedinosti</string>
     <string name="bugreport_screenshot_action">Snimka zaslona</string>
     <string name="bugreport_screenshot_taken">Snimka zaslona uspješno izrađena.</string>

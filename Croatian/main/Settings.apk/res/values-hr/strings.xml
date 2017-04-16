@@ -2805,6 +2805,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notification_log_details_parcel">veličina paketa</string>
   <string name="notification_log_details_priority">prioritet</string>
   <string name="notification_log_details_public_version">publicVersion</string>
+  <string name="notification_log_details_ranking_none">"Rangiranje objekta ne sadrži ovaj ključ."</string>
+  <string name="notification_log_details_ranking_null">Nedostaje rangiranje objekta.</string>
   <string name="notification_log_details_remoteinput">daljinski ulazi</string>
   <string name="notification_log_details_sound">zvuk</string>
   <string name="notification_log_details_title">naslov</string>
@@ -3982,7 +3984,9 @@ Za prikvačivanje zaslona:
   <string name="security_settings_fingerprint_enroll_finish_message">Kada se prikaže ta ikona, možete se identificirati ili autorizirati kupnju otiskom prsta.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Otisak prsta je dodan!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Otkaži</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Preskoči</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Nastavi</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Dodaj otisak prsta</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Jednostavno dodirnite senzor otiska prsta da biste otključali telefon, autorizirali kupnje ili se prijavili na aplikacije. To će moći činiti svi otisci prstiju koje dodate na telefon, pa pazite čiji otisak dodajete.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Napomena: otisak prsta može biti manje siguran od snažnog uzorka ili PIN-a.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Saznajte više</string>
