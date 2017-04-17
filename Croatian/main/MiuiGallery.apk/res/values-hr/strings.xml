@@ -429,6 +429,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="gallery_setting">Postavke</string>
   <string name="gallery_sync_disable_toast">Sinkr. Galerije nije omogućena</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
+  <string name="grant_permission_go_and_set">Postavi</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirni "Postavi" za ići u Dopuštenja."</string>
+  <string name="grant_permission_title">Dopusti pristup</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>

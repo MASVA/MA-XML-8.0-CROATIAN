@@ -304,7 +304,7 @@
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obavijest o MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Odlazna SMS poruka može biti potrebna za za aktiviranje besplatnih poruka i govornih usluga. Vaš mobilni operater će vam naplatiti tu poruku. </string>
+  <string name="mx_activate_allow_notice">Odlazna SMS poruka može biti potrebna za za aktiviranje besplatnih poruka i govornih usluga. Vaš mobilni operater će vam naplatiti tu poruku. Osim toga, ova usluga će koristiti mrežu.</string>
   <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
   <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Poruke &amp; Glas</string>
   <string name="mx_activate_error_malformed_info">Morate ponovno aktivirati Mi Poruke</string>
@@ -317,6 +317,7 @@
   <string name="mx_activate_int_hint_malformed_info">Međunarodna odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="mx_activate_int_hint_server">Međunarodna odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku."</string>
+  <string name="mx_activate_network_allow_notice">Ova usluga će koristiti mrežu.</string>
   <string name="mx_activate_status_desc_activating_now">Aktiviranje…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Ne mogu se povezati na mrežu"</string>
   <string name="mx_activate_status_desc_fail">"Ne mogu aktivirati Mi Poruke"</string>
