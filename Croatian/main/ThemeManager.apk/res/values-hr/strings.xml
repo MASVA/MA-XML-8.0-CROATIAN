@@ -419,6 +419,9 @@
   <string name="title_system_audio_resource">Melodije zvona sustava</string>
   <string name="title_system_wallpaper_resource">Slike pozadine sustava</string>
   <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
+  <string name="uid_change_dialog_message">"Izbrisali ste ažuriranja. Ponovno pokrenite uređaj da bi mogli koristiti teme."</string>
+  <string name="uid_change_dialog_ok">Shvaćam</string>
+  <string name="uid_change_dialog_title">Ponovni pokreni</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_crop">Obreži</string>
   <string name="wallpaper_decoded_error">"Ne mogu učitati sliku pozadine"</string>
