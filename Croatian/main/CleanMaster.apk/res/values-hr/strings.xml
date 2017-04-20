@@ -317,7 +317,7 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Pretraživanje</string>
   <string name="positive_confirm">U redu</string>
-  <string name="pref_category_title_auto_clean_settings">Očisti automatski</string>
+  <string name="pref_category_title_auto_clean_settings">Podsjeti za čišćenje</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
   <string name="pref_category_title_cleanup_white_list">Iznimke</string>
   <string name="pref_category_title_engine_settings">Skeniraj postavke definicija</string>
@@ -340,7 +340,7 @@
   <string name="pref_title_auto_clean_content_choose">Odaberi stavke za čišćenje</string>
   <string name="pref_title_auto_update_cleanup_db">Automatski ažuriraj</string>
   <string name="pref_title_choose_engine">Definicije</string>
-  <string name="pref_title_clean_alert">Očisti automatski</string>
+  <string name="pref_title_clean_alert">Podsjeti za čišćenje</string>
   <string name="pref_title_cleanup_white_list">Iznimke</string>
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
   <string name="pref_title_garbage_auto_clean_content">Stavke za čišćenje</string>
@@ -387,7 +387,7 @@
   <string name="sponsored">Sponzorirano</string>
   <string name="start_downloading_app">Započni preuzimanje: %1$s</string>
   <string name="start_install">Instaliraj sada</string>
-  <string name="summary_auto_cleaner">Čistiti automatski vaš sustav svaka 3 dana?</string>
+  <string name="summary_auto_cleaner">Obavijestiti svaki put kada veličina smeće dosegne 100MB?</string>
   <string name="summary_delete_apk">Trajno izbrisati odabrane aplikacije?</string>
   <string name="summary_delete_cache">Očistiti predmemoriju odabranih aplikacija?</string>
   <string name="summary_delete_large_file">Trajno izbrisati odabrane datoteke?</string>
@@ -408,7 +408,7 @@
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podataka u panelu obavijesti</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
   <string name="tips_of_virus_scan">Skenirajte redovito svoj uređaj za virusima da ga zadržite sigurnim</string>
-  <string name="title_auto_cleaner">Automatski očistiti?</string>
+  <string name="title_auto_cleaner">Podsjeti za čišćenje</string>
   <string name="title_delete_cache">Očisti predmemoriju aplik.</string>
   <string name="title_delete_clipboard">Sadržaj međuspremnika</string>
   <string name="title_delete_deepclean">Izbriši</string>
