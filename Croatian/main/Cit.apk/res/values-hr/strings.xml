@@ -163,6 +163,8 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Vrijednosti za X, Y, Z koordinate bi se trebale pojaviti u nastavku</string>
   <string name="cit_gyroscope_sensor_check_title">Žiroskop</string>
+  <string name="cit_hardware_info_summary">Pričekajte… Prikazivanje hardverskih informacija ovog uređaja</string>
+  <string name="cit_hardware_info_title">Hardware Informacije</string>
   <string name="cit_headset_button_check_summary">Kad su priključene slušalice, pritisnite tipke na slušalicama (često se nalaze na kabelu). Odgovarajući tekst na zaslonu bi trebao postati zelene boje.</string>
   <string name="cit_headset_button_check_title">Tipke slušalica</string>
   <string name="cit_headset_button_click">Pritisnete tipke na slušalicama</string>
