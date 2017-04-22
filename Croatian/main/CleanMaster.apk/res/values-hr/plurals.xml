@@ -89,4 +89,16 @@
         <item quantity="other">(%1$d praznih datoteka) %2$s</item>
         <item quantity="one">(%1$d prazna datoteka) %2$s</item>
      </plurals>
+	 <plurals name="app_usage_day">
+         <item quantity="other">"Nije korišteno %d dana"</item>
+         <item quantity="one">"Nije korišteno %d dan"</item>
+     </plurals>
+     <plurals name="app_usage_month">
+         <item quantity="other">"Nije korišteno %d mjeseci"</item>
+         <item quantity="one">"Nije korišteno %d mjesec"</item>
+     </plurals>
+     <plurals name="app_usage_year">
+         <item quantity="other">"Nije korišteno %d godina"</item>
+         <item quantity="one">"Nije korišteno %d godinu"</item>
+     </plurals>
 </resources>
