@@ -879,7 +879,12 @@ podatkovnu vezu"</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
   <string name="menu_text_networkassistants">Potrošnja podataka</string>
   <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">Preostalo: %s</string>
+  <string name="menu_text_networkassistants_unit_b">B</string>
+  <string name="menu_text_networkassistants_unit_gb">GB</string>
+  <string name="menu_text_networkassistants_unit_kb">KB</string>
+  <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_power_manager">Potrošnja baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
