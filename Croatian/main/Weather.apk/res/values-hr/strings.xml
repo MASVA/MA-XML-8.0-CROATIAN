@@ -59,7 +59,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="feedback_heavy_snow">Snijeg</string>
   <string name="feedback_light_rain">Lagana kiša</string>
   <string name="feedback_overcast">Naoblaka</string>
-  <string name="feedback_result_fail_no_choice">Odaberite vrijeme kakvo viditee</string>
+  <string name="feedback_result_fail_no_choice">Odaberite vrijeme kakvo vidite</string>
   <string name="feedback_result_interval_time_too_short">%1$s sek. nakon povratne informacije</string>
   <string name="feedback_result_success">Poslano uspješno, hvala vam na povratnim informacijama</string>
   <string name="feedback_sand">Pijesak</string>
