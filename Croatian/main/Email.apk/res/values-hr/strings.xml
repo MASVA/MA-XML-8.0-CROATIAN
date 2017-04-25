@@ -27,7 +27,8 @@
   <string name="account_setting_message_body_load_text">Samo tijelo</string>
   <string name="account_settings_action">Postavke računa</string>
   <string name="account_settings_background_attachments_label">Preuzimanje privitaka</string>
-  <string name="account_settings_background_attachments_summary">Preuzimanje privitaka putem WLAN mreže</string>
+  <string name="account_settings_background_attachments_summary">Preuzmi privitke koristeći WLAN</string>
+  <string name="account_settings_background_attachments_summary_inter">Preuzmi privitke koristeći WLAN</string>
   <string name="account_settings_chat_mode_enable">Prikaži teme kao razgovore</string>
   <string name="account_settings_chat_mode_summary">Prikaži teme e-pošte kao mjehuriće razgovora</string>
   <string name="account_settings_data_usage">Postavke sinkr.</string>
@@ -510,7 +511,7 @@
   <string name="info_actionbar_normal_detail">Pojedinosti</string>
   <string name="info_actionbar_subscribe">Novosti</string>
   <string name="info_item_from">Šalje </string>
-  <string name="info_item_hide">Sakrij</string>
+  <string name="info_item_hide">Izbriši</string>
   <string name="info_loading">Učitavanje…</string>
   <string name="info_name_title">NOVOSTI</string>
   <string name="info_no_message">Nema članaka za prikaz</string>
@@ -740,7 +741,8 @@
   <string name="policy_dont_allow_text_messaging">"Nemoj dopustiti SMS poruke"</string>
   <string name="policy_dont_allow_unsigned_apps">"Nemoj dopustiti nepotpisane aplikacije"</string>
   <string name="policy_dont_allow_unsigned_installers">"Nemoj dopustiti instalere nepotpisane aplikacije"</string>
-  <string name="policy_dont_allow_wifi">"Nemoj dopustiti WLAN"</string>
+  <string name="policy_dont_allow_wifi">"Ne dopuštaj WLAN"</string>
+  <string name="policy_dont_allow_wifi_inter">"Ne dopuštaj WLAN"</string>
   <string name="policy_email_age">Ograničite sinkronizaciju broja e-pošte</string>
   <string name="policy_html_truncation">Ograničiti HTML veličinu e-pošte</string>
   <string name="policy_password_expiration">Podesite istek zaporke</string>

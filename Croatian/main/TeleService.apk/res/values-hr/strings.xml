@@ -1430,6 +1430,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sum_cfu_disabled">Isključeno</string>
   <string name="sum_cfu_enabled">Preusmjeravanje poziva na {0}</string>
   <string name="sum_cfu_enabled_indicator">Preusmjeravanje svih poziva</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">Svi pozivi na SIM %s bit će proslijeđeni</string>
   <string name="sum_cfu_enabled_no_number">Broj je nedostupan</string>
   <string name="sum_cw_disabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
   <string name="sum_cw_enabled">Obavijesti me tijekom poziva o dolaznim pozivima</string>
@@ -1506,6 +1507,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="time_start">Od</string>
   <string name="time_start_hour">Početak sati</string>
   <string name="time_start_minute">Početak minuta</string>
+  <string name="title_cfu_enabled">Prosljeđivanje poziva je uključeno</string>
   <string name="time_statistic">Ušteđeno %1$d min. vremena mreže</string>
   <string name="title_country">Zemlja</string>
   <string name="title_duration">Trajanje</string>

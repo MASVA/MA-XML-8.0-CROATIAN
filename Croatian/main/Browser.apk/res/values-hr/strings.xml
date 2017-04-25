@@ -63,7 +63,7 @@
   <string name="add_new_quicklink">Dodaj na početnu stranicu</string>
   <string name="add_ql_bm_title">Spremi</string>
   <string name="add_quicklink_to_popular">Dodaj na početnu stranicu</string>
-  <string name="add_quicklinks">Dodaj na početnu stranicu</string>
+  <string name="add_quicklinks">Dodaj</string>
   <string name="add_shortcut">Dodaj prečac</string>
   <string name="add_shortcut_success">Prečac uspješno dodan</string>
   <string name="add_to_bookmark">Oznake</string>
@@ -86,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Umjeren</string>
   <string name="aqi_quality_index_pure">Odličan</string>
   <string name="aqi_quality_index_unhealthy">Nezdrav</string>
+  <string name="autoSwithcingSearchEngineTips">Pretraživanje se promjenilo u skladu vašim navikama</string>
   <string name="autofill_keyboard_accessory_content_description">Prijedlozi dostupni</string>
   <string name="autofill_popup_content_description">Prikazivanje automatskog popunjavanja</string>
   <string name="autologin_bar_error">"Ne mogu se prijaviti."</string>
@@ -315,6 +316,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="find_on_page_next">Dalje</string>
   <string name="find_on_page_prev">Natrag</string>
   <string name="find_previous">Pronađi prethodno</string>
+  <string name="firstUsingSearchEngineTips">Ako promjenite pretraživanje</string>
   <string name="fling_on_border_gesture_hint">Možete odabrati funkciju ove geste u Postavkama</string>
   <string name="force_quick_search_title">Traži</string>
   <string name="force_touch_bookmark_history_title">Oznake &amp; Povijest</string>
@@ -516,6 +518,7 @@ Napustiti ovu stranicu?"</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokiranje reklama</string>
   <string name="pref_auto_update_under_wifi">Ažuriraj koristeći WLAN</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatsko podudaranje pretraživanja po navici</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">"Pošalji Poveznicu Web stranice na Mi Poslužitelje radi provjere da je li sigurna."</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost Poveznice</string>
@@ -617,6 +620,8 @@ Napustiti ovu stranicu?"</string>
   <string name="pull_to_refresh_release_label">Otpustite za preporučeno i osvježiti</string>
   <string name="qr_code_title">QR Kod</string>
   <string name="quicklink_bookmark_save">LOKACIJA OZNAKA</string>
+  <string name="quicklink_cannot_save_url">"Ova se poveznica ne može dodati."</string>
+  <string name="quicklink_folder_text">Najbolje</string>
   <string name="quicklink_not_saved">"Ne mogu dodati na početnu stranicu"</string>
   <string name="quicklink_saved">Spremljeno na početnu stranicu</string>
   <string name="quicklink_saved_before">Stranica dodana na početnu stranicu</string>
@@ -751,6 +756,7 @@ Napustiti ovu stranicu?"</string>
   <string name="suggest_access_music">Mi Glazba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
+  <string name="switchText">DA</string>
   <string name="switch_proxy_dialog_msg">"Otkrivena krađa mreže. Koristite ugrađenu MIUI aplikaciju Sigurnost ili prijavite vašem mobilnim operateru."</string>
   <string name="switch_proxy_dialog_title">Krađa mreže</string>
   <string name="tab_hotpage">Vijesti</string>
@@ -766,6 +772,8 @@ Napustiti ovu stranicu?"</string>
   <string name="title_bar_loading">Učitavanje…</string>
   <string name="too_many_windows_dialog_message">"Preglednik ne može otvoriti novu karticu dok ne zatvorite drugu karticu"</string>
   <string name="too_many_windows_dialog_title">"Ne mogu otvoriti više kartica"</string>
+  <string name="unSwitchText">NE</string>
+  <string name="undo">Poništi</string>
   <string name="unknown_title">Nepoznato</string>
   <string name="unsecurity_url_toast">"Ova web stranica nije sigurna"</string>
   <string name="up_to_loading_tips">Otpusti za osvježiti</string>
