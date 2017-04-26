@@ -951,7 +951,7 @@ podatkovnu vezu"</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>
   <string name="manual_item_white_list_summary">Spriječite odabrane aplikacije od optimiziranja</string>
   <string name="manual_item_white_list_title">Iznimke</string>
-  <string name="manual_white_list_header">Iznimaka: %d</string>>
+  <string name="manual_white_list_header">Iznimaka: %d</string>
   <string name="mark_agent">Blokiraj prijavljene agencije</string>
   <string name="mark_agent_block">Prijavljen kao agencija</string>
   <string name="mark_agent_block_large">Agencija</string>
@@ -2369,4 +2369,4 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="xiaomi_traffic_pass_used">Iskorišteno %s od vašeg Mi Data plana</string>
   <string name="xiaomi_traffic_pass_warning">Nema dostupnih mobilnih podataka na vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Natrag</string>
-</resources>
+</resources>
