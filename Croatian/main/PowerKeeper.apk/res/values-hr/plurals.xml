@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <plurals name="power_config_ultimate_on_count">
+     <plurals name="select_items">
+         <item quantity="other">Odabrano %1$d</item>
+         <item quantity="one">Odabrano %1$d</item>
+     </plurals>
+     <plurals name="app_list_total">
+         <item quantity="other">Aplikacija: %d</item>
+         <item quantity="one">%d aplikacija</item>
+     </plurals>
+    <plurals name="power_config_ultimate_on_count">
       <item quantity="other">Još %1$d koraka do uključivanja Ultimativnog načina</item>
       <item quantity="one">%1$d korak do uključivanja Ultimativnog načina</item>
     </plurals>

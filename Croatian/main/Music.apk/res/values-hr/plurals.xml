@@ -67,8 +67,8 @@
         <item quantity="one">Ukloniti %d pjesmu?</item>
     </plurals>
 	<plurals name="dialog_remove_from_cloud_descript">
-         <item quantity="other">Izbrisati %d pjesama iz Mi Clouda?</item>
-         <item quantity="one">Izbrisati %d pjesmu iz Mi Clouda?</item>
+         <item quantity="other">Izbrisati %d pjesama iz Mi Clouda? Izbrisati će se i iz lokalnog popisa za reprodukciju.</item>
+         <item quantity="one">Izbrisati %d pjesmu iz Mi Clouda? Izbrisat će se i iz lokalnog popisa za reprodukciju.</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Dodano je %d pjesama na popis</item>
