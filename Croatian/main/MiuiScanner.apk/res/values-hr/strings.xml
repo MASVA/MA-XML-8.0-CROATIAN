@@ -8,6 +8,7 @@
   <string name="allow_check_website_security">Prikaži obavijest sigurnosne provjere web stranice</string>
   <string name="app_details">Aplik:</string>
   <string name="app_name">Skener</string>
+  <string name="back">Natrag</string>
   <string name="barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="birthday">Rođendan:</string>
   <string name="camera_error_title">Pogreška kamere</string>
@@ -164,6 +165,7 @@
   <string name="view_study_report">Prikaži izvjećše</string>
   <string name="web">Web stranica:</string>
   <string name="website_details">Web stranica:</string>
+  <string name="weixin_code_tip">Koristite WeChat za skeniranje ovog QR koda</string>
   <string name="wifi_details">WLAN:</string>
   <string name="wifi_open_fail">"Ne mogu uključiti WLAN"</string>
   <string name="wifi_pwd">Zaporka:</string>

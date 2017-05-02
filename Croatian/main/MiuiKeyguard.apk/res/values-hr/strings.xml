@@ -79,8 +79,8 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_foget_password_header">Što trebam učiniti ako sam zaboravio svoju zaporku?</string>
   <string name="phone_locked_foget_password_ok">Shvaćam</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
-  <string name="phone_locked_timeout_minutes_string">Pokušajte ponovo za %s min.</string>
-  <string name="phone_locked_timeout_seconds_string">Pokušajte ponovo za %s sek.</string>
+  <string name="phone_locked_timeout_minutes_string">Pokušajte ponovno za %s min.</string>
+  <string name="phone_locked_timeout_seconds_string">Pokušajte ponovno za %s sek.</string>
   <string name="set_lock_wallpaper_failed">Nema novih slika pozadine</string>
   <string name="unlock_sim_string">Otključaj SIM</string>
   <string name="unlock_string">Otključaj</string>

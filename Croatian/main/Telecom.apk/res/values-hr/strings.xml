@@ -19,6 +19,7 @@
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Nedostaje broj govorne pošte</string>
   <string name="no_vm_number_msg">Na SIM kartici nije spremljen broj govorne pošte.</string>
+  <string name="notification_AllMissedCallTitle">Svi propušteni pozivi</string>
   <string name="notification_missedCallTicker">Propušten poziv od %s</string>
   <string name="notification_missedCallTitle">Propušten poziv</string>
   <string name="notification_missedCall_call_back">Uzvrati poziv</string>

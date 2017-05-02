@@ -70,6 +70,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Sakrij</string>
   <string name="hourly_forcast_now">Sada</string>
+  <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="index_item_install_now">Instaliraj sada</string>
   <string name="index_item_installing">Instaliranje</string>
