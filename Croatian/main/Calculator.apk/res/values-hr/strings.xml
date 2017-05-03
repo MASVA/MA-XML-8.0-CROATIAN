@@ -5,6 +5,7 @@
   <string name="cal_convert_to_word_figure">Pretvori u financijske znakove</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Uređivanje</string>
+  <string name="cal_paste">Zalijepi</string>
   <string name="cal_text_copied">Tekst kopiran</string>
   <string name="choose_currency">Odaberite valutu</string>
   <string name="choose_unit">Odaberite jedinicu</string>
@@ -25,6 +26,7 @@
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
+  <string name="deleteDesc">izbriši</string>
   <string name="error">Pogreška</string>
   <string name="error_fomrat">Pogreška formata</string>
   <string name="from_unit_en">kilometara na sat</string>
@@ -53,6 +55,7 @@
   <string name="loan_pay_years">Razdoblje kredita</string>
   <string name="loan_payback_way">Otplata</string>
   <string name="loan_unit">×10K</string>
+  <string name="menuDesc">izbornik</string>
   <string name="mortgage_amount">Ukupno</string>
   <string name="mortgage_average_repayment_first_month">Prvi mjesec otplate</string>
   <string name="mortgage_average_repayment_monthly">Mjesečna otplata</string>
@@ -86,6 +89,7 @@
   <string name="mortgage_years_amount">Trajanje kredita</string>
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
   <string name="network_confirm_title">Potrebno dopuštenje</string>
+  <string name="percentDesc">postotak</string>
   <string name="preference_about_calculator">O Kalkulatoru</string>
   <string name="preference_alert_follow_qq_group">Kopiraj i zalijepi u QQ za pov. informaciju</string>
   <string name="preference_alert_follow_wechat">Kopiraj i zalijepi u WeChat za praćenje</string>
@@ -105,6 +109,7 @@
   <string name="preference_settings">Postavke</string>
   <string name="preference_use_degress_summary">Zamjenski radijani s kutovima u trigonometrijskim funkcijama</string>
   <string name="preference_use_degress_title">Koristi kutove</string>
+  <string name="settingsDesc">postavke</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Unesite svoj bonus prije poreza</string>
   <string name="tax_birth">Rođenje</string>

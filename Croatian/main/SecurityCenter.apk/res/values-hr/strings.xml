@@ -214,6 +214,15 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WLAN</string>
+  <string name="applock_add_account">Dodaj</string>
+  <string name="applock_add_account_info">"Dodajte svoj Mi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
+  <string name="applock_add_account_setting">Račun &amp; privatnost</string>
+  <string name="applock_close_dialog_summary">Aplikacije više neće biti zaštićene i vaša će se zaporka izbrisati nakon isključivanja Zaklj. aplikacija.</string>
+  <string name="applock_close_dialog_title">Isključiti Zaklj. aplikacija?</string>
+  <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
+  <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
+  <string name="applock_not_add_account">Ne sada</string>
+  <string name="applock_not_login_account">"Niste prijavljeni"</string>
   <string name="apps_item_sign_dialog_content">\"%s\" potpis se razlikuje od verzije u App Store. Izbrisati ovu aplikaciju i instalirati službenu verziju? Napomena: instaliranje aplikacije s konfliktnim potpisom može dovesti do gubitka podataka aplikacija.</string>
   <string name="apps_item_sign_dialog_title">Instaliraj službenu aplikaciju</string>
   <string name="apps_item_sign_install_button_text">Zamijeni</string>
@@ -918,7 +927,7 @@ podatkovnu vezu"</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
   <string name="main_month_total_used">Iskorišteno ovaj mjesec</string>
-  <string name="main_month_used">Iskorišteno ovaj mjesec</string>
+  <string name="main_month_used">Mob. podaci</string>
   <string name="main_no_info">Nema podataka</string>
   <string name="main_normal_data_usage">Iskorišteni mob. podaci</string>
   <string name="main_open_traffic_ctrl_button">Ograniči uporabu podataka</string>

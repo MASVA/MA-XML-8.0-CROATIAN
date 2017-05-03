@@ -3343,6 +3343,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_settings_titles_second_space">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, i bilješke.</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_use_finger_dialog_mess">Možete upotrijebiti i svoj otisak prsta sa zaporkom zaštite privatnosti.</string>
+  <string name="privacy_password_use_finger_dialog_open">Postavke</string>
+  <string name="privacy_password_use_finger_dialog_title">Otključavanje pomoću otiska prsta</string>
+  <string name="privacy_password_use_finger_success">Uključeno</string>
   <string name="privacy_password_visible_pattern">Prikaži uzorak</string>
   <string name="privacy_protect_title">Zaštita privatnosti</string>
   <string name="privacy_relative">Privatnost</string>
