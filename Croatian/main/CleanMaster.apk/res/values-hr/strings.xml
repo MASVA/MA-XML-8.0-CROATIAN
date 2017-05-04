@@ -378,6 +378,8 @@
   <string name="recommended">Istaknuto</string>
   <string name="safety_check_detail">%1$d puta, dobiveno %2$d poena</string>
   <string name="safety_rank">Ispred %d%% MIUI korisnika u pogledu sigurnosti</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se još datoteka može izbrisati. Oslobodite više prostora.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predmemorije. Oslobodite više prostora.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">Dopusti</string>
   <string name="sc_allow_network_dialog_message">Dopustiti ovoj aplikaciji povezivanje na internet za primanje ažuriranja?</string>
   <string name="scanning">Skeniranje…</string>

@@ -620,6 +620,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="other_user_liked_video_tab">Favoriti</string>
   <string name="other_user_no_follow_tip">"Još nikoga ne pratite."</string>
   <string name="other_user_no_liked_video_tip">Nema videozapisa koji mi se sviđaju.</string>
+  <string name="overwrite_msg">\"%s\" već postoji. Dodirnite da biste je zamijenili novom datotekom.</string>
   <string name="other_user_topic_tab">Teme</string>
   <string name="other_user_video_tab">Videozapisi</string>
   <string name="pan_settting">KuaiPan postavke</string>
@@ -850,6 +851,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="shortcut_exists">Prečac već postoji</string>
   <string name="shortcut_hotvideos">Popularni videozapisi</string>
   <string name="shortcut_msg">Dodaj prečac na početni zaslon za popularne videozapise</string>
+  <string name="skip_file">Preskoči</string>
   <string name="show_message">Morate preuzeti ovu datoteku prije nego što je možete otvoriti.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežnu vezu."</string>
@@ -1015,7 +1017,7 @@ oslobodili prostor.</string>
   <string name="user_guide_summary">Praktična i sigurna cloud pohrana</string>
   <string name="user_guide_upload_to_kuaipan">Pohranite stavke na KuaiPan s vašeg telefona</string>
   <string name="user_icon">Slika profila</string>
-  <string name="user_id_tip">ID: </string>
+  <string name="user_id_tip">ID: %1$s</string>
   <string name="user_info_setting">Uredi informacije</string>
   <string name="user_like_text">Sviđa mi se</string>
   <string name="user_liked_video_title">Videoapisi koji mi se sviđaju</string>

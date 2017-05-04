@@ -101,4 +101,7 @@
          <item quantity="other">"Nije korišteno %d godina"</item>
          <item quantity="one">"Nije korišteno %d godinu"</item>
      </plurals>
+	 <plurals name="resutl_function_install_app_summary">
+	 <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplikacija nije korišteno duže vrijeme. Pogledaj."&lt;/Data></item>
+      </plurals>		     
 </resources>
