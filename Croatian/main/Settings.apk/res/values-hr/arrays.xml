@@ -14,19 +14,19 @@
         <item>Sve</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>Nakon 15 sekundi</item>
-        <item>Nakon 30 sekundi</item>
-        <item>Nakon 1 minuta</item>
-        <item>Nakon 2 minute</item>
-        <item>Nakon 5 minuta</item>
-        <item>Nakon 10 minuta</item>
-        <item>Nakon 30 minuta</item>
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minute</item>
+        <item>2 minute</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>30 minuta</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikada</item>
         <item>15 sekundi</item>
         <item>30 sekundi</item>
-        <item>1 minuta</item>
+        <item>1 minute</item>
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>10 minuta</item>
@@ -37,7 +37,7 @@
         <item>5 sekundi</item>
         <item>15 sekundi</item>
         <item>30 sekundi</item>
-        <item>1 minuta</item>
+        <item>1 minute</item>
         <item>2 minute</item>
         <item>5 minuta</item>
         <item>10 minuta</item>
@@ -611,7 +611,7 @@
     <string-array name="wfd_status">
         <item>Uređaj povezan, kreiram sesiju…</item>
         <item>Sesija kreirana.</item>
-        <item>Pucanje sesije…</item>
+        <item>sključivanje usluge…</item>
         <item>Sesija neuspješna.</item>
         <item>Isteklo vrijeme, pokušavam ponovo…</item>
         <item>Uređaj povezan</item>
@@ -627,7 +627,7 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>"2.Slijedite upute na zaslonu"</item>
+        <item>"2. Slijedite upute na zaslonu"</item>
         <item></item>
         <item></item>
         <item></item>

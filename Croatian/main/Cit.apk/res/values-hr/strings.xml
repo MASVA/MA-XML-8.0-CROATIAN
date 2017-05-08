@@ -7,6 +7,9 @@
   <string name="SD_SDCard_mounted">Otkrij SD karticu</string>
   <string name="SD_SDCard_total_size">Ukupna veličina</string>
   <string name="SD_SDCard_unmounted">SD kartica nije dostupna</string>
+  <string name="baterry_percent">"Napunjenost baterije: "</string>
+  <string name="baterry_temperature">"Temperatura baterije: "</string>
+  <string name="begin_to_save_finger_data">Početak spremanja podataka otiska prsta</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_ok">U redu</string>
   <string name="camerainfo">Informacije o Kameri</string>
@@ -16,13 +19,17 @@
   <string name="cit_OTG_plugout_check_title">OTG (uklanjanje)</string>
   <string name="cit_OTG_waiting_in">Umetnite USB OTG uređaj</string>
   <string name="cit_OTG_waiting_out">Uklonite USB OTG uređaj</string>
+  <string name="cit_abnormal_reboot_summary">Pričekajte...Čitanje podataka o stabilnosti na ovom uređaju.</string>
+  <string name="cit_abnormal_reboot_title">Podaci o stabilnosti uređaja</string>
   <string name="cit_ac_charger_in">AC Punjač je priključen</string>
   <string name="cit_ac_charger_out">AC Punjač je isključen</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. X，Y，Z koordinatne vrijednosti se prikazuju u nastavku. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
+  <string name="cit_accdata_sensor_check_summary">U nastavku bi se trebale prikazati vrijednosti za X, Y, Z, koordinate</string>
+  <string name="cit_accdata_sensor_check_title">Accelerometer</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Pomičite uređaj brzo u jednom smjeru. U nastavku bi se trebale prikazati vrijednosti za X, Y, Z, koordinate. (kada je telefon u pokretu: X predstavlja lijevo/desno, y predstavlja ispred/iza, z predstavlja gore i dolje).
 Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_accelermeter_sensor_check_title">Akcelerometar</string>
-  <string name="cit_apk_signature_failed">apk signature FAILED</string>
-  <string name="cit_apk_signature_passed">apk signature PASSED</string>
+  <string name="cit_apk_signature_failed">Potpis aplikacije NEUSPJEŠNO</string>
+  <string name="cit_apk_signature_passed">Potpis aplikacije USPJEŠNO</string>
   <string name="cit_aud_current_state">Trenutno stanje:</string>
   <string name="cit_aud_spk_l">spk_L</string>
   <string name="cit_aud_spk_r">spk_R</string>
@@ -39,7 +46,7 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvučnika</string>
   <string name="cit_audio_calibrating">Kalibriranje u tijeku…</string>
-  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
+  <string name="cit_audio_get_temp_fail">Dobivanje podataka Neuspješno!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje stražnjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. prednjeg zvučnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnog zvučnika mikrofona</string>
@@ -60,9 +67,9 @@ Držite telefon kao da razgovarate, pričajte u glavni mikrofon, trebali biste �
 
 Okrenite telefon, pričajte u gornji mikrofon, trebali biste čuti glas u zvučniku"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje gornjeg mikrofona povratne informacije zvučnika</string>
-  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+  <string name="cit_audio_left_caldata">"Podaci Lijevo PA kalibriranja:
 "</string>
-  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
+  <string name="cit_audio_left_calfail">Lijevo PA kalibriranje nije uspjelo!</string>
   <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za slušanje</string>
   <string name="cit_audio_loopback_check_summary_first">Testiranje će se obaviti povratnom petljom glavnog mikrofona
 
@@ -77,9 +84,16 @@ Okrenite telefon, tako da ulaz za slušalice bude okrenut prema dolje. Pričajte
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Testiranje smanjenja okolne buke
 
 Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi čuti vaš glas sa smanjenom bukom u pozadini reproduciran putem prijemnika."</string>
-  <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+  <string name="cit_audio_right_caldata">"Podaci Desno PA kalibriranja:
 "</string>
-  <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
+  <string name="cit_audio_right_calfail">Desno PA kalibriranje nije uspjelo!</string>
+  <string name="cit_aux_camera_action">Zoom</string>
+  <string name="cit_aux_camera_check_summary">"Instrukcije testiranje:
+
+1. Dodirni tipku Zoom u nastavku da uđete u sučelje Kamere
+2. Dodirni tipku zumiranja na pregledu Kamere, a okvir za pregled će približiti
+3. Dodirni ikonu Gotovo."</string>
+  <string name="cit_back_pointer_location_title">Stražnji senzor dodira</string>
   <string name="cit_battery_check_summary">Statistika baterije uređaja</string>
   <string name="cit_battery_check_title">Podaci o bateriji</string>
   <string name="cit_battery_temp_fail">Temperatura baterije nije normalna (vrijednost=%d)</string>
@@ -88,6 +102,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_batterylight_green">Zelena</string>
   <string name="cit_batterylight_red">Crvena</string>
   <string name="cit_batterylight_rgb">Svjetlo baterije</string>
+  <string name="cit_batterylight_white">Bijela</string>
   <string name="cit_blue_tooth_address_check_summary">Bluetooth adresa ovog uređaja bi trebala biti prikazana u nastavku.</string>
   <string name="cit_blue_tooth_address_check_title">Dobivanje Bluetooth adrese</string>
   <string name="cit_blue_tooth_scan_check_summary">U nastavku su Informacije o Bluetooth uređajima koji su otkriveni u blizini.</string>
@@ -119,7 +134,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_charger_waiting_out">Isključite punjač</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
-  <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>
+  <string name="cit_display_continue">Dodirnite zaslon za početak testiranje</string>
   <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
   <string name="cit_exit_test_title">Zaustavi testiranje</string>
   <string name="cit_external_sd_check_summary">Ovo testiranje će provjeriti status SD kartice</string>
@@ -127,7 +142,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_fail">Nije uspjelo</string>
   <string name="cit_finger_check_title">Testiranje otiska prsta (FPC)</string>
   <string name="cit_flash_life_check_summary">Procjena vijeka trajanja bljeskalice uređaja</string>
-  <string name="cit_flash_life_check_title">Flash life</string>
+  <string name="cit_flash_life_check_title">Trajanje bljeskalice</string>
   <string name="cit_fm_audio_path">Konfiguriraj putanju zvuka</string>
   <string name="cit_fm_audio_path_headset">Slušalice</string>
   <string name="cit_fm_audio_path_speaker">Zvučnici</string>
@@ -148,9 +163,11 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
 1. Dodirnite tipku kamere za otvaranje sučelja fotoaparata
 2. Dodirnite tipku okidača
 3. Dodirnite ikonu Provjeri. Sustav će automatski spremiti fotografiju.
-4. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranja."</string>
+4. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranje."</string>
   <string name="cit_front_camera_check_title">Prednja kamera</string>
   <string name="cit_get_signature_failed">Dobivanje potpisa NEUSPJEŠNO</string>
+  <string name="cit_goodix_sensor_check_summary">Testiranje Goodix senzora, dodirnite tipku i pričekajte da podaci o prolasku označeni zelenom bojom budu ispravni.</string>
+  <string name="cit_goodix_sensor_check_title">Senzor otiska prsta Goodix</string>
   <string name="cit_gps_check_summary">Odgovarajuće GPS Informacije bi se trebale prikazivati u nastavku.</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
   <string name="cit_gps_disabled">"GPS nije pokrenut
@@ -161,10 +178,10 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
-  <string name="cit_gyroscope_sensor_check_summary">Vrijednosti za X, Y, Z koordinate bi se trebale pojaviti u nastavku</string>
+  <string name="cit_gyrodata_sensor_check_summary">U nastavku bi se trebale prikazati vrijednosti za X, Y, Z, koordinata</string>
+  <string name="cit_gyrodata_sensor_check_title">Žiroskop</string>
+  <string name="cit_gyroscope_sensor_check_summary">U nastavku bi se trebale prikazati vrijednosti za X, Y, Z, koordinata</string>
   <string name="cit_gyroscope_sensor_check_title">Žiroskop</string>
-  <string name="cit_hardware_info_summary">Pričekajte… Prikazivanje hardverskih informacija ovog uređaja</string>
-  <string name="cit_hardware_info_title">Hardware Informacije</string>
   <string name="cit_headset_button_check_summary">Kad su priključene slušalice, pritisnite tipke na slušalicama (često se nalaze na kabelu). Odgovarajući tekst na zaslonu bi trebao postati zelene boje.</string>
   <string name="cit_headset_button_check_title">Tipke slušalica</string>
   <string name="cit_headset_button_click">Pritisnete tipke na slušalicama</string>
@@ -174,6 +191,7 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_headset_button_pass">Uspješno</string>
   <string name="cit_headset_button_play_pause">Reproduciraj/Pauza</string>
   <string name="cit_headset_button_previous">Prethodno</string>
+  <string name="cit_headset_button_reverse">Obrnuto ubacite USB slušalice</string>
   <string name="cit_headset_button_rewind">Natrag</string>
   <string name="cit_headset_button_stop">Zaustavi</string>
   <string name="cit_headset_button_unknown">Nepoznato</string>
@@ -201,9 +219,9 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Pozadinsko svjetlo, svjetlo obavijesti i Bljeskalica (stražnja), bi trebale reagirati kada se pritisne odgovarajuća tipka.</string>
   <string name="cit_leds_check_title">Svjetlo obavijesti (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC vrijednost bi se trebale pojaviti u nastavku</string>
+  <string name="cit_light_sensor_check_summary">DAC vrijednost bi se trebala pojaviti u nastavku</string>
   <string name="cit_light_sensor_check_title">Senzor osvjetljenja</string>
-  <string name="cit_magnetic_sensor_check_summary">Vrijednosti za X, Y, Z koordinate bi se trebale pojaviti u nastavku</string>
+  <string name="cit_magnetic_sensor_check_summary">U nastavku bi se trebale prikazati vrijednosti za X, Y, Z koordinate</string>
   <string name="cit_magnetic_sensor_check_title">Senzor Magnetometra</string>
   <string name="cit_main_camera_check_summary">"Upute za testiranje:
 
@@ -211,22 +229,24 @@ Dodirnite zaslon za pokretanje GPS-a…"</string>
  2. Provjerite da je bljeskalica uključena 
  3. Dodirnite tipku okidača
  4. Dodirnite ikonu Provjeri. Sustav će automatski spremiti fotografiju.
- 5. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranja."</string>
+ 5. Fotografija koju ste snimili trebala bi biti prikazana u nastavku. Dodirnite Izbriši za dovršetak testiranje."</string>
   <string name="cit_main_camera_check_title">Stražnja kamera</string>
   <string name="cit_name">Testiranje Hardwarea</string>
+  <string name="cit_nfc_check_summary">Stavite karticu na vrh stražnje strane telefona</string>
+  <string name="cit_nfc_check_title">Testiranje NFC-a</string>
   <string name="cit_not_available">"Ovo testiranje nije dostupno na ovoj verziji MIUI"</string>
   <string name="cit_notificationlight">Svjetlo obavijesti</string>
   <string name="cit_notificationlight_off">Svjetlo obavijesti isklj.</string>
-  <string name="cit_notificationlight_on">Svjetlo obavijesti ukjl.</string>
+  <string name="cit_notificationlight_on">Svjetlo obavijesti uklj.</string>
   <string name="cit_otg_not_supported">"Ovaj model ne podržava OTG Testiranje."</string>
   <string name="cit_pass">Uspješno</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Potvrdite da postoji datoteka s nazivom \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana kroz putanju HIFI uređaja prilikom pokretanja ovog testiranja."</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Potvrdite da postoji datoteka s nazivom \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana kroz putanju HIFI uređaja prilikom pokretanja ovog testiranje."</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduciraj MP3(HIFI) pohranjen na SD kartici</string>
-  <string name="cit_play_sd_mp3_summary">"Potvrdite da postoji datoteka s nazivom  \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana preko vanjskih zvučnika uređaja prilikom pokretanja ovog testiranja."</string>
+  <string name="cit_play_sd_mp3_summary">"Potvrdite da postoji datoteka s nazivom  \"music.mp3\" pohranjena na SD kartici. Datoteka \"music.mp3\" treba biti reproducirana preko vanjskih zvučnika uređaja prilikom pokretanja ovog testiranje."</string>
   <string name="cit_play_sd_mp3_title">Reproduciraj MP3(HIFI) pohranjen na SD kartici</string>
   <string name="cit_playing_sd_mp3">music.mp3 se reproducira…</string>
-  <string name="cit_pointer_location_title">Zaslon osjetljiv na dodir</string>
-  <string name="cit_power_check_summary">Količina punjenja baterije trebala bi biti izražena kao postotak u nastavku.</string>
+  <string name="cit_pointer_location_title">Senzor dodira</string>
+  <string name="cit_power_check_summary">"Količina punjenja baterije trebala bi biti izražena kao postotak niže, a temperatura baterije također bi trebala biti prikazana."</string>
   <string name="cit_power_check_title">Indikator baterije</string>
   <string name="cit_pressure_sensor_check_summary">Vrijednost za tlak bi se trebala pojaviti u nastavku</string>
   <string name="cit_pressure_sensor_check_title">Senzor tlaka</string>
@@ -239,7 +259,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_rear_sub_camera_check_title">Stražnja sub kamera</string>
   <string name="cit_recovery_signature_failed">Recovery potpis NEUSPJEŠNO</string>
   <string name="cit_recovery_signature_passed">Recovery potpis USPJEŠNO</string>
-  <string name="cit_reset_check_summary">Ovo testiranje će ponovno pokrenuti uređaj. Svi dosadašnji podaci testiranja će biti izgubljeni.</string>
+  <string name="cit_reset_check_summary">Ovo testiranje će ponovno pokrenuti uređaj. Svi dosadašnji podaci testiranje će biti izgubljeni.</string>
   <string name="cit_reset_check_title">Testiranje Ponovnog pokretanja</string>
   <string name="cit_reset_ese_summary">Resetiraj eSE, sve vaše NFC bankovne kartice i prijenosne kartice biti će izbrisane.</string>
   <string name="cit_reset_ese_title">Resetiraj eSE</string>
@@ -247,6 +267,8 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_reset_se_nfc_closed">Nije uspjelo: NFC treba biti omogućen.</string>
   <string name="cit_reset_se_start">Resetiranje eSE…</string>
   <string name="cit_reset_test">Testiranje</string>
+  <string name="cit_sar_sensor_check_summary">U nastavku se trebaju prikazati vrijednosti kanala senzora, pokrivanje tipke telefona, ako su podaci promijenjeni, funkcija je dobra</string>
+  <string name="cit_sar_sensor_check_title">SAR senzor</string>
   <string name="cit_sd_fail">Došlo je do pogreške.</string>
   <string name="cit_sd_mount">Učitavanje SD kartice</string>
   <string name="cit_sd_mount_sucess">Uspješno učitana SD kartica</string>
@@ -281,21 +303,121 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_stop_calibration">Zaustavi kalibraciju</string>
   <string name="cit_tfcard_support_summary">Provjerite je li TF Kartica podržana na ovom uređaju</string>
   <string name="cit_tfcard_support_title">Uređaj podržava TF Karticu</string>
+  <string name="cit_thermal_history_summary">Pričekajte ... Čitanje toplinskih podataka na ovom uređaju.</string>
+  <string name="cit_thermal_history_title">Povijest topline</string>
   <string name="cit_tool">Dodatni alati</string>
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
   <string name="cit_tool_bluetooth_dut">Bluetooth Testiranje načina rada</string>
-  <string name="cit_tool_bluetooth_le_tx_ch19">Bluetooth LE 2.440GHz Freq Testiranje načina rada</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Bluetooth LE 2.480GHz Freq Testiranje načina rada</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Bluetooth LE 2.402GHz Freq Testiranje načina rada</string>
+  <string name="cit_tool_bluetooth_enhanced">Pokreni Bluetooth poboljšano testiranje</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run">RUN</string>
+  <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Okidač</string>
+  <string name="cit_tool_bluetooth_le_rx_4x">RX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_rx_4x_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_rx_50">RX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_rx_50_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_rx_50_phy">PHY:</string>
+  <string name="cit_tool_bluetooth_le_rx_ch0">Pokreni Bluetooth LE 2.402GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch1">Pokreni Bluetooth LE 2.404GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch10">Pokreni Bluetooth LE 2.422GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch11">Pokreni Bluetooth LE 2.424GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch12">Pokreni Bluetooth LE 2.426GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch13">Pokreni Bluetooth LE 2.428GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch14">Pokreni Bluetooth LE 2.430GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch15">Pokreni Bluetooth LE 2.432GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch16">Pokreni Bluetooth LE 2.434GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch17">Pokreni Bluetooth LE 2.436GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch18">Pokreni Bluetooth LE 2.438GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch19">Pokreni Bluetooth LE 2.440GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch2">Pokreni Bluetooth LE 2.406GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch20">Pokreni Bluetooth LE 2.442GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch21">Pokreni Bluetooth LE 2.444GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch22">Pokreni Bluetooth LE 2.446GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch23">Pokreni Bluetooth LE 2.448GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch24">Pokreni Bluetooth LE 2.450GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch25">Pokreni Bluetooth LE 2.452GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch26">Pokreni Bluetooth LE 2.454GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch27">Pokreni Bluetooth LE 2.456GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch28">Pokreni Bluetooth LE 2.458GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch29">Pokreni Bluetooth LE 2.460GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch3">Pokreni Bluetooth LE 2.408GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch30">Pokreni Bluetooth LE 2.462GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch31">Pokreni Bluetooth LE 2.464GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch32">Pokreni Bluetooth LE 2.466GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch33">Pokreni Bluetooth LE 2.468GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch34">Pokreni Bluetooth LE 2.470GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch35">Pokreni Bluetooth LE 2.472GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch36">Pokreni Bluetooth LE 2.474GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch37">Pokreni Bluetooth LE 2.476GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch38">Pokreni Bluetooth LE 2.478GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch39">Pokreni Bluetooth LE 2.480GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch4">Pokreni Bluetooth LE 2.410GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch5">Pokreni Bluetooth LE 2.412GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch6">Pokreni Bluetooth LE 2.414GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch7">Pokreni Bluetooth LE 2.416GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch8">Pokreni Bluetooth LE 2.418GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_ch9">Pokreni Bluetooth LE 2.420GHz Freq RX testiranje</string>
+  <string name="cit_tool_bluetooth_le_rx_msg">Pokreni Bluetooth LE 5.0 RX testiranje:</string>
+  <string name="cit_tool_bluetooth_le_rx_msg_old">Pokreni Bluetooth LE 4.x RX testiranje:</string>
+  <string name="cit_tool_bluetooth_le_rx_num">rx packets num:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
+  <string name="cit_tool_bluetooth_le_tx_50_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
+  <string name="cit_tool_bluetooth_le_tx_ch0">Pokreni Bluetooth LE 2.402GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch1">Pokreni Bluetooth LE 2.404GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch10">Pokreni Bluetooth LE 2.422GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch11">Pokreni Bluetooth LE 2.424GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch12">Pokreni Bluetooth LE 2.426GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch13">Pokreni Bluetooth LE 2.428GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch14">Pokreni Bluetooth LE 2.430GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch15">Pokreni Bluetooth LE 2.432GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch16">Pokreni Bluetooth LE 2.434GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch17">Pokreni Bluetooth LE 2.436GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch18">Pokreni Bluetooth LE 2.438GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch19">Pokreni Bluetooth LE 2.440GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch2">Pokreni Bluetooth LE 2.406GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch20">Pokreni Bluetooth LE 2.442GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch21">Pokreni Bluetooth LE 2.444GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch22">Pokreni Bluetooth LE 2.446GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch23">Pokreni Bluetooth LE 2.448GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch24">Pokreni Bluetooth LE 2.450GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch25">Pokreni Bluetooth LE 2.452GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch26">Pokreni Bluetooth LE 2.454GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch27">Pokreni Bluetooth LE 2.456GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch28">Pokreni Bluetooth LE 2.458GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch29">Pokreni Bluetooth LE 2.460GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch3">Pokreni Bluetooth LE 2.408GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch30">Pokreni Bluetooth LE 2.462GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch31">Pokreni Bluetooth LE 2.464GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch32">Pokreni Bluetooth LE 2.466GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch33">Pokreni Bluetooth LE 2.468GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch34">Pokreni Bluetooth LE 2.470GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch35">Pokreni Bluetooth LE 2.472GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch36">Pokreni Bluetooth LE 2.474GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch37">Pokreni Bluetooth LE 2.476GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch38">Pokreni Bluetooth LE 2.478GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch39">Pokreni Bluetooth LE 2.480GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch4">Pokreni Bluetooth LE 2.410GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch5">Pokreni Bluetooth LE 2.412GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch6">Pokreni Bluetooth LE 2.414GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch7">Pokreni Bluetooth LE 2.416GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch8">Pokreni Bluetooth LE 2.418GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_ch9">Pokreni Bluetooth LE 2.420GHz Freq TX testiranje</string>
+  <string name="cit_tool_bluetooth_le_tx_msg">Pokreni Bluetooth LE 5.0 TX testiranje:</string>
+  <string name="cit_tool_bluetooth_le_tx_msg_old">Pokreni Bluetooth LE 4.x TX testiranje:</string>
   <string name="cit_tool_bluetooth_not_on">Bluetooth NIJE uključen!</string>
   <string name="cit_tool_bluetooth_off">Isključi Bluetooth</string>
   <string name="cit_tool_bluetooth_on">Uključi Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz Freq Testiranje načina rada</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz Freq Testiranje načina rada</string>
+  <string name="cit_tool_cal_accelerometer">Alat za Acc kalibraciju</string>
   <string name="cit_tool_cal_camera">Alat za kalibraciju kamere</string>
+  <string name="cit_tool_cal_gyroscope">Alat za kalibraciju žiroskopa</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Omogući zapis 3A Switch</string>
   <string name="cit_tool_enable_display_3A_log">Omogući Display 3A log</string>
+  <string name="cit_tool_exit_modem_mbn">Vrati na auto MBN</string>
   <string name="cit_tool_log">Zapisi</string>
   <string name="cit_tool_log_bugreport">Izvješće grešaka</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -333,7 +455,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_prx_drx_stop_test">Zaustavi Test</string>
   <string name="cit_tool_prx_only">PRX</string>
   <string name="cit_tool_rf_ant">Alati RF/Antene</string>
-  <string name="cit_tool_wifi">Alati testiranja WLAN-a</string>
+  <string name="cit_tool_wifi">Alati testiranje WLAN-a</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
@@ -352,7 +474,9 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
   <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">kanal:</string>
+  <string name="cit_tool_wifi_sniffer">Alat za WLAN Sniffer</string>
+  <string name="cit_tool_wifi_sniffer_settings">Sniffer postavke</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
@@ -374,6 +498,11 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_touch_calib_pass">Kalibriranje je uspješno završeno</string>
   <string name="cit_touch_calib_summary">Sljedeći korak će obaviti kalibraciju dodira, potvrdite i ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
   <string name="cit_touch_calib_title">Kalibriranje dodira</string>
+  <string name="cit_tpdump_check_summary">Kliknite tipku da biste omogućili ili onemogućili dump funkciju dodira</string>
+  <string name="cit_tpdump_check_title">Način otklanjanja pogrešaka dodira</string>
+  <string name="cit_tpdump_close">Onemogući dump</string>
+  <string name="cit_tpdump_open">Omogući dump</string>
+  <string name="cit_tpdump_reset">Resetiraj dump</string>
   <string name="cit_usb_OTG_in">USB OTG uređaj otkriven</string>
   <string name="cit_usb_OTG_out">USB OTG uređaj uklonjen</string>
   <string name="cit_usb_charger_in">Punjenje putem  USB-a</string>
@@ -397,9 +526,9 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje WLAN-a</string>
   <string name="cit_wifi_address_check_title">WLAN Adresa</string>
   <string name="cit_wifi_address_error">"Ne mogu dobiti WLAN adresu. Provjerite je li WLAN omogućen."</string>
-  <string name="cit_wifi_ap_scan_check_summary">U nastavku se Informacije WLAN AP od uređaja na području koje su otkrivene. Potvrdite da su informacije istaknute zelenom bojom ispravne.</string>
-  <string name="cit_wifi_ap_scan_check_title">Skeniranja WLAN AP</string>
-  <string name="cit_wifi_ap_scan_retry">Skeniraj ponovo…</string>
+  <string name="cit_wifi_ap_scan_check_summary">U nastavku su informacije WLAN AP od uređaja na području koje su otkrivene. Potvrdite da su informacije istaknute zelenom bojom ispravne.</string>
+  <string name="cit_wifi_ap_scan_check_title">Skeniranje WLAN AP</string>
+  <string name="cit_wifi_ap_scan_retry">Skeniraj ponovno…</string>
   <string name="cit_wifi_ap_scanning">Skeniranje…</string>
   <string name="cit_wifi_fail_to_scan">"Ne mogu skenirati mreže"</string>
   <string name="cit_wifi_state_refresh">Osvježi</string>
@@ -423,10 +552,38 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="micphone_test">MIC i SPK</string>
   <string name="remove_headset_and_starttest">Uklonite slušalice i pritisnite start za testiranje</string>
   <string name="speak_from_mic">Govorite u mikrofon, trebali bi čuti glas u zvučniku.</string>
+  <string name="select">Odaberi</string>
+  <string name="select_all">Odaberi sve</string>
+  <string name="select_automatic">Odaberi automatski</string>
+  <string name="select_manual">Odaberi ručno</string>
+  <string name="select_none">Ništa</string>
+  <string name="selftest">SELF TEST</string>
+  <string name="sensor_information">Informacije senzora</string>
+  <string name="show_log">Prikaži zapis</string>
   <string name="start">Start</string>
-  <string name="testagain">Možete pritisnuti tipku HOME za ponovno testiranje</string>
+  <string name="start_extract_sample">Započni izdvajati uzorke</string>
+  <string name="start_extract_template">Započni izdvajati predloške</string>
+  <string name="start_far">Start FAR</string>
+  <string name="start_frr">Start FRR</string>
+  <string name="status">Status</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_failed">Jedan ili više testova nije uspjelo</string>
+  <string name="status_passed">Uspjelo</string>
+  <string name="status_running">Pokrenuto</string>
+  <string name="status_text">Status:</string>
+  <string name="success_extract_sample">Završeno izdvajanje uzoraka</string>
+  <string name="success_extract_template">Završeno izdvajanje predložaka</string>
+  <string name="success_get_finger_data">Izdvajanje slike: uspješno dobiveni podaci o otiscima</string>
+  <string name="success_to_test">TESTIRANJE USPJEŠNO</string>
+  <string name="template_data">Podaci predložaka</string>
+  <string name="template_hint">Izdvojeno predložaka %1$s za jedan prst</string>
+  <string name="template_progress_hint">Pričekajte izdvajanje podataka predloška</string>
   <string name="testing">Pokretanje AutoTesta…</string>
-  <string name="touch_auto">Samotestiranje zaslona osjetljiva na dodir tijeku, molimo pričekajte…</string>
+  <string name="title_about">O</string>
+  <string name="title_algo_performance">Algo performanse</string>
+  <string name="title_extract_data">Izdvajanje podataka</string>
+  <string name="title_farr">FAR i FRR Test</string>
+  <string name="touch_auto">Samotestiranje zaslona osjetljiva na dodir u tijeku, molimo pričekajte…</string>
   <string name="tp_color">TP Boja:</string>
   <string name="tp_version">TP Verzija:</string>
   <string name="waiting">Pričekajte 4s.</string>

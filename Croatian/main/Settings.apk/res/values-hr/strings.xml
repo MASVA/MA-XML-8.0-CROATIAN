@@ -2078,7 +2078,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
-  <string name="launcher_title">Poč. zaslon</string>
+  <string name="launcher_title">Poč. zaslon i panel Nedavno</string>
   <string name="launching_cit">Pokrećem CIT, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke o uređaju…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
@@ -3496,6 +3496,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="receiver_clean">Oslobodite prostor</string>
   <string name="recent_location_requests_summary">Prikaži aplikacije koje traže prikaz o detaljima vaše lokacije</string>
   <string name="recent_location_requests_title">Pristup lokaciji</string>
+  <string name="recents_config_title">Postavke panela Nedavni zadaci</string>
   <string name="recognizer_settings_summary">"Postavke za '%s'"</string>
   <string name="recognizer_settings_title">Glasovno pretraživanje</string>
   <string name="recognizer_title">Prepoznavanje glasa</string>
@@ -4119,6 +4120,7 @@ Za prikvačivanje zaslona:
   <string name="show_ime">Prikaži virtualnu tipkovnicu</string>
   <string name="show_ime_summary">Zadržava se na zaslonu dok je fizička tipkovnica aktivna</string>
   <string name="show_magnifier_when_input">Povećalo za tekst</string>
+  <string name="show_mem_info_title">Prikaži podatke o memoriji</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
   <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="show_password">Zaporke vidljive</string>

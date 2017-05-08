@@ -160,10 +160,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_dlg_ok">U redu</string>
   <string name="app_manager_force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
+  <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_loading_data">Učitavanje podataka…</string>
   <string name="app_manager_more_times">Pristupano 100000+ puta</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
-  <string name="app_manager_not_record">Nema stavki</string>
+  <string name="app_manager_not_record">"Ne mogu pronaći aplikacije koje zahtijevaju dopuštenja"</string>
+  <string name="app_manager_perm">Dopuštenja</string>
   <string name="app_manager_perm_monitor_make_calls">Obavljanje telefonskih poziva</string>
   <string name="app_manager_perm_monitor_read_call_history">Čitanje povijesti poziva</string>
   <string name="app_manager_perm_monitor_read_contacts">Čitanje vaših kontakata</string>
@@ -202,6 +204,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
   <string name="app_manager_unstall_application">Deinstaliraj</string>
   <string name="app_manager_update_label_text">Novo</string>
+  <string name="app_manager_usage_record_title">Korištenje aplikacije</string>
   <string name="app_manager_wake_path_card_title">Lančani početak povijesti (2 dana)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Shvaćam</string>
   <string name="app_manager_wakepath_dialog_summary">Lančano se pokretanje događa kada neka aplikacija pokrene drugu aplikaciju u pozadini. To može istrošiti bateriju i smanjiti performanse sustava. MIUI bi normalno blokirao lančano pokretanje.</string>
@@ -212,6 +215,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_name_na">Uporaba podataka</string>
   <string name="app_name_securitycenter">Sigurnost</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
+  <string name="app_usage_never">Nije nedavno korišteno</string>
+  <string name="app_usage_recently">Nedavno korišteno</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WLAN</string>
   <string name="applock_add_account">Dodaj</string>

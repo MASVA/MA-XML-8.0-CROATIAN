@@ -57,6 +57,22 @@
      	<item quantity="other">Ovoliko aplikacija (%d) ne koristi Uštedu Podataka</item>
         <item quantity="one">%d aplikacija ne koristi Uštedu Podataka</item>
     </plurals>
+	<plurals name="traffic_setting_app_count">
+         <item quantity="other">Aplikacija: %d</item>
+         <item quantity="one">Aplikacija: %d</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_notify_title">
+         <item quantity="other">"Već ste iskoristili %s dnevnih ograničenja podataka."</item>
+         <item quantity="one">"Već ste iskoristili %s dnevnog ograničenje podataka."</item>
+     </plurals>
+     <plurals name="daily_sim_over_limit_dialog_message">
+         <item quantity="other">"Već ste iskoristili %s dnevnih ograničenja podataka.
+ 
+ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti dodatne troškove."</item>
+         <item quantity="one">"Već ste iskoristili %s dnevnog ograničenje podataka.
+ 
+ Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti dodatne troškove."</item>
+     </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">Korišteno prije (%d) dana</item>
         <item quantity="one">Jučer korišteno</item>
@@ -286,4 +302,16 @@
          <item quantity="other">Blokirano %d puta</item>
          <item quantity="one">Blokirano %d put</item>
 	</plurals>
+	<plurals name="app_usage_day">
+         <item quantity="other">"Nije korišteno %d dana"</item>
+         <item quantity="one">"Nije korišteno %d dan"</item>
+     </plurals>
+     <plurals name="app_usage_month">
+         <item quantity="other">"Nije korišteno %d mjeseci"</item>
+         <item quantity="one">"Nije korišteno %d mjesec"</item>
+     </plurals>
+     <plurals name="app_usage_year">
+         <item quantity="other">"Nije korišteno %d godina"</item>
+         <item quantity="one">"Nije korišteno %d godinu"</item>
+     </plurals>
 </resources>
