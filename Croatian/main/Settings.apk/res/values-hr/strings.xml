@@ -5011,6 +5011,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="user_restrictions_controlled_by">Kontrolira aplikacija %1$s</string>
   <string name="user_restrictions_title">Pristup aplikacijama i sadržaju</string>
   <string name="user_set_lock_button">Postavi zaključavanje</string>
+  <string name="user_settings_forbidden">"Ne mogu promijeniti postavke administratora u trenutnom prostoru. Vratite se u Prvi prostor."</string>
   <string name="user_settings_title">Korisnici</string>
   <string name="user_setup_button_setup_later">Ne sada</string>
   <string name="user_setup_button_setup_now">Postavi sada</string>

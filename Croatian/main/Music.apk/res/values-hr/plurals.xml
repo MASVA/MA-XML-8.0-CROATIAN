@@ -140,4 +140,8 @@
          <item quantity="zero">Ukupno %d pjesama</item>
          <item quantity="one">Ukupno %d pjesma</item>
      </plurals>
+	 <plurals name="skipped_online_songs_tips">
+         <item quantity="other">Preskočeno %d pjesama. Otvorite promjenu online sadržaja u postavkama</item>
+         <item quantity="one">Preskočena %d pjesma. Otvorite promjenu online sadržaja u postavkama</item>
+     </plurals>
 </resources> 
