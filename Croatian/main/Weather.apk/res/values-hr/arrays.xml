@@ -124,4 +124,13 @@
          <item>Umjerena</item>
          <item>Lagana</item>
      </string-array>
+	 <string-array name="pollution_level_desc_arr">
+         <item>Izvrsno</item>
+         <item>Dobro</item>
+         <item>Lagano zagađen</item>
+         <item>Umjereno zagađen</item>
+         <item>Jako zagađen</item>
+         <item>Ozbiljno zagađen</item>
+         <item>Iznad ideksa</item>
+     </string-array>
 </resources>

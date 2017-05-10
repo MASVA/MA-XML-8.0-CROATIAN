@@ -2952,16 +2952,16 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Pokrijte zaslon da biste ga isključili</string>
-  <string name="paper_mode_auto_twilight_summary">Raspored moda čitanja kao twilight način</string>
-  <string name="paper_mode_auto_twilight_title">Twilight način</string>
-  <string name="paper_mode_customize_time_summary">Raspored moda čitanja kao vlastito vrijeme</string>
-  <string name="paper_mode_customize_time_title">Postavite vrijeme</string>
-  <string name="paper_mode_end_time_title">Vrijeme završetka</string>
-  <string name="paper_mode_get_location_dlg_msg">Dobivanje točnih vremena izlaska i zalaska sunca potrebno je za dobivanje mrežne lokacije prema mreži, bez obzira jesu li otvorene postavke lokacije?</string>
+  <string name="paper_mode_auto_twilight_summary">Promjeni automatski na Način čitanja nakon zalaska sunca</string>
+  <string name="paper_mode_auto_twilight_title">"Čitanje za laku noć"</string>
+  <string name="paper_mode_customize_time_summary">Uključi Način čitanja za prilagođeno razdoblje</string>
+  <string name="paper_mode_customize_time_title">Prilagođeno razdoblje</string>
+  <string name="paper_mode_end_time_title">Isključi</string>
+  <string name="paper_mode_get_location_dlg_msg">Pristup vašoj lokaciji potreban je za izračunavanje vremena zalaska i izlaska sunca</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Odustani</string>
-  <string name="paper_mode_get_location_dlg_positive_btn_text">Postavke</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Idi u Postavke</string>
   <string name="paper_mode_get_location_dlg_title">Postavi lokaciju</string>
-  <string name="paper_mode_start_time_title">Vrijeme početka</string>
+  <string name="paper_mode_start_time_title">Uključi</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
@@ -3659,9 +3659,9 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
   <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
-  <string name="screen_paper_mode_summary">"Smanji odsjaj pozadine"</string>
-  <string name="screen_paper_mode_time_summary">Raspored moda čitanja kao vlastito vrijeme</string>
-  <string name="screen_paper_mode_time_title">Planirano vrijeme</string>
+  <string name="screen_paper_mode_summary">"Smanji emisiju plave svjetlosti zaslona"</string>
+  <string name="screen_paper_mode_time_summary">Odredite vrijeme za uključivanje i isključivanje Načina čitanja</string>
+  <string name="screen_paper_mode_time_title">Planirano</string>
   <string name="screen_paper_mode_title">Način čitanja</string>
   <string name="screen_paper_mode_turn_off">Isključeno</string>
   <string name="screen_paper_mode_turn_on">Uključeno</string>
@@ -3669,7 +3669,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Dopusti</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Da ažurirate popis aplikacija koje koriste način čitanja, potrebno je povezivanje s internetom.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezivanje s internetom</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koja automatski koriste načina čitanja</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje automatski koriste način čitanja</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Ažuriraj automatski</string>
   <string name="screen_pinning_description">"Kad je ta postavka uključena, prikvačivanjem možete zadržati trenutačan zaslon u prednjem planu dok ga ne otkvačite.
 
