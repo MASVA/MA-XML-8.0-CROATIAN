@@ -11,7 +11,7 @@
      <plurals name="marked_by_others">
          <item quantity="other">%d drugih korisnika je označilo kao</item>
          <item quantity="one">%d drugi korisnik je označio kao</item>
-      </plurals>		      
+      </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Ne prati uporabu podataka za ovoliko (%d) aplikacija</item>
         <item quantity="one">Ne prati uporabu podataka za %d aplikaciju</item>
