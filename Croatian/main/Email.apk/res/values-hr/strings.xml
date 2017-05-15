@@ -216,6 +216,7 @@
   <string name="auto_mail_window_description">139 Email Usluga autom. konfiguracije</string>
   <string name="auto_mail_window_label">139 Mailbox autom. konfiguracija</string>
   <string name="auto_sync_off">Automatska sinkronizacija nije uključena.</string>
+  <string name="automatic_remind_text">Podsjeti</string>
   <string name="battery_saver">Štednja baterije</string>
   <string name="battery_saver_keywords">Štednja baterije;mail battery</string>
   <string name="bcc">Skr. kopija</string>
@@ -232,7 +233,8 @@
   <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
-  <string name="cant_move_or_change_labels">Premještanje nije moguće jer odabir sadrži više računa.</string>
+  <string name="cancel_pop3_attchemt_downloading">Otkazivanje bilo kojeg privitka koji se preuzima nije dostupan za POP3 vrstu računa.</string>
+  <string name="cant_move_or_change_labels">"Ne mogu premjestiti stavke iz više računa."</string>
   <string name="cc">Kopija</string>
   <string name="cc_attribution">Kopija: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
@@ -375,6 +377,7 @@
   <string name="download_confirm_title">Preuzimanje privitka</string>
   <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_classification">Inteligentna klasifikacija</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_contacts">Kontakti</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
@@ -647,6 +650,8 @@
   <string name="no_conversations">Nema poruka.</string>
   <string name="no_mails">Nema e-pošte.</string>
   <string name="no_matched_attachment">Nema rezultata.</string>
+  <string name="no_recognize_describe">"Ne mogu pronaći e-poruke koje sadrže ulaznice ili rezervacije.
+Pokušajte s drugom pristiglom poštom."</string>
   <string name="no_remind">Ne podsjećaj</string>
   <string name="not_subject">(Nema predmeta)</string>
   <string name="not_synced_title">Račun nije sinkroniziran</string>
@@ -693,6 +698,7 @@
   <string name="overlays_tip">Otvori skočni prozor dopuštenja i odmah uživajte u autom. konfiguraciji 139 poš. sandučića.</string>
   <string name="overlays_title">Otvori skočni prozor dopuštenja</string>
   <string name="parase_setup_data">Dobivanje podataka…</string>
+  <string name="parse_recognize_describe">Analiza e-pošte…</string>
   <string name="password_expire_warning_content_title">Istječe zaporka za zaključavanje zaslona</string>
   <string name="password_expire_warning_dialog_content_fmt">Uskoro morate promijeniti svoj ​​PIN ili zaporku za zaključavanje zaslona ili će biti izbrisani podaci za račun %s. Želite li to promijeniti sada?</string>
   <string name="password_expire_warning_dialog_title">Istječe zaporka za zaključavanje zaslona</string>

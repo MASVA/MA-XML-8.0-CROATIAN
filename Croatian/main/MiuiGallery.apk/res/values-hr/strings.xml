@@ -49,6 +49,7 @@
   <string name="album_detail_page_empty">Nema stavki</string>
   <string name="album_faces_name">Osobe</string>
   <string name="album_from_format">%s</string>
+  <string name="album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Naziv albuma</string>
   <string name="album_name_recent_discovery">Nedavno</string>
@@ -193,6 +194,7 @@
   <string name="cannot_send_message_reason">Poruka nema valjanog primatelja.</string>
   <string name="change_to_face_mode">Prikaži samo lice</string>  
   <string name="change_to_photo_mode">Prikaži pune preglede</string>
+  <string name="change_to_visible">Vratiti ovu osobu?</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Odnos</string>
   <string name="choose_people">"Odaberite album osobe"</string>
@@ -286,6 +288,7 @@
   <string name="delete_from_devices">Svih sinkr. uređaja</string>
   <string name="delete_from_devices_album">Svih uređaja u koje je album bio sinkroniziran</string>
   <string name="delete_from_homepage_album">Albuma prikazanih u Galeriji</string>
+  <string name="delete_from_local_and_cloud">sa ovog uređaja i Mi Clouda</string>
   <string name="delete_from_this_album_and_cloud">iz ovog albuma i Mi Clouda</string>
   <string name="delete_from_web">Web albumi</string>
   <string name="delete_in_album">Kada izbrišete fotografiju ili videozapis iz albuma, ono će također biti izbrisano iz:</string>
@@ -297,6 +300,7 @@
   <string name="delete_third_party_photo">Izbrisati ovu fotografiju?</string>
   <string name="delete_third_party_video">Izbrisati ovaj videozapis?</string>
   <string name="delete_to_trash_tips">Možete pogledati nedavno izbrisane fotografije u Postavke &gt; Smeće</string>
+  <string name="delete_unsynced">Izbriši stavke koje nisu pohranjene</string>
   <string name="deny">Odbaci</string>
   <string name="detail_title">Pojedinosti</string>
   <string name="disable_auto_upload_tip">"Isključiti sinkr. s Mi Cloudom za ovaj album?"</string>
@@ -457,8 +461,9 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="hybrid_service_unavailiable">Usluga nije dostupna</string>
   <string name="hybrid_try_again">Pokušaj ponovno</string>
   <string name="ignore_album">"Ne prikazuj"</string>
-  <string name="ignore_alert_title">"Ne prikazati ovaj album?"</string>
+  <string name="ignore_alert_title">"Ne prikazivati ovaj album? Dodirnite gore desno za prikaz ignoriranih fotografija."</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
+  <string name="ignore_faces_title">Ignorirano</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
   <string name="image_download_item_title">Preuzmi originalnu fotografiju (%s)</string>
   <string name="image_invalid_path">Pogrešna putanja</string>
@@ -494,7 +499,11 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Visina treba biti &gt; 0</string>
   <string name="limit_width">Širina treba biti &gt; 0</string>
+  <string name="load_complete">No more items here</string>
+  <string name="load_failed">"Ne mogu učitati podatke, dodirnite za ponovni pokušaj"</string>
   <string name="load_relations">Samo trenutak…</string>
+  <string name="loading">Samo trenutak</string>
+  <string name="loading_dots">Samo trenutak…</string>
   <string name="loading_dual_tip">Učitavanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne mogu preuzeti"</string>
   <string name="loading_fail_sync_off">Uključite sinkr. s Mi Cloudom za preuzimanje</string>
@@ -551,6 +560,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="new_relation_invalid_prefix">"Naziv grupe ne može počinjati sa “.” ili “_”"</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
+  <string name="no_ignore_faces">Nema osoba</string>
   <string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
   <string name="no_network_connected">Nema otkrivenih mreža</string>
   <string name="not_ask_any_more">"Ne pitaj ponovno za \"%s\" odgovore"</string>
@@ -607,6 +617,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="other_album">Ostali albumi</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="owner_album_subtitle">Podijeljeno s %1$s osoba</string>
+  <string name="people_jump_failed">Pričekajte dok se fotografije s osobama sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="paint_brush">Kist</string>
   <string name="paint_cancel_context">"Odbaciti promjene napravljene na ovoj slici?"</string>
   <string name="paint_cancel_title">Odbaci promjene</string>
@@ -665,6 +676,10 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Uklonjeno iz prijedloga</string>
   <string name="recommanded_face_added_tip">Dodano u \"%s\"</string>
+  <string name="recovery_merge">Spoji</string>
+  <string name="recovery_merge_or_rename">Spoji albume</string>
+  <string name="recovery_merge_or_rename_message">"Postoji album sa istim nazivom. Spojiti sada?"</string>
+  <string name="recovery_rename">Preimenuj</string>
   <string name="redeye">Crvene oči</string>
   <string name="redeye_tooltip">Dodirnite za uklanjanje crvenih očiju</string>
   <string name="relation_text_empty_alert">Dodaj pojedinosti odnosa</string>
@@ -722,6 +737,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="search_backup_now">Uključi</string>
   <string name="search_backup_sub_title">Uključite bi se pronašli više slika</string>
   <string name="search_backup_title">Sinkr. sa Mi Cloudom</string>
+  <string name="search_clear_histories">Očisti</string>
   <string name="search_connection_error">"Ne mogu se povezati na mrežu"</string>
   <string name="search_connection_error_and_set">Dodirnite za provjeru mrežnih postavki</string>
   <string name="search_error">Došlo je do pogreške</string>
@@ -740,6 +756,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="search_result_empty">"Ne mogu ništa pronaći"</string>
   <string name="search_retry">Pokušaj ponovno</string>
   <string name="search_set_network_connection">Postavke mreže</string>
+  <string name="search_title_history">Pretraži povijest</string>
   <string name="search_title_location">Lokacije</string>
   <string name="search_title_others">Svi rezultati</string>
   <string name="search_title_people">Osobe</string>
@@ -761,6 +778,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="secret_reason_too_large">Datoteka je prevelika</string>
   <string name="secret_reason_type_not_support">"Ova vrsta datoteke nije podržana"</string>
   <string name="secret_reason_unknow_reasons">Nepoznata pogreška</string>
+  <string name="see_ignore_faces">"Prikaži ignorirane osobe"</string>
   <string name="select_item_face">"Na fotog. je %s ?"</string>
   <string name="select_origin_tip">Izvorna datoteka (%s)</string>
   <string name="send_invitation_fail">"Ne mogu poslati pozivnicu"</string>

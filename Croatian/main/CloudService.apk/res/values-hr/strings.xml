@@ -277,6 +277,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
   <string name="micloud_main_sync_need_charge">Napunite bateriju svog uređaja</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Napunite uređaj i isključi zaslon</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>
