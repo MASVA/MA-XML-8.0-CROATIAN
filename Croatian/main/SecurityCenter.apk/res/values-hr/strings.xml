@@ -1019,6 +1019,7 @@ podatkovnu vezu"</string>
   <string name="menu_item_app_permissions_control">Upravitelj Dopuštenja</string>
   <string name="menu_item_control_app_permissions">Aplikacija će pitati za dopuštenje prije nego što joj se dopusti pristup vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristup kameri i ostalim resursima uređaja</string>
   <string name="menu_item_force_stop">Prisilno zaustavi</string>
+  <string name="menu_item_install_debug_package">Instaliraj debug paket</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
