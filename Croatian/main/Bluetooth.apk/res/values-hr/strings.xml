@@ -9,8 +9,6 @@
   <string name="auth_notif_message">Upiši šifru sesije za %1$s</string>
   <string name="auth_notif_ticker">Zahtjev za provjeru autentičnosti Obex protokola</string>
   <string name="auth_notif_title">Šifra sesije</string>
-  <string name="bluetooth_connected">Bluetooth audio povezan</string>
-  <string name="bluetooth_disconnected">Bluetooth audio nije povezan</string>
   <string name="ble_device_address">Bluetooth Smart uređaj MAC</string>
   <string name="ble_device_profile">Profil Bluetooth uređaja</string>
   <string name="ble_device_profile_header_title">Postavke</string>
