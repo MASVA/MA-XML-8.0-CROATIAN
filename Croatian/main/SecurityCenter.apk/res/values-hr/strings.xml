@@ -439,7 +439,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cache_header_title">Obrisano %1$d datoteka memorije za oslobođenje %2$s</string>
   <string name="call_and_contact">Pozivi i Kontakti</string>
   <string name="call_delete_hint">Izbrisati sve blokirane pozive s tog broja?</string>
-  <string name="call_delete_title">Izbriši poziv</string>
+  <string name="call_delete_title">Izbriši povijest poziva</string>
   <string name="call_transfer_block">Blokiraj prosljeđene pozive</string>
   <string name="call_transfer_block_type">Blokiraj prosljeđene pozive</string>
   <string name="call_transfer_info">Blokiraj prosljeđene pozive sa nepoznatih brojeva</string>
@@ -657,7 +657,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_remove_whitelist_title">Ukloni</string>
   <string name="dlg_retore">Vratiti SMS poruke u aplikaciju?</string>
   <string name="dlg_retore_ok">Vrati</string>
-  <string name="dlg_title_not_open_stranger_identify">Prepoznaj strance</string>
+  <string name="dlg_title_not_open_stranger_identify">ID pozivatelja</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
   <string name="dlg_white_antispam_hint">Iznimke</string>
   <string name="dlg_white_antispam_message">Dodati ovaj broj u iznimke?</string>
@@ -1875,7 +1875,7 @@ Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera
   <string name="st_mute_title">"Bez zvona i vibracije"</string>
   <string name="st_other_setting_group">Ostale postavke</string>
   <string name="st_settings_name">Postavke liste zabranjenih</string>
-  <string name="st_show_block_notification">Prikaži blokirane obavijesti</string>
+  <string name="st_show_block_notification">Obavijesti o blokiranim stavkama</string>
   <string name="st_show_num_keyword">" ključne riječi"</string>
   <string name="st_show_num_number">" brojeva"</string>
   <string name="st_sms_group">SMS</string>
@@ -2199,7 +2199,7 @@ Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_title">%s ispravak</string>
   <string name="traffic_correction_failed">"Ne mogu doznati detalje"</string>
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem mobilnog operatera…"</string>
-  <string name="traffic_correction_start_correction_failed">Zahtjev nije uspio, provjerite postavke mobilnog operatera</string>
+  <string name="traffic_correction_start_correction_failed">Ne mogu poslati zahtjev. Provjerite postavke operatera.</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
   <string name="traffic_correction_success_notify_message">Dodirnite za prikaz detalja.</string>
   <string name="traffic_limit_error_alert_body">Vaši preostali podaci za ovaj mjesec (%1$s) su veći od vašeg mjesečnog plana (%2$s). Promjenio se mjesečni plan?</string>

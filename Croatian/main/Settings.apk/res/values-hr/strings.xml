@@ -3513,7 +3513,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="remove_account_failed">Vaš administrator ne dopušta tu promjenu</string>
   <string name="remove_account_label">Brisanje računa</string>
   <string name="remove_and_uninstall_device_admin">Deaktiviraj i deinstaliraj</string>
-  <string name="remove_device_admin">Deaktiviraj</string>
+  <string name="remove_continue">Deinstaliraj</string>
+  <string name="remove_device_admin">Deaktiviraj administratora ovog uređaja</string>
   <string name="remove_from_frequently_fragment">Ukloniti %s iz Brzih postavki?</string>
   <string name="remove_managed_profile_label">Ukloni radni profil</string>
   <string name="repeat">Ponovi</string>
@@ -4760,6 +4761,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="uninstall_device_admin">Deinstaliraj aplikaciju</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
+  <string name="uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
+  <string name="uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="uninstall_text">Deinstaliraj</string>
   <string name="uninstall_wifi_master_key">Deinstaliraj WLAN Master ključ</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>

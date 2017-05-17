@@ -1009,6 +1009,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="preview_incall_show_entry">Pregled videozapisa</string>
   <string name="previous">Prethodno</string>
   <string name="private_num">"Privatni broj"</string>
+  <string name="profileSavedErrorToast">"Ne mogu spremiti promjene profila"</string>
+  <string name="profileSavedToast">Promjene profila spremljene</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Postavi moj profil</string>
   <string name="profile_name">Moj profil</string>
