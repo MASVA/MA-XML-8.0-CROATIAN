@@ -149,6 +149,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dopuštenja</string>
+  <string name="app_manager_clear_data_dlg_message">Svi podaci aplikacije bit će trajno izbrisani. To uključuje sve datoteke, postavke, račune, baze podataka itd.</string>
+  <string name="app_manager_clear_data_dlg_title">Izbrisati podatke aplikacije?</string>
+  <string name="app_manager_clear_failed_dlg_message">Ne mogu izbrisati podatke aplikacije.</string>
+  <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
   <string name="app_manager_default_close_summary">Nema zadanih postavki.</string>
   <string name="app_manager_default_open">Otvori prema zadanim postavkama</string>
   <string name="app_manager_default_open_summary">Odlučili ste pokrenuti ovu aplikaciju po zadanoj postavci za neke radnje.</string>
@@ -161,7 +165,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
+  <string name="app_manager_have_not_consume">Ništa</string>
   <string name="app_manager_loading_data">Učitavanje podataka…</string>
+  <string name="app_manager_manage_space">Upravljaj prostorom</string>
+  <string name="app_manager_menu_clear_data">Izbriši podatke</string>
   <string name="app_manager_more_times">Pristupano 100000+ puta</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_not_record">"Ne mogu pronaći aplikacije koje zahtijevaju dopuštenja"</string>
@@ -1534,6 +1541,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_specified_adjust">Postavljanje prilagođenog ograničenja podataka</string>
   <string name="pref_specified_traffic_settings">Postavke ograničenja podataka</string>
   <string name="pref_summary_lock_screen_memory_clean">Očisti automatski kad je uređaj zaključan</string>
+  <string name="pref_summary_upload_data_usage">Prijavite statistiku o uporabi podataka kako biste nam pomogli poboljšati MIUI. Izvješćivanje se provodi u skladu s našim Pravilima o Privatnosti.</string>
   <string name="pref_summary_virus_white_list">Spriječi odabrane aplikacije od čišćenja</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
@@ -1545,6 +1553,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
+  <string name="pref_title_upload_data_usage">Prijavi statistiku uporabe podataka</string>
   <string name="pref_title_virus_white_list">Iznimke</string>
   <string name="pref_traffic_manage_title">Uporaba podataka</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>

@@ -92,6 +92,7 @@
   <string name="app_not_found">Nije pronađena aplikacija za upravljanje ovom radnjom</string>
   <string name="app_running_notification_text">Dodirnite za više informacija ili da biste zaustavili aplikaciju.</string>
   <string name="app_running_notification_title">Aplikacija %1$s pokrenuta je</string>
+  <string name="app_upgrading_toast">Nadogradnja aplikacije %1$s…</string>
   <string name="audit_safemode_notification">Uređaj je vraćen na tvorničke postavke da biste ga mogli upotrebljavati bez ograničenja</string>
   <string name="audit_safemode_notification_details">Dodirnite da biste saznali više.</string>
   <string name="autofill_address_name_separator">" "</string>
@@ -124,6 +125,7 @@ Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
   <string name="bugreport_option_full_title">Potpuno izvješće</string>
   <string name="bugreport_option_interactive_summary">To možete upotrebljavati u većini slučajeva. Moći ćete pratiti izradu izvješća, unijeti više pojedinosti o problemu i izraditi snimke zaslona. Mogu se izostaviti neki odjeljci koji se upotrebljavaju rjeđe i produljuju izradu izvješća.</string>
   <string name="bugreport_option_interactive_title">Interaktivno izvješće</string>
+  <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Izvješće o programskoj pogrešci</string>
   <string name="byteShort">B</string>
   <string name="cancel">Odustani</string>
@@ -254,6 +256,7 @@ koristeći %s"</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
+  <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d min %2$d s</string>
   <string name="durationMinuteSeconds">%1$d min %2$d s</string>
   <string name="durationMinutes">%1$d min</string>
@@ -282,6 +285,7 @@ koristeći %s"</string>
   <string name="eventTypeBirthday">Rođendan</string>
   <string name="eventTypeCustom">Prilagođeno</string>
   <string name="eventTypeOther">Drugo</string>
+  <string name="expand_action_accessibility">promjena proširenja</string>
   <string name="expand_button_content_description">Gumb za proširivanje</string>
   <string name="expires_on">Istječe dana:</string>
   <string name="ext_media_badremoval_notification_message">Isključite uređaj %s prije uklanjanja da ne biste izgubili podatke</string>
@@ -628,6 +632,7 @@ Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
   <string name="lockscreen_sound_off_label">Zvuk isključen</string>
   <string name="lockscreen_sound_on_label">Zvuk je uključen</string>
+  <string name="lockscreen_storage_locked">Otključajte za sve značajke i podatke</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Pokušajte ponovno za %d s.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. 
 
@@ -773,6 +778,10 @@ Pokušajte ponovo za %d s."</string>
   <string name="needPuk2">Unesite PUK2 da biste odblokirali SIM karticu.</string>
   <string name="network_available_sign_in">Prijava na mrežu</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
+  <string name="network_switch_metered">Prelazak na drugu mrežu: %1$s</string>
+  <string name="network_switch_metered_detail">Kada %2$s nema pristup internetu, na uređaju se upotrebljava %1$s. Moguća je naplata naknade.</string>
+  <string name="network_switch_metered_toast">Mreža je promijenjena: %1$s &gt; %2$s</string>
+  <string name="network_switch_type_name_unknown">nepoznata vrsta mreže</string>
   <string name="new_app_action">Pokreni %1$s</string>
   <string name="new_app_description">Zaustavi staru aplikaciju bez spremanja.</string>
   <string name="new_sms_notification_content">Otvorite SMS aplikaciju da biste pregledali poruke</string>
@@ -785,9 +794,12 @@ Pokušajte ponovo za %d s."</string>
   <string name="no_permissions">Nije potrebno dopuštenje</string>
   <string name="no_recent_tasks">Nema nedavnih aplikacija.</string>
   <string name="noon">podne</string>
+  <string name="notification_header_divider_symbol">•</string>
   <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
+  <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Slušatelj obavijesti</string>
+  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Usluga rangiranja obavijesti</string>
   <string name="notification_title">Pogreška prijave za račun %1$s</string>
   <string name="notification_work_profile_content_description">Radni profil</string>
@@ -1124,7 +1136,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
   <string name="permgrouplab_bookmarks">Oznake i povijest</string>
   <string name="permgrouplab_calendar">Kalendar</string>
-  <string name="permgrouplab_camera">Fotoaparat</string>
+  <string name="permgrouplab_camera">Kamera</string>
   <string name="permgrouplab_contacts">Kontakti</string>
   <string name="permgrouplab_costMoney">Usluge koje se plaćaju</string>
   <string name="permgrouplab_developmentTools">Razvojni alati</string>
@@ -1501,6 +1513,7 @@ Preostalo pokušaja :"</string>
   <string name="reboot_to_update_title">Ažuriranje sustava Android</string>
   <string name="recent_tasks_title">Nedavni</string>
   <string name="redo">Ponovi</string>
+  <string name="region_picker_section_all">Sve regije</string>
   <string name="relationTypeAssistant">Pomoćnik</string>
   <string name="relationTypeBrother">Brat</string>
   <string name="relationTypeChild">Dijete</string>
@@ -1520,6 +1533,8 @@ Preostalo pokušaja :"</string>
   <string name="replace">Zamijeni…</string>
   <string name="report">Izvješće</string>
   <string name="reset">Ponovo postavi</string>
+  <string name="reset_retail_demo_mode_text">Dodirnite za vraćanje uređaja na zadano</string>
+  <string name="reset_retail_demo_mode_title">Želite li vratiti uređaj na zadano?</string>
   <string name="restr_pin_confirm_pin">Potvrdite novi PIN</string>
   <string name="restr_pin_create_pin">Izradite PIN za izmjenu ograničenja</string>
   <string name="restr_pin_enter_admin_pin">Unesite PIN administratora</string>
@@ -1768,6 +1783,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="vpn_lockdown_config">Dodirnite za konfiguraciju</string>
   <string name="vpn_lockdown_connected">Povezan s uvijek uključenom VPN mrežom</string>
   <string name="vpn_lockdown_connecting">Povezivanje s uvijek uključenom VPN mrežom…</string>
+  <string name="vpn_lockdown_disconnected">Prekinuta je veza s uvijek uključenom VPN mrežom</string>
   <string name="vpn_lockdown_error">Pogreška uvijek uključene VPN mreže</string>
   <string name="vpn_text">Dodirnite za upravljanje mrežom.</string>
   <string name="vpn_text_long">Povezan sa sesijom %s. Dodirnite za upravljanje mrežom.</string>
@@ -1882,7 +1898,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Prima:</string>
   <string name="wifi_p2p_turnon_message">Pokreni izravan rad s WLAN mrežom. To će isključiti rad s WLAN klijentom/žarišnom točkom.</string>
-  <string name="wifi_watchdog_network_disabled">Ne može se spojiti na WLAN</string>
+  <string name="wifi_watchdog_network_disabled">"Ne mogu se povezati na WLAN"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima lošu internetsku vezu."</string>
   <string name="wireless_display_route_description">Bežični prikaz</string>
   <string name="work_mode_off_message">Omogućuje radnom profilu da funkcionira, uključujući aplikacije, sinkronizaciju u pozadini i povezane značajke.</string>
