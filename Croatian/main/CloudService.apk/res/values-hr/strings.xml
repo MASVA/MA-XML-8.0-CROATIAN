@@ -187,7 +187,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
-  <string name="micloud_detail_need_charge">Priključite punjač za nastavak sinkronizacije</string>
+  <string name="micloud_detail_need_charge_or_sleep">Priključite punjač i isključite zaslon kako biste nastavili sinkronizaciju</string>
   <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_not_synced">Nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>

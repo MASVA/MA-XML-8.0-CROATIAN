@@ -275,6 +275,8 @@
   <string name="insert_event_dialog_title">Pažnja</string>
   <string name="insert_event_toast_add_failed">"Ne mogu dodati"</string>
   <string name="insert_event_toast_add_success">Događaj kreiran</string>
+  <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
+  <string name="install_weather_app_loading">Učitavanje…</string>
   <string name="item_num_selected">Odabrano %1$d</string>
   <string name="jump_date">Skoči na datum</string>
   <string name="jump_date_full">Skoči na datum</string>
@@ -290,7 +292,8 @@
   <string name="menu_general_preferences">Općenito</string>
   <string name="menu_preferences">Postavke</string>
   <string name="menu_reminder_preferences">Podsjetnici</string>
-  <string name="missing_name">(Bez imena)</string>
+  <string name="missing_name">(Bez naziva)</string>
+  <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="menu_select_visible_calendars">Kalendari za prikaz</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
@@ -322,7 +325,7 @@
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
   <string name="no_contact_birthday_hint">Nema rođendana za uvoz</string>
-  <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
+  <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovno). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
   <string name="no_local_calendar">Nema upisa kalendara :)</string>
   <string name="no_network">Nema mreže, pokušajte ponovno obnoviti mrežu :)</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
@@ -519,7 +522,7 @@
   <string name="travel_train_station">Žel. kolodvor</string>
   <string name="user_notice_button_exit">Izlaz</string>
   <string name="user_notice_button_ok">U redu</string>
-  <string name="user_notice_declaration_ignore">"Ne prikazuj ponovo"</string>
+  <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
   <string name="user_notice_message">"Korištenjem ovog proizvoda, pristajete na Xiaomi %1$s i %2$s. Neke značajke trebaju povezivanje s internetom, pristup lokaciji, kontaktima i SMS-u za normalan rad."</string>
   <string name="user_notice_title">Obavijesti korisnika</string>
   <string name="user_notification">Obavijesti</string>

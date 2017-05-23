@@ -1,5 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="week_header_name">
+         <item>NED</item>
+         <item>PON</item>
+         <item>UTO</item>
+         <item>SRI</item>
+         <item>ČET</item>
+         <item>PET</item>
+         <item>SUB</item>
+     </string-array>
     <string-array name="reminder_methods_labels">
         <item>Obavijest</item>
         <item>E-pošta</item>
