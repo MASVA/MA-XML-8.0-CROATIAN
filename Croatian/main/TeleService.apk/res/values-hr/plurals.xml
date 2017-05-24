@@ -22,5 +22,9 @@
 	<plurals name="call_recording_notification_complete">
         <item quantity="other">Snimljeno poziva (%d).</item>
         <item quantity="one">1 poziv snimljen.</item>
-    </plurals>
+	</plurals>
+		<plurals name="call_record_add_white_list_over_reminder">
+         <item quantity="other">Možete dodati do %s osoba, odaberite ponovno.</item>
+         <item quantity="one">Možete dodati %s osobu, odaberite ponovno.</item>
+     </plurals>
 </resources>

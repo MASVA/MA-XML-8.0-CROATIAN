@@ -191,6 +191,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_permission_send_mms_over">Poslano SMS-a 100000+ puta</string>
   <string name="app_manager_permission_startself_summary">Aplikacije koje se automatski pokreću zauzimaju više RAM-a i brže troše bateriju</string>
   <string name="app_manager_permission_startself_title">Autom. pokretanja</string>
+  <string name="app_manager_permission_summary_reject">Ograniči sve</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Ušteda baterije</string>
+  <string name="app_manager_powerkeeper_no_bg">Ograniči aktivnosti u pozadini</string>
+  <string name="app_manager_powerkeeper_no_restrict">Nema ograničenja</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Ograniči aplikacije u pozadini</string>
   <string name="app_manager_power">Dopuštenja</string>
   <string name="app_manager_rebide_wakepath">Ograniči</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj lančano pokretanje</string>
@@ -921,6 +926,13 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="loding">Učitavanje podataka</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Čuvajte rezultate na popisu da biste ih dodali Iznimke</string>
+  <string name="low_memory_clean_dialog_msg">Prvo očistite barem 100MB datoteka</string>
+  <string name="low_memory_clean_dialog_ok_button">U redu</string>
+  <string name="low_memory_clean_dialog_title">Nema dovoljno prostora za pohranu</string>
+  <string name="low_memory_warning_dialog_cancel_button">Odustani</string>
+  <string name="low_memory_warning_dialog_msg">Oslobodite nešto prostora na vašem uređaju za nastavak</string>
+  <string name="low_memory_warning_dialog_ok_button">Očisti</string>
+  <string name="low_memory_warning_dialog_title">Nema dovoljno prostora za pohranu</string>
   <string name="long_click_dialog_title">Pažnja</string>
   <string name="main_activity_content_summary_root">ROOT pristup</string>
   <string name="main_activity_content_summary_update">Ažuriranje sustava</string>

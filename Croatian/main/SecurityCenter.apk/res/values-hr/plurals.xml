@@ -302,10 +302,14 @@
          <item quantity="other">Pristupano %d puta</item>
          <item quantity="one">Pristupano %d put</item>
      </plurals>
-     <plurals name="app_manager_permission_manager_summary">
-         <item quantity="other">Dano %d dopuštenja</item>
-         <item quantity="one">Dano %d dopuštenje</item>
+     <plurals name="app_manager_permission_summary_accept">
+         <item quantity="other">Odobreno dopuštenja: %d</item>
+         <item quantity="one">Odobreno %d dopuštenje</item>
      </plurals>
+     <plurals name="app_manager_permission_summary_ask">
+         <item quantity="other">Pitaj za %d dopuštenja</item>
+         <item quantity="one">Pitaj za %d dopuštenje</item>
+	 </plurals> 
      <plurals name="app_manager_start_count">
          <item quantity="other">%d puta</item>
          <item quantity="one">%d put</item>

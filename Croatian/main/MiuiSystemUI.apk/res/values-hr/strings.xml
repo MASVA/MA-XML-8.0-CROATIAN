@@ -257,6 +257,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Odaberite obližnju mrežu</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">Čišćenje, pričekajte trenutak</string>
   <string name="recent_task_lock_text">Zaključaj</string>
   <string name="recent_task_unlock_text">Otključaj</string>
   <string name="reject_call">Poziv odbijen</string>
