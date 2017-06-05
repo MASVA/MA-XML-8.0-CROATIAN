@@ -214,10 +214,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="nav_guide_ok">Postavljanje</string>
   <string name="nav_guide_title">Sakrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string>
+  <string name="no_multi_window_app">Nema aplikacija koje podržavaju Podijeljeni zaslon</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
-  <string name="not_support_multi_window">"Trenutna aplikacija ne podržava način podijeljenog zaslona"</string>
+  <string name="not_support_multi_window">"Trenutna aplikacija ne podržava Podijeljeni zaslon"</string>
   <string name="notification_header_title">Obavijesti</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
   <string name="notification_low_battery_action_btn">Uključi</string>
@@ -257,7 +257,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Odaberite obližnju mrežu</string>
   <string name="recent_task_app_info_text">Info</string>
-  <string name="recent_task_cleaning">Čišćenje, pričekajte trenutak</string>
+  <string name="recent_task_cleaning">Čišćenje aplikacija…</string>
   <string name="recent_task_lock_text">Zaključaj</string>
   <string name="recent_task_unlock_text">Otključaj</string>
   <string name="reject_call">Poziv odbijen</string>

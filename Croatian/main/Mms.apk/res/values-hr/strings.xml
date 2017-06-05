@@ -554,6 +554,7 @@
   <string name="select_local_video">Odaberi lokalni videozapis</string>
   <string name="select_message_send_sim">Odaberi SIM karticu</string>
   <string name="select_recipient">Odaberi primatelje</string>
+  <string name="select_sim">Odaberi SIM karticu</string>
   <string name="select_top_text">Tekst pri vrhu</string>
   <string name="send">Pošalji</string>
   <string name="send_hms_editor_hints">Mi Poruke</string>
@@ -600,8 +601,11 @@
   <string name="sms_full_title">Memorija tekstualnih poruka je puna</string>
   <string name="sms_rejected_body">Dolazna poruka je odbijena.</string>
   <string name="sms_rejected_title">Tekstualna poruka je odbijena</string>
-  <string name="sms_report_failed">"Ne mogu poslati prijavu"</string>
-  <string name="sms_report_success">Prijava poslana</string>
+  <string name="sms_report_dialog_content">"Ne mogu poslati izvješće, pokušajte ponovo."</string>
+  <string name="sms_report_dialog_retry">Pokušajte ponovo</string>
+  <string name="sms_report_dialog_title">Pokušajte ponovo</string>
+  <string name="sms_report_failed">"Ne mogu poslati izvješće"</string>
+  <string name="sms_report_success">Izvješće uspješno poslano</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[slika]</string>
   <string name="snippet_red_package">[Crnevi paket]</string>
@@ -636,6 +640,8 @@
   <string name="storage_unavailable">Nema dostupnog prostora</string>
   <string name="subject_hint">Predmet</string>
   <string name="subject_label">"Predmet: "</string>
+  <string name="switch_to_editor">Uređivanje</string>
+  <string name="switch_to_menu">Izbornik</string>
   <string name="text_in_popup_saved_to_clipboard">Uređivan tekst u skočnom prozoru je spremljen u međuspremnik</string>
   <string name="text_message">Tekstualna poruka</string>
   <string name="timed_message_expired_title">"%d označenih poruka nije bilo poslano"</string>
@@ -647,7 +653,7 @@
   <string name="title_hide_verification_code">Autom. sakrij OTP na zaklj. zaslonu</string>
   <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
-  <string name="title_show_list_avatar">Prikaži fotografije i informacije</string>
+  <string name="title_show_list_avatar">Prikaži fotografije profila</string>
   <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
   <string name="title_show_sms_template_in">Provjeri SMS za OTP</string>
   <string name="title_timed_message_dialog">Konfiguriraj vremensku poruku</string>

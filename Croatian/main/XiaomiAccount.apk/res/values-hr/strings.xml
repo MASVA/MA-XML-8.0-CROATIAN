@@ -88,12 +88,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Sve je postavljeno!</string>
   <string name="confirm_activate_email">Potvrđeno</string>
+  <string name="confirm_bundled_phone_dialog_title">Potvrdi grupirani broj telefona</string>
   <string name="confirm_delete_app_message">Nakon brisanja ove aplikacije, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Nakon brisanja ovog preglednika, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Nakon brisanja ovog uređaja, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Broj telefona u %1$s je povezan s %2$s računom, nastaviti raditi s %3$s nepovezanim računom. Jeste li sigurni da želite nastaviti?</string>
   <string name="continue_action">Nastavi</string>
   <string name="cta_declaration_agree_and_continue">Slažem se</string>
   <string name="cta_declaration_exit">Izlaz</string>
@@ -150,6 +152,7 @@
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
+  <string name="get_phone_bind_exceed_limit">Broj mobilnog telefona koji je vezan za broj računa dosegao je maksimum (3), više ne može biti vezan na novi račun</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="ignore">Ne sada</string>

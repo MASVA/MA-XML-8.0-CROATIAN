@@ -154,7 +154,7 @@
    <string name="notification_uncrypt_title_hm">Ponovno pokreni za primjenu ažuriranja</string>
    <string name="notification_uncrypting">Dešifriranje ažuriranja…</string>
    <string name="notification_update_new_version">Dostupno je ažuriranje</string>
-   <string name="notification_update_now">Ažurirati sada</string>
+   <string name="notification_update_now">Ažuriraj sada</string>
    <string name="notification_updating">Ažuriranje…</string>
    <string name="on_checking">Provjeravam…</string>
    <string name="open_now">Da</string>
@@ -203,12 +203,12 @@ http://zhushou.xiaomi.com"</string>
    <string name="share_update">Podijeli informacije o ažuriranju sustava</string>
    <string name="share_update_content_sign">Ažurirao sam MIUI na %1$s! Moj status ažuriranja je: %2$s. Za prikaz zapisnik promjena, posjetite %3$s</string>
    <string name="share_update_content_unsign">Ažurirao sam MIUI na %1$s! Za detaljni zapisnik promjena, posjetite %2$s</string>
-   <string name="sina_share_fail">Ne mogu poslati</string>
-   <string name="sina_share_fail_content_repeat">Ne mogu podijeliti, sadržaj već postoji…</string>
+   <string name="sina_share_fail">"Ne mogu poslati"</string>
+   <string name="sina_share_fail_content_repeat">"Već ste to podijelili."</string>
    <string name="sina_share_pendding">Slanje…</string>
    <string name="sina_share_success">Poslano</string>
-   <string name="sina_token_expired_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
-   <string name="sina_token_invalid_warning">Weibo račun je istekao. Morate se ponovno prijaviti</string>
+   <string name="sina_token_expired_warning">Weibo račun je istekao, dodajte račun ponovno.</string>
+   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, dodajte račun ponovno.</string>
    <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 7. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
    <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
    <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>

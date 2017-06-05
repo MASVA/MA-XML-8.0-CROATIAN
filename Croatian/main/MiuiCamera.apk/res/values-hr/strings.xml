@@ -300,6 +300,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_show_gender_age_entry_alias">Prikaži godine s uklj. Uljepšanjem</string>
   <string name="pref_camera_show_gender_age_entry_off">Isključeno</string>
   <string name="pref_camera_show_gender_age_entry_on">Prikaži godine i spol s uklj. Uljepšanjem</string>
+  <string name="pref_camera_show_gender_age_label_alias">Godine</string>
+  <string name="pref_camera_show_gender_age_label_on">Godine &amp; spol</string>
   <string name="pref_camera_show_gender_age_title">Godine &amp; spol</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Auto</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Isključeno</string>
@@ -308,6 +310,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_snap_entry_off">Isključeno</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap način (videozapis)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap način (fotografija)</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
   <string name="pref_camera_sound_title">Zvuk kamere</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
@@ -346,6 +350,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_front_mirror_entry_auto">Kada je otkriveno lice</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_entry_on">Uklj.</string>
+  <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>

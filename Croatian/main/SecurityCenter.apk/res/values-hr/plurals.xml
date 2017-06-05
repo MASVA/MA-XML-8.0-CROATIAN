@@ -165,10 +165,22 @@
         <item quantity="other">"Aplikacija (%d) bez ROOT pristupa"</item>
         <item quantity="one">"Aplikacija (%d) bez ROOT pristupa"</item>
     </plurals>
+	<plurals name="manual_white_list_header">
+         <item quantity="other">%d iznimaka</item>
+         <item quantity="one">%d iznimka</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+         <item quantity="other">"Nisu sinkronizirani statistički podaci o uporabi podataka %d dana"</item>
+         <item quantity="one">"Nisu sinkronizirani statistički podaci o uporabi podataka %d dan"</item>
+     </plurals>
 	<plurals name="summary_app_update">
         <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
         <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
     </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+         <item quantity="other">%d dana od posljednjeg pregleda</item>
+         <item quantity="one">%d dan od posljednjeg pregleda</item>
+     </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d rizika,</item>
          <item quantity="one">%d rizik,</item>

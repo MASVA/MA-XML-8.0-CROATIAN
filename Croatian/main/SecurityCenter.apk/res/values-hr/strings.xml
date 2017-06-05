@@ -99,6 +99,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
   <string name="after_the_lock_screen">"Aplikacija se zaključava zajedno sa zaslonom, možete to promijeniti u postavkama zaključavanja aplikacija."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
+  <string name="antispam_mode_details">Pojedinosti liste blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Lista neblokiranih brojeva</string>
   <string name="antispam_notificaiton_type_show_none">Nikad</string>
@@ -183,8 +184,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_permission_manager_title">Dopuštenja</string>
   <string name="app_manager_permission_notify_summary">Obavijesti znački, plutajućih prozora i Zaklj. zaslona</string>
   <string name="app_manager_permission_notify_title">Obavijesti</string>
-  <string name="app_manager_permission_power_saving_summary">MIUI Ušteda baterije</string>
-  <string name="app_manager_permission_power_saving_title">Ušteda baterije</string>
+  <string name="app_manager_permission_power_saving_summary">MIUI Štednja baterije</string>
+  <string name="app_manager_permission_power_saving_title">Štednja baterije</string>
   <string name="app_manager_permission_read_contact_over">Pristupano kontaktima 100000+ puta</string>
   <string name="app_manager_permission_read_mms_over">Pročitano SMS-a 100000+ puta</string>
   <string name="app_manager_permission_read_record_over">Pročitana povijest poziva 100000+ puta</string>
@@ -192,7 +193,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_permission_startself_summary">Aplikacije koje se automatski pokreću zauzimaju više RAM-a i brže troše bateriju</string>
   <string name="app_manager_permission_startself_title">Autom. pokretanja</string>
   <string name="app_manager_permission_summary_reject">Ograniči sve</string>
-  <string name="app_manager_powerkeeper_miui_auto">MIUI Ušteda baterije</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Štednja baterije</string>
   <string name="app_manager_powerkeeper_no_bg">Ograniči aktivnosti u pozadini</string>
   <string name="app_manager_powerkeeper_no_restrict">Nema ograničenja</string>
   <string name="app_manager_powerkeeper_restrict_bg">Ograniči aplikacije u pozadini</string>
@@ -288,6 +289,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_main_title">Automatizirani zadaci</string>
   <string name="auto_task_mamange_activity_title">Postavke</string>
   <string name="auto_task_manage_delete_prompt">Izbrisati odabrane zadatke?</string>
+  <string name="auto_task_manage_new_task">Novi autom. zadatak</string>
   <string name="auto_task_manager_group_title">Moji autom. zadaci</string>
   <string name="auto_task_notify_do_task_title">Autom. zadatak je započeo</string>
   <string name="auto_task_notify_exit_task_title">Autom. zadatak je završio</string>
@@ -464,7 +466,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="card_main_applock_title">Zaklj. aplikacije</string>
   <string name="card_main_datasave_action">Uključi</string>
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>
-  <string name="card_main_datasave_title">Ušteda podataka</string>
+  <string name="card_main_datasave_title">Štednja podataka</string>
   <string name="card_main_deepclean_action">Očisti</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Dubinsko čišćenje</string>
@@ -702,6 +704,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="examination_score_80_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
+  <string name="exit">Izlaz</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
@@ -771,7 +774,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="help_label">Pomoć</string>
   <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za uštedu baterije"</string>
-  <string name="hide_mode_title_text">Skriveni način</string>
+  <string name="hide_mode_title_text">Štednja baterije</string>
   <string name="hide_system_app">Sakrij animacije sustava</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacije i usluge neće moći primati obavijesti."</string>
@@ -1081,6 +1084,8 @@ podatkovnu vezu"</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
   <string name="modifypassword">Promjenite zaporku</string>
+  <string name="monitor_app_add">dodaj</string>
+  <string name="monitor_app_more">više</string>
   <string name="monitor_requests_from_pc">Upravljaj instalacijom aplikacija putem USB-a</string>
   <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
   <string name="msg_update_error_code_success">Gotovo</string>
@@ -1158,7 +1163,7 @@ podatkovnu vezu"</string>
   <string name="notification_battery_over_heat_summary">Pronađite ono što uzrokuje zagrijavanje i ohladite uređaj.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
   <string name="notification_charging_title">"Punjenje "</string>
-  <string name="notification_exit_power_save_mode">Ušteda baterije isključena</string>
+  <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napunjena.</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
   <string name="notification_mask_summary">"Ne prikazuj sadržaj obavijesti na Zaklj. zaslonu i Panelu obavijesti"</string>
@@ -1419,14 +1424,14 @@ podatkovnu vezu"</string>
   <string name="power_optimize_disable_start_other_app">Spriječi aplikacije od otvaranja drugih aplikacija</string>
   <string name="power_optimize_loading">Samo trenutak…</string>
   <string name="power_optimize_manual_catagory_title">Ručno</string>
-  <string name="power_optimize_open_hide_mode">Uključi Skriveni način</string>
-  <string name="power_optimize_save_mode_not_opened">Ušteda baterije isključena</string>
+  <string name="power_optimize_open_hide_mode">Uključi Uštede baterije</string>
+  <string name="power_optimize_save_mode_not_opened">Štednja baterije isključena</string>
   <string name="power_optimize_save_on_lockscreen">Uštedite energiju kada je uređaj zaključan</string>
   <string name="power_phone">Glasovni pozivi</string>
   <string name="power_recovery_mode">Baterija promjenjena na %1$s</string>
   <string name="power_save_choose_mode">Odaberite profil</string>
   <string name="power_save_choose_recovery_mode">Odaberite profil</string>
-  <string name="power_save_low_battery_auto_save_title">Ušteda baterije</string>
+  <string name="power_save_low_battery_auto_save_title">Štednja baterije</string>
   <string name="power_save_low_battery_option_recovery_title">Ako se baterija oporavi, promjeni na</string>
   <string name="power_save_low_battery_option_summary">Kada je baterija iznad niskog praga, uređaj će primjeniti često korišteni profil</string>
   <string name="power_save_low_battery_option_title">Ako je baterija skoro prazna, promjeni na</string>
@@ -1436,12 +1441,12 @@ podatkovnu vezu"</string>
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Promjeni profil baterije kada je preostala energija manja od %1$d%%</string>
-  <string name="power_save_low_battery_title">Ušteda baterije</string>
-  <string name="power_save_mode_enable">Ušteda baterije</string>
+  <string name="power_save_low_battery_title">Štednja baterije</string>
+  <string name="power_save_mode_enable">Štednja baterije</string>
   <string name="power_save_mode_end_time">Kraj</string>
   <string name="power_save_mode_ontime_enabled">Raspored vremena za promjenu načina rada</string>
   <string name="power_save_mode_start_time">Početak</string>
-  <string name="power_save_mode_summary" formatted="false">Nadziri pozadinske procese i isključi sinkronizaciju. Ušteda baterije će se automatski isključiti kad je baterija 60% ili 100% napunjena.</string>
+  <string name="power_save_mode_summary" formatted="false">Nadziri pozadinske procese i isključi sinkronizaciju. Štednja baterije će se automatski isključiti kad je baterija 60% ili 100% napunjena.</string>
   <string name="power_save_on_time_auto_save_title">Odabir rasporeda profila</string>
   <string name="power_save_on_time_end_time_summary">Do</string>
   <string name="power_save_on_time_end_time_summary_na">Od</string>
@@ -1455,11 +1460,11 @@ podatkovnu vezu"</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Raspored promjene profila</string>
   <string name="power_save_summary_text">"Uključite štednju baterije za smanjenje pozadinskih aktivnosti aplikacija, zaustavljanje sinkronizacije i minimaliziranje animacija sustava."</string>
-  <string name="power_save_title_text">Ušteda baterije</string>
+  <string name="power_save_title_text">Štednja baterije</string>
   <string name="power_screen">Zaslon</string>
   <string name="power_settings_category_title">Izgled baterije</string>
   <string name="power_settings_number">Postotak</string>
-  <string name="power_settings_saver_title">Ušteda energije</string>
+  <string name="power_settings_saver_title">Štednja energije</string>
   <string name="power_settings_shape">Grafika</string>
   <string name="power_settings_title">Performanse sustava</string>
   <string name="power_settings_top">Linija na vrhu</string>
@@ -1579,7 +1584,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Zašto ušteda podataka ne radi??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Ušteda podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera za slanje i preuzimanje sadržaja.</string>
+Štednja podataka radi samo kada koristite 2G/3G mrežu vašeg mobilnog operatera za slanje i preuzimanje sadržaja.</string>
   <string name="pref_traffic_saving_no_compress">Normalno</string>
   <string name="pref_traffic_saving_notify_switch">Prikaži u panelu obavijesti</string>
   <string name="pref_traffic_saving_notify_switch_hint">Prikaži statistiku uporabu podataka u panelu obavijesti</string>
@@ -2157,7 +2162,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_power_optimizer">Štednja baterije</string>
   <string name="title_realname_verify">ID provjera</string>
   <string name="title_share_link">Podijeli URL</string>
-  <string name="title_saving_switch">Ušteda podataka</string>
+  <string name="title_saving_switch">Štednja podataka</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
   <string name="title_telecom_operator">Automatski podesi</string>
   <string name="title_usb_no">USB ukl. pogr. uključeno</string>
@@ -2264,7 +2269,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_notify_no_apps_saving">Smanji uporabu podataka</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Dodirnite za uključivanje uštede.</string>
   <string name="traffic_saving_notify_start_content">Ušteđeno ovaj mjesec %s</string>
-  <string name="traffic_saving_notify_start_title">Ušteda mob. podataka</string>
+  <string name="traffic_saving_notify_start_title">Štednja mob. podataka</string>
   <string name="traffic_saving_one_key_optimize">Optimiziraj za uštedu podataka</string>
   <string name="traffic_saving_optimized">Već optimizirano</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -2276,11 +2281,11 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_start_tip_title">Aktiviraj</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-  <string name="traffic_saving_title">Ušteda podataka</string>
-  <string name="traffic_saving_toast_start_mobile">Ušteda podataka uključena</string>
-  <string name="traffic_saving_toast_start_none_mobile">Ušteda će se aktivirati kad god koristite mobilne podatke</string>
+  <string name="traffic_saving_title">Štednja podataka</string>
+  <string name="traffic_saving_toast_start_mobile">Štednja podataka uključena</string>
+  <string name="traffic_saving_toast_start_none_mobile">Štednja će se aktivirati kad god koristite mobilne podatke</string>
   <string name="traffic_saving_toast_start_unreachable">"Ne mogu pokrenuti uštedu"</string>
-  <string name="traffic_saving_toast_stop">Ušteda podataka isključena</string>
+  <string name="traffic_saving_toast_stop">Štednja podataka isključena</string>
   <string name="traffic_saving_whitelist_btn_add">Dodaj</string>
   <string name="traffic_saving_whitelist_btn_add_app">Dodaj</string>
   <string name="traffic_saving_whitelist_btn_added">Dodano</string>

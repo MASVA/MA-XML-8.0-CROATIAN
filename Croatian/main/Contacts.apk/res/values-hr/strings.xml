@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Pojedinosti povijesti poziva</string>
+  <string name="accessibility_contact_detail">Pojedinosti o kontaktu</string>
   <string name="account_container_title">Uvezeno iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">"Samo telefon, bez sinkronizacije"</string>
@@ -87,8 +88,10 @@
   <string name="call_radio">"Nazovi radio"</string>
   <string name="call_record_setting_miui">Postavke snimanja zvuka</string>
   <string name="call_settings">Postavke</string>
-  <string name="call_sim1_menu_title">Nazovi sa SIM1</string>
-  <string name="call_sim2_menu_title">Nazovi sa SIM2</string>
+  <string name="call_sim1_description">SIM 1</string>
+  <string name="call_sim1_menu_title">Nazovi sa SIM 1</string>
+  <string name="call_sim2_description">SIM 2</string>
+  <string name="call_sim2_menu_title">Nazovi sa SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primarno)</string>
   <string name="call_telex">"Nazovi teleks"</string>
   <string name="call_tty_tdd">"Nazovi TTY/TDD"</string>
@@ -168,7 +171,7 @@
   <string name="clearFrequentsProgress_title">"Brisanje često kontaktiranih…"</string>
   <string name="clear_copy_number_description">Izbriši kopiran broj</string>
   <string name="clear_default">Izbriši zadano</string>
-  <string name="clear_digits">Izbriši telefonski broj</string>
+  <string name="clear_digits">Izbriši broj telefona</string>
   <string name="click_close">Dotaknite ekran da biste zatvorili</string>
   <string name="clip_dialog_title">Birati kopirani broj?</string>
   <string name="close_dial_pad_description">Zatvori brojčanu tipkovnicu</string>
@@ -205,7 +208,8 @@
   <string name="contactPickerActivityTitle">Odaberi kontakt</string>
   <string name="contactSavedErrorToast">Promjene kontakta nije moguće spremiti.</string>
   <string name="contactSavedToast">Kontakt je spremljen.</string>
-  <string name="contact_delete_toast">Kontakt je izbrisan</string>
+  <string name="contact_clear_search_history">Izbriši povijest</string>
+  <string name="contact_delete_toast">Kontakt uspješno izbrisan</string>
   <string name="contact_detail_action_item_calllog">Povijest poziva</string>
   <string name="contact_detail_action_item_nocalllog">Nema povijesti</string>
   <string name="contact_detail_calllog_call_note_tips">Bilješke</string>
@@ -248,7 +252,8 @@ Kartice kontakata su isključene"</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
   <string name="contact_list_loading">"Učitavanje…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
-  <string name="contact_read_only">Iz ove aplikacije ne može se uređivati.</string>
+  <string name="contact_read_only">Iz ove se aplikacije ne može uređivati.</string>
+  <string name="contact_search_history">Povijest</string>
   <string name="contact_status_update_attribution">preko izvora %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s preko izvora %2$s</string>
   <string name="contact_unfavorite_toast">Uklonjeno iz favorita</string>
@@ -303,7 +308,10 @@ Kartice kontakata su isključene"</string>
   <string name="description_add_contact">Dodaj kontakt</string>
   <string name="description_call">Pozovi: %1$s</string>
   <string name="description_call_log_incoming_call">Dolazni poziv</string>
+  <string name="description_call_log_incoming_forwarding_call">Dolazni prosljeđeni poziv</string>
   <string name="description_call_log_missed_call">Propušteni poziv</string>
+  <string name="description_call_log_missed_forwarding_call">Propušteni prosljeđeni poziv</string>
+  <string name="description_call_log_new_contact">Novi kontakt</string>
   <string name="description_call_log_outgoing_call">Odlazni poziv</string>
   <string name="description_call_log_play_button">Reprodukcija govorne pošte</string>
   <string name="description_call_log_unheard_voicemail">"Nepreslušana govorna pošta"</string>
@@ -738,6 +746,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="miprofile_nick_name_edit_dialog_hint">Unesite nadimak, kao npr. MASVA</string>
   <string name="miprofile_nick_name_edit_dialog_message">Nadimak će se prikazati u povijesti poziva i inform. o profilu</string>
   <string name="miprofile_nick_name_edit_dialog_title">Uredite nadimak</string>
+  <string name="miprofile_notice_close">Zatvori</string>
   <string name="miprofile_notice_text">"Dodirnite za prikaz fotografije profila kontakta"</string>
   <string name="miprofile_request_agenda_date">Ova osoba želi razmijeniti Kartice kontakata [%1$s]</string>
   <string name="miprofile_request_agenda_today">Ova osoba želi razmijeniti Kartice kontakata [Danas %1$s]</string>
@@ -1012,6 +1021,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="profileSavedErrorToast">"Ne mogu spremiti promjene profila"</string>
   <string name="profileSavedToast">Promjene profila spremljene</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">Profil uspješno izbrisan</string>
   <string name="profile_display_name">Postavi moj profil</string>
   <string name="profile_name">Moj profil</string>
   <string name="profile_name_photo">Fotografija</string>

@@ -23,6 +23,16 @@
   <string name="dont_bore_text">Utišaj obavijesti i isključi tipke za uklanjanje smetnji</string>
   <string name="dont_bore_title">DND način</string>
   <string name="empty">" "</string>
+  <string name="fastboot_locked_answer_1">Fastboot je tradicionalna metoda flešanja Mi uređaja. Kada je uređaj u Fastboot načinu, svim podacima pohranjenima na njemu može se izravno pristupiti te ih izbrisati. Zaključavamo Fastboot kako bismo bili sigurni da vaši podaci ostaju sigurni u slučaju da izgubite uređaj, te garantiramo pouzdanost značajke Pronađi uređaj.</string>
+  <string name="fastboot_locked_answer_2">"Ako izgubite uređaj, Fastboot jamči sigurnost stavki pohranjenih na njemu. Ako otključate Fastboot, više nećete moći zaključati uređaj na daljinu ili izbrisati podatke pomoću značajke Pronađi uređaj. Zato ne preporučujemo da otključate Fastboot na uređaju."</string>
+  <string name="fastboot_locked_answer_3">"Koristite alat za otključavanje s MIUI web stranice. Da biste otključali uređaj, moramo se pobrinuti da uređaj pripada vama. Zato se trebate prijaviti sa svojim Mi Računom i uključiti Pronađi uređaj."</string>
+  <string name="fastboot_locked_question_1">Zašto bi Fastboot trebao biti zaključan?</string>
+  <string name="fastboot_locked_question_2">Postoje li rizici povezani s otključavanjem Fastboota?</string>
+  <string name="fastboot_locked_question_3">Znam za rizike, ali još uvijek moram otključati uređaj. Što da radim?</string>
+  <string name="fastboot_status_locked_info">"Fastboot nije otključan na ovom uređaju"</string>
+  <string name="fastboot_status_locked_summary">"Ne mogu dobiti ROOT pristup"</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+  <string name="fastboot_unlock_web_title">Idite na službenu MIUI web stranicu da preuzmete alat za otključavanje.</string>
   <string name="function_close">Isključi</string>
   <string name="game_booster">Ubrzavanje brzine igranja</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>

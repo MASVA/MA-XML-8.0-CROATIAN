@@ -6,6 +6,7 @@
   <string name="enable_wifi_message">Uključi WLAN za pretraživanje i povezivanje uređaja u blizini.</string>
   <string name="enable_wifi_title">Uključi WLAN</string>
   <string name="media_feature_projection">Zrcalni zaslon</string>
+  <string name="media_route_controller_disconnect">Prekini vezu</string>
   <string name="media_status_error">Pogreška</string>
   <string name="media_status_started">Povezano</string>
   <string name="media_status_starting">Povezivanje…</string>

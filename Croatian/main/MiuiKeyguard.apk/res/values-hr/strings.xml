@@ -23,7 +23,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">"Ne mogu ući u Drugi prostor za vrijeme Lite načina"</string>
   <string name="fingerprint_enter_second_psw_title">Unesite zaporku Drugog prostora</string>
   <string name="fingerprint_lockout_msg">Pričekajte minutu, zatim ponovno pokušajte otključati sa vašim otiskom prsta</string>
-  <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku sada ili pokušajte koristiti otisak prsta za nekoliko sekundi.”</string>
+  <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku sada ili pokušajte koristiti otisak prsta za %d sek.”</string>
   <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>

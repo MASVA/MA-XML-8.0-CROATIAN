@@ -905,6 +905,7 @@ Koristiti će se željena mreža umjesto toga."</string>
   <string name="no_balance_title">Nedovoljno sredstava</string>
   <string name="no_call_barring">Nema zabrane poziva</string>
   <string name="no_change">Nisu izvršene nikakve promjene.</string>
+  <string name="no_checked_network">"Nećete se moći povezati s mobilnom mrežom i uputiti pozive. Odabrati drugu mrežu?"</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_internet_available">Da biste uputili SIP poziv, provjerite jeste li povezani s internetom.</string>
   <string name="no_internet_available_title">Nema internetske veze</string>
