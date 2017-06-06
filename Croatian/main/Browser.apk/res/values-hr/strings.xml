@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">Početna stranica</string>
   <string name="added_to_bookmarks">Dodano u oznake.</string>
   <string name="adjust_text_zoom_toast">Promjena teksta zumiranjem može prouzročiti da se neke web stranice pogrešno prikazuju</string>
+  <string name="agree">Slažem se</string>
   <string name="alert_tips">Ova stranica može predstavljati sigurnosni rizik</string>
   <string name="allow">Dopusti</string>
   <string name="app_new_version">Najnovija verzija ove aplikacije je već instalirana</string>
@@ -306,7 +307,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="error_not_acceptable">Sinkronizacija je isključena.</string>
   <string name="error_title">"Ne mogu sinkronizirati."</string>
   <string name="error_unauthorized">Sinkronizacija s vašim Mi Računom je isključena zbog previše pokušaje prijave.</string>
-  <string name="exit_browser_warning">Napustiti Preglednik?</string>
+  <string name="exit">Izađi</string>
+  <string name="exit_browser_warning">Izaći iz Preglednika?</string>
   <string name="file_dir">Promjeni mapu</string>
   <string name="file_name">"Naziv: "</string>
   <string name="file_picker">Odaberi putanju</string>
@@ -727,10 +729,10 @@ Napustiti ovu stranicu?"</string>
   <string name="sendstartpage">Početna stranica</string>
   <string name="share_image_text">"Uživam u predivnoj slici"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Da biste poboljšali sigurnost svog preglednika i dobili odgovarajuće preporuke, omogućite Pregledniku pristup ovim stavkama:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Da biste primali odgovarajuće preporuke, omogućite Pregledniku pristup ovim stavkama:</string>  
+  <string name="show_check_security_url_check_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Preglednik treba povezivanje s s internetom da radi normalno. Da biste primali relevantne preporuke, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>  
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Da biste poboljšali sigurnost i dobili relevantnije preporuke i informacije o vremenu koje su specifične za vašu lokaciju, omogućite pregledniku pristup tim stavkama:</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>

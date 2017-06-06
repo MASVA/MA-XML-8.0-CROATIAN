@@ -167,6 +167,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Ništa</string>
+  <string name="app_manager_instruction">Instrukcije</string>
   <string name="app_manager_loading_data">Učitavanje podataka…</string>
   <string name="app_manager_manage_space">Upravljaj prostorom</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
@@ -203,6 +204,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_reduce_wakepath_summary">Ograničavanje autom. pokretanja će minimalizirati lančano pokretanje. Ograničiti autom. pokretanje za %s?</string>
   <string name="app_manager_reject_count_over">Blokirano 100000 puta</string>
   <string name="app_manager_show_detail_infos">Prikaži sve</string>
+  <string name="app_manager_sort">Poredaj po</string>
   <string name="app_manager_start_by">Pokrenuto od %s</string>
   <string name="app_manager_start_count_over">100000 puta</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Deinstalirati %s da ograničite lančano pokretanje?</string>

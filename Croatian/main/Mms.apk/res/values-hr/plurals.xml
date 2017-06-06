@@ -26,6 +26,11 @@
         <item quantity="other">Izbrisati poruke: %1$s?</item>
         <item quantity="one">Izbrisati %1$s poruku?</item>
 	</plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">Poruka: %d</item>
+        <item quantity="zero">Poruka: %d</item>
+        <item quantity="one">%d poruka</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">Poruka: %d</item>
         <item quantity="zero">Poruka: %d</item>

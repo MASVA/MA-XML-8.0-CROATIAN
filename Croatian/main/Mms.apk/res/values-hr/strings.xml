@@ -341,7 +341,7 @@
   <string name="mx_current_status">Mi Poruka</string>
   <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim MIUI uređajima bez nastanka troškova kada ste povezani na WLAN."</string>
   <string name="mx_dspt_listview">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
-  <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima preko interneta bez nastanka troškova. Odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku. </string>
+  <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima preko interneta bez nastanka troškova. Odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku. Osim toga, ova usluga treba pristup mobilnim podacima da radi normalno.</string>
   <string name="mx_dspt_provision_ex">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima preko interneta bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_dspt_provision_ex2">Pravila o Privatnosti</string>
   <string name="mx_enable">Mi Poruka</string>
