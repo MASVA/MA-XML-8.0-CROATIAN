@@ -466,7 +466,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="ignore_faces_title">Ignorirano</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
-  <string name="image_download_item_title">Preuzmi originalnu fotografiju (%s)</string>
+  <string name="image_download_item_title">Preuzmi izvornu fotografiju (%s)</string>
   <string name="image_invalid_path">Pogrešna putanja</string>
   <string name="image_not_found">"Ne mogu pronaći sliku"</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke fotografije i pokušajte ponovno.</string>
@@ -822,7 +822,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="slim_now">Optimiziraj sada</string>
   <string name="slim_result_size">Ušteđeno %1$s</string>
   <string name="slim_result_title">Uspješno optimizirano</string>
-  <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi datoteku" u izborniku te stavke.</string>
+  <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi izvornu datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
   <string name="square">Kvadrat</string>

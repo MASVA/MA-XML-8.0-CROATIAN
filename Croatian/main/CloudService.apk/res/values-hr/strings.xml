@@ -141,6 +141,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="micloud_battery_low_notification_message">Priključite punjač da sinkr.</string>
   <string name="micloud_battery_low_notification_title">Slaba baterija</string>
   <string name="micloud_buy_member">Kupite Mi Cloud članstvo</string>
+  <string name="micloud_buy_member_safe">Kupite Mi Cloud članstvo</string>
   <string name="micloud_check_sim_notify_text">"Izgleda da ste promijenili SIM kartice. Prijavite se
 na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_check_sim_notify_title">Ponovno aktiviraj Mi Cloud</string>
@@ -364,6 +365,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_sync_alert_dialog_positive">U redu</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
   <string name="micloud_sync_off">Sinkr. sa Mi Cloud je isključena</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sinkroniziraj samo Kontakte, Kalendar i Bilješke, da biste sinkronizirali više stavki, idite u Mi Cloud postavke.</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
