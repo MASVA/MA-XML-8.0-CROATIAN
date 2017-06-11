@@ -1818,6 +1818,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="giga_hertz">GHz</string>
   <string name="global_change_warning">Ova postavka utječe na sve korisnike na ovom telefonu.</string>
   <string name="global_font_change_title">Promjena veličine fonta</string>
   <string name="global_locale_change_title">Promjena jezika</string>
@@ -2825,6 +2826,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notification_log_no_title">(ništa)</string>
   <string name="notification_log_title">Zapisnik obavijesti</string>
   <string name="notification_pulse_title">Pulsno svjetlo obavijesti</string>
+  <string name="notification_reboot_btn">Ponovno pokreni</string>
+  <string name="notification_reboot_summary_hm">Dodirni za ponovno pokretanje uređaja.</string>
+  <string name="notification_reboot_title">Ponovno pokreni za primjenu ažuriranja</string>
+  <string name="notification_reboot_title_hm">Ponovno pokreni za primjenu ažuriranja</string>
   <string name="notification_ringtone_title">Zadana melodija zvona za obavijesti</string>
   <string name="notification_section_header">Obavijest</string>
   <string name="notification_settings">Zvuk i obavijesti</string>
@@ -2835,6 +2840,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notification_suggestion_title">Kontroliraj obavijesti Zaklj. zaslona</string>
   <string name="notification_summary_level">Razina %d</string>
   <string name="notification_summary_none">Sve aplikacije mogu slati</string>
+  <string name="notification_update_new_version">Dostupno je ažuriranje</string>
+  <string name="notification_update_now">Ažuriraj sada</string>
   <string name="notification_volume_option_title">Glasnoća obavijesti</string>
   <string name="notification_volume_title">Obavijest</string>
   <string name="notifications_disabled">Blokiranje</string>
@@ -3310,6 +3317,11 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
   <string name="privacy_applock">Zaklj.  aplik.</string>
+  <string name="privacy_delete_space_dlg_message">Da biste promijenili zaporku Drugog prostora, trebali biste izbrisati trenutni Drugi prostor i izraditi novi.</string>
+  <string name="privacy_dlg_button_cancel">Odustani</string>
+  <string name="privacy_factory_reset_dlg_button_text">Izradite Sig. kopiju podataka</string>
+  <string name="privacy_factory_reset_dlg_message">"Izradite Sig. kopiju svojih podataka lokalno, a zatim izvršite vraćanje na tvorničke postavke. Nakon toga moći ćete promijeniti zaporku."</string>
+  <string name="privacy_factory_reset_dlg_title">Izradite Sig. kopiju podataka</string>
   <string name="privacy_childmode">Dječji način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
@@ -4852,6 +4864,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unrestricted_app_title">Neograničena potroš. podataka</string>
   <string name="unrestricted_data_saver">Neograničen pristup podacima</string>
   <string name="untitled_apn">Bez naslova</string>
+  <string name="update_new_version">Dostupno je ažuriranje</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
   <string name="upload_debug_log_summary">Podaci koje prikupljamo mogu sadržavati osobne podatke. Oni će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada se neće koristiti za vašu osobnu identifikaciju.</string>
   <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>

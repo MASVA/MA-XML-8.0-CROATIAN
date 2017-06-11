@@ -49,7 +49,7 @@
   <string name="mark_point_list_title">Označi</string>
   <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
   <string name="network_tip_dialog_cancel">Odustani</string>
-  <string name="network_tip_dialog_content">Program za prepoznavanje govora treba povezivanje s internetom za normalan rad.</string>
+  <string name="network_tip_dialog_content">Ova se aplikacija mora povezati s internetom, kao i pristup vašim kontaktima kako bi označila snimke koje snimate tijekom poziva.</string>
   <string name="network_tip_dialog_ok">Dopusti</string>
   <string name="network_tip_dialog_title">Potrebno je povezivanje s Internetom</string>
   <string name="new_record_name">Nova snimka</string>
