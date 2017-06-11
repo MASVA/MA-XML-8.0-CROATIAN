@@ -27,7 +27,7 @@
         <item quantity="other">"Možete preuzeti %d Premium pjesama ovog mjeseca. Preuzeti odabrane pjesme?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">Preostalo %d dana</item>
+        <item quantity="other">Preostalo dana: %d</item>
         <item quantity="one">Preostao %d dan</item>
     </plurals>
     <plurals name="NTrackstoDownload">
@@ -59,11 +59,11 @@
         <item quantity="one">%d band</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Izbrisati ovoliko %d pjesama?</item>
+        <item quantity="other">Izbrisati pjesme: %d?</item>
         <item quantity="one">Izbrisati %d pjesmu?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Ukloniti %d pjesama?</item>
+        <item quantity="other">Ukloniti pjesme: %d?</item>
         <item quantity="one">Ukloniti %d pjesmu?</item>
     </plurals>
 	<plurals name="dialog_remove_from_cloud_descript">

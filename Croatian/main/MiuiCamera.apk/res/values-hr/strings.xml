@@ -103,11 +103,12 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pano_how_to_use_prompt_slow_down">Usporite</string>
   <string name="pano_how_to_use_prompt_to_move">Započnite polako pomicati</string>
   <string name="pano_review_saving_indication_str">Spremanje…</string>
-  <string name="pano_too_fast_prompt">Prebrzo</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekat dubine</string>
-  <string name="portrait_mode_lowlight_hint">Potrebno je više svjetla</string>
-  <string name="portrait_mode_too_close_hint">Udaljite se</string>
+  <string name="portrait_mode_lowlight_hint">"Sada je previše mračno"</string>
+  <string name="portrait_mode_too_close_hint">Udaljite se dalje od objekta</string>
   <string name="portrait_mode_too_far_hint">Postavite predmet unutar 2.5 m</string>
+  <string name="portrait_mode_use_hint">"Portretni način pomaže vam zamutiti pozadinu
+s jasnijim glavnim tijelom i ljepšim portretom"</string>
   <string name="portrait_with_facebeauty_hint">Dostupna je značajka Uljepšanja u portretnom načinu rada.</string> 
   <string name="pref_advance_settings">Dodatne postavke</string>  
   <string name="pref_audio_focus_entry_front">Prednji</string>
@@ -167,7 +168,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvuk</string>
   <string name="pref_camera_delay_capture_entry_off">Isklj.</string>
-  <string name="pref_camera_delay_capture_title">Odbrojavanje</string>
+  <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -274,6 +275,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način rada uključen</string>
   <string name="pref_camera_portrait_mode_title">Portretni način</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Uljepšanje u portretnom načinu rada</string>
+  <string name="pref_camera_proximity_lock_summary">Zaključaj geste dodira kada se stavi u džep</string>
+  <string name="pref_camera_proximity_lock_title">Džepni način rada</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Spremi detalje lokacije</string>
@@ -343,6 +346,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Wide</string>
   <string name="pref_camera_zoom_mode_title">Leće</string>
+  <string name="pref_camera_zoom_ratio_tele">200</string>
+  <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Kamera</string>
