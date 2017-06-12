@@ -192,4 +192,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
   <string name="weather_alert">Upozorenja vremena</string>
   <string name="wind_direction_no_data">Vjetar</string>
+  <string name="xiaomi_weather_description_content">Xiaomi Weather aplikacija može pružiti točne informacije o vremenskoj prognozi, donijeti veću udobnost za vaš dnevni izlet. Deinstaliranje će utjecati na funkcije trake statusa, sata vremenske prognoze radne površine itd. Želite li nastaviti deinstalirati komponente sustava?</string>
+  <string name="xiaomi_weather_description_title">O Xiaomi Weather aplikaciji</string>
 </resources>
