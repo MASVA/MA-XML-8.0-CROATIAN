@@ -684,6 +684,11 @@
         <item>Ručno povezivanje</item>
         <item>Uvijek pitaj</item>
     </string-array>
+	<string-array name="traffic_balance_entries">
+         <item>Zatvori</item>
+         <item>Normalan način</item>
+         <item>Ekstremni način</item>
+     </string-array>
 	<string-array name="common_password_business_names">
         <item>Zaklj. zaslona</item>
 		<item>Zaporka privatnosti</item>

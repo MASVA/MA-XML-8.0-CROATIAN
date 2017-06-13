@@ -4702,6 +4702,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball prekida mirovanje</string>
+  <string name="traffic_balance">Inteligentna strategija prometa</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">HR Prijevod</string>

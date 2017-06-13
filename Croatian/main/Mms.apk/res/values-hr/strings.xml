@@ -128,12 +128,15 @@
   <string name="delete_message">Izbriši</string>
   <string name="delete_phrase">Izbriši frazu</string>
   <string name="delete_unlocked">Izbriši zaključane poruke</string>
+  <string name="delete_verification_code_sms_message">Izbrisati sve jednokratne zaporke?</string>
+  <string name="delete_verification_code_sms_title">Izbriši jednokratne zaporke</string>
   <string name="delete_wild_sims">Izbriši brojeve</string>
   <string name="delete_wild_sims_confirm">Sve poruke koje pripadaju odabranim brojevima biti će izbrisane u ovom telefonu. Možete ih vratiti na i.mi.com.</string>
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>
+  <string name="disabled">Onemogućeno</string>
   <string name="discard">Odbaciti</string>
   <string name="discard_message">Odbaciti poruku</string>
   <string name="discard_message_reason">Vaša poruka bit će odbačena jer nema važećih primatelja.</string>
@@ -148,12 +151,14 @@
   <string name="duration_sec">Trajanje (%s sek)</string>
   <string name="duration_selector_title">"Trajanje slajda"</string>
   <string name="duration_zero">Trajanje mora biti više od 0 sekundi</string>
+  <string name="earlier">Ranije</string>
   <string name="edit">Uredi</string>
   <string name="edit_nickname_for_nocontact">Morate imati bar jednog primatelja</string>
   <string name="edit_nickname_for_nocontact_by_robot">Morate imati bar jednog primatelja</string>
   <string name="edit_phrase">Uredi izraz</string>
   <string name="edit_slide_activity">Uredi slajd</string>
   <string name="edit_slideshow_activity">Uredi dijaprojekciju</string>
+  <string name="enabled">Omogućeno</string>
   <string name="enable_password_protect">Omogućite zaštitu zaporkom</string>
   <string name="enable_visible_pattern_title">Napravite uzorak vidljivim</string>
   <string name="english_subject_limit">max 40 znakova</string>
@@ -177,6 +182,7 @@
   <string name="fake_cell_detection_entry">Otkrivanje lažne bazne stanice</string>
   <string name="fake_cell_safe_hint">Ova poruka je sigurna</string>
   <string name="fake_cell_timeout_hint">"Ne mogu provjeriti sigurnost"</string>
+  <string name="favorite_at_time">Označeno: %1s</string>
   <string name="fdn_check_failure">Poruke možete slati samo brojevima za fiksno biranje.</string>
   <string name="festival">Brzi odgovori</string>
   <string name="festival_continue">U redu</string>
@@ -207,7 +213,9 @@
   <string name="from_pkg_name">Iz aplik: </string>
   <string name="group_message">Grupne poruke</string>
   <string name="group_message_failed_title">"Ne mogu poslati %d kontaktima"</string>
-  <string name="group_resend_message">Ponovno slanje (%d)</string>
+  <string name="group_resend_message">Pošalji ponovno (%d)</string>
+  <string name="group_verification_codes_summary">Automatski grupiraj jednokratne zaporke</string>
+  <string name="group_verification_codes_title">Grupa OTP poruka</string>
   <string name="guild_add_attachments">Dodirnite za dodavanje emotikona ili drugi stavki</string>
   <string name="guild_add_recipients">Dodirnite za dodavanje primatelja iz kontakata</string>
   <string name="guild_msim_switcher">Dodirnite za promjenu SIM kartice</string>
@@ -414,6 +422,7 @@
   <string name="pref_other_title">Dodatne postavke</string>
   <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
   <string name="pref_show_list_avatar_summary">Prikaži fotografije i ostale informacije o kontaktima u popisnom pregledu</string>
+  <string name="pref_show_sms_template_entry_summary">Otkrij jednokratne zaporke u SMS-u</string>
   <string name="pref_show_sms_template_in_summary">Automatski otkrij OTP u SMS porukama</string>
   <string name="pref_show_sms_template_summary">Uključite da koristite pametne značajke Mi Poruka, poput kopiranja kodova, provjera stanja računa, itd.</string>
   <string name="pref_smart_messages_settings">Pametne poruke</string>
@@ -490,6 +499,7 @@
   <string name="prvate_contact">Privatan kontakt</string>
   <string name="quick_reply">Odgovori</string>
   <string name="rate_limit_surpassed">U redu</string>
+  <string name="received_at_time">Primljenot: %1s</string>
   <string name="received_label">"Primljeno: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Primatelj: "</string>
@@ -570,6 +580,7 @@
   <string name="send_to">Prima: </string>
   <string name="send_to_count">Poslano: %1$s</string>
   <string name="send_to_index_contact"> %1$s/%2$s</string>
+  <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
   <string name="service_message_not_found">Poruka je istekla ili nije dostupna.</string>
   <string name="service_network_problem">Zbog problema s mrežom slanje nije moguće.</string>
@@ -662,6 +673,7 @@
   <string name="to_count">%d primatelja</string>
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
+  <string name="today">Danas</string>
   <string name="too_many_attachments">"Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano."</string>
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
@@ -697,6 +709,8 @@ Provedeni pokušaj: %s."</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">Pravila o Privatnosti</string>
   <string name="user_agreement5">Dodirivanjem "U redu", slažete se s našim Uvjeti Pružanja Usluge i Pravila o Privatnosti.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Kodovi za provjeru</string>
   <string name="view">Prikaži</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
   <string name="view_hms_attachment_fail">"Ne mogu preuzeti sliku."</string>
@@ -712,4 +726,5 @@ Provedeni pokušaj: %s."</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yellowpage_recommend_msg">"Provjerite MIUI značajku za slanje poruka"</string>
   <string name="yes">U redu</string>
+  <string name="yesterday">Jučer</string>
 </resources>

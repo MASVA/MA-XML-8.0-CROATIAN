@@ -739,6 +739,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_restrict_android_dialog_content">"Da budete sigurni da uređaj radi normalno, nekoliko aplikacija sustava Android i dalje će se povezivati na internet. Te aplikacije će koristiti mobilnu podatkovnu vezu i mogu vam napraviti manje troškove."</string>
   <string name="firewall_restrict_android_dialog_title">Pažnja</string>
   <string name="firewall_restrict_data">Ograniči uporabu mobilnih podataka</string>
+  <string name="firewall_restrict_notify_title">"%s ne može koristiti mrežu"</string>
   <string name="firewall_restrict_wlan">Ograniči korištenje WLAN veze</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>

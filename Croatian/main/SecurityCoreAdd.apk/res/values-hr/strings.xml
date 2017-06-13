@@ -15,6 +15,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="appData">Instalirane aplikacije</string>
   <string name="app_name">Komponenta Sigurnosti jezgre</string>
   <string name="back">Natrag</string>
+  <string name="can_not_delete_when_calling">"Ne mogu se izbrisati prostori tijekom poziva"</string>
+  <string name="can_not_switch_when_calling">"Ne mogu se mjenjati prostori tijekom poziva"</string>
   <string name="cancelClosePassword">"Ne isključuj"</string>
   <string name="cancel_button">Odustani</string>
   <string name="changePassword">Promjeni zaporku</string>
