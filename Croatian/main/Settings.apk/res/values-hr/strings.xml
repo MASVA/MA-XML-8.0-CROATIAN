@@ -539,9 +539,6 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka prilikom otključavanja</string>
   <string name="biometric_weak_liveliness_title">Provjera živosti</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
-  <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
-  <string name="biometric_weak_liveliness_summary">Prilikom otključavanja potrebno je trepnuti</string>
-  <string name="biometric_weak_liveliness_title">Provjera živosti</string>
   <string name="ble_scan_notify_text">Radi poboljšanja preciznosti lokacije aplikacije i usluge sustava i dalje mogu otkriti Bluetooth uređaje. To možete promijeniti u LINK_BEGINpostavkama traženjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezani uređaji</string>
   <string name="block_list_diaglog_cancle">Odustani</string>
