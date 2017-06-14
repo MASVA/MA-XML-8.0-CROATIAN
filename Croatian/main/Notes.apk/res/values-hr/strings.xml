@@ -70,7 +70,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="folder_exist">Mapa s istim nazivom već postoji</string>
   <string name="force_touch_menu_add">Dodaj bilješku</string>
-  <string name="format_move_note_out_folder">Premješteno izvan</string>
+  <string name="format_move_note_out_folder">Ta je bilješka premještena</string>
   <string name="format_move_note_to_folder">Premješteno u %1$s</string>
   <string name="format_move_notes_out_folder">Premješteno %1$s izvan</string>
   <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>

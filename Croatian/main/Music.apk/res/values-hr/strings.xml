@@ -778,7 +778,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Izvor: %1$s</string>
   <string name="start_download_music">Preuzimanje ažuriranja za Glazbu…</string>
-  <string name="start_shuffle">Pokreni nasumično…</string>
+  <string name="start_shuffle">Nasumično…</string>
   <string name="start_to_backup">Izrada Sig. kopije…</string>
   <string name="start_to_download">Preuzimanje…</string>
   <string name="start_to_play">Reproduciraj</string>

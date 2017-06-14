@@ -61,7 +61,7 @@
   <string name="hour_unit">h</string>
   <string name="hours">%d sati</string>
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
-  <string name="install_weather_app_loading">Učitavanje…</string>
+  <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="keep_screen_on">Drži zaslon upaljenim</string>
   <string name="label">Upiši tekst</string>
   <string name="label_pref_summary">Tekst ovoga alarma</string>

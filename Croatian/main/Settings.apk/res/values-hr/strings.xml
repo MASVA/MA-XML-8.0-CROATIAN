@@ -535,6 +535,9 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite."</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
+  <string name="biometric_weak_improve_matching_title">Poboljšaj podudaranje lica</string>
+  <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka prilikom otključavanja</string>
+  <string name="biometric_weak_liveliness_title">Provjera živosti</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
   <string name="biometric_weak_liveliness_summary">Prilikom otključavanja potrebno je trepnuti</string>
