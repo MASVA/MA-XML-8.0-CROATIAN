@@ -31,7 +31,7 @@
   <string name="camera_disabled">Kamera je onemogućena</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="camera_label">Kamera</string>
-  <string name="camera_mode_options">Načini</string>
+  <string name="camera_mode_options">Opcije</string>
   <string name="camera_setting">Kamera</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Quick snap način</string>
@@ -351,6 +351,7 @@ s jasnijim glavnim tijelom i ljepšim portretom"</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Kamera</string>
+  <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
   <string name="pref_face_beauty_title">Uljepšanje</string>
   <string name="pref_front_mirror_entry_auto">Kada je otkriveno lice</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
