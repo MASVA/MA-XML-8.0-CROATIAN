@@ -685,7 +685,7 @@
         <item>Uvijek pitaj</item>
     </string-array>
 	<string-array name="traffic_balance_entries">
-         <item>Zatvori</item>
+         <item>Onemogućeno</item>
          <item>Normalan način</item>
          <item>Ekstremni način</item>
      </string-array>
