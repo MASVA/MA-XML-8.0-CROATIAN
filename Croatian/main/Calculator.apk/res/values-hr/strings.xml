@@ -27,6 +27,8 @@
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
   <string name="deleteDesc">izbriši</string>
+  <string name="description_content">Pored osnovnih značajki, Kalkulator također radi kao višenamjenski konverter hipoteka i poreza</string>
+  <string name="description_title">O Kalkulatoru</string>
   <string name="error">Pogreška</string>
   <string name="error_fomrat">Pogreška formata</string>
   <string name="from_unit_en">kilometara na sat</string>

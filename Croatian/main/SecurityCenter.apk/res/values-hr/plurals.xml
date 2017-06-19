@@ -201,6 +201,14 @@
          <item quantity="other">Popravljeno je %1$d problema. Sve izgleda uredno</item>
          <item quantity="one">Popravljen je %1$d problem. Sve izgleda uredno</item>
     </plurals>
+	<plurals name="white_list_risk_app_header">
+         <item quantity="other">Opasne aplikacije: %d</item>
+         <item quantity="one">Opasna aplikacije: %d</item>
+     </plurals>
+     <plurals name="white_list_trojan_header">
+         <item quantity="other">Trojanci: %d</item>
+         <item quantity="one">Trojanac: %d</item>
+     </plurals>
 	<plurals name="notification_apps">
         <item quantity="other">%d aplik. sadrži rizik privatnosti</item>
         <item quantity="one">%d aplik. sadrži rizik privatnosti</item>

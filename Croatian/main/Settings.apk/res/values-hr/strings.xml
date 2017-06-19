@@ -3513,6 +3513,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovne mreže:</string>
   <string name="rank_title">Poredak</string>
   <string name="rarely_running">Rijetko se izvodi (%s)</string>
+  <string name="reading_data">Dobivanje informacija…</string>
   <string name="really_remove_account_message">Uklanjanjem ovog računa izbrisat će se sve njegove poruke, kontakti i ostali podaci s uređaja!</string>
   <string name="really_remove_account_title">Ukloniti račun?</string>
   <string name="rebootiing_for_updates">Ponovno pokretanje…</string>

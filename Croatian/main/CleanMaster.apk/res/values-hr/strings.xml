@@ -32,6 +32,8 @@
   <string name="apk_status_install">Instalirano</string>
   <string name="apk_status_installed_old">Starija vezija</string>
   <string name="apk_status_uninstalled">Nije instalirano</string>
+  <string name="app_description_content">Čistač pronalazi smeće na vašem uređaju i oslobađa prostor za pohranu.</string>
+  <string name="app_description_title">O Čistaču</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
   <string name="app_name">JunkEngine</string>
@@ -182,6 +184,8 @@
   <string name="empty_title_photos">Nema pronađenih fotografija</string>
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Datoteke</string>
   <string name="file_not_found">Datoteka nije pronađena</string>
   <string name="flow_rank_title">Uporaba podataka</string>

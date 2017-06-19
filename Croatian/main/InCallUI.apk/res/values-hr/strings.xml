@@ -63,7 +63,9 @@
   <string name="card_title_call_ended">"Poziv završen "</string>
   <string name="card_title_conf_call">"Konferencijski poziv "</string>
   <string name="card_title_dialing">Pozivanje</string>
-  <string name="card_title_hanging_up">"Prekid poziva "</string>
+  <string name="card_title_hanging_up">"Prekidanje poziva "</string>
+  <string name="card_title_hanging_up_restart">"Ne mogu završiti poziv. Ponovno pokrenite uređaj."</string>
+  <string name="card_title_hanging_up_weak_signal">Slab signal mobilne mreže. Prekidanje poziva</string>
   <string name="card_title_in_call">U pozivu</string>
   <string name="card_title_in_call_short">Poziv</string>
   <string name="card_title_in_video">Video </string>
