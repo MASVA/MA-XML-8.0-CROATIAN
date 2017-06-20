@@ -505,6 +505,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_touch_calib_pass">Kalibriranje je uspješno završeno</string>
   <string name="cit_touch_calib_summary">Sljedeći korak će obaviti kalibraciju dodira, potvrdite i ne dodirujte zaslon dok kalibriranje nije dovršeno</string>
   <string name="cit_touch_calib_title">Kalibriranje dodira</string>
+  <string name="cit_touch_panel_test_title">Senzor dodira</string>
   <string name="cit_tpdump_check_summary">Kliknite tipku da biste omogućili ili onemogućili dump funkciju dodira</string>
   <string name="cit_tpdump_check_title">Način otklanjanja pogrešaka dodira</string>
   <string name="cit_tpdump_close">Onemogući dump</string>
