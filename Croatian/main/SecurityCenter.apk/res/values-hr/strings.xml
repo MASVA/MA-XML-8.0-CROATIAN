@@ -1110,8 +1110,8 @@ podatkovnu vezu"</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
   <string name="modifypassword">Promjenite zaporku</string>
-  <string name="monitor_app_add">dodaj</string>
-  <string name="monitor_app_more">više</string>
+  <string name="monitor_app_add">Dodaj</string>
+  <string name="monitor_app_more">Više</string>
   <string name="monitor_requests_from_pc">Upravljaj instalacijom aplikacija putem USB-a</string>
   <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
   <string name="msg_update_error_code_success">Gotovo</string>

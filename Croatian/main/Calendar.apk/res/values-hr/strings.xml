@@ -142,7 +142,7 @@
   <string name="data_notice_continue_confirm">Nastavi</string>
   <string name="data_notice_online_large_image">Preuzmi fotografije kalendara samo putem WLAN-a</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(danas)</string>
+  <string name="date_today">" (danas) "</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Novi događaj</string>
   <string name="default_reminder_mode">Podsjetnici</string>
@@ -150,6 +150,7 @@
   <string name="delete_label">Izbriši</string>
   <string name="delete_recurring_event_title">Izbrisati %s?</string>
   <string name="delete_this_event_title">Izbrisati ovaj događaj?</string>
+  <string name="deleting_calendar">Otkazivanje pretplate…</string>
   <string name="delete_topic_dialog_title">Izbrisati \"%s\?</string>
   <string name="delete_topic_success">\"%s\ odabrano</string>
   <string name="departure">Odlazak</string>
@@ -173,7 +174,7 @@
   <string name="dropdown_delete_button_desc">Ukloni %s iz primatelja</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Ne mogu izračunati unaprijed"</string>
   <string name="edit_date_calculate_days_empty_hint">Unesite broj dana</string>
-  <string name="edit_date_calculate_days_error_hint">Unesite ispravne dana unutar %1$d</string>
+  <string name="edit_date_calculate_days_error_hint">Možete unijeti do %1$d dana</string>
   <string name="edit_date_calculate_days_forward_error_hint">"Ne mogu izračunati unatrag"</string>
   <string name="edit_event_all_day_label">Cijeli dan</string>
   <string name="edit_event_anniversary_name_empty_hint">Unesite naziv događaja</string>
@@ -492,6 +493,10 @@
   <string name="today_train_event">Vlak</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
+  <string name="too_long_content">Sadržaj je predugačak</string>
+  <string name="too_long_description">Opis događaja je predugačak</string>
+  <string name="too_long_location">Lokacija događaja je predugačka</string>
+  <string name="too_long_name">Naziv je predugačak</string>
   <string name="topic_dialog_title">Pretplata, Otkaži pretplatu</string>
   <string name="topic_event_list_header_label">Nedavna Aktivnost</string>
   <string name="topic_list_header_label">Pretplate</string>

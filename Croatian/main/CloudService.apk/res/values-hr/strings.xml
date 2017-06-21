@@ -188,7 +188,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_force_sync">Sinkroniziraj sada</string>
   <string name="micloud_detail_lastest">Sinkronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinkronizirano</string>
-  <string name="micloud_detail_need_charge_or_sleep">Priključite punjač i isključite zaslon kako biste nastavili sinkronizaciju</string>
+  <string name="micloud_detail_need_charge_or_sleep">Priključite punjač i isključite zaslon da sinkronizirate</string>
   <string name="micloud_detail_not_sync">Stavki čeka na sinkr.: %d</string>
   <string name="micloud_detail_not_synced">Nije sinkronizirano</string>
   <string name="micloud_detail_ok">U redu</string>
@@ -250,7 +250,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_intro_03_part_01">Osigurajte sadržaj svog telefona s bilo kojeg mjesta</string>
   <string name="micloud_intro_03_part_02">Lociranje na daljinu, zaključavanje ili brisanje sadržaja telefona na i.mi.com</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
-  <string name="micloud_main_battery_message">"Priključite svoj uređaj na punjenje za sinkronizaciju"</string>
+  <string name="micloud_main_battery_message">"Priključite punjač da sinkronizirate"</string>
   <string name="micloud_main_cancel_sync">Otkaži sinkr.</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
@@ -278,7 +278,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_sync_exception">Pogreška sinkr.</string>
   <string name="micloud_main_sync_init">Prikupljanje informacija</string>
   <string name="micloud_main_sync_need_charge">Napunite bateriju svog uređaja</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Napunite uređaj i isključi zaslon</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Priključite punjač i isključite zaslon da sinkronizirate</string>
   <string name="micloud_main_sync_now">Sinkroniziraj sada</string>
   <string name="micloud_main_sync_on">Sinkr. uklj.</string>
   <string name="micloud_main_sync_on_wifi">Čeka se WLAN</string>
@@ -365,7 +365,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_sync_alert_dialog_positive">U redu</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
   <string name="micloud_sync_off">Sinkr. sa Mi Cloud je isključena</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Sinkroniziraj samo Kontakte, Kalendar i Bilješke, da biste sinkronizirali više stavki, idite u Mi Cloud postavke.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Kontakti, Kalendar i Bilješke se automatski sinkroniziraju. Idite na postavke Mi Cloud da biste sinkronizirali više stavki.</string>
   <string name="micloud_title_dspt" formatted="false">"Ukupno %s
  Iskorišteno %s | Preostalo %s"</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>

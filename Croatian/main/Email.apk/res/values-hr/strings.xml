@@ -7,6 +7,7 @@
   <string name="accessibility_guide_second">Zatim kliknite u gornjem desnom kutu \"Prihvati\" za nastavak.</string>
   <string name="account_duplicate_dlg_message_fmt">To korisničko ime već upotrebljavate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Dvostruki račun</string>
+  <string name="account_failure">Pogreška računa</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -242,6 +243,7 @@
   <string name="change_folders_selection_dialog_title">Promjena mapa</string>
   <string name="change_sync_settings">Promjena sinkronizacije</string>
   <string name="changepw_dialog_tips">Unesite ponovo zaporku za %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Provjerite kontrolni kôd za %s i ponovno se prijavite</string>
   <string name="chat_item_msg_people_unit">osoba</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_view_description">Prikaži teme e-pošte kao mjehuriće razgovora</string>
@@ -345,13 +347,15 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi s Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Izmijenili ste ručnu sinkronizaciju, potrebno je ručno osvježiti za primanje pošte."</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
   <string name="dialog_change_sync_lookback">Poruka e-pošte primljena prije %s će automatski biti izbrisana. Dodirnite za promjenu.</string>
   <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
   <string name="dialog_insufficient_space_on_external">"Ne mogu preuzeti privitak. Nema dovoljno prostora na vanjskoj pohrani."</string>
   <string name="dialog_insufficient_space_on_internal">Nema dovoljno prostora na vanjskoj pohrani</string>
+  <string name="dialog_system_auto_sync_account_no_open">Sinkronizacija računa nije omogućena i poruke se ne mogu automatski sinkronizirati</string>
+  <string name="dialog_system_auto_sync_master_no_open">Sinkronizacija sustava nije omogućena i poruke se ne mogu automatski sinkronizirati</string>
   <string name="disable_admin_warning">UPOZORENJE: Deaktivacijom ovlasti aplikacije E-pošta za upravljanje uređajem izbrisat će se svi računi e-pošte koji traže tu ovlast, kao i e-pošta, kontakti, događaji kalendara i drugi podaci.</string>
   <string name="discard">Zanemari</string>
   <string name="discard_drafts">Odbaci skice</string>
@@ -377,7 +381,7 @@
   <string name="download_confirm_title">Preuzimanje privitka</string>
   <string name="download_message_failed_for_too_large">Poruka je prevelika za preuzimanje.</string>
   <string name="draft_count_format"> (%1$s)</string>
-  <string name="drawer_classification">Inteligentna klasifikacija</string>
+  <string name="drawer_classification">Kategorije</string>
   <string name="drawer_close">Zatvaranje pretinca za navigaciju</string>
   <string name="drawer_contacts">Kontakti</string>
   <string name="drawer_open">Otvaranje pretinca za navigaciju</string>
@@ -546,6 +550,8 @@
   <string name="long_string">duuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugo</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">Ova poruka je prevelika za učitavanje, prikazati će se samo dio te je pročitajte na PC-u kasnije</string>
+  <string name="mail_description_content">E-pošta je klijent e-pošte koji može upravljati s više poštanskih sandučića, podržavati slanje i primanje, obilježavanje e-pošte i pružanje usluga kao što je način sesija, plaćanje poštom, razvrstavanje pošte i ostale usluge. Nakon što deinstalirate poštu, podaci e-pošte bit će izbrisani.</string>
+  <string name="mail_description_title">O aplikaciji</string>
   <string name="mail_header_network_not_available">"Nemate mrežnu vezu."</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obavijesti</string>
@@ -962,6 +968,8 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">Sinkronizacija nije bila moguća.</string>
   <string name="sync_error_message">Uređaj nema dovoljno prostora za pohranu za sinkronizaciju.</string>
+  <string name="syncing_wait_restart">Pokušaj ponovno</string>
+  <string name="syncing_wait_restart_title">"Veza poslužitelja je istekla, ne mogu učitati poruku"</string>
   <string name="system_account_create_failed">Izrada računa nije uspjela. Pokušajte ponovo.</string>
   <string name="system_folders_sent_dlg">Odaberite mapu poslanih stavki poslužitelja</string>
   <string name="system_folders_sent_summary">Odaberite mapu poslanih stavki poslužitelja</string>
@@ -970,6 +978,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="system_folders_trash_dlg">Odaberite mapu za otpad poslužitelja</string>
   <string name="system_folders_trash_summary">Odaberite mapu za otpad s poslužitelja</string>
   <string name="system_folders_trash_title">Mapa za otpad</string>
+  <string name="system_setup_open_error">"Nije moguće pozvati sinkronizaciju računa, uključite "postavljanje" sustava u računu za sinkronizaciju e-pošte"</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Dodirnite za postavljanje</string>
   <string name="tap_to_enable_sync">Dodirnite za isključivanje.</string>

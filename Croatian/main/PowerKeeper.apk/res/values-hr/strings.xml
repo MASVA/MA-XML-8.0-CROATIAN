@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_hide_mode">O MIUI Štednji baterije</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Postavke</string>
   <string name="action_title_optimize">Optimiziraj sada</string>
@@ -27,12 +28,17 @@
   <string name="config_restrict_function_title">Ograniči aplikacije u pozadini</string>
   <string name="config_restrict_running_description">Aplikacije će biti zatvorene za uštedu energije</string>
   <string name="config_restrict_running_title">Ograniči aktivnosti u pozadini</string>
+  <string name="config_restrict_running_warning">Aplikacija će biti zatvorena kada je u pozadini, možda ne može normalno funkcionirati</string>
+  <string name="config_scenario_policies_title">Scenariji</string>
   <string name="config_suggest_description">"Identificiraj aplikacije i aktivnosti da se zadrže važni procesi pokrenutima.
 Štednja baterije će tretirati važne aplikacija selektivno."</string>
   <string name="config_suggest_suffix_title">MIUI Štednja baterije (preporuka)</string>
   <string name="config_suggest_title">MIUI Štednja baterije</string>
+  <string name="disable_hide_mode">Onemogući MIUI Uštedu baterije</string>
+  <string name="disable_hide_mode_warning">Onemogućivanje MIUI Uštede baterije može uzrokovati veću potrošnju energije</string>
   <string name="disabled">Isklj.</string>
   <string name="empty_title_apps_container_list">Nema aplikacija</string>
+  <string name="enable_hide_mode">Omogući MIUI Uštedu baterije</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
   <string name="foreground_change">Aplikacija se izvodi u pozadini</string>
   <string name="fragment_nonesys_listempty">Nema instaliranih aplikacija</string>
@@ -45,6 +51,7 @@
   <string name="google_base_app_install_choice">\"%s\" zahtijeva Google Service Framework aplikacije da radi normalno, preuzeti i instalirati ih?</string>
   <string name="hide_mode_desc">"Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Mrežna veza, usluga lociranja, radio, timer, itd. mogu biti pogođeni ovom značajkom. Ova je konfiguracija pogodna za većinu aplikacija, ali ako određena aplikacija ne funkcionira normalno dok radi u pozadini, možete prilagoditi postavke te aplikacije."</string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
+  <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
@@ -105,7 +112,7 @@
   <string name="power_config_app_background_title">Pozadina</string>
   <string name="power_config_app_full_screen_title">Cijeli zaslon</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Štednja energije u pozadini</string>
+  <string name="power_config_apps">MIUI Ušteda baterije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Odaberite vrijeme za ograničavanje podataka u pozadini</string>
   <string name="power_config_bg_data_delay_time_title">Ograniči podatke u pozadini</string>
   <string name="power_config_choose_apps">Odaberi aplikacije</string>
@@ -154,7 +161,7 @@
   <string name="power_dialog_screen_brightness_title">Osvjetljenje</string>
   <string name="power_event_user_define_title">Novi događaj</string>
   <string name="power_event_view_event_title">Prečaci</string>
-  <string name="power_hide_mode_app_list_summary">Postavke aplikacije</string>
+  <string name="power_hide_mode_app_list_summary">Ušteda energije u pozadini</string>
   <string name="power_hide_mode_summary">"Uštedite bateriju ograničavanjem pojedinačnih procesa aplikacija u pozadini, WLAN-a i mobilne podatkovne veze i GPS-a"</string>
   <string name="power_hide_mode_title">Ušteda baterije</string>
   <string name="power_keeper">Štednja baterije</string>
@@ -170,6 +177,8 @@
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
   <string name="ragment_sys_listempty">Nema aplikacija sustava</string>
   <string name="reading">Način čitanja</string>
+  <string name="scenario_policies_summary">Ušteda energije prema scenariju</string>
+  <string name="scenario_policies_title">Scenarij pravila uštede energije</string>
   <string name="screen_off">Zaslon je isključen</string>
   <string name="screen_off_10_min">Zaslon je isključen preko 10 min.</string>
   <string name="screen_on">Zaslon je uključen</string>
@@ -179,12 +188,14 @@
   <string name="set_cpufreq_max">Maks. CPU frekvencija</string>
   <string name="set_lcd_mode">Način zaslona</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
-  <string name="sleep_config_disable_description">"MIUI neće poboljšati večernju štednju baterije"</string>
-  <string name="sleep_config_disable_title">Isključi</string>
-  <string name="sleep_config_enhance_description">MIUI će poboljšati večernju pripravnost</string>
-  <string name="sleep_config_enhance_title">Uključi</string>
-  <string name="sleep_config_mode_title">Načini štednje</string>
+  <string name="show_system_app">Prikaži aplikacije sustava</string>
+  <string name="sleep_config_enhance_description">Poboljšava stanje pripravnosti potrošnje energije u noći</string>
+  <string name="sleep_config_enhance_title">Načini uštede energije</string>
   <string name="still">Slika</string>
   <string name="ui">Standardno</string>
   <string name="user_define_mode">Naziv</string>
+  <string name="vip_feedback">Vip Feedback</string>
+  <string name="vip_feedback_apply">Primjeni Vip Feedback</string>
+  <string name="vip_feedback_apply_msg">Molimo kontaktirajte qiufeng@xiaomi.com da primjenite Vip Feedback</string>
+  <string name="vip_feedback_enable">Omogući Vip Auto Feedback</string>
 </resources>

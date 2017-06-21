@@ -136,7 +136,7 @@
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
   <string name="disable_notifications_dialog_message">Prestati s dupliciranjem obavijesti putem tekstualnih poruka iz zadane aplikacije za slanje poruka?</string>
-  <string name="disabled">Onemogućeno</string>
+  <string name="disabled">Isključeno</string>
   <string name="discard">Odbaciti</string>
   <string name="discard_message">Odbaciti poruku</string>
   <string name="discard_message_reason">Vaša poruka bit će odbačena jer nema važećih primatelja.</string>
@@ -158,7 +158,7 @@
   <string name="edit_phrase">Uredi izraz</string>
   <string name="edit_slide_activity">Uredi slajd</string>
   <string name="edit_slideshow_activity">Uredi dijaprojekciju</string>
-  <string name="enabled">Omogućeno</string>
+  <string name="enabled">Uključeno</string>
   <string name="enable_password_protect">Omogućite zaštitu zaporkom</string>
   <string name="enable_visible_pattern_title">Napravite uzorak vidljivim</string>
   <string name="english_subject_limit">max 40 znakova</string>
