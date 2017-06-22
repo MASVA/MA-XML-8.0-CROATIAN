@@ -571,7 +571,7 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="turn_off_phone_event_hint">"Nećete biti u mogućnosti vidjeti detalje izvješća nepoznatih brojeva."</string>
   <string name="turn_off_smart_antispam_hint">"Isključiti zaštitu kod poziva nepoznatih brojeva?"</string>
   <string name="turn_on_phone_event_dialog_title">Ažuriraj bazu podataka identificiranih brojeva</string>
-  <string name="turn_on_phone_event_summary">Pošaljite telefonski status brojeva usluga</string>
+  <string name="turn_on_phone_event_summary">Dopustite Yellow pages da primaju i šalju informacije o uslugama ovlaštenih davatelja usluga.</string>
   <string name="turn_on_phone_event_title">Primanje informacije o usluzi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj pozive nepoznatih brojeva pomoću Xiaomi oznake imenika"</string>
   <string name="turn_on_smart_antispam_summary_off">Pretraži samo brojeve spremljene na ovom uređaju</string>
