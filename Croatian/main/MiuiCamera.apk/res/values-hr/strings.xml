@@ -271,8 +271,6 @@ s jasnijim glavnim tijelom i ljepšim portretom"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
-  <string name="pref_camera_proximity_lock_summary">Zaključaj geste dodira kada se stavi u džep</string>
-  <string name="pref_camera_proximity_lock_title">Džepni način</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretni način rada isključen</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način rada uključen</string>
   <string name="pref_camera_portrait_mode_title">Portretni način</string>
