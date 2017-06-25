@@ -292,7 +292,7 @@ Kartice kontakata su isključene"</string>
   <string name="deleteConfirmation_title">"Izbrisati ovaj kontakt?"</string>
   <string name="delete_call_log_message">Izbrisati povijest poziva?</string>
   <string name="delete_call_log_selected_title">Izbrisati odabranu povijest poziva?</string>
-  <string name="delete_call_log_title">Odaberi povijest poziva za brisanje</string>
+  <string name="delete_call_log_title">Brisanje povijesti poziva</string>
   <string name="delete_contact_calllog_title">Izbrisati povijest poziva?</string>
   <string name="delete_dial_input">"Izbriši"</string>
   <string name="delete_duplicate">Združi</string>
@@ -925,8 +925,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="path_wipe_data">Aplikacije sustava/Kontakti/Organizraj kontakte/Izbriši podatke</string>
   <string name="payphone">"Telefonska govornica"</string>
   <string name="people">"Kontakti"</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">"Telefon"</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>

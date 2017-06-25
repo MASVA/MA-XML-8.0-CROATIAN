@@ -151,5 +151,4 @@
   <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s) će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.
 Ako želite čekati na WLAN povezivanje za preuzimanje ove datoteke, dodirnite %s."</string>
   <string name="wifi_recommended_title">Upozorenje uporabe podataka</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

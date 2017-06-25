@@ -122,5 +122,4 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

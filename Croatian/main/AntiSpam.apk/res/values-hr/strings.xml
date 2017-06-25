@@ -358,5 +358,4 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
   <string name="website">Web stranica</string>
   <string name="whitelist_prefix_add_hint">Dodati sve brojeve s tim predbrojem u iznimke</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

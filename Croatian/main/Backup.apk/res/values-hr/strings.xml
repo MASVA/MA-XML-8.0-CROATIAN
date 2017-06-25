@@ -87,7 +87,6 @@
   <string name="delete_backup_title">Izbriši Sig. kopiju</string>
   <string name="delete_failed_backup_confirm">Ova Sig. kopija sadrži pogreške.</string>
   <string name="deselect_all">Poništi odabir</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Isključi šifriranje</string>
   <string name="enable_encrypt">Uključi šifriranje</string>
@@ -342,7 +341,6 @@ i Mi Mover uključen"</string>
   <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
   <string name="user_notice_title">Pažnja</string>
   <string name="wifi_title">Postavke WLAN-a</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>

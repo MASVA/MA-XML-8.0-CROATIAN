@@ -777,8 +777,6 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_result_more">Više</string>
   <string name="search_statistic_appname">Izvor</string>
   <string name="search_statistic_keyword">Ključna riječ</string>
-  <string name="search_statistic_match_invalid">0</string>
-  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">Oznaka</string>
   <string name="search_title">Traži</string>
   <string name="search_title_hint">Traži</string>

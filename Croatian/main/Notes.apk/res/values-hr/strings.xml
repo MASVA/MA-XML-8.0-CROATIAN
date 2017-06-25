@@ -25,6 +25,8 @@
   <string name="cancel_alarm_description">Otkaži alarm</string>
   <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
   <string name="cta_reminder">Ova se aplikacija mora povezati s internetom za izradu sig. kopija bilješki na Mi Cloud, kao i dopuštenje čitanja vaših kontakata kako bi označila bilješke koje ste poduzeli tijekom poziva.</string>
+  <string name="db_downgrade_clear_button">Izbriši podatke aplikacije</string>
+  <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Mi Cloud."</string>
   <string name="call_record_folder_name">Bilješke poziva</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>

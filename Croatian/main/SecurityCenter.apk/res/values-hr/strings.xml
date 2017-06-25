@@ -316,6 +316,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_notify_task_canceled_title">Radnja je otkazana</string>
   <string name="auto_task_notify_task_continue_do">Pokreni radnju</string>
   <string name="auto_task_notify_task_count_down">Autom. radnja će započeti za 5 sekundi</string>
+  <string name="auto_task_notify_task_exit_task">Napusti zadatak</string>
   <string name="auto_task_operation_airplane_mode">Zrakoplovni način</string>
   <string name="auto_task_operation_auto_brightness">Autom. svjetlina</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1355,6 +1356,7 @@ podatkovnu vezu"</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
+  <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_chooser_check_box_title">Odaberite profil</string>
   <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
@@ -1370,8 +1372,7 @@ podatkovnu vezu"</string>
   <string name="power_consume_rank_software">Aplikacije</string>
   <string name="power_consume_rank_title">Korištenje baterije</string>
   <string name="power_consume_system_idle">Stanje mirovanja</string>
-  <string name="power_consume_total_hardware">Hardver: %s</string>
-  <string name="power_consume_total_software">Aplikacije: %s</string>
+  <string name="power_consume_software_total_format">Aplikacije: %s</string>
   <string name="power_customize_giveup_change">Odbaciti promjene?</string>
   <string name="power_customizer_cancel">Odustani</string>
   <string name="power_customizer_delete">Izbriši</string>
@@ -2415,7 +2416,6 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="wifi_item_title_fake">Otkrij lažni WLAN</string>
   <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obavijesti Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Nema dostupnih mobilnih podataka na vašem Mi Data planu. Prebačeno na plan podataka vašeg operatera."</string>
