@@ -1609,6 +1609,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enforce_read_external_confirm_title">Zaštititi USB pohranu?</string>
   <string name="enforce_read_external_summary">Aplikacije moraju tražiti dopuštenje za čitanje USB pohrane</string>
   <string name="enforce_read_external_title">Zaštiti USB pohranu</string>
+  <string name="encryption_progress_summary">"Šifriranje, nemojte ponovno pokrenuti uređaj."</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podataka radi poboljšanja glasovnih značajki i komunikacije (preporučeno)</string>
   <string name="enhanced_4g_lte_mode_title">Poboljšan 4G LTE način</string>
   <string name="enter_password">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
@@ -2911,6 +2912,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
   <string name="owner_info_settings_title">Informacije o vlasniku na Zaklj. zaslonu</string>
+  <string name="owner_space">Prvi prostor</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="page_layout_1">Nedjelja, 16 Kolovoz</string>
   <string name="page_layout_10">Postavke</string>
@@ -4223,6 +4225,7 @@ Možda je PIN netočan."</string>
   <string name="sim_lock_settings_category">Postavite zaključavanje SIM kartice</string>
   <string name="sim_lock_settings_title">Zaključavanje SIM kartice</string>
   <string name="sim_management_title">SIM kartice &amp; mobilne mreže</string>
+  <string name="sim_management_title_cr_kolbi">SIM kartice &amp; mobilne mreže</string>
   <string name="sim_missing">SIM nedostaje ili pogreška</string>
   <string name="sim_multi_sims_summary">Odaberite SIM putem kojeg želite upotrebljavati mobilni prijenos podataka.</string>
   <string name="sim_multi_sims_title">Pronađeno je više SIM kartica</string>

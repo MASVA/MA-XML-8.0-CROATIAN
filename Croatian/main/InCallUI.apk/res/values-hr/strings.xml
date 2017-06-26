@@ -253,6 +253,7 @@
   <string name="unknown">Nepoznato</string>
   <string name="unlock_phone">Otključaj uređaj</string>
   <string name="upgrade_vt_prompt">Prebaciti na videopoziv ?</string>
+  <string name="user_locked_prompt">Otključaj uređaj za pristup kontaktima.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
    <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
   <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>

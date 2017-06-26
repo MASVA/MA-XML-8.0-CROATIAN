@@ -211,7 +211,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_find_device_finish">Gotovo</string>
   <string name="micloud_find_device_guide_button">Uključi Pronađi uređaj</string>
-  <string name="micloud_find_device_guide_content">Kada promjenite vašu SIM karticu, poruka će biti poslana automatski za ponovno aktiviranje ove značajke.</string>
+  <string name="micloud_find_device_guide_content">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš će vam davatelj usluge naplatiti za ovu poruku. Kada promjenite SIM karticu, automatski će se poslati poruka za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_guide_fail_reopen">Uključi Pronađi uređaj na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Provjerite mrežnu vezu i pokušajte ponovo.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Veza je istekla. Pokušajte ponovno kasnije.</string>
@@ -226,8 +226,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat preporučuje da uključite Pronađi uređaj</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay preporučuje da uključite Pronađi uređaj</string>  
   <string name="micloud_find_device_guide_progress">Isključivanje Pronađi uređaj…</string>
-  <string name="micloud_find_device_guide_title">"Prijavite se u %s da pronađete, zaključate, 
-ili poništite svoj uređaj."</string>
+  <string name="micloud_find_device_guide_title">"Prijavite se u %s da pronađete, zaključate ili izbrišete svoj uređaj."</string>
   <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
   <string name="micloud_find_device_opened">Pronađi uređaj uključen</string>
   <string name="micloud_find_device_opened_content">Pronađite svoj uređaj na %s</string>
