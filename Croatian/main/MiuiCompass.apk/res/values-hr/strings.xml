@@ -7,6 +7,8 @@
   <string name="altitude_uncalibrate_refresh">Pokušaj ponovo</string>
   <string name="altitude_uncalibrate_tip">"Ne mogu kalibrirati Nadm. visinu"</string>
   <string name="altitude_unit">m</string>
+  <string name="app_description_content">Kompas se koristi za navigaciju i orijentaciju i pokazuje smjer.</string>
+  <string name="app_description_title">O Kompasu</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibriranje…</string>
   <string name="calibrate_failed">Ne mogu kalibrirati Nadm. visinu</string>

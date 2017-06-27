@@ -991,11 +991,14 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_import">"Uvoz"</string>
   <string name="preference_import_export">"Uvoz/izvoz"</string>
   <string name="preference_import_export_title">"Uvoz/izvoz kontakata"</string>
-  <string name="preference_key_trash_bin_title">Pregledajte pohranjene kontakte koji su nedavno izbrisani</string>
+  <string name="preference_key_trash_bin_title">Obnovite kontakte</string>
   <string name="preference_others">Ostalo</string>
+  <string name="preference_other">Ostalo</string>
   <string name="preference_phone">"Telefon"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
+  <string name="preference_show_yellowpage_tab_description">Ako zatvorite YellowPage karticu, YellowPage značajka neće raditi ispravno</string>
+  <string name="preference_show_yellowpage_tab_title">Prikaži karticu YellowPage</string>
   <string name="preference_simple_mode_description">Prikaži slike i ostale informacije o kontaktima u popisnom pregledu</string>
   <string name="preference_simple_mode_title">Prikaži slike i informacije</string>
   <string name="preference_smart_group_company_summary">"Grupiraj prema tvrtci"</string>
