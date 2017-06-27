@@ -1353,7 +1353,7 @@ Dulje slušanje preglasne glazbe može vam oštetiti sluh."</string>
   <string name="sync_undo_deletes">Poništi brisanja</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dodirnite za postavljanje.</string>
-  <string name="tethered_notification_multi_device_message">%1$s povezanih uređaja</string>
+  <string name="tethered_notification_multi_device_message">Povezanih uređaja: %1$s</string>
   <string name="tethered_notification_no_device_message">Nema povezanih uređaja</string>
   <string name="tethered_notification_one_device_message">%1$s povezanih uređaja</string>
   <string name="tethered_notification_title">Dijeljenje veze ili aktivan hotspot</string>
