@@ -2618,6 +2618,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP funkcija je aktivna</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
+  <string name="music_app_unavailable">Ovisno o aplikaciji za glazbu, provjerite je li dostupna</string>
   <string name="music_HiFi_title">Hi-Fi audio</string>
   <string name="music_audio_effect_optimize">Postavke zvuka</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalice i ostale postavke zvuka</string>

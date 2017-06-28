@@ -92,6 +92,7 @@
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Pruža %1$s</string>
   <string name="im">IM</string>
+  <string name="immersion_button_close_description">Zatvori</string>
   <string name="instruction">Instrukcije</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. 
@@ -161,6 +162,7 @@ idite na: %s."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_input_description">Traži</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_item">Odaberi stavke</string>
   <string name="send">Pošalji</string>

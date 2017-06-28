@@ -22,10 +22,30 @@
         <item quantity="other">Osoba: %1$s</item>
         <item quantity="one">%1$s osoba</item>
     </plurals>
+	<plurals name="to_count">
+         <item quantity="other">%d primatelja</item>
+         <item quantity="one">%d primatelj</item>
+     </plurals>
+     <plurals name="send_to_count">
+         <item quantity="other">Poslano poruka: %1$s</item>
+         <item quantity="one">Poslana %1$s poruka</item>
+     </plurals>
+     <plurals name="group_message_failed_title">
+         <item quantity="other">"Ne mogu poslati kontaktima: %d"</item>
+         <item quantity="one">"Ne mogu poslati %d kontaktu"</item>
+     </plurals>
 	<plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Izbrisati poruke: %1$s?</item>
         <item quantity="one">Izbrisati %1$s poruku?</item>
 	</plurals>
+	<plurals name="timed_message_expired_title">
+         <item quantity="other">"Vremenske poruke nisu poslane: %d"</item>
+         <item quantity="one">"%d vremenska poruka nije poslana"</item>
+     </plurals>
+     <plurals name="timed_message_in_total">
+         <item quantity="other">(%d poruka)</item>
+         <item quantity="one">(%d poruka)</item>
+     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">Poruka: %d</item>
         <item quantity="zero">Poruka: %d</item>

@@ -175,6 +175,7 @@
   <string name="expire_on">Ističe: %s</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>
   <string name="fail_to_add_attachment">"Ne mogu dodati privitak"</string>
+  <string name="fail_to_view_attachment">Privitak nije dostupan</string>
   <string name="failed_to_add_media">U svoju poruku ne možete dodati ovaj naziv: %1$s.</string>
   <string name="failed_to_resize_image">Nije promijenjena veličina slike.</string>
   <string name="fake_cell_alert_hint">Izgleda da je ova poruka poslana s broja telefona koji se razlikuje od onog prikazanog. Budite oprezni prema SMS-u koji sadrži financijske zahtjeve.</string>

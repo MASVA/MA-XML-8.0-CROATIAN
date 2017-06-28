@@ -18,7 +18,7 @@
   <string name="STRANGER_BLOCK">Lista blokiranih stranaca</string>
   <string name="Setting_lock">Postavke</string>
   <string name="Settings_title_anti_spam">Postavke liste blokiranih</string>
-  <string name="Settings_title_anti_virus">Postavke AntiVirusa</string>
+  <string name="Settings_title_anti_virus">Postavke Sigurnosnog skeniranja</string>
   <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke baterije</string>
@@ -42,7 +42,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="action_button_text_80_100">Optimiziraj</string>
   <string name="action_source_sms_title">Blokirani SMS</string>
   <string name="activity_title_antispam">AntiSpam</string>
-  <string name="activity_title_antivirus">AntiVirus</string>
+  <string name="activity_title_antivirus">Sigurnosno skeniranje</string>
   <string name="activity_title_apps_manager">Aplik.</string>
   <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
   <string name="activity_title_create_shortcut">Prečac</string>
@@ -642,14 +642,14 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustaviti sigurnosnu provjeru plaćanja?</string>
-  <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti skeniranje?</string>
+  <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
-  <string name="dialog_title_stop_virus_scan">Zaustavi skeniranje</string>
+  <string name="dialog_title_stop_virus_scan">Zaustavi sigurnosno skeniranje</string>
   <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
   <string name="dlg_add_blacklist">Blokirati ovaj broj?</string>
   <string name="dlg_add_blacklist_title">Dodaj na listu blokiranih</string>
@@ -796,6 +796,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
+  <string name="handle_title_network">WLAN sigurnost</string>
+  <string name="handle_title_pay_env">Okolina plaćanja</string>
+  <string name="handle_title_privacy">Sigurnost privatnosti</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Pomoć</string>
   <string name="hide_mode_app_background_setting_text">Aplikacije</string>
@@ -806,13 +809,13 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacije i usluge neće moći primati obavijesti."</string>
   <string name="hints_cleanning_done">Uspješno skenirano</string>
   <string name="hints_cleanning_text">Čišćenje…</string>
-  <string name="hints_handle_item_text_risk">Rizici: %d</string>
+  <string name="hints_handle_item_text_risk">Opasno</string>
   <string name="hints_handle_item_text_safe">Sigurno</string>
-  <string name="hints_handle_item_text_virus">Virusa: %d</string>
+  <string name="hints_handle_item_text_virus">Opasno</string>
   <string name="hints_input_roaming_daily_limit">Unesite ograničenje uporabe podataka</string>
   <string name="hints_install_apps_new">Nikad korišteno</string>
   <string name="hints_install_apps_today">Korišteno danas</string>
-  <string name="hints_last_virus_scan_none">Bez skeniranja</string>
+  <string name="hints_last_virus_scan_none">Nikada prije nije skenirano</string>
   <string name="hints_last_virus_scan_risk">Skenirano prije %d dana: Sumnjivo</string>
   <string name="hints_last_virus_scan_safe">Skenirano prije %d dana: Sigurno</string>
   <string name="hints_last_virus_scan_today_risk">Današnje skeniranje: Sumnjivo</string>
@@ -832,7 +835,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Rizik:</string>
+  <string name="hints_scan_danger_result">Pronađen je rizik, popravite ga sada</string>
   <string name="hints_scan_progress">Završeno: %d</string>
+  <string name="hints_scan_result_no_finish">Skeniranje nije dovršeno. Kliknite za ponovno pokretanje.</string>
   <string name="hints_scan_result_phone_safe">Sve izgleda dobro</string>
   <string name="hints_scan_result_risk">Otkriven rizik</string>
   <string name="hints_scan_result_safe">Sigurno</string>
@@ -1089,7 +1094,7 @@ podatkovnu vezu"</string>
   <string name="menu_restore">Vrati u inbox</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
-  <string name="menu_text_antivirus">AntiVirus</string>
+  <string name="menu_text_antivirus">Sigurnosno skeniranje</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
   <string name="menu_text_garbage_cleanup_danger">%s premašeno</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
@@ -1988,6 +1993,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="suffix_virus_count_bottom">ukupno</string>
   <string name="suffix_virus_count_top">rizika</string>
   <string name="suggest_app_tolock">Prijedlozi</string>
+  <string name="suggest_scan_again">Predlaže se potpuno skeniranje kako bi se osigurala sigurnost.</string>
   <string name="summary_app_lock_disable">Zaštitite svoje podatke sa Zaklj. aplikacije</string>
   <string name="summary_auto_update">MIUI će odabrati najprikladnije vrijeme za preuzimanje i instaliranje ažuriranja.</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
@@ -2391,6 +2397,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="user_define_title">Dodaj pravila</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije su ažurne</string>
+  <string name="virus_auto_update_engine">Autom. ažuriraj: %s</string>
   <string name="virus_dp_update_title">Ažuriranja definicija</string>
   <string name="virus_scan">Skeniranje virusa</string>
   <string name="virus_scan_process_pre">%</string>

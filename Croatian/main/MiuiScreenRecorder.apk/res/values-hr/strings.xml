@@ -33,6 +33,7 @@
   <string name="low_battery_title">Slaba baterija</string>
   <string name="low_battery_warning">Baterija je previše slaba. Zaustavite snimanje i spremite videozapis.</string>
   <string name="low_memory">Imate manje od 200MB dostupnog prostora. Možete snimiti do 5 minuta.</string>
+  <string name="low_memory_dior">Imate manje od 500MB dostupnog prostora. Možete snimiti do 12 minuta.</string>
   <string name="low_memory_title">Nema dovoljno prostora za pohranu</string>
   <string name="low_momery_warning">Nema dovoljno prostora za pohranu. Snimanje zaustavljeno i videozapis je spremljen.</string>
   <string name="memory_not_allowed">Nema dovoljno prostora za pohranu. Oslobodite nešto prostora da možete snimati.</string>
