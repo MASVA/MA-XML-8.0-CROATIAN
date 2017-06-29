@@ -835,7 +835,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Rizik:</string>
-  <string name="hints_scan_danger_result">Pronađen je rizik, popravite ga sada</string>
+  <string name="hints_scan_danger_result">pronađen(a) rizik(a), popravite to sada</string>
   <string name="hints_scan_progress">Završeno: %d</string>
   <string name="hints_scan_result_no_finish">Skeniranje nije dovršeno. Kliknite za ponovno pokretanje.</string>
   <string name="hints_scan_result_phone_safe">Sve izgleda dobro</string>
