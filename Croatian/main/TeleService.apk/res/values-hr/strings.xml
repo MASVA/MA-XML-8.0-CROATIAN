@@ -1310,13 +1310,13 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="rnw1_unlock_success">RUIM mreža1 otključavanje bilo je uspješno.</string>
   <string name="rnw2_unlock_failed">RUIM mreža2 zahtjev otključavanja neuspješan.</string>
   <string name="rnw2_unlock_success">RUIM mreža2 otključavanje bilo je uspješno.</string>
-  <string name="roaming">Roaming podataka</string>
+  <string name="roaming">Prekinuta veza s mobilnom podatkovnom mrežom</string>
   <string name="roaming_alert_title">Želite li dopustiti roaming podataka?</string>
   <string name="roaming_disable">Poveži se s podatkovnim uslugama u roamingu</string>
   <string name="roaming_enable">Poveži se s podatkovnim uslugama u roamingu</string>
   <string name="roaming_notification_content">Možete dodati predbroj zemlje automatski da napravite biranje poziva još prikladnijim.</string>
   <string name="roaming_notification_title">Izgleda da je roaming aktiviran</string>
-  <string name="roaming_reenable_message">Izgubili ste podatkovnu vezu jer ste izašli iz matične mreže s isključenim roamingom podataka.</string>
+  <string name="roaming_reenable_message">Pokušajte koristiti roaming da se ponovno spojite.</string>
   <string name="roaming_warning">To se može skupo naplaćivati.</string>
   <string name="rsp_unlock_failed">RUIM Zahtjev Davatelja usluga otključavanje nije uspjelo.</string>
   <string name="rsp_unlock_success">RUIM operater otključavanje bilo je uspješno.</string>

@@ -3320,11 +3320,14 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="priority_storage_settings_summary">Ako nije umetnuta SD kartica, vaši podaci će biti spremljeni na unutarnju pohranu vašeg uređaja automatski</string>
   <string name="priority_storage_summary">Odaberite gdje će se spremati vaši podaci</string>
   <string name="priority_storage_title">Postavke pohrane</string>
+  <string name="privacy_close_dlg_button_ok">Isključi</string>
+  <string name="privacy_close_dlg_msg">Kada je Zaporka zaštite privatnosti isključena, vaše stavke više neće biti zaštićene.</string>
+  <string name="privacy_close_dlg_title">Pažnja</string>
   <string name="privacy_applock">Zaklj.  aplik.</string>
   <string name="privacy_delete_space_dlg_message">Da biste promijenili zaporku Drugog prostora, trebali biste izbrisati trenutni Drugi prostor i izraditi novi.</string>
   <string name="privacy_dlg_button_cancel">Odustani</string>
-  <string name="privacy_factory_reset_dlg_button_text">Izradite Sig. kopiju podataka</string>
-  <string name="privacy_factory_reset_dlg_message">"Izradite Sig. kopiju svojih podataka lokalno, a zatim izvršite vraćanje na tvorničke postavke. Nakon toga moći ćete promijeniti zaporku."</string>
+  <string name="privacy_factory_reset_dlg_button_text">Resetiraj</string>
+  <string name="privacy_factory_reset_dlg_message">"Ako zaboravite zaporku, morati ćete izvršiti vraćanje na tvorničke postavke da biste postavili novu."</string>
   <string name="privacy_factory_reset_dlg_title">Izradite Sig. kopiju podataka</string>
   <string name="privacy_childmode">Dječji način</string>
   <string name="privacy_file">Datoteke</string>
@@ -3365,6 +3368,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="privacy_password_settings_titles_elder_mode">Zaporka zaštite privatnosti štiti vaše fotografije, datoteke, i bilješke.</string>
   <string name="privacy_password_settings_titles_second_space">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, i bilješke.</string>
   <string name="privacy_password_title">Zaporka zaštite privatnosti</string>
+  <string name="privacy_password_toggle_summary">Potrebna zaporka pri svakom pristupu privatnim stavkama.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Možete upotrijebiti i svoj otisak prsta sa zaporkom zaštite privatnosti.</string>
   <string name="privacy_password_use_finger_dialog_open">Postavke</string>

@@ -81,6 +81,7 @@
   <string name="album_videos_name">Videozapisi</string>
   <string name="alert_secret_album_enter">U redu</string>
   <string name="alert_secret_album_message">Prijeđite prstom prema dolje dok ste u kartici Albumi i dodirnite da biste vidjeli skriveni album.</string>
+  <string name="alert_secret_album_message_lower_case"> prijeđite prstom prema dolje dok ste u kartici Albumi i dodirnite da biste vidjeli skriveni album.</string>
   <string name="alert_secret_album_title">Kako vidjeti skriveni album</string>
   <string name="all_faces">Fotografije s tom osobom</string>
   <string name="all_items_synced">Svi albumi imaju izrađenu Sig. kopiju na Mi Cloudu</string>
@@ -160,6 +161,9 @@
   <string name="backup_pause_title">Izradi Sig. kopiju za %s</string>
   <string name="backup_pending">Biti će Sig. kopiran automatski</string>
   <string name="backup_stop">Zaustavi izradu</string>
+  <string name="backup_sync_dialog_confirm">Uključi</string>
+  <string name="backup_sync_dialog_tips">Uključite sinkronizaciju s Mi Cloudom kako biste promijenili postavke sigurnosnih kopija.</string>
+  <string name="backup_sync_dialog_title">Sinkronizacija je isključena</string>
   <string name="backup_sync_error_btn_text">Pokušaj ponovno</string>
   <string name="backup_sync_error_desc">"Ne mogu se povezati na Mi Cloud"</string>
   <string name="backup_sync_error_title">"Ne mogu sinkr. stavke"</string>
@@ -367,7 +371,7 @@
   <string name="exit">Izlaz</string>
   <string name="exit_share">Napusti album</string>
   <string name="exit_share_failed">"Ne mogu izaći iz %1$s"</string>
-  <string name="exit_share_in_process">Izlaz…</string>
+  <string name="exit_share_in_process">Izlaz iz albuma "%s"…</string>
   <string name="exit_share_successfully">Izašao iz %1$s</string>
   <string name="exit_video_play">Izlaz</string>
   <string name="expand_people">Prikaži više osoba</string>

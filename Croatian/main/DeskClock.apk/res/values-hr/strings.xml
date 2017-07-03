@@ -74,6 +74,7 @@
   <string name="legal_workday_invalidate_message">(Podaci istekli. Ažuriraj u Postavkama)</string>
   <string name="legal_workday_message">" (Alarm isključen tijekom praznika)"</string>
   <string name="life_post_setting">Jutarnje izvješće</string>
+  <string name="life_post_setting_FBE_remind">Zbog ograničenja sustava, informacije o vremenu u jutarnjem izvješću možda se neće prikazivati ispravno nakon ponovnog pokretanja</string>
   <string name="life_post_setting_open_subtitle">Primaj informacije o vremenu kad isključite alarme između 4:00 i 9:30</string>
   <string name="life_post_setting_open_title">Primaj jutarnja izvješća</string>
   <string name="life_post_setting_wake_up_list_title">Povijest buđenja</string>

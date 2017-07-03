@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="daily_forcast_drawer_on_top">
+         <item quantity="other">%1$s dnevna prognoza</item>
+         <item quantity="one">%1$s dnevna prognoza</item>
+     </plurals>
     <plurals name="view_realtime_clear">
        <item quantity="other">Vedro</item>
         <item quantity="one">Sunčano</item>
@@ -16,4 +20,8 @@
         <item quantity="other">prije %d dana</item>
         <item quantity="one">prije %d dan</item>
     </plurals>
+   <plurals name="feedback_result_interval_time_too_short">
+         <item quantity="other">%1$s sek. nakon povratne informacije</item>
+         <item quantity="one">%1$s sek. nakon povratne informacije</item>
+     </plurals>
 </resources>
