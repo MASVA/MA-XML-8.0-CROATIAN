@@ -423,6 +423,7 @@
   <string name="pref_other_title">Dodatne postavke</string>
   <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
   <string name="pref_show_list_avatar_summary">Prikaži fotografije i ostale informacije o kontaktima u popisnom pregledu</string>
+  <string name="pref_show_photo_word_summary">Automatski dodijeli sliku kontaktima koji je nemaju</string>
   <string name="pref_show_sms_template_entry_summary">Otkrij jednokratne zaporke u SMS-u</string>
   <string name="pref_show_sms_template_in_summary">Automatski otkrij OTP u SMS porukama</string>
   <string name="pref_show_sms_template_summary">Uključite da koristite pametne značajke Mi Poruka, poput kopiranja kodova, provjera stanja računa, itd.</string>
@@ -665,7 +666,8 @@
   <string name="title_hide_verification_code">Autom. sakrij OTP na zaklj. zaslonu</string>
   <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
-  <string name="title_show_list_avatar">Prikaži fotografije profila</string>
+  <string name="title_show_list_avatar">Prikaži sliku profila</string>
+  <string name="title_show_photo_word">Dodijeli sliku kontaktu</string>
   <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
   <string name="title_show_sms_template_in">Provjeri SMS za OTP</string>
   <string name="title_timed_message_dialog">Konfiguriraj vremensku poruku</string>
