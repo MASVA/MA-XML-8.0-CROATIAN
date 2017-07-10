@@ -52,14 +52,6 @@
         <item>256 KB</item>
         <item>1 MB</item>
     </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Isključeno</item>
-        <item>64 KB po međusprem. zapisnika</item>
-        <item>256 KB po međusprem. zapisnika</item>
-        <item>1 MB po međusprem. zapisnika</item>
-        <item>4 MB po međusprem. zapisnika</item>
-        <item>16 MB po međusprem. zapisnika</item>
-    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija isključena</item>
         <item>Brzina animacije 0,5x</item>

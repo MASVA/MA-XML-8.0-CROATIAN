@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Klasično klizanje</item>
         <item>Klasično klizanje (bez prebacivanja)</item>
         <item>Križno utišavanje</item>
         <item>Tumbanje</item>

@@ -741,13 +741,6 @@
         <item>Brzo</item>
         <item>Brže</item>
     </string-array>
-   <string-array name="select_logd_size_summaries">
-        <item>64 KB po međusprem.</item>
-        <item>256 KB po međuspr.</item>
-        <item>1 MB po međusprem.</item>
-        <item>4 MB po međusprem.</item>
-        <item>16 MB po međusprem.</item>
-    </string-array>
     <string-array name="whetstone_level_entries">
        <item>Isključeno</item>
        <item>Nisko</item>
