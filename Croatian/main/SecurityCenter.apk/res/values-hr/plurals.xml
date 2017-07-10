@@ -106,9 +106,13 @@
         <item quantity="one">"%d aplikacija ne može koristiti podatke u roamingu"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
-        <item quantity="other">Pronađeno (%d) aplikacija</item>
+        <item quantity="other">Pronađeno aplikacija: %d</item>
         <item quantity="one">Pronađena %d aplikacija</item>
     </plurals>
+	<plurals name="om_ill_proc_multi_app_title">
+         <item quantity="other">"%d aplik. ne rade ispravno i troše bateriju"</item>
+         <item quantity="one">"%d aplik. ne radi ispravno i troši bateriju"</item>
+     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dana "</item>
         <item quantity="one">"%d dan "</item>
@@ -351,16 +355,16 @@
          <item quantity="one">Blokirano %d put</item>
 	</plurals>
 	<plurals name="app_usage_day">
-         <item quantity="other">"Nije korišteno %d dana"</item>
-         <item quantity="one">"Nije korišteno %d dan"</item>
+         <item quantity="other">"Korišteno prije %d dan"</item>
+         <item quantity="one">"Korišteno prije %d dana"</item>
      </plurals>
      <plurals name="app_usage_month">
-         <item quantity="other">"Nije korišteno %d mjeseci"</item>
-         <item quantity="one">"Nije korišteno %d mjesec"</item>
+         <item quantity="other">"Korišteno prije %d mjeseci"</item>
+         <item quantity="one">"Korišteno prije %d mjesec"</item>
      </plurals>
      <plurals name="app_usage_year">
-         <item quantity="other">"Nije korišteno %d godina"</item>
-         <item quantity="one">"Nije korišteno %d godinu"</item>
+         <item quantity="other">"Korišteno prije %d godina"</item>
+         <item quantity="one">"Korišteno prije %d godinu"</item>
      </plurals>
 	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
 	    <item quantity="other">"Pričekajte %d sek. i pokušajte ponovno. "</item>

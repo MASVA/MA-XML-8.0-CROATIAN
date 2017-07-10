@@ -101,6 +101,7 @@
   <string name="block_ads_choice_continue">Nastavi</string>
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
+  <string name="bookmark">Oznaka</string>
   <string name="bookmark_add_to">Dodaj u</string>
   <string name="bookmark_btn_select_all">Odaberi sve</string>
   <string name="bookmark_btn_select_none">Poništi sve</string>
@@ -337,7 +338,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na početni zaslon</string>
   <string name="hint">Savjet</string>
-  <string name="history_saved_webpage">Spremljene stranice</string>
+  <string name="history">Povijest</string>
   <string name="home_description">Početna</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
@@ -728,6 +729,7 @@ Napustiti ovu stranicu?"</string>
   <string name="sign_in_to" formatted="false">Prijavite se u %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>
+  <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">"Ne mogu spremiti stranicu"</string>
   <string name="snapshot_successed">Stranica uspješno spremljena</string>
   <string name="ssl_bad_clock_date_settings">Postavi datum</string>

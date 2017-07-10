@@ -179,6 +179,7 @@
   <string name="reading">Način čitanja</string>
   <string name="scenario_policies_summary">Ušteda energije prema scenariju</string>
   <string name="scenario_policies_title">Scenarij pravila uštede energije</string>
+  <string name="scenario_policies_warmcontrol">Kontrola topline</string>
   <string name="screen_off">Zaslon je isključen</string>
   <string name="screen_off_10_min">Zaslon je isključen preko 10 min.</string>
   <string name="screen_on">Zaslon je uključen</string>
@@ -198,4 +199,5 @@
   <string name="vip_feedback_apply">Primjeni Vip Feedback</string>
   <string name="vip_feedback_apply_msg">Molimo kontaktirajte qiufeng@xiaomi.com da primjenite Vip Feedback</string>
   <string name="vip_feedback_enable">Omogući Vip Auto Feedback</string>
+  <string name="warm_configure">Konfiguriraj kontrolu topline</string>
 </resources>

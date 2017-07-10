@@ -773,7 +773,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="missing_name">"(Bez imena)"</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="mobile_equipment_identification">Identifikacija mobilne opreme</string>
-  <string name="more_call_logs">Pogledajte detaljnu povijest poziva na i.mi.com/micloud</string>
+  <string name="more_call_logs">Pogledajte detaljnu povijest poziva na &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">Premjesti i promjeni veličinu</string>
   <string name="multi_number_menu_call">Poziv</string>
   <string name="multi_number_menu_delete">Izbriši</string>
@@ -886,6 +886,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="openDialKeyboard">Tipke za biranje</string>
   <string name="open_contact">"Prikaži kontakt"</string>
   <string name="open_dial_pad_description">Otvori brojčanu tipkovnicu</string>
+  <string name="option_delete_batch_contacts">Izbriši seriju</string>
   <string name="option_delete_contact">"Izbriši"</string>
   <string name="option_delete_group">"Izbriši"</string>
   <string name="option_edit_contact">"Uredi"</string>

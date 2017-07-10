@@ -91,4 +91,12 @@
          <item>Odabrano</item>
          <item>Neodabrano</item>
 	 </string-array>
+	  <string-array name="thermal_entries">
+         <item>Zadani način rada topline</item>
+         <item>Način za performanse prvo</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+         <item>Trenutačni način upravljanja temperaturom, preferira se temperatura iskustva</item>
+         <item>Trenutni model izvedbe, iskustvo izvedbe je poželjno, temperature mogu porasti</item>
+     </string-array>
 </resources>

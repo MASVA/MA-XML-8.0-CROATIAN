@@ -185,6 +185,7 @@
   <string name="empty_title_residual">Nema ostataka</string>
   <string name="empty_title_video">Nema videozapisa za brisanje</string>
   <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Inicijalizacija…</string>
   <string name="engine_tm">Tencent</string>
   <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka nije pronađena</string>

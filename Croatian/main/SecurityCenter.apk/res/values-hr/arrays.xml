@@ -106,9 +106,21 @@
          <item>Dodaj u iznimke</item>
     </string-array>
 	<string-array name="sort_type">
-         <item>Poredaj po nazivu</item>
-         <item>Poredaj po veličini</item>
-    </string-array>		     
+          <item>Status</item>
+          <item>Naziv aplikacije</item>
+          <item>Učestalost korištenja</item>
+          <item>Iskorišteni prostor za pohranu</item>
+          <item>Uporaba podataka</item>
+          <item>Potrošnja baterije</item>
+      </string-array>
+      <string-array name="sort_title">
+          <item>Poredaj po statusu</item>
+          <item>Poredaj po nazivu aplikacije</item>
+          <item>Poredaj po učestalosti korištenja</item>
+          <item>Poredaj po iskor. pros. za pohranu</item>
+          <item>Poredaj po uporabi podataka</item>
+          <item>Poredaj po potrošnji baterije</item>
+    </string-array>		       	     
 	<string-array name="sms_report_type">
          <item>Uporaba podataka</item>
          <item>Stanje računa</item>
