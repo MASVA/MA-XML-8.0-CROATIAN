@@ -138,6 +138,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
   <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>
   <string name="redo">Ponovi</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Ova je bilješka prevelika za dijeljenje.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Pričekajte da se bilješka učita i pokušajte ponovno.</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapu</string>
   <string name="root_folder_name">Brza bilješka</string>
   <string name="search">Bilješke</string>

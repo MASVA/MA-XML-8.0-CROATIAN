@@ -139,6 +139,8 @@
   <string name="backup_cloud_space_low_title">Nema dovoljno Mi Cloud prostora</string>
   <string name="backup_cta_not_allow">"Ne mogu pristupiti mreži"</string>
   <string name="backup_cta_not_allow_btn_text">Dopusti</string>
+  <string name="backup_cta_not_allow_desc">Autom. napravi Sig. kopiju</string>
+  <string name="backup_cta_not_allow_title">"Ne mogu pristupiti mreži"</string>
   <string name="backup_detail_page_empty">Nema fotografija ili videozapisa za pohraniti</string>
   <string name="backup_detail_page_title">Mi Cloud Sig. kopije</string>
   <string name="backup_device_space_low_btn_text">Očisti</string>
@@ -215,6 +217,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_settings">Sig. kopije Galerije</string>
+  <string name="cloud_storage_extend">Proširi cloud prostor</string>
   <string name="cloud_storage_ok_append_desc">Dostupno %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud prostor %s</string>
   <string name="cloud_storage_ok_title">Dovoljno prostora za pohranu na Mi Cloudu</string>
@@ -443,7 +446,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
   <string name="grant_permission_go_and_set">Postavi</string>
   <string name="grant_permission_item">\"%s\"</string>
-  <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirni "Postavi" za ići u Dopuštenja."</string>
+  <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirni \"Postavi\" za ići u Dopuštenja."</string>
   <string name="grant_permission_title">Dopusti pristup</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
