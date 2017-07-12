@@ -5,6 +5,8 @@
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
   <string name="action_mode_title_empty">Odaberi</string>
+  <string name="actionbar_button_up_description">natrag</string>
+  <string name="actionbar_immersion_button_more_description">više</string>
   <string name="activate">Aktiviranje</string>
   <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju.</string>
   <string name="activating">Aktivacija…</string>
@@ -163,6 +165,7 @@ idite na: %s."</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
   <string name="search_input_description">Traži</string>
+  <string name="search_mode_button_back_description">Natrag</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_item">Odaberi stavke</string>
   <string name="send">Pošalji</string>
