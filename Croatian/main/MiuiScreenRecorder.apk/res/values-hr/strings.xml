@@ -20,6 +20,7 @@
   <string name="error_open_file_failed_no_app_found">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>
   <string name="frames">Broj slika</string>
   <string name="frames_summary">Što veći broj slika u sekundi smanjuje zamućenje</string>
+  <string name="frequently_click_toast">Pokretanje usluge, pričekajte trenutak</string>
   <string name="gleam_led_while_recording">LED treperi tijekom snimanja</string>
   <string name="hint_back">Natrag</string>
   <string name="hint_home">Početna</string>
