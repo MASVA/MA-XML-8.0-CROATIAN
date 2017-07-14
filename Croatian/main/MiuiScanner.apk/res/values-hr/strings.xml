@@ -57,6 +57,7 @@
   <string name="error_cannot_connect_camera">"Ne mogu se se povezati s Kamerom"</string>
   <string name="error_day_limit">Previše pokušaja u jednom danu</string>
   <string name="error_empty_result">"Ne mogu pronaći rezultate"</string>
+  <string name="error_get_image">Ne mogu dobiti sliku</string>
   <string name="error_hour_limit">Previše pokušaja unutar 1 sata</string>
   <string name="error_image_error">"Ne mogu prepoznati ovu fotografiju"</string>
   <string name="error_invalid_request">Pogreška autentizacije</string>
