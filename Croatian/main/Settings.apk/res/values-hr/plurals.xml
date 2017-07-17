@@ -8,6 +8,10 @@
         <item quantity="other">%s aplik. može prikazati obavijesti</item>
         <item quantity="one">1 aplik. može prikazati obavijesti</item>
     </plurals>
+	<plurals name="settings_toggle_position_divider_page">
+         <item quantity="other">Broj aktivnih prečaca iznad ove trake: %1$d</item>
+         <item quantity="one">Broj aktivnih prečaca iznad ove trake: 1</item>
+     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Još %1$d koraka i postat ćete razvojni programer.</item>
         <item quantity="one">Još %1$d korak i postat ćete razvojni programer.</item>

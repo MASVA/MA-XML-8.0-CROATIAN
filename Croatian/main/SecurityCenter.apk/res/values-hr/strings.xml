@@ -153,6 +153,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_check_reason_wifi_scan">Učestala WLAN skeniranja</string>
   <string name="app_check_sub_title_text">Optimizirajte aplikacija da biste riješili probleme baterije</string>
   <string name="app_detail">Detalji</string>
+  <string name="app_error_tip_for_launcher">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću što može rezultirati da se neke aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave. Ako naiđete na takve probleme, podijelite svoje povratne informacije s programerima aplikacije."</string>
+  <string name="app_error_tip_for_store">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću, što može rezultirati neuspjehom instalacije nekih aplikacija. Ako naiđete na takve probleme ili neke se aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave, pričekajte dok programeri aplikacije ne poprave pogreške i pokušajte ponovo instalirati aplikaciju."</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
@@ -722,8 +724,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_remove_address_whitelist">Ukloniti ovu lokaciju iz iznimaka?</string>
   <string name="dlg_remove_blacklist">Ukloniti ovaj broj s liste blokiranih?</string>
   <string name="dlg_remove_blacklist_ing">Uklanjanje…</string>
-  <string name="dlg_remove_blacklist_ok">Ukloni</string>
-  <string name="dlg_remove_whitelist_content">Ukloniti ove brojeve iz iznimaka?</string>
+  <string name="dlg_remove_blacklist_title">Ukloni</string>
+  <string name="dlg_remove_ok">Ukloni</string>
+  <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje…</string>
   <string name="dlg_remove_whitelist_title">Ukloni</string>
   <string name="dlg_retore">Vratiti SMS poruke u aplikaciju?</string>

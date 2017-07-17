@@ -34,9 +34,7 @@
   <string name="accessibility_phone_three_bars">Telefon tri stupca.</string>
   <string name="accessibility_phone_two_bars">Telefon dva stupca.</string>
   <string name="accessibility_recent">Nedavne aplikacije</string>
-  <string name="accessibility_recent_task_enter">Nedavno otvoreno, dostupno aplik. %d.</string>
   <string name="accessibility_recent_task_exit">Nedavno zatvoreno</string>
-  <string name="accessibility_recent_task_first_enter_tips">Nedavno otvoreno, dostupno aplik. %d. Povuci gore za uklanjanje, povuci dolje za zaključavanje.</string>
   <string name="accessibility_recent_task_locked">Zaključano, povuci dolje za otključavanje.</string>
   <string name="accessibility_recent_task_memory_info">Ukupan RAM: %2$s | Dostupan RAM: %1$s. Dvaput dodirnite za čišćenje.</string>
   <string name="accessibility_recent_task_unlocked">Otključano</string>
@@ -69,7 +67,6 @@
   <string name="battery_profiles">Koristi profile baterije</string>
   <string name="block_notification_content_text">"Obavijesti %1$s neće ponovno biti prikazane. To možete promijeniti u Postavkama."</string>
   <string name="block_notification_text">Sakrij</string>
-  <string name="block_record_notification_more_text">Skrivanje obavijesti od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obavijesti od %1$s</string>
   <string name="block_record_notification_title">Obavijest skrivena</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano s medijskim zvukom</string>
@@ -290,7 +287,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.</string>
   <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Upravljaj prečacima</string>
   <string name="settings_toggle_position_divider_list">Prečaci iznad ove trake su aktivni</string>
-  <string name="settings_toggle_position_divider_page">Broj aktivnih prečaca iznad ove trake: %1$d</string>
   <string name="settings_toggle_position_reset">Poništi prečace</string>
   <string name="share">Podijeli</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
