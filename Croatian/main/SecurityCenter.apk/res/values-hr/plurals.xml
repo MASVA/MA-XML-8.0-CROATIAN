@@ -268,15 +268,15 @@
 		</plurals>
 	<plurals name="result_virus_header">
          <item quantity="other">Pronađeno virusa i nesigurnih aplikacija: %d</item>
-         <item quantity="one">Pronađen je jedan virus</item>
+         <item quantity="one">Pronađen je %d virus</item>
      </plurals>
      <plurals name="result_sign_header">
          <item quantity="other">Pronađeno neslužbenih aplikacija: %d</item>
-         <item quantity="one">Pronađena jedna neslužbena aplikacija</item>
+         <item quantity="one">Pronađena %d neslužbena aplikacija</item>
      </plurals>
     <plurals name="sp_settings_exception_count">
          <item quantity="other">Stavki: %d</item>
-         <item quantity="one">1 stavka</item>
+         <item quantity="one">%d stavka</item>
     </plurals>
 	<plurals name="sp_back_title_text">
         <item quantity="other">%s rizičnih plaćanja</item>
@@ -370,4 +370,12 @@
 	    <item quantity="other">"Pričekajte %d sek. i pokušajte ponovno. "</item>
         <item quantity="one">"Pričekajte %d sek. i pokušajte ponovno. "</item>
 	 </plurals>
+	 <plurals name="install_game_count_title">
+         <item quantity="other">Dodano igara: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Nije dodano %d igara"</item>
+         <item quantity="one">"Nije dodana %d igra"</item>
+     </plurals>
 </resources>

@@ -83,13 +83,15 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
   <string name="adb_install_reject_notiy_desc">Možete dopustiti instalaciju putem USB-a u Opcije Raz. programera</string>
   <string name="adb_login_xiaomi_account">Prijavite se prvo s Mi Računom</string>
+  <string name="add_done">Uspješno dodano</string>
+  <string name="add_game">Dodaj igru</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. 
   
           Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
-  <string name="add_white_list">Dodaj</string>
+  <string name="add_whitelist">Dodaj u iznimke</string>
   <string name="address">Adresa</string>
   <string name="address_choose_hint">%1$s, %2$s, i %3$d drugih lokacija</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Ažurirano prije više od mjesec dana</string>
@@ -101,6 +103,9 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
   <string name="after_the_lock_screen">"Aplikacija se zaključava zajedno sa zaslonom, možete to promijeniti u postavkama zaključavanja aplikacija."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
+  <string name="anim_gamebooster_text">Samo trenutak…</string>
+  <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">Pojedinosti liste blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Lista neblokiranih brojeva</string>
@@ -267,6 +272,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_usage_recently">Nedavno korišteno</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WLAN</string>
+  <string name="application_item_already_permission">Dopušteno</string>
+  <string name="application_item_disable">Ograničeno</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
   <string name="applock_add_account_setting">Račun &amp; privatnost</string>
@@ -295,6 +302,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kada je baterija napunjena do %s</string>
   <string name="auto_handle_title">OPĆENITO</string>
+  <string name="auto_import_games">Stavite sve vaše igre na jedno mjesto</string>
   <string name="auto_task_condition_choose_battery_level_down">Kada baterija dosegne određenu razinu</string>
   <string name="auto_task_condition_choose_battery_level_up">Kada je baterija napunjena do određene razine</string>
   <string name="auto_task_condition_choose_end_time">Vrijeme završetka</string>
@@ -418,7 +426,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="blacklist_prefix_add_hint">Blokiraj sve brojeve koji počinju s ovim predbrojem</string>
   <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Poziva: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_done">Uspješno ubrzano</string>
   <string name="booster_immediately">Ubrzaj</string>
+  <string name="booster_suc">Uspješno ubrzano</string>
+  <string name="boostering">Brzina ubrzanja…</string>
+  <string name="boosting">Ubrzavanje…</string>
   <string name="boot_reminder">Uključivanje vašeg uređaja u planirano vrijeme</string>
   <string name="boot_time">Uključi u: %1$s</string>
   <string name="boot_time_day">Uključi u: %2$s %1$dd</string>
@@ -586,6 +598,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cpu_usage_app_uninstalled_toast">Ova je aplikacija deinstalirana</string>
   <string name="cpu_usage_process_run_time_little_time">Manje od 1 minute</string>
   <string name="cpu_usage_view_action_btn_text">Dodirni za prikaz</string>
+  <string name="create_shortcut">Izradi prečac Početnog zaslona za Ubrzavanje brzine igranja</string> 
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovno"</string>
@@ -689,6 +702,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
+  <string name="dialog_text">Izradi prečac Početnog zaslona za Ubrzavanje brzine igranja</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -738,6 +752,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dns_exception_summary">"Provjerite DNS postavke routera."</string>
   <string name="dns_exception_title">Provjera postavki DNS-a</string>
   <string name="domestic_roaming_setting">Nacionalni roaming</string>
+  <string name="dont_bore">"Ne dopustite da vas tipke i obavijesti ometaju"</string>
+  <string name="dont_bore_text">Utišaj obavijesti i isključi tipke za uklanjanje smetnji</string>
+  <string name="dont_bore_title">DND način</string>
   <string name="download">Preuzmi</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -815,16 +832,48 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="function_close">Isključi</string>
   <string name="fw_blocked">Lista blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_booster">Ubrzavanje brzine igranja</string>
+  <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
+  <string name="game_booster_title">Ubrzanje</string>
+  <string name="game_booster_total">Brzina ubrzana %1$s puta, dodano %2$s vremena igranja</string>
+  <string name="game_improve_text1">Očisti predmemoriju pozadine radi oslobađanja memorije za igranje</string>
+  <string name="game_improve_text2">Očisti predmemoriju pozadine radi oslobađanja memorije za igranje i poboljšati performanse procesora</string>
+  <string name="game_improve_title">Optimiziraj performanse</string>
+  <string name="game_more_improve">Ograničite pozadinske aktivnosti i brzinu preuzimanja da uštedite bateriju i propusnost za igranje</string>
+  <string name="game_net_text1">Ograničite brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
+  <string name="game_net_text2">Povećajte brzinu veze mrežne igre ograničavajući brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
+  <string name="game_net_title">Optimiziraj brzinu veze</string>
+  <string name="game_setting">Postavke igre</string>
+  <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
+  <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nastavi</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
+  <string name="gs_anto_clean_memory_whitelist">Iznimke</string>
+  <string name="gs_app_back_self_start">Ušteda baterije</string>
+  <string name="gs_auto_clean_memory">Očisti predmemoriju</string>
+  <string name="gs_auto_clean_memory_detail">Očisti predmemoriju automatski radi optimiziranja igara</string>
+  <string name="gs_dialog_confirm_close_msg">Prečac će biti uklonjen s Početnog zaslona. Idite u Sigurnost &gt; Postavke da ga obnovite.</string>
+  <string name="gs_dialog_confirm_close_title">Isključi</string>
+  <string name="gs_game_disturb_msg">DND</string>
+  <string name="gs_game_duration">Vrijeme</string>
+  <string name="gs_game_net_priority">Prioritet veze</string>
+  <string name="gs_game_net_priority_detail">Ograničite brzinu preuzimanja da imate dovoljno propusnosti za igranje</string>
+  <string name="gs_game_performance">Performanse</string>
+  <string name="gs_game_shortcut">Uživajte u većem doživljaju igranja</string>
+  <string name="gs_only_self_start_for_list">Ograničite pozadinske procese da uštedite bateriju za igranje</string>
+  <string name="gs_open_game_booster">Ubrzavanje brzine</string>
+  <string name="gs_performance_mode">Način za performanse</string>
+  <string name="gs_performance_mode_detail">Povećajte korištenje CPU-a kako bi osigurali glatke performanse</string>
   <string name="goto_set">Postavi</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -901,6 +950,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="history_details_title">Detalji povijesti</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
+  <string name="i_know">Shvaćam</string>
   <string name="im">IM</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="info_antispam_close">AntiSpam je isključen</string>
@@ -921,6 +971,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
+  <string name="intro_improve">Povećajte svoje iskustvo igranja na razini sustava</string>
+  <string name="intro_skip">Preskoči</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
@@ -964,6 +1016,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Iskorišteno %s kod Zaklj. zaslona</string>
@@ -1058,6 +1111,7 @@ podatkovnu vezu"</string>
   <string name="main_traffic_used_only">Iskorišteno: %s</string>
   <string name="main_traffic_used_text">iskorišteno</string>
   <string name="main_used_bill">%s CNY</string>
+  <string name="man_add_application">Dodajte ručno autom. pokret. aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>
@@ -1172,10 +1226,12 @@ podatkovnu vezu"</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Više</string>
   <string name="monitor_requests_from_pc">Upravljaj instalacijom aplikacija putem USB-a</string>
+  <string name="more_game">Više igara</string>
   <string name="month_report_month_report_switch">Prikaži mjesečne prijave</string>
   <string name="msg_update_error_code_success">Gotovo</string>
   <string name="msg_update_up">Sakrij</string>
   <string name="name">Ime</string>
+  <string name="net_delay_title">Odgodi</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
@@ -1234,6 +1290,7 @@ podatkovnu vezu"</string>
   <string name="never">Jedanput</string>
   <string name="news_change">Promjeni</string>
   <string name="nickname">Nadimak</string>
+  <string name="no_game">"Ne mogu pronaći igre”</string>
   <string name="next_step_button">Dalje</string>
   <string name="no_network">"Ne mogu se povezati s mrežom, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
@@ -1331,6 +1388,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="open_app">Otvori</string>
   <string name="open_browser">Otvori u pregledniku</string>
   <string name="open_callwait">Uključeno</string>
+  <string name="open_game">Otvori</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
   <string name="online_songs">Glazba</string>
@@ -1379,6 +1437,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="optmizingbar_title_security">Sigurnost</string>
   <string name="optmizingbar_title_system">Sigurnost sustava</string>
   <string name="organization">Organizacija</string>
+  <string name="other">Ostalo</string>
   <string name="other_exception_summary">"Nemate povezivanja s internetom"</string>
   <string name="other_exception_title">Provjera drugih problema</string>
   <string name="package_change_notification_summary">Dodirnite da saznate više.</string>
@@ -1413,6 +1472,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="path_usb_install">Aplikacije sustava/Sigurnost/Dopštenja/Instaliraj putem USB-a</string>
   <string name="pay_charge">Kupite dodatne podatke</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
+  <string name="pc_activity_title">Optimiziraj bateriju</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) instalacija putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
@@ -1451,6 +1511,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pm_root_success_notification_title">ROOT pristup dopušten</string>
   <string name="power_20s_shutdown">Uređaj će se isključiti za %d sek.</string>
   <string name="power_analysis_consume_title">Potrošnja baterije</string>
+  <string name="power_autorun_apps_empty">Nema aplik. sa autom. pokretanjem</string>
   <string name="power_analysis_suggestion_need_optimize">Otkriveni problemi pri uporabi baterije.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj potrošnju baterije</string>
@@ -1794,6 +1855,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="reject_all">Ograniči svima</string>
   <string name="reject_countdown">Odbij (%d)</string>
   <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
+  <string name="release_memory">Očisti predmemoriju</string>
   <string name="renew_ip">Pokušaj ponovno</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Samo trenutak…</string>
@@ -1875,6 +1937,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safe_result_item_info_wifi_fake">Nije lažno</string>
   <string name="safepay_alert_dialog_button_continue">Nastavi</string>
   <string name="safepay_alert_dialog_button_risk">Popravi</string>
+  <string name="save_energy_text">"Ograniči automatsko pokretanje i sinkronizaciju aplikacija u pozadini kako bi dobili najviše iz baterije uređaja"</string>
+  <string name="save_energy_title">Optimiziraj bateriju</string>
   <string name="safepay_alert_dialog_button_unknown">Provjeri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Pronađen rizik! Prekini trenutno plaćanje!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne mogu provjeriti sigurnost plaćanja. Povežite se na internet i pokušajte ponovno.&lt;/font&gt;"</string>
@@ -1884,6 +1948,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
   <string name="sc_allow_network_dialog_message">Ova aplikacija treba povezivanje na internet za normalan rad.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
+  <string name="scan_installed_games">Provjera instaliranih igara…</string>
   <string name="scan_status_risk">Rizično</string>
   <string name="scan_status_safe">Sigurno</string>
   <string name="scanning_bar_cache_title">Skeniranje otpada…</string>
@@ -1907,6 +1972,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="see_more">Više</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="set_applock_password">Postavite zaporku</string>
+  <string name="setting">Postavke</string>
   <string name="set_immediately">Postavi</string>
   <string name="seton_immediately">Uključi</string>
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
@@ -1920,6 +1986,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="settings_category_overheat">Pregrijavanje</string>
   <string name="settings_choice_no_notification">Isključeno</string>
   <string name="settings_power_save_ontime_title">Raspored</string>
+  <string name="shield_keyboard_detail">Dvaput dodirnite tipke da ih ponovno uključite</string>
+  <string name="shield_keyboard_title">Isključi tipke</string>
   <string name="settings_title_payment_security">Postavke Sigurnosti plaćanja</string>
   <string name="settings_title_permission">Postavke Dopuštenja</string>
   <string name="share">Podijeli</string>
@@ -2117,8 +2185,10 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_title_show_antispam_notification">Obavijesti liste blokiranih</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Iznimke</string>
+  <string name="start">Start</string>
   <string name="start_diagnostic_botton">Start</string>
   <string name="start_downloading_app">Započinje preuzimanje: %1$s</string>
+  <string name="start_game">Start</string>
   <string name="start_install">Instaliraj sada</string>
   <string name="start_tc_button">Kalibriraj</string>
   <string name="stop_app_button">Zaustavi</string>
@@ -2169,6 +2239,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="summary_virus_cloudscan">Pošaljite i skenirajte nazive i detalje aplikacija koristeći online definicije virusa</string>
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilnih podataka u roamingu.</string>
+  <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_app_prot_cracked_confirm">Shvaćam</string>
   <string name="sys_app_prot_cracked_login">Prijavite se s Mi Računom</string>
   <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
@@ -2178,6 +2249,10 @@ Pobrinite se da znate odakle ovaj uređaj dolazi, i obratite se ovlaštenom Xiao
   
 Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
   <string name="sys_app_prot_cracked_title">Sigurnosni rizik</string>
+  <string name="sys_cpu_title">Upotreba CPU-a</string>
+  <string name="sys_freememory_title">Dostupno</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_check_content">Rizika %1$d</string>
@@ -2366,6 +2441,9 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="toast_shortcut_install">Prečac stavljen na Početni zaslon</string>
   <string name="toast_shortcut_uninstall">Prečac uklonjen</string>
   <string name="toast_show_notification">Prikvačeno u panel obavijesti</string>
+  <string name="top_game">Najbolje igre</string>
+  <string name="top_load_fail_detail">Ne mogu učitati, dodirni za ponovni pokušaj</string>
+  <string name="top_no_network_detial">Ne mogu učitati, provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="toast_virus_cloudscan">Skeniranje virusa će koristiti online definicije</string>
   <string name="toast_virus_in_cloud_scanning">"Ne mogu zaustaviti cloud skeniranje"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mjesečni plan promijenjen u %s.</string>
@@ -2492,6 +2570,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_open">Uključeno</string>
   <string name="traffic_setting_step_num">Postavke uporabe</string>
   <string name="traffic_warning_purchase_title">Upozorenje uporabe podataka</string>
+  <string name="try_game">Isprobaj</string>
   <string name="try_recommended_function">Zaštitite svoj uređaj koristeći nove značajke Sigurnosti</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="unable_connect_internet">"Ne mogu se povezati na mrežu"</string>
@@ -2543,6 +2622,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>
   <string name="warning_open_mi_sim">Uključi Mi SIM</string>
   <string name="white_list_risk_app_header">Opasne aplik.: %d</string>
+  <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>
+  <string name="wlan_change_protection_title">Spriječi promjenu mreža</string>
   <string name="website">Web stranica</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj sve brojeve s predbrojem u iznimke</string>

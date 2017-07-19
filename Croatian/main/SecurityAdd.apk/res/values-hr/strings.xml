@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_done">Uspješno dodoano</string>
+  <string name="add_done">Uspješno dodano</string>
   <string name="add_game">Dodaj igru</string>
   <string name="add_whitelist">Dodaj u iznimke</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
@@ -117,15 +117,15 @@
   <string name="shield_keyboard_title">Isključi tipke</string>
   <string name="start">Start</string>
   <string name="start_game">Start</string>
-  <string name="support_game_booster_tips">Pokrenite igre koristeći Game speed booster</string>
+  <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_cpu_title">Upotreba CPU-a</string>
   <string name="sys_freememory_title">Dostupno</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Podijeli poveznicu</string>
-  <string name="top_load_fail_detail">Ne mogu učitati, pokušajte ponovno</string>
-  <string name="top_no_network_detial">Ne mogu učitati, pokušajte ponovno</string>
-  <string name="try_game">Pokušaj</string>
+  <string name="top_load_fail_detail">Ne mogu učitati, dodirni za ponovni pokušaj</string>
+  <string name="top_no_network_detial">Ne mogu učitati, provjerite mrežnu vezu i pokušajte ponovno</string>
+  <string name="try_game">Isprobaj</string>
   <string name="uninstall_game_count">"Nije dodano %d igara"</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>
   <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>

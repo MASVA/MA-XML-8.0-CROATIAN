@@ -72,6 +72,7 @@
   <string name="cancel_operation">Otkaži radnju</string>
   <string name="cancel_success">Uspješno otkriveno, sve datoteke premještene u %s</string>
   <string name="cancelled_by_user">Radnja otkazana</string>
+  <string name="cannot_send">"Ne mogu slati datoteke s vanjske pohrane"</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Sve</string>
   <string name="category_apk">Aplikacije</string>
@@ -124,6 +125,7 @@
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="click_to_switch_volume">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
   <string name="click_to_switch_volume_pad">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
+  <string name="clock_in">Provjera…</string>
   <string name="clockin_failed">"Ne mogu se prijaviti, pokušajte ponovno"</string>
   <string name="clockin_success">Uspješno prijavljen</string>
   <string name="clockin_use">Osvojite nagradu</string>
@@ -148,6 +150,7 @@
   <string name="connect_network_setting_des">Pitaj za povezivanje s internetom</string>
   <string name="connecting">Povezivanje…</string>
   <string name="connection_error">"Ne mogu se povezati"</string>
+  <string name="connection_lost">Nije povezano</string>
   <string name="contain_sensitive_words">Uklonite neprimjerene riječi i pokušajte ponovno</string>
   <string name="copied">Kopirano</string>
   <string name="copy_failed">"Ne mogu kopirati"</string>
@@ -169,13 +172,14 @@
   <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovno"</string>
   <string name="data_consumption_confirm">U redu</string>
   <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem WLAN-a za normalan rad.</string>
-  <string name="data_consumption_message1">Uređaj bi trebao biti povezan na internet za pregled popularnih naljepnica i videozapisa.</string>
+  <string name="data_consumption_message1">Videozapisi i Naljepnice trebaju povezivanje s internetom putem WLAN-a za normalan rad.</string>
   <string name="data_consumption_title">Povezivanje s internetom</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
+  <string name="decompress_corrupt">"Ne mogu raspakirati datoteke. Paket je oštećen."</string>
   <string name="decompress_destination_error">"Ne mogu raspakirati datoteke na ovom mjestu."</string>
   <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka nije podržana.</string>
-  <string name="decompress_fail">"Ne mogu raspakirati datoteke. Prostor za pohranu je pun ili je došlo do nepoznate pogreške."</string>
+  <string name="decompress_fail">"Ne mogu raspakirati datoteke."</string>
   <string name="decompress_input_password">Unesite zaporku</string>
   <string name="decompress_password_error">Pogrešna zaporka. Pokušajte ponovo…</string>
   <string name="decompress_success">Raspakiranje završeno</string>
@@ -242,11 +246,17 @@
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_contains_sharer_path">"Ne mogu dešifrirati datoteke u mapi /MIUI/Gallery/cloud/sharer. Premjestite datoteke na drugo mjesto i pokušajte ponovno."</string>
+  <string name="error_create_dir">"Ne mogu napraviti mapu"</string>
+  <string name="error_create_file">"Ne mogu napraviti datoteku"</string>
+  <string name="error_delete_failed">"Ne mogu izbrisati datoteku"</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
+  <string name="error_folder_already_exists">Ova datoteka već postoji</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
+  <string name="error_invalid_path">Netočna putanja</string>
+  <string name="error_not_support">Nije podržano</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija za izvršenje ove radnje.</string>
   <string name="expand_all">Sve</string>
-  <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte prvo datoteku na unutarnju pohranu."</string>
+  <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte datoteku na unutarnju pohranu."</string>
   <string name="extract">Raspakiraj</string>
   <string name="fail_to_create_folder">Nedovoljno prostora ili mapa već postoji.</string>
   <string name="fail_to_create_folder_unknown">"Ne mogu napraviti mapu"</string>
@@ -309,7 +319,7 @@
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
   <string name="homepage_tab_category">Kategorije</string>
-  <string name="homepage_tab_file_view">Pohrana</string>
+  <string name="homepage_tab_file_view_phone">Pohrana</string>
   <string name="homepage_tab_recent">Nedavno</string>
   <string name="hot_app">Popularne aplik.</string>
   <string name="hot_comments">Aktualno</string>
@@ -325,7 +335,8 @@
   <string name="install_fail">"Ne mogu instalirati"</string>
   <string name="installing">Instaliranje…</string>
   <string name="instruction">Unesite adresu u FTP klijent: </string>
-  <string name="instruction_pre">Dodirni za pokretanje FTP poslužitelja</string>
+  <string name="instruction_pre_pad">Dodirni za pokretanje FTP poslužitelja</string>
+  <string name="instruction_pre_phone">Dodirni za pokretanje FTP poslužitelja</string>
   <string name="interest_recommend">Preporučeni videozapisi</string>
   <string name="is_playing">Reprodukcija…</string>
   <string name="join_activity">Sudjeluj</string>
@@ -374,7 +385,7 @@
   <string name="login_account_bind_wb">Weibo račun</string>
   <string name="login_account_bind_wx">Upotrijebi WeChat</string>
   <string name="login_account_bind_xm">Upotrijebi Mi Račun</string>
-  <string name="login_expired">Sesija je istekla, prijavite se ponovno</string>
+  <string name="login_expired">Prijava je istekla, pokušajte se ponovno prijaviti.</string>
   <string name="login_failed_tip">"Ne mogu se prijaviti, pokušajte ponovno kasnije"</string>
   <string name="login_reg_content">Pohranite datoteke i sinkronizirajte ih na više uređaja.</string>
   <string name="login_reg_content0">Koristite KuaiPan iz bilo kojeg mjesta.</string>
@@ -452,6 +463,8 @@
   <string name="move_to">Premjesti u…</string>
   <string name="msg_notify_setting">Postavke obavijesti</string>
   <string name="msg_set_password">Postavite prvo zaporku</string>
+  <string name="mtp_device">Prijenos datoteka (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="my_follows">Moj feed</string>
   <string name="need_login">Prijavite se prvo</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
@@ -483,7 +496,7 @@
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Morate unijeti naziv.</string>
-  <string name="need_read_storage_permission">"Aplikaciji Datoteke potrebno je dopuštenje za pristup unutarnjoj pohrani uređaja za rad kao što je predviđeno."</string>
+  <string name="need_read_storage_permission">"Aplikaciji Datoteke trebaju dopuštenje za pristup pohrani uređaja da radi kao što je predviđeno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
   <string name="networkView_notConnected">"Ne mogu se povezati na mrežu"</string>
   <string name="network_connect_confirm_des">Aplikacija Datoteke treba povezivanje s internetom za normalan rad</string>
@@ -621,6 +634,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="other_user_no_follow_tip">"Još nikoga ne pratite."</string>
   <string name="other_user_no_liked_video_tip">Nema videozapisa koji mi se sviđaju.</string>
   <string name="overwrite_msg">\"%s\" već postoji. Dodirnite da biste je zamijenili novom datotekom.</string>
+  <string name="pad">Unutarnja pohrana</string>
   <string name="other_user_topic_tab">Teme</string>
   <string name="other_user_video_tab">Videozapisi</string>
   <string name="pan_settting">KuaiPan postavke</string>
@@ -631,7 +645,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="path_hot_sticker">Popularne naljepnice</string>
   <string name="path_hot_video">Pregledajte popularne kratke videozapise besplatno</string>
   <string name="path_kuai_chuan">Peer-to-peer prijenos datoteka</string>
-  <string name="path_recent_file">Upravljanje datotekama na uređaju</string>
+  <string name="path_recent_file">Upravljaj datotekama na uređaju</string>
+  <string name="permission_denial">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama."</string>
+  <string name="permission_required">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama.​"</string>
   <string name="partial_repair_done">Neke datoteke uspješno obnovljene</string>
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
@@ -831,7 +847,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="share_link_failed">"Ne mogu izraditi poveznicu."</string>
   <string name="share_now">Podijeli</string>
   <string name="share_title_1">Pronađen cool paket naljepnica!</string>
-  <string name="share_to">Podijeli sa…</string>
+  <string name="share_to">Dijeli putem…</string>
   <string name="share_topic_desc">Učitajte videozapise da dobijete nagrade</string>
   <string name="share_topic_title">"Gledam #%1$s#, pogledajte!"</string>
   <string name="share_youliao1">Nadogradite da biste pogledali više epizoda.</string>
@@ -954,6 +970,7 @@ oslobodili prostor.</string>
   <string name="unbind_account">Izbrisati %s?</string>
   <string name="unbind_fail">"Ne mogu izbrisati"</string>
   <string name="unbind_success">Uspješno izbrisano</string>
+  <string name="unknown_error">Dogodila se nepoznata pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="unlock_pattern_msg">Zaporka zaštite privatnosti funkcionira i za aplikacije, fotografije, bilješke i skrivene mape.</string>
   <string name="unlock_pattern_title">Nova zaporka</string>
   <string name="unlogin">Prijavite se prvo</string>
