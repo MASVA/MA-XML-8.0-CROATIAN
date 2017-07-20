@@ -462,6 +462,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_radio_infor">Radio informacije o terminalu</string>
   <string name="cit_tool_radio_infor_voiceNetworkTech">Radio informacije o terminalu</string>
   <string name="cit_tool_rf_ant">Alati RF/Antene</string>
+  <string name="cit_tool_switch_autosms">Omogući/Onemogući AutoSMSReg</string>
   <string name="cit_tool_wifi">Alati testiranje WLAN-a</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>

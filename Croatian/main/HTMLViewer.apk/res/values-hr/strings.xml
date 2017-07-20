@@ -13,6 +13,7 @@ idite na %s"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>
   <string name="policy_name">Pravilo:%s</string>
+  <string name="pre_installed_apps">Predinstalirane aplikacije</string>
   <string name="settings_ad_loading">Samo trenutak…</string>
   <string name="settings_ad_loading_unavailable">"Ne nogu učitati."</string>
   <string name="settings_license_activity_loading">Samo trenutak…</string>

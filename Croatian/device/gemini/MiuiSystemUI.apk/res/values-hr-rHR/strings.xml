@@ -77,7 +77,7 @@
    <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>   
    <string name="allow_mock_location">Dopusti probne lokacije</string>
    <string name="allow_mock_location_summary">Dopusti probne lokacije</string>   
-	 <string name="always_use_accessory">"Koristi se kao zadana postavka za ovaj USB dodatak"</string>
+   <string name="always_use_accessory">"Koristi se kao zadana postavka za ovaj USB dodatak"</string>
    <string name="always_use_device">"Koristi se kao zadana postavka za ovaj USB uređaj"</string>
    <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
    <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>

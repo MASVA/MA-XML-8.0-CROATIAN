@@ -56,4 +56,12 @@
          <item quantity="other">%d unosa liste blokiranja</item>
          <item quantity="one">%d unos liste blokiranja</item>
     </plurals>
+	<plurals name="micloud_main_resume_sync_hour">
+         <item quantity="other">Nastavi sinkr. nakon sati: %d</item>
+         <item quantity="one">Nastavi sinkr. nakon %d sata</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+         <item quantity="other">Nastavi sinkr. nakon %d min.</item>
+         <item quantity="one">Nastavi sinkr. nakon %d min.</item>
+     </plurals>
 </resources>
